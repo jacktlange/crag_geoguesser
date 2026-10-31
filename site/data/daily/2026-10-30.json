@@ -1,51 +1,40 @@
 {
  "date": "2026-10-30",
  "number": 1,
- "generated": "2026-10-31T02:57:06+00:00",
+ "generated": "2026-10-31T03:09:19+00:00",
  "photos": [
   {
-   "id": "106240956",
-   "photoUrl": "https://www.mountainproject.com/photo/106240956/flex-following-pitch-3",
-   "imageUrl": "https://mountainproject.com/assets/photos/climb/106240956_medium_1494090846.jpg?cache=1761979834",
-   "title": "Flex following pitch 3",
-   "breadcrumb": "California > High Sierra > 14 Whitney Surrounding Peaks > Mt Russell > Star Trekkin' ( 5.10 6b 20 VII- 19 E2 5b )",
-   "coordArea": "Mt Russell",
+   "id": "111976872",
+   "photoUrl": "https://www.mountainproject.com/photo/111976872/susan-pulling-the-crux",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/111976872_medium_1494314465.jpg?cache=1741715181",
+   "title": "Susan pulling the crux.",
+   "breadcrumb": "Colorado > Rifle > Rifle Mtn Park > Ruckman Cave > Choss Family Robinson ( 5.11d 7a 24 VIII 25 E5 6a )",
+   "coordArea": "Ruckman Cave",
    "approx": false,
-   "lat": 36.58999,
-   "lng": -118.29099
+   "lat": 39.72098,
+   "lng": -107.69019
   },
   {
-   "id": "106146003",
-   "photoUrl": "https://www.mountainproject.com/photo/106146003/the-catch-snl-april-08-photo-by-darin-limvere",
-   "imageUrl": "https://mountainproject.com/assets/photos/climb/106146003_medium_1559058892.jpg?cache=1785351765",
-   "title": "The Catch.  SNL, April 08.  Photo by Darin Limvere.",
-   "breadcrumb": "California > Joshua Tree NP > Joshua Tree Bouldering > Hidden Valley Area Bouldering > Real Hidden Valley Bouldering > Real Hidden Valley Circuit > Saturday Night Live Boulder > Saturday Night Live ( V4 6B )",
-   "coordArea": "Saturday Night Live Boulder",
+   "id": "106705275",
+   "photoUrl": "https://www.mountainproject.com/photo/106705275/the-tent-did-not-survive-this-fall-storm",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/106705275_medium_1494133750.jpg?cache=1762184829",
+   "title": "The tent did not survive this fall storm",
+   "breadcrumb": "Utah > Southeast Utah > Indian Creek",
+   "coordArea": "Indian Creek",
    "approx": false,
-   "lat": 34.01167,
-   "lng": -116.16855
+   "lat": 38.02574,
+   "lng": -109.53987
   },
   {
-   "id": "124175166",
-   "photoUrl": "https://www.mountainproject.com/photo/124175166/photo-from-1910-1920-image-is-in-the-public-domain",
-   "imageUrl": "https://mountainproject.com/assets/photos/climb/124175166_medium_1683649868.jpg?cache=1786089321",
-   "title": "Photo from 1910-1920, image is in the public domain",
-   "breadcrumb": "W Virginia > The New River Gorge Region > New River Gorge Proper > Bridge Area > 7 The Pinnacle",
-   "coordArea": "7 The Pinnacle",
+   "id": "110927888",
+   "photoUrl": "https://www.mountainproject.com/photo/110927888/erin-in-send-mode-on-this-nice-problem",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/110927888_medium_1494358626.jpg?cache=1787868412",
+   "title": "Erin in send mode on this nice problem.",
+   "breadcrumb": "Colorado > Alpine Rock > RMNP - Rock > Rmnp Bouldering Areas > Chaos Canyon Bouldering > Lower Chaos Canyon > The Potato Chip Boulder > Potato Chip ( V7 7A+ )",
+   "coordArea": "The Potato Chip Boulder",
    "approx": false,
-   "lat": 38.08015,
-   "lng": -81.08012
-  },
-  {
-   "id": "106134692",
-   "photoUrl": "https://www.mountainproject.com/photo/106134692/mack-johnson-following-the-first-pitch-on-the-second-ascent-may-1980",
-   "imageUrl": "https://mountainproject.com/assets/photos/climb/106134692_medium_1558653047.jpg?cache=1790688766",
-   "title": "Mack Johnson following the first pitch on the second ascent. May, 1980.",
-   "breadcrumb": "Colorado > S Platte > Big Rock Candy Mountain > Rotten Teeth (5.10)",
-   "coordArea": "Big Rock Candy Mountain",
-   "approx": false,
-   "lat": 39.1314,
-   "lng": -105.32229
+   "lat": 40.30493,
+   "lng": -105.65957
   },
   {
    "id": "114563343",
@@ -57,6 +46,17 @@
    "approx": false,
    "lat": 37.87846,
    "lng": -119.39356
+  },
+  {
+   "id": "111826259",
+   "photoUrl": "https://www.mountainproject.com/photo/111826259/dry-lightning-approaching-the-potentially-heart-breaking-couch-time-maneuver-pho",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/111826259_medium_1494306381.jpg?cache=1750180895",
+   "title": "Dry Lightning, approaching the potentially heart breaking \"Couch Time\" maneuver. Photo by Randy Baum.",
+   "breadcrumb": "Wisconsin > Northwest > Willow River SP > Dry Lightning ( 5.13c 8a+ 30 X- 31 E7 7a )",
+   "coordArea": "Willow River SP",
+   "approx": false,
+   "lat": 45.0196,
+   "lng": -92.67417
   }
  ]
 }

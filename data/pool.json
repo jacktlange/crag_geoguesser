@@ -45,6 +45,46 @@
    "lat": 38.08015,
    "lng": -81.08012,
    "name": null
+  },
+  "https://www.mountainproject.com/area/105716763/indian-creek": {
+   "lat": 38.02574,
+   "lng": -109.53987,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/105805895/stawamus-chief": {
+   "lat": 49.6867,
+   "lng": -123.13487,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/106501338/the-potato-chip-boulder": {
+   "lat": 40.30493,
+   "lng": -105.65957,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/105795588/willow-river-state-park": {
+   "lat": 45.0196,
+   "lng": -92.67417,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/105745453/ruckman-cave": {
+   "lat": 39.72098,
+   "lng": -107.69019,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/105806394/grand-wall-area": {
+   "lat": 49.68218,
+   "lng": -123.14797,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/105745364/the-slab": {
+   "lat": 39.9629,
+   "lng": -105.287,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/105792154/snow-creek-wall": {
+   "lat": 47.52963,
+   "lng": -120.71869,
+   "name": null
   }
  },
  "rejected": {
@@ -75,9 +115,7 @@
    "lat": 39.1314,
    "lng": -105.32229,
    "addedOn": "2026-10-29",
-   "usedOn": [
-    "2026-10-30"
-   ]
+   "usedOn": []
   },
   {
    "id": "106146003",
@@ -90,9 +128,7 @@
    "lat": 34.01167,
    "lng": -116.16855,
    "addedOn": "2026-10-30",
-   "usedOn": [
-    "2026-10-30"
-   ]
+   "usedOn": []
   },
   {
    "id": "106240956",
@@ -105,9 +141,7 @@
    "lat": 36.58999,
    "lng": -118.29099,
    "addedOn": "2026-10-30",
-   "usedOn": [
-    "2026-10-30"
-   ]
+   "usedOn": []
   },
   {
    "id": "112164649",
@@ -174,9 +208,119 @@
    "lat": 38.08015,
    "lng": -81.08012,
    "addedOn": "2026-10-30",
+   "usedOn": []
+  },
+  {
+   "id": "106705275",
+   "photoUrl": "https://www.mountainproject.com/photo/106705275/the-tent-did-not-survive-this-fall-storm",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/106705275_medium_1494133750.jpg?cache=1762184829",
+   "title": "The tent did not survive this fall storm",
+   "breadcrumb": "Utah > Southeast Utah > Indian Creek",
+   "coordArea": "Indian Creek",
+   "approx": false,
+   "lat": 38.02574,
+   "lng": -109.53987,
+   "addedOn": "2026-10-30",
    "usedOn": [
     "2026-10-30"
    ]
+  },
+  {
+   "id": "109961846",
+   "photoUrl": "https://www.mountainproject.com/photo/109961846/camping-with-darryl-hatton-78",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/109961846_medium_1494366380.jpg?cache=1780508219",
+   "title": "Camping with Darryl Hatton '78",
+   "breadcrumb": "International > N America > Canada > British Columbia > Squamish > Stawamus Chief",
+   "coordArea": "Stawamus Chief",
+   "approx": false,
+   "lat": 49.6867,
+   "lng": -123.13487,
+   "addedOn": "2026-10-30",
+   "usedOn": []
+  },
+  {
+   "id": "110927888",
+   "photoUrl": "https://www.mountainproject.com/photo/110927888/erin-in-send-mode-on-this-nice-problem",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/110927888_medium_1494358626.jpg?cache=1787868412",
+   "title": "Erin in send mode on this nice problem.",
+   "breadcrumb": "Colorado > Alpine Rock > RMNP - Rock > Rmnp Bouldering Areas > Chaos Canyon Bouldering > Lower Chaos Canyon > The Potato Chip Boulder > Potato Chip ( V7 7A+ )",
+   "coordArea": "The Potato Chip Boulder",
+   "approx": false,
+   "lat": 40.30493,
+   "lng": -105.65957,
+   "addedOn": "2026-10-30",
+   "usedOn": [
+    "2026-10-30"
+   ]
+  },
+  {
+   "id": "111826259",
+   "photoUrl": "https://www.mountainproject.com/photo/111826259/dry-lightning-approaching-the-potentially-heart-breaking-couch-time-maneuver-pho",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/111826259_medium_1494306381.jpg?cache=1750180895",
+   "title": "Dry Lightning, approaching the potentially heart breaking \"Couch Time\" maneuver. Photo by Randy Baum.",
+   "breadcrumb": "Wisconsin > Northwest > Willow River SP > Dry Lightning ( 5.13c 8a+ 30 X- 31 E7 7a )",
+   "coordArea": "Willow River SP",
+   "approx": false,
+   "lat": 45.0196,
+   "lng": -92.67417,
+   "addedOn": "2026-10-30",
+   "usedOn": [
+    "2026-10-30"
+   ]
+  },
+  {
+   "id": "111976872",
+   "photoUrl": "https://www.mountainproject.com/photo/111976872/susan-pulling-the-crux",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/111976872_medium_1494314465.jpg?cache=1741715181",
+   "title": "Susan pulling the crux.",
+   "breadcrumb": "Colorado > Rifle > Rifle Mtn Park > Ruckman Cave > Choss Family Robinson ( 5.11d 7a 24 VIII 25 E5 6a )",
+   "coordArea": "Ruckman Cave",
+   "approx": false,
+   "lat": 39.72098,
+   "lng": -107.69019,
+   "addedOn": "2026-10-30",
+   "usedOn": [
+    "2026-10-30"
+   ]
+  },
+  {
+   "id": "116073422",
+   "photoUrl": "https://www.mountainproject.com/photo/116073422/the-late-alexander-kenan-following-pitch-2",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/116073422_medium_1541642630.jpg?cache=1790379135",
+   "title": "The late Alexander Kenan following pitch 2.",
+   "breadcrumb": "International > N America > Canada > British Columbia > Squamish > Stawamus Chief > Grand Wall Area > University Wall ( 5.12- 7a+ 25 VIII+ 25 E5 6a C2)",
+   "coordArea": "Grand Wall Area",
+   "approx": false,
+   "lat": 49.68218,
+   "lng": -123.14797,
+   "addedOn": "2026-10-30",
+   "usedOn": []
+  },
+  {
+   "id": "117826073",
+   "photoUrl": "https://www.mountainproject.com/photo/117826073/beyond-this-follow-a-narrow-arete-past-a-troublesome-tree-and-make-a-scary-step-",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/117826073_medium_1570126019.jpg?cache=1762897083",
+   "title": "Beyond this, follow a narrow arete past a troublesome tree, and make a scary step down while hanging off great holds on the crest. <br>  <br> - From the original description.",
+   "breadcrumb": "Colorado > Boulder > Flatirons > South > Slab > Diagonal ( 5.2 3 8 II 8 D 2c R)",
+   "coordArea": "Slab",
+   "approx": false,
+   "lat": 39.9629,
+   "lng": -105.287,
+   "addedOn": "2026-10-30",
+   "usedOn": []
+  },
+  {
+   "id": "125086519",
+   "photoUrl": "https://www.mountainproject.com/photo/125086519/topping-out-on-the-direct-p7-dihedral-finish-flow-up-the-power-endurance-boulder",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/125086519_medium_1696819275.jpg?cache=1786080704",
+   "title": "Topping out on the direct P7 dihedral finish. Flow up the power endurance boulder using heel hooks, and sick chicken nugget holds at 800'. If you blow the mantle don't miss the crash pad. <br> Photo by: Sage Nightingale",
+   "breadcrumb": "Washington > Central East Cascades Wenatchee Leavenworth > Leavenworth > Icicle Creek > Snow Creek Area > Snow Creek Wall > Nebula (lite) \"Nebulite\" ( 5.12a 7a+ 25 VIII+ 25 E5 6a )",
+   "coordArea": "Snow Creek Wall",
+   "approx": false,
+   "lat": 47.52963,
+   "lng": -120.71869,
+   "addedOn": "2026-10-30",
+   "usedOn": []
   }
  ]
 }
