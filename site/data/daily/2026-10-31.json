@@ -1,0 +1,62 @@
+{
+ "date": "2026-10-31",
+ "number": 2,
+ "generated": "2026-10-31T15:19:16+00:00",
+ "photos": [
+  {
+   "id": "112164649",
+   "photoUrl": "https://www.mountainproject.com/photo/112164649/pitch-3",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/112164649_medium_1494324687.jpg?cache=1725802910",
+   "title": "Pitch 3",
+   "breadcrumb": "New Hampshire > Whitehorse Ledge > 07. The Slabs > Cormier-Magness Route ( 5.6 4c 14 V 12 S 4b )",
+   "coordArea": "07. The Slabs",
+   "approx": false,
+   "lat": 44.055,
+   "lng": -71.16605
+  },
+  {
+   "id": "112222681",
+   "photoUrl": "https://www.mountainproject.com/photo/112222681/emmett-exits-the-chimney-section-on-pitch-3",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/112222681_medium_1494327446.jpg?cache=1793122272",
+   "title": "Emmett exits the chimney section on pitch 3!",
+   "breadcrumb": "New York > Adirondacks > Wilmington Region > Moss Cliff > Hard Times ( 5.9+ 5c 17 VI 17 E1 5a )",
+   "coordArea": "Moss Cliff",
+   "approx": false,
+   "lat": 44.34048,
+   "lng": -73.89977
+  },
+  {
+   "id": "106146003",
+   "photoUrl": "https://www.mountainproject.com/photo/106146003/the-catch-snl-april-08-photo-by-darin-limvere",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/106146003_medium_1559058892.jpg?cache=1785351765",
+   "title": "The Catch.  SNL, April 08.  Photo by Darin Limvere.",
+   "breadcrumb": "California > Joshua Tree NP > Joshua Tree Bouldering > Hidden Valley Area Bouldering > Real Hidden Valley Bouldering > Real Hidden Valley Circuit > Saturday Night Live Boulder > Saturday Night Live ( V4 6B )",
+   "coordArea": "Saturday Night Live Boulder",
+   "approx": false,
+   "lat": 34.01167,
+   "lng": -116.16855
+  },
+  {
+   "id": "117051574",
+   "photoUrl": "https://www.mountainproject.com/photo/117051574/lost-in-space",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/117051574_medium_1559332423.jpg?cache=1788977088",
+   "title": "Lost in Space",
+   "breadcrumb": "N Carolina > Northern Mountains Region > Linville Gorge > Hawksbill Mtn > Main Wall > Lost in Space ( 5.10b 6a+ 19 VII- 19 E2 5b )",
+   "coordArea": "Main Wall",
+   "approx": false,
+   "lat": 35.91381,
+   "lng": -81.88637
+  },
+  {
+   "id": "113630387",
+   "photoUrl": "https://www.mountainproject.com/photo/113630387/the-east-ledges-from-the-north-ridge-route-in-red-ledges-in-yellow",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/113630387_medium_1506370411_topo.jpg?cache=1787111181",
+   "title": "The East Ledges from the North Ridge. Route in Red, Ledges in Yellow",
+   "breadcrumb": "Washington > Northwest Region > Hwy 20 And North Cascades National Park > N Cascades > Cascade River Drainage Eldorado Forbidden Johannesburg Sahale Torment Etc > Boston Basin Peaks Forbidden Johannesburg Etc > Forbidden Peak > E Ridge Direct ( 5.8- 5b 16 VI- 14 VS 4c )",
+   "coordArea": "Forbidden Peak",
+   "approx": false,
+   "lat": 48.51169,
+   "lng": -121.05894
+  }
+ ]
+}
