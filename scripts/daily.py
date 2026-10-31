@@ -6,8 +6,8 @@ Build today's Crag Guesser set.
      put in data/extra_photos.txt) and adds new, usable photos to data/pool.json.
   2. Picks today's photos from the pool, least-used first, shuffled with a
      date-based seed so a re-run gives the same set.
-  3. Writes site/data/daily/<date>.json, site/data/today.json and
-     site/data/index.json for the game page.
+  3. Writes site/data/daily/<date>.json, site/data/today.json,
+     site/data/index.json and site/data/practice.json for the game page.
 
 If Mountain Project can't be reached, it still builds today's set from the
 photos already in the pool.
@@ -76,28 +76,60 @@ def warn(msg):
 
 
 # ---------------------------------------------------------------------------
-def grow_pool(pool, today, excluded):
-    """Add new usable photos from the slideshow and extra_photos.txt."""
-    urls, failed = [], False
-    try:
-        urls += mp.slideshow_photo_urls()
-        print(f"Slideshow: {len(urls)} photos on the homepage.")
-        if not urls:
-            warn("No slideshow photos found on the homepage. Mountain Project's layout may have changed.")
-    except urllib.error.URLError as e:
-        failed = True
-        warn(f"Could not read the Mountain Project homepage ({e}). Using the existing pool.")
+def load_excluded():
+    return {m.group(1) for line in read_lines(EXCLUDE_PATH) if (m := re.search(r"(\d{6,})", line))}
+
+
+def collect_urls(sources, types):
+    """Photo links from the chosen sources: slideshow, popular, newest, random."""
+    slide, featured, failed = [], [], False
+    if "slideshow" in sources:
+        try:
+            slide = mp.slideshow_photo_urls()
+            print(f"Slideshow: {len(slide)} photos on the homepage.")
+            if not slide:
+                warn("No slideshow photos found on the homepage. Mountain Project's layout may have changed.")
+        except urllib.error.URLError as e:
+            failed = True
+            warn(f"Could not read the Mountain Project homepage ({e}).")
+    for src in sources:
+        if src in mp.FEATURED_SORTS:
+            for t in types:
+                try:
+                    found = mp.featured_photo_urls(src, t)
+                    print(f"Featured photos ({src}, {t}): {len(found)} listed.")
+                    featured += found
+                except urllib.error.URLError as e:
+                    failed = True
+                    warn(f"Could not read the featured photos list ({src}, {t}): {e}")
+    extra = []
     for line in read_lines(EXTRA_PATH):
         m = re.search(r"https?://\S*?/photo/\d+\S*|/photo/\d+\S*", line)
         if m:
-            urls.append(mp.absolute(m.group(0)))
+            extra.append(mp.absolute(m.group(0)))
+    random.shuffle(featured)    # so a per-run cap doesn't always take the same ones
+    seen, urls = set(), []
+    for u in slide + extra + featured:
+        pid = mp.photo_id(u)
+        if pid and pid not in seen:
+            seen.add(pid)
+            urls.append(u)
+    return urls, failed
 
+
+def grow_pool(pool, today, excluded, sources=("slideshow",), max_new=None, types=("Action",)):
+    """Add new usable photos to the pool. Returns (number added, any source failed)."""
+    urls, failed = collect_urls(sources, types)
     known = {p["id"] for p in pool["photos"]}
-    added = 0
+    fails = pool.setdefault("failures", {})
+    added = attempts = 0
     for url in urls:
+        if max_new is not None and (added >= max_new or attempts >= max_new * 3):
+            break
         pid = mp.photo_id(url)
-        if not pid or pid in known or pid in pool["rejected"] or pid in excluded:
+        if pid in known or pid in pool["rejected"] or pid in excluded:
             continue
+        attempts += 1
         try:
             entry, reason = mp.process_photo(url, pool["areas"])
         except urllib.error.URLError as e:
@@ -106,15 +138,23 @@ def grow_pool(pool, today, excluded):
         if entry:
             pool["photos"].append({**entry, "addedOn": today, "usedOn": []})
             known.add(pid)
+            fails.pop(pid, None)
             added += 1
             print(f"  + {entry['title'][:60]} [{entry['coordArea']}]")
         elif reason.startswith("filtered"):
             pool["rejected"][pid] = reason
             print(f"  - {pid}: {reason}")
         else:
-            warn(f"Photo {pid} left out for now: {reason}")
+            n = fails.get(pid, 0) + 1          # layout trouble or an album photo with no area
+            if n >= 3:
+                pool["rejected"][pid] = "gave up after 3 tries: " + reason
+                fails.pop(pid, None)
+                print(f"  - {pid}: gave up ({reason})")
+            else:
+                fails[pid] = n
+                print(f"  ? {pid}: {reason} (try {n} of 3)")
     print(f"Pool: {len(pool['photos'])} photos ({added} new, {len(pool['rejected'])} filtered out).")
-    return failed
+    return added, failed
 
 
 def pick(pool, count, date_str, excluded):
@@ -150,6 +190,10 @@ def main():
     ap.add_argument("--at-hour", type=int, help="only run when it is this hour (0-23) in --tz")
     ap.add_argument("--force", action="store_true", help="rebuild the day's set if it already exists")
     ap.add_argument("--no-scrape", action="store_true", help="don't contact Mountain Project")
+    ap.add_argument("--sources", default="slideshow",
+                    help="comma list from: slideshow, popular, newest, random (default: slideshow)")
+    ap.add_argument("--practice-pool", choices=["used", "all"], default="used",
+                    help="photos 'Play again' draws from: past puzzles only, or the whole pool")
     args = ap.parse_args()
 
     now = datetime.datetime.now(ZoneInfo(args.tz))
@@ -166,14 +210,14 @@ def main():
         return 0
 
     pool = load_json(POOL_PATH, {"version": 1, "areas": {}, "rejected": {}, "photos": []})
-    excluded = {m.group(1) for line in read_lines(EXCLUDE_PATH) if (m := re.search(r"(\d{6,})", line))}
+    excluded = load_excluded()
 
     if args.force:  # forget that this date used any photos, so the re-pick starts clean
         for p in pool["photos"]:
             p["usedOn"] = [d for d in p["usedOn"] if d != today]
 
     if not args.no_scrape:
-        grow_pool(pool, today, excluded)
+        grow_pool(pool, today, excluded, sources=[x.strip() for x in args.sources.split(",") if x.strip()])
 
     chosen = pick(pool, args.count, today, excluded)
     if not chosen:
@@ -202,6 +246,13 @@ def main():
     save_json(daily_path, daily)
     save_json(os.path.join(SITE_DATA, "today.json"), daily)
     save_json(os.path.join(SITE_DATA, "index.json"), {"dates": sorted(dates, reverse=True)})
+
+    # "Play again" draws from here. By default only photos already shown in a daily
+    # puzzle, so practicing never gives away an upcoming puzzle.
+    practice = [public(p) for p in sorted(pool["photos"], key=lambda p: p["id"])
+                if p["id"] not in excluded and (args.practice_pool == "all" or p["usedOn"])]
+    save_json(os.path.join(SITE_DATA, "practice.json"),
+              {"generated": daily["generated"], "source": args.practice_pool, "photos": practice})
 
     print(f"Built #{daily['number']} for {today} with {len(chosen)} photo(s):")
     for p in chosen:

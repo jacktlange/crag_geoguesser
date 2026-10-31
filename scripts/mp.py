@@ -9,6 +9,7 @@ between requests, MP_INSECURE=1 to skip certificate checks (last resort).
 """
 import html
 import os
+import random
 import re
 import ssl
 import time
@@ -134,6 +135,38 @@ def slideshow_photo_urls():
         if m.group(2) not in seen:
             seen.add(m.group(2))
             urls.append(absolute(m.group(1)))
+    return urls
+
+
+FEATURED_URL = BASE + "/featured-photos"
+FEATURED_SORTS = {"popular": "Popular", "newest": "Newest", "random": "Random"}
+
+
+def _photo_links(page):
+    seen, urls = set(), []
+    for m in re.finditer(r'href="((?:https://www\.mountainproject\.com)?/photo/(\d+)/[^"#?]*)"', page):
+        if m.group(2) not in seen:
+            seen.add(m.group(2))
+            urls.append(absolute(m.group(1)))
+    return urls
+
+
+def featured_photo_urls(sort="popular", photo_type="Action", max_page=10, rng=random):
+    """Photo links from Mountain Project's 'featured photos' listing.
+
+    sort: popular, newest, or random. photo_type: Action (action and scenic
+    photos, which leaves out the Beta type that holds topos and overlays) or
+    Historical. For 'popular' a random page among the first `max_page` is used,
+    so repeated runs reach different photos."""
+    base = f"{FEATURED_URL}?sort={FEATURED_SORTS[sort]}&locationId=0&type={photo_type}"
+    first = get(base)
+    urls = _photo_links(first)
+    if sort == "popular":
+        m = re.search(r"\b1\s+of\s+(\d+)\b", strip_tags(first))
+        total = int(m.group(1)) if m else 1
+        page = rng.randint(1, max(1, min(total, max_page)))
+        if page > 1:
+            urls = _photo_links(get(f"{base}&page={page}"))
     return urls
 
 

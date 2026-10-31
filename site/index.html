@@ -37,6 +37,7 @@
     }
   }
   * { box-sizing: border-box; }
+  [hidden] { display: none !important; }
   html, body { height: 100%; margin: 0; }
   body {
     background: var(--paper);
@@ -84,6 +85,20 @@
     background: #0e1214;
   }
   #photo { max-width: 100%; max-height: 100%; object-fit: contain; display: block; }
+  .flag-btn {
+    position: absolute; top: 10px; right: 10px;
+    background: rgba(14, 18, 20, .78); color: #e9eeea;
+    border-color: rgba(255,255,255,.25);
+    font-size: 13px; padding: 5px 10px;
+  }
+  .flag-btn:hover { background: rgba(14, 18, 20, .95); }
+  #flagConfirm {
+    position: absolute; inset: auto 12px 12px 12px;
+    background: rgba(14, 18, 20, .92); color: #e9eeea;
+    padding: 10px 12px; border-radius: var(--radius); font-size: 14px;
+    display: flex; flex-wrap: wrap; align-items: center; gap: 8px;
+  }
+  #flagConfirm span { flex: 1 1 100%; }
   #photoMsg {
     position: absolute;
     inset: auto 12px 12px 12px;
@@ -153,6 +168,15 @@
     background: var(--paper); border: 1px solid var(--line); border-radius: var(--radius);
     padding: 12px 14px; margin: 14px 0 10px;
   }
+  .post { margin: 18px 0 4px; padding-top: 14px; border-top: 1px solid var(--line); }
+  .post label { display: block; font-weight: 600; margin-bottom: 6px; }
+  .postrow { display: flex; flex-wrap: wrap; gap: 8px; }
+  .postrow input {
+    flex: 1 1 160px; min-width: 0;
+    font: 500 16px var(--body); padding: 9px 12px;
+    border: 1px solid var(--line); border-radius: var(--radius);
+    background: var(--paper); color: var(--ink);
+  }
   .status { margin: 10px 0 0; min-height: 1.4em; color: var(--muted); font-size: 14px; }
   .center-msg { max-width: 520px; margin: 8vh auto; padding: 0 18px; flex: 1; }
   .center-msg h2 { font: 700 30px/1.1 var(--head); margin: 0 0 8px; }
@@ -186,6 +210,12 @@
   <div class="left" id="left">
     <div class="photo-wrap">
       <img id="photo" alt="A climbing photo. Guess where it was taken." referrerpolicy="no-referrer">
+      <button class="flag-btn" id="flagBtn" type="button" hidden>This is not a climbing photo</button>
+      <div id="flagConfirm" hidden>
+        <span id="flagText"></span>
+        <button class="primary" id="flagYes" type="button">Skip it</button>
+        <button id="flagNo" type="button">Keep playing</button>
+      </div>
       <div id="photoMsg">Loading today's photos&hellip;</div>
     </div>
     <div class="result" id="result" hidden></div>
@@ -196,9 +226,10 @@
     <div class="guessbar"><button class="primary" id="guessBtn" disabled>Lock in guess</button></div>
   </div>
 </main>
-<div class="source" id="source">Photos from <a href="https://www.mountainproject.com" target="_blank" rel="noopener">Mountain Project</a> and belong to their contributors. <span id="past"></span></div>
+<div class="source" id="source">Photos from <a href="https://www.mountainproject.com" target="_blank" rel="noopener">Mountain Project</a> and belong to their contributors. <span id="past"></span> <span id="hiddenNote"></span></div>
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.js"></script>
+<script src="config.js"></script>
 <script>
 const SCALE_KM = 1500;   // score = 5000 * exp(-distance / 1500 km)
 const $ = id => document.getElementById(id);
@@ -218,6 +249,14 @@ function fmtDist(km) {
 }
 function esc(s) {
   return String(s ?? "").replace(/[&<>"']/g, c => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]));
+}
+function shuffle(arr) {
+  const a = arr.slice();
+  for (let i = a.length - 1; i > 0; i--) {
+    const j = Math.floor(Math.random() * (i + 1));
+    [a[i], a[j]] = [a[j], a[i]];
+  }
+  return a;
 }
 function square(r) {
   if (r.skipped) return "\u2B1B";
@@ -240,25 +279,70 @@ function loadState(key) {
 function saveState(key, val) {
   try { localStorage.setItem(key, JSON.stringify(val)); } catch (e) {}
 }
+/* Photos a player marked "not a climbing photo". Kept in this browser only. */
+function loadHidden() {
+  try { return new Set(JSON.parse(localStorage.getItem("cg:hidden") || "[]")); } catch (e) { return new Set(); }
+}
+function saveHidden(set) {
+  try { localStorage.setItem("cg:hidden", JSON.stringify([...set])); } catch (e) {}
+}
+const hidden = loadHidden();
+function renderHiddenNote() {
+  if (!hidden.size) { $("hiddenNote").innerHTML = ""; return; }
+  $("hiddenNote").innerHTML = `${hidden.size} photo${hidden.size === 1 ? "" : "s"} hidden. <a href="#" id="resetHidden">Show them again</a>`;
+  $("resetHidden").onclick = e => {
+    e.preventDefault();
+    try { localStorage.removeItem("cg:hidden"); } catch (err) {}
+    location.reload();
+  };
+}
+renderHiddenNote();
 function fail(html) {
   $("game").outerHTML = `<div class="center-msg">${html}</div>`;
 }
 
 /* ---------- load the day's photos ---------- */
-const wanted = new URLSearchParams(location.search).get("date");
+const params = new URLSearchParams(location.search);
+const wanted = params.get("date");
+const practiceMode = params.get("practice") === "1";
 const dataUrl = wanted && /^\d{4}-\d{2}-\d{2}$/.test(wanted) ? `data/daily/${wanted}.json` : "data/today.json";
+const getJson = url => fetch(url, { cache: "no-store" }).then(r => { if (!r.ok) throw new Error(r.status); return r.json(); });
 
-fetch(dataUrl, { cache: "no-store" })
-  .then(r => { if (!r.ok) throw new Error(r.status); return r.json(); })
-  .then(daily => {
-    if (!daily.photos || !daily.photos.length) throw new Error("empty");
-    init(daily);
-  })
-  .catch(err => { console.error(err); fail(`
-    <h2>No photos yet</h2>
-    <p>${wanted ? "There's no puzzle for that date." : "Today's set hasn't been published yet."}
-    If you just set this up, run the <b>Daily Crag Guesser</b> workflow once from your repository's Actions tab.</p>
-    ${wanted ? `<p><a href="${esc(location.pathname)}">Go to the latest puzzle</a></p>` : ""}`); });
+if (practiceMode) {
+  /* Play again: a fresh random set from past puzzles. Nothing is saved or posted. */
+  Promise.all([getJson("data/practice.json"), getJson("data/today.json").catch(() => null)])
+    .then(([pool, today]) => {
+      const all = (pool && pool.photos) || [];
+      if (!all.length) throw new Error("empty");
+      const list = shuffle(all.filter(p => !hidden.has(p.id)));
+      if (!list.length) {
+        fail(`
+          <h2>No practice photos left</h2>
+          <p>You've hidden every photo that practice rounds can use. Use "Show them again" at the bottom of the page to bring them back.</p>
+          <p><a href="${esc(location.pathname)}">Back to the daily puzzle</a></p>`);
+        return;
+      }
+      const inToday = new Set(today && today.photos ? today.photos.map(p => p.id) : []);
+      // Prefer photos that weren't in today's puzzle.
+      const ordered = list.filter(p => !inToday.has(p.id)).concat(list.filter(p => inToday.has(p.id)));
+      init({ practice: true, date: "practice", number: null, photos: ordered.slice(0, 5), spare: ordered.slice(5) });
+    })
+    .catch(err => { console.error(err); fail(`
+      <h2>No practice photos yet</h2>
+      <p>Practice rounds use photos from past puzzles, and there aren't any published yet.</p>
+      <p><a href="${esc(location.pathname)}">Back to today's puzzle</a></p>`); });
+} else {
+  getJson(dataUrl)
+    .then(daily => {
+      if (!daily.photos || !daily.photos.length) throw new Error("empty");
+      init(daily);
+    })
+    .catch(err => { console.error(err); fail(`
+      <h2>No photos yet</h2>
+      <p>${wanted ? "There's no puzzle for that date." : "Today's set hasn't been published yet."}
+      If you just set this up, run the <b>Daily Crag Guesser</b> workflow once from your repository's Actions tab.</p>
+      ${wanted ? `<p><a href="${esc(location.pathname)}">Go to the latest puzzle</a></p>` : ""}`); });
+}
 
 fetch("data/index.json", { cache: "no-store" })
   .then(r => r.ok ? r.json() : null)
@@ -274,14 +358,25 @@ fetch("data/index.json", { cache: "no-store" })
 /* ---------- the game ---------- */
 function init(daily) {
   const photos = daily.photos;
-  const KEY = "cg:" + daily.date;
+  const practice = !!daily.practice;
+  const KEY = practice ? null : "cg:" + daily.date;     // practice rounds are never saved
   const sig = photos.map(p => p.id).join(",");
-  let saved = loadState(KEY);
+  let saved = KEY ? loadState(KEY) : null;
   if (!saved || saved.sig !== sig) saved = { sig, results: [] };   // set was rebuilt: start fresh
   const results = saved.results;
-  const persist = () => saveState(KEY, { sig, results });
+  let posted = !!saved.posted;
+  const persist = () => { if (KEY) saveState(KEY, { sig, results, posted }); };
 
-  $("puzzle").textContent = `#${daily.number} \u00B7 ${fmtDate(daily.date)}`;
+  function skipHidden() {
+    if (practice) return;
+    while (results.length < photos.length && hidden.has(photos[results.length].id)) {
+      results.push({ id: photos[results.length].id, skipped: true, km: null, pts: 0 });
+    }
+    persist();
+  }
+  skipHidden();
+
+  $("puzzle").textContent = practice ? "Practice" : `#${daily.number} \u00B7 ${fmtDate(daily.date)}`;
   $("roundTotal").textContent = photos.length;
 
   if (results.length >= photos.length) return showSummary();
@@ -323,6 +418,8 @@ function init(daily) {
     $("result").hidden = true;
     $("left").classList.remove("answered");
     $("hint").hidden = false;
+    $("flagBtn").hidden = false;
+    $("flagConfirm").hidden = true;
     $("guessBtn").hidden = false;
     $("guessBtn").disabled = true;
     const img = $("photo"), msg = $("photoMsg");
@@ -338,7 +435,8 @@ function init(daily) {
   }
 
   function advance() {
-    idx++;
+    skipHidden();
+    idx = results.length;
     if (idx >= photos.length) { map.remove(); showSummary(); } else loadRound();
   }
 
@@ -378,10 +476,36 @@ function init(daily) {
     $("result").hidden = false;
     $("left").classList.add("answered");
     $("hint").hidden = true;
+    $("flagBtn").hidden = true;
+    $("flagConfirm").hidden = true;
     $("guessBtn").hidden = true;
     $("nextBtn").onclick = advance;
     $("nextBtn").focus();
   }
+
+  /* "This is not a climbing photo": skip it and never show it to this player again. */
+  function flagCurrent() {
+    if (answered) return;
+    hidden.add(photos[idx].id);
+    saveHidden(hidden);
+    renderHiddenNote();
+    if (practice) {
+      // Practice rounds just swap in another photo.
+      let next;
+      while ((next = (daily.spare || []).shift()) && hidden.has(next.id)) { /* skip hidden spares */ }
+      if (next) photos.splice(idx, 1, next); else photos.splice(idx, 1);
+      $("roundTotal").textContent = photos.length;
+      if (idx >= photos.length) { map.remove(); showSummary(); } else loadRound();
+    } else {
+      skipRound();    // the daily set is shared, so this round scores 0 for this player
+    }
+  }
+  $("flagText").textContent = practice
+    ? "Skip this photo and hide it from your games?"
+    : "Skip this photo and hide it from your games? It scores 0 for you today.";
+  $("flagBtn").addEventListener("click", () => { if (!answered) { $("flagConfirm").hidden = false; $("flagYes").focus(); } });
+  $("flagNo").addEventListener("click", () => { $("flagConfirm").hidden = true; $("flagBtn").focus(); });
+  $("flagYes").addEventListener("click", flagCurrent);
 
   $("guessBtn").addEventListener("click", lockIn);
   loadRound();
@@ -396,16 +520,44 @@ function init(daily) {
       return `<li><a href="${esc(p.photoUrl)}" target="_blank" rel="noopener">${esc(p.title || "Photo")}</a>
               (${esc(p.coordArea || "")}): ${how}, ${r.pts.toLocaleString()} pts</li>`;
     }).join("");
+    if (practice) {
+      $("game").outerHTML = `
+        <div class="summary"><div class="summary-inner">
+          <h2>${total.toLocaleString()} / ${max.toLocaleString()}</h2>
+          <p>Practice round. It doesn't count toward the daily puzzle.</p>
+          <ol>${rows}</ol>
+          <div class="actions">
+            <button class="primary" id="againBtn">Play again</button>
+            <a class="btn" href="${esc(location.pathname)}">Back to the daily puzzle</a>
+          </div>
+        </div></div>`;
+      $("againBtn").onclick = () => location.reload();
+      $("roundNo").textContent = photos.length;
+      $("score").textContent = total.toLocaleString();
+      return;
+    }
     const text = shareText(daily, results);
+    const submitUrl = (window.CG_CONFIG && window.CG_CONFIG.submitUrl) || "";
     $("game").outerHTML = `
       <div class="summary"><div class="summary-inner">
         <h2>${total.toLocaleString()} / ${max.toLocaleString()}</h2>
         <p>Your result for #${daily.number}. Copy it and paste it in the channel to compare.</p>
         <div class="share" id="shareText">${esc(text)}</div>
-        <button class="primary" id="copyBtn">Copy result</button>
+        <div class="actions">
+          <button class="primary" id="copyBtn">Copy result</button>
+          <a class="btn" id="againLink" href="?practice=1">Play again</a>
+        </div>
         <p class="status" id="copyStatus" aria-live="polite"></p>
+        ${submitUrl ? `<div class="post">
+          <label for="nameInput">Post your result to the channel</label>
+          <div class="postrow">
+            <input id="nameInput" type="text" maxlength="32" placeholder="Your name" autocomplete="nickname">
+            <button class="primary" id="postBtn">Post to Discord</button>
+          </div>
+          <p class="status" id="postStatus" aria-live="polite"></p>
+        </div>` : ""}
         <ol>${rows}</ol>
-        <p>Come back for the next round.</p>
+        <p>Play again gives you a practice round with photos from past puzzles. It won't change today's score. Come back tomorrow for the next puzzle.</p>
       </div></div>`;
     $("copyBtn").onclick = async () => {
       let ok = false;
@@ -416,6 +568,40 @@ function init(daily) {
       }
       $("copyStatus").textContent = ok ? "Copied." : "Select the text above and copy it.";
     };
+    if (submitUrl) {
+      const nameInput = $("nameInput"), postBtn = $("postBtn"), status = $("postStatus");
+      nameInput.value = loadState("cg:name") || "";
+      if (posted) { postBtn.disabled = true; postBtn.textContent = "Posted"; nameInput.disabled = true; status.textContent = "Your result is in the channel."; }
+      postBtn.onclick = async () => {
+        const name = nameInput.value.trim();
+        if (!name) { status.textContent = "Enter a name first."; nameInput.focus(); return; }
+        saveState("cg:name", name);
+        postBtn.disabled = true;
+        status.textContent = "Posting\u2026";
+        try {
+          const r = await fetch(submitUrl, {
+            method: "POST",
+            headers: { "Content-Type": "application/json" },
+            body: JSON.stringify({
+              name, date: daily.date, number: daily.number,
+              results: results.map(x => ({ pts: x.pts, skipped: !!x.skipped, km: x.skipped ? null : Math.round(x.km * 10) / 10 })),
+            }),
+          });
+          const data = await r.json().catch(() => ({}));
+          if (r.ok) {
+            posted = true; persist();
+            postBtn.textContent = "Posted"; nameInput.disabled = true;
+            status.textContent = "Posted to the channel.";
+          } else {
+            postBtn.disabled = false;
+            status.textContent = data.error || `Couldn't post (error ${r.status}). You can still copy your result.`;
+          }
+        } catch (e) {
+          postBtn.disabled = false;
+          status.textContent = "Couldn't reach the server. You can still copy your result.";
+        }
+      };
+    }
     $("roundNo").textContent = photos.length;
     $("score").textContent = total.toLocaleString();
   }

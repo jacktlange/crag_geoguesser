@@ -1,0 +1,17 @@
+# Optional: only needed if you deploy with the Wrangler command line tool.
+# (The Cloudflare dashboard route in the README needs no file.)
+name = "crag-guesser"
+main = "index.js"
+compatibility_date = "2024-11-01"
+
+[vars]
+ALLOWED_ORIGIN = "https://YOURNAME.github.io"
+
+# Optional: one post per name per day, and a per-connection daily cap.
+# Create it with:  npx wrangler kv namespace create POSTS
+# then paste the id it prints here and remove the leading # characters.
+# [[kv_namespaces]]
+# binding = "POSTS"
+# id = "PASTE_ID_HERE"
+
+# Set the secret with:  npx wrangler secret put DISCORD_WEBHOOK_URL

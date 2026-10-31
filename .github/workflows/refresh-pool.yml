@@ -1,0 +1,42 @@
+name: Refresh photo pool
+
+on:
+  schedule:
+    # Every 6 hours (at minute 23). The homepage slideshow rotates, so
+    # sampling it regularly picks up photos you'd otherwise miss.
+    - cron: "23 */6 * * *"
+  workflow_dispatch:
+    inputs:
+      max_new:
+        description: "Most photos to add in this run"
+        type: string
+        default: "12"
+
+permissions:
+  contents: write
+
+# Same group as the daily workflow, so the two never edit the pool at once.
+concurrency:
+  group: crag-guesser
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Look for fresh photos
+        run: python3 scripts/refresh_pool.py --max-new "${{ inputs.max_new || '12' }}"
+
+      - name: Save the pool
+        run: |
+          git config user.name "crag-guesser-bot"
+          git config user.email "crag-guesser-bot@users.noreply.github.com"
+          git add data/pool.json
+          git diff --cached --quiet || git commit -m "Refresh photo pool"
+          git push
