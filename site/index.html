@@ -297,6 +297,17 @@ function renderHiddenNote() {
   };
 }
 renderHiddenNote();
+/* Practice photos this player has already seen, oldest first, so Play again rotates through them. */
+function loadSeen() {
+  try { return JSON.parse(localStorage.getItem("cg:practiceSeen") || "[]"); } catch (e) { return []; }
+}
+function markSeen(id) {
+  try {
+    const seen = loadSeen().filter(x => x !== id);
+    seen.push(id);
+    localStorage.setItem("cg:practiceSeen", JSON.stringify(seen.slice(-400)));
+  } catch (e) {}
+}
 function fail(html) {
   $("game").outerHTML = `<div class="center-msg">${html}</div>`;
 }
@@ -323,8 +334,11 @@ if (practiceMode) {
         return;
       }
       const inToday = new Set(today && today.photos ? today.photos.map(p => p.id) : []);
-      // Prefer photos that weren't in today's puzzle.
-      const ordered = list.filter(p => !inToday.has(p.id)).concat(list.filter(p => inToday.has(p.id)));
+      // Photos never practiced come first (random order), then the ones seen longest ago.
+      // Photos from today's puzzle go last, since you've just played them.
+      const seen = loadSeen();
+      const rank = p => (inToday.has(p.id) ? 1e9 : seen.indexOf(p.id));
+      const ordered = list.slice().sort((a, b) => rank(a) - rank(b));
       init({ practice: true, date: "practice", number: null, photos: ordered.slice(0, 5), spare: ordered.slice(5) });
     })
     .catch(err => { console.error(err); fail(`
@@ -409,6 +423,7 @@ function init(daily) {
 
   function loadRound() {
     const p = photos[idx];
+    if (practice) markSeen(p.id);
     answered = false; guess = null;
     [guessMarker, truthMarker, line].forEach(l => l && map.removeLayer(l));
     guessMarker = truthMarker = line = null;

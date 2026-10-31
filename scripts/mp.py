@@ -151,23 +151,18 @@ def _photo_links(page):
     return urls
 
 
-def featured_photo_urls(sort="popular", photo_type="Action", max_page=10, rng=random):
-    """Photo links from Mountain Project's 'featured photos' listing.
+def featured_page(sort, photo_type="Action", page=1):
+    """One page of Mountain Project's 'featured photos' list.
 
     sort: popular, newest, or random. photo_type: Action (action and scenic
     photos, which leaves out the Beta type that holds topos and overlays) or
-    Historical. For 'popular' a random page among the first `max_page` is used,
-    so repeated runs reach different photos."""
-    base = f"{FEATURED_URL}?sort={FEATURED_SORTS[sort]}&locationId=0&type={photo_type}"
-    first = get(base)
-    urls = _photo_links(first)
-    if sort == "popular":
-        m = re.search(r"\b1\s+of\s+(\d+)\b", strip_tags(first))
-        total = int(m.group(1)) if m else 1
-        page = rng.randint(1, max(1, min(total, max_page)))
-        if page > 1:
-            urls = _photo_links(get(f"{base}&page={page}"))
-    return urls
+    Historical. Returns (photo links on the page, total number of pages)."""
+    url = f"{FEATURED_URL}?sort={FEATURED_SORTS[sort]}&locationId=0&type={photo_type}"
+    if page > 1:
+        url += f"&page={page}"
+    page_html = get(url)
+    m = re.search(r"\b\d+\s+of\s+(\d+)\b", strip_tags(page_html))   # pagination reads "1 of 14"
+    return _photo_links(page_html), int(m.group(1)) if m else 1
 
 
 def parse_photo_page(url):

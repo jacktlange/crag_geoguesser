@@ -19,6 +19,7 @@ Examples
 """
 import argparse
 import datetime
+import hashlib
 import json
 import os
 import random
@@ -80,8 +81,39 @@ def load_excluded():
     return {m.group(1) for line in read_lines(EXCLUDE_PATH) if (m := re.search(r"(\d{6,})", line))}
 
 
-def collect_urls(sources, types):
+POPULAR_PAGES = 20   # how far down the Popular list to look (about 40 photos a page)
+
+
+def crawl_featured(sort, photo_type, is_new, target, max_requests=8):
+    """Read pages of one featured list until it has `target` photos we haven't seen,
+    or the list runs dry, or `max_requests` pages have been read."""
+    found, new_ids, tried, dry, total = [], set(), set(), 0, None
+    for _ in range(max_requests):
+        if sort == "newest":
+            page = len(tried) + 1
+            if total and page > total:
+                break
+        elif sort == "popular":
+            choices = [n for n in range(1, min(total or POPULAR_PAGES, POPULAR_PAGES) + 1) if n not in tried]
+            if not choices:
+                break
+            page = random.choice(choices)
+        else:
+            page = 1                      # the Random list is reshuffled on every request
+        tried.add(page)
+        urls, total = mp.featured_page(sort, photo_type, page)
+        fresh = {mp.photo_id(u) for u in urls if is_new(u)} - new_ids
+        new_ids |= fresh
+        found += urls
+        dry = 0 if fresh else dry + 1
+        if len(new_ids) >= target or dry >= 2:
+            break
+    return found, len(tried)
+
+
+def collect_urls(sources, types, is_new=None, want=None):
     """Photo links from the chosen sources: slideshow, popular, newest, random."""
+    is_new = is_new or (lambda u: True)
     slide, featured, failed = [], [], False
     if "slideshow" in sources:
         try:
@@ -92,16 +124,17 @@ def collect_urls(sources, types):
         except urllib.error.URLError as e:
             failed = True
             warn(f"Could not read the Mountain Project homepage ({e}).")
-    for src in sources:
-        if src in mp.FEATURED_SORTS:
-            for t in types:
-                try:
-                    found = mp.featured_photo_urls(src, t)
-                    print(f"Featured photos ({src}, {t}): {len(found)} listed.")
-                    featured += found
-                except urllib.error.URLError as e:
-                    failed = True
-                    warn(f"Could not read the featured photos list ({src}, {t}): {e}")
+    lists = [(src, t) for src in sources if src in mp.FEATURED_SORTS for t in types]
+    # Aim a bit high: some candidates get filtered out or can't be read.
+    per_list = max(10, -(-int((want or 10) * 1.3) // len(lists))) if lists else 0
+    for src, t in lists:
+        try:
+            found, pages = crawl_featured(src, t, is_new, per_list)
+            print(f"Featured photos ({src}, {t}): {len(found)} listed on {pages} page(s).")
+            featured += found
+        except urllib.error.URLError as e:
+            failed = True
+            warn(f"Could not read the featured photos list ({src}, {t}): {e}")
     extra = []
     for line in read_lines(EXTRA_PATH):
         m = re.search(r"https?://\S*?/photo/\d+\S*|/photo/\d+\S*", line)
@@ -117,17 +150,28 @@ def collect_urls(sources, types):
     return urls, failed
 
 
-def grow_pool(pool, today, excluded, sources=("slideshow",), max_new=None, types=("Action",)):
+def grow_pool(pool, today, excluded, sources=("slideshow",), max_new=None, types=("Action",), max_pool=None):
     """Add new usable photos to the pool. Returns (number added, any source failed)."""
-    urls, failed = collect_urls(sources, types)
+    if max_pool and len(pool["photos"]) >= max_pool:
+        print(f"The pool already has {len(pool['photos'])} photos (limit {max_pool}); not adding more.")
+        return 0, False
     known = {p["id"] for p in pool["photos"]}
+
+    def is_new(url):
+        pid = mp.photo_id(url)
+        return bool(pid) and pid not in known and pid not in pool["rejected"] and pid not in excluded
+
+    urls, failed = collect_urls(sources, types, is_new, max_new)
     fails = pool.setdefault("failures", {})
     added = attempts = 0
     for url in urls:
         if max_new is not None and (added >= max_new or attempts >= max_new * 3):
             break
+        if max_pool and len(pool["photos"]) >= max_pool:
+            print(f"Reached the pool limit of {max_pool} photos.")
+            break
         pid = mp.photo_id(url)
-        if pid in known or pid in pool["rejected"] or pid in excluded:
+        if not is_new(url):
             continue
         attempts += 1
         try:
@@ -157,12 +201,48 @@ def grow_pool(pool, today, excluded, sources=("slideshow",), max_new=None, types
     return added, failed
 
 
+PRACTICE_MODES = ("reserve", "used", "all")
+
+
+def is_reserved(pid):
+    """One photo in four is held back for 'Play again'. Daily puzzles only use
+    those once every other photo is gone, so practicing can't spoil a puzzle."""
+    return int(hashlib.sha1(pid.encode()).hexdigest(), 16) % 4 == 0
+
+
 def pick(pool, count, date_str, excluded):
-    """Least-used photos first; ties broken by a shuffle seeded with the date."""
+    """Unreserved, least-used photos first; ties broken by a shuffle seeded with the date."""
     cands = sorted((p for p in pool["photos"] if p["id"] not in excluded), key=lambda p: p["id"])
     random.Random(date_str).shuffle(cands)
-    cands.sort(key=lambda p: (len(p["usedOn"]), p["usedOn"][-1] if p["usedOn"] else ""))  # stable
+    cands.sort(key=lambda p: (is_reserved(p["id"]), len(p["usedOn"]),
+                              p["usedOn"][-1] if p["usedOn"] else ""))  # stable
     return cands[:count]
+
+
+def practice_mode(arg=None):
+    mode = arg or os.environ.get("PRACTICE_POOL") or "reserve"
+    if mode not in PRACTICE_MODES:
+        warn(f"PRACTICE_POOL '{mode}' isn't one of {', '.join(PRACTICE_MODES)}; using 'reserve'.")
+        mode = "reserve"
+    return mode
+
+
+def write_practice(pool, excluded, mode, stamp):
+    """Write site/data/practice.json, the photos 'Play again' draws from.
+      reserve: photos already used in a puzzle, plus the reserved quarter of the pool
+      used:    only photos already used in a puzzle
+      all:     the whole pool (can show a photo before it appears in a puzzle)"""
+    def keep(p):
+        if p["id"] in excluded:
+            return False
+        if mode == "all":
+            return True
+        if mode == "used":
+            return bool(p["usedOn"])
+        return bool(p["usedOn"]) or is_reserved(p["id"])
+    photos = [public(p) for p in sorted(pool["photos"], key=lambda p: p["id"]) if keep(p)]
+    save_json(os.path.join(SITE_DATA, "practice.json"), {"generated": stamp, "source": mode, "photos": photos})
+    return len(photos)
 
 
 def refresh_image_urls(photos):
@@ -192,8 +272,8 @@ def main():
     ap.add_argument("--no-scrape", action="store_true", help="don't contact Mountain Project")
     ap.add_argument("--sources", default="slideshow",
                     help="comma list from: slideshow, popular, newest, random (default: slideshow)")
-    ap.add_argument("--practice-pool", choices=["used", "all"], default="used",
-                    help="photos 'Play again' draws from: past puzzles only, or the whole pool")
+    ap.add_argument("--practice-pool", choices=PRACTICE_MODES, default=None,
+                    help="photos 'Play again' draws from (default: $PRACTICE_POOL, else reserve)")
     args = ap.parse_args()
 
     now = datetime.datetime.now(ZoneInfo(args.tz))
@@ -247,14 +327,9 @@ def main():
     save_json(os.path.join(SITE_DATA, "today.json"), daily)
     save_json(os.path.join(SITE_DATA, "index.json"), {"dates": sorted(dates, reverse=True)})
 
-    # "Play again" draws from here. By default only photos already shown in a daily
-    # puzzle, so practicing never gives away an upcoming puzzle.
-    practice = [public(p) for p in sorted(pool["photos"], key=lambda p: p["id"])
-                if p["id"] not in excluded and (args.practice_pool == "all" or p["usedOn"])]
-    save_json(os.path.join(SITE_DATA, "practice.json"),
-              {"generated": daily["generated"], "source": args.practice_pool, "photos": practice})
+    n_practice = write_practice(pool, excluded, practice_mode(args.practice_pool), daily["generated"])
 
-    print(f"Built #{daily['number']} for {today} with {len(chosen)} photo(s):")
+    print(f"Built #{daily['number']} for {today} with {len(chosen)} photo(s); Play again has {n_practice}:")
     for p in chosen:
         print(f"  {p['id']}  {p['coordArea']}  ({p['lat']:.4f}, {p['lng']:.4f})")
     set_output("skip", "false")

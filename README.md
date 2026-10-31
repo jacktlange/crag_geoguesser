@@ -108,7 +108,7 @@ All in `.github/workflows/daily.yml`:
 | Hour to post (0-23, local) | `8` | `POST_HOUR` |
 | Photos per day | `5` | `PHOTOS_PER_DAY` |
 | Days of the week | Mon-Fri | the `cron` line (`1-5`; use `*` for every day) |
-| Photos used by Play again | `used` | `PRACTICE_POOL` (`used` or `all`) |
+| Photos used by Play again | `reserve` | repository variable `PRACTICE_POOL` (`reserve`, `used`, or `all`) |
 
 The schedule runs at two UTC hours and the script only goes ahead when it is
 `POST_HOUR` in `TZ_NAME`, so daylight saving changes are handled. GitHub can
@@ -121,22 +121,27 @@ runs every 6 hours and adds fresh photos so the puzzles don't run out. Each run:
 
 1. reads the homepage slideshow (it rotates, so sampling it regularly catches
    photos you'd otherwise miss),
-2. reads Mountain Project's "featured photos" lists: a random page of the
-   **Popular** list, the **Newest** list, and the **Random** list, limited to
+2. reads Mountain Project's "featured photos" lists: random pages of the
+   **Popular** list, the first pages of the **Newest** list, and the **Random** list, limited to
    the *Action / Scenic* type (which leaves out the *Beta* type, where topos
    and route overlays live),
 3. runs each new photo through the same filters and GPS lookup, and adds up to
-   12 new ones (about a minute, with a pause between requests),
-4. saves `data/pool.json`. Nothing is published, so upcoming puzzles stay hidden.
+   100 new ones (roughly 5 to 10 minutes, with a pause between requests),
+4. saves `data/pool.json` (not published, so upcoming puzzles stay hidden),
+   and republishes the Play again list so practice grows along with the pool.
 
-If fewer than 15 unused photos are left, the run shows a yellow warning.
-Photos that can't be read (for example album photos that aren't attached to an
+It reads as many list pages as it needs to find enough new photos (up to 8 per
+list), and stops adding once the pool reaches 2,000 photos so the repository
+doesn't keep growing. If fewer than 15 unused photos are left, the run shows a
+yellow warning. Photos that can't be read (for example album photos that aren't attached to an
 area) are retried twice and then given up on.
 
 To tune it, edit `refresh-pool.yml`: the `cron` line sets how often it runs,
-and `--max-new`, `--sources` (`slideshow,popular,newest,random`) and `--types`
-(`Action`, or `Action,Historical` to include old historic photos) go on the
-`python3 scripts/refresh_pool.py` line. To run it right now: **Actions →
+and `--max-new`, `--max-pool`, `--sources` (`slideshow,popular,newest,random`)
+and `--types` (`Action`, or `Action,Historical` to include old historic photos)
+go on the `python3 scripts/refresh_pool.py` line. Once the pool is big, running
+it every 6 hours is more than you need; change the `cron` to once a day, or
+once a week, to be gentler on Mountain Project. To run it right now: **Actions →
 Refresh photo pool → Run workflow**.
 
 You can also paste Mountain Project photo links into `data/extra_photos.txt`,
@@ -145,16 +150,28 @@ one per line, and they'll be added on the next run.
 ## Play again
 
 After a puzzle's results screen, **Play again** starts a practice round of up
-to 5 random photos from past puzzles (never the ones in today's puzzle when
-there are others to choose from). Practice rounds aren't saved, can't be
-posted to Discord, and don't change today's score.
+to 5 photos. Practice rounds aren't saved, can't be posted to Discord, and
+don't change today's score. Each player's browser remembers which practice
+photos it has shown, so Play again works through photos you haven't seen yet
+before repeating any (photos from today's puzzle come last).
 
-By default practice only uses photos that have already appeared in a daily
-puzzle, so practicing can never give away an upcoming puzzle. The catch is that
-in the first few days there aren't many past photos, so practice will repeat
-them. Set `PRACTICE_POOL: all` in `daily.yml` to practice with the whole pool
-instead, which gives more variety but can show someone a photo before it turns
-up in a daily puzzle.
+Where the practice photos come from is set by the optional repository variable
+`PRACTICE_POOL` (**Settings → Secrets and variables → Actions → Variables**):
+
+- `reserve` (the default): photos already used in a daily puzzle, plus a
+  reserved quarter of the pool that daily puzzles never use. This gives
+  practice plenty of variety right away, and it can never show anyone a photo
+  that is still to come in a daily puzzle.
+- `used`: only photos already used in a daily puzzle. Safest, but with few
+  past puzzles the same photos come around again and again.
+- `all`: the whole pool. Most variety, but someone may see a photo in practice
+  before it turns up in a daily puzzle.
+
+The list is rebuilt each time the daily puzzle or the photo refresh runs, so it
+grows as the pool does. If Play again keeps showing the same photos, the pool is
+probably still small: run **Actions → Refresh photo pool → Run workflow** a few
+times, then reload the page. You can see the current list at
+`<your site>/data/practice.json`.
 
 ## Removing a photo
 
@@ -212,7 +229,7 @@ If Python reports `CERTIFICATE_VERIFY_FAILED`, run `pip3 install certifi`
   it beyond a private group.
 - The scraper reads public pages slowly (about 1.5 seconds between requests)
   and identifies itself. Please keep it that way. The refresh job can add at
-  most 12 photos per run, 4 runs a day.
+  most 100 photos per run, 4 runs a day (and the pool stops at 2,000).
 - Scoring: `5000 × e^(−distance ÷ 1500 km)` per photo, up to 5,000.
   Squares: 🟩 4,000+, 🟨 2,500+, 🟧 1,000+, 🟥 less, ⬛ skipped.
 
