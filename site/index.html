@@ -1,0 +1,425 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Crag Guesser: where was this climbing photo taken?</title>
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'%3E%3Ctext y='.9em' font-size='90'%3E%F0%9F%A7%97%3C/text%3E%3C/svg%3E">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@600;700&family=Barlow:wght@400;500;600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.css">
+<style>
+  :root {
+    --ink: #1d2327;
+    --paper: #e9eeea;
+    --panel: #f7f9f6;
+    --line: #c5cec7;
+    --muted: #5a665f;
+    --lichen: #4f8a2b;
+    --lichen-ink: #ffffff;
+    --guess: #2a6ca6;
+    --warn: #a4531b;
+    --radius: 6px;
+    --head: "Barlow Condensed", "Arial Narrow", "Helvetica Neue", sans-serif;
+    --body: "Barlow", "Helvetica Neue", Arial, sans-serif;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --ink: #e6ece7;
+      --paper: #14191c;
+      --panel: #1d2428;
+      --line: #36413f;
+      --muted: #9aa8a0;
+      --lichen: #7bb64a;
+      --lichen-ink: #10170a;
+      --guess: #5aa3e0;
+      --warn: #e0925a;
+    }
+  }
+  * { box-sizing: border-box; }
+  html, body { height: 100%; margin: 0; }
+  body {
+    background: var(--paper);
+    color: var(--ink);
+    font: 16px/1.45 var(--body);
+    display: flex;
+    flex-direction: column;
+  }
+  header {
+    display: flex;
+    align-items: baseline;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    gap: 4px 16px;
+    padding: 10px 18px;
+    border-bottom: 1px solid var(--line);
+    background: var(--panel);
+  }
+  .title { display: flex; align-items: baseline; gap: 14px; flex-wrap: wrap; }
+  h1 { font: 700 26px/1 var(--head); letter-spacing: .01em; margin: 0; }
+  #puzzle { color: var(--muted); font-size: 15px; }
+  .stats { display: flex; gap: 22px; font-family: var(--head); font-size: 20px; font-weight: 600; }
+  .stats span small { font: 500 13px var(--body); color: var(--muted); margin-right: 6px; }
+
+  main {
+    flex: 1;
+    min-height: 0;
+    display: grid;
+    grid-template-columns: minmax(300px, 40%) 1fr;
+  }
+  .left {
+    display: flex;
+    flex-direction: column;
+    min-height: 0;
+    border-right: 1px solid var(--line);
+    background: var(--ink);
+  }
+  .photo-wrap {
+    flex: 1;
+    min-height: 220px;
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: #0e1214;
+  }
+  #photo { max-width: 100%; max-height: 100%; object-fit: contain; display: block; }
+  #photoMsg {
+    position: absolute;
+    inset: auto 12px 12px 12px;
+    color: #f3d9c4;
+    background: rgba(20, 10, 4, .85);
+    padding: 10px 12px;
+    border-radius: var(--radius);
+    font-size: 14px;
+  }
+  #photoMsg button { margin-left: 8px; }
+
+  .result {
+    background: var(--panel);
+    color: var(--ink);
+    padding: 14px 18px 16px;
+    border-top: 1px solid var(--line);
+    overflow: auto;
+    max-height: 48%;
+  }
+  .result .dist { font: 700 40px/1 var(--head); margin: 0; }
+  .result .dist small { font: 500 16px var(--body); color: var(--muted); }
+  .result .pts { margin: 2px 0 10px; color: var(--muted); }
+  .result .pts strong { color: var(--ink); font-family: var(--head); font-size: 20px; }
+  .result h2 { font: 600 20px/1.2 var(--head); margin: 0 0 2px; }
+  .result p { margin: 2px 0 8px; }
+  .result .note { color: var(--warn); font-size: 14px; }
+  .actions { display: flex; flex-wrap: wrap; gap: 8px; margin-top: 10px; }
+
+  button, .btn {
+    font: 600 15px var(--body);
+    padding: 9px 16px;
+    border-radius: var(--radius);
+    border: 1px solid var(--line);
+    background: var(--panel);
+    color: var(--ink);
+    cursor: pointer;
+    text-decoration: none;
+    display: inline-block;
+  }
+  button.primary, .btn.primary { background: var(--lichen); border-color: var(--lichen); color: var(--lichen-ink); }
+  button:disabled { opacity: .5; cursor: not-allowed; }
+  button:focus-visible, .btn:focus-visible, a:focus-visible { outline: 3px solid var(--guess); outline-offset: 2px; }
+
+  .right { position: relative; min-height: 0; }
+  #map { position: absolute; inset: 0; }
+  .guessbar { position: absolute; left: 50%; bottom: 22px; transform: translateX(-50%); z-index: 1000; }
+  .guessbar button { box-shadow: 0 2px 8px rgba(0,0,0,.35); padding: 11px 22px; font-size: 16px; }
+  .hint {
+    position: absolute; top: 10px; left: 56px; z-index: 900;
+    background: var(--panel); color: var(--muted);
+    border: 1px solid var(--line); border-radius: var(--radius);
+    padding: 4px 10px; font-size: 14px;
+  }
+  .pin { width: 18px; height: 18px; border-radius: 50%; border: 3px solid #fff;
+         box-shadow: 0 0 0 1px rgba(0,0,0,.5), 0 2px 5px rgba(0,0,0,.5); }
+  .pin.guess { background: var(--guess); }
+  .pin.truth { background: var(--lichen); width: 22px; height: 22px; }
+
+  .summary { padding: 22px 18px; overflow: auto; background: var(--panel); flex: 1; }
+  .summary-inner { max-width: 620px; margin: 0 auto; }
+  .summary h2 { font: 700 40px/1 var(--head); margin: 0 0 4px; }
+  .summary ol { padding-left: 20px; margin: 12px 0 18px; }
+  .summary li { margin-bottom: 6px; }
+  .share {
+    white-space: pre-wrap; word-break: break-word;
+    font: 500 17px/1.5 var(--body);
+    background: var(--paper); border: 1px solid var(--line); border-radius: var(--radius);
+    padding: 12px 14px; margin: 14px 0 10px;
+  }
+  .status { margin: 10px 0 0; min-height: 1.4em; color: var(--muted); font-size: 14px; }
+  .center-msg { max-width: 520px; margin: 8vh auto; padding: 0 18px; flex: 1; }
+  .center-msg h2 { font: 700 30px/1.1 var(--head); margin: 0 0 8px; }
+  .center-msg code { background: var(--panel); border: 1px solid var(--line); border-radius: 4px; padding: 1px 5px; }
+  .source { color: var(--muted); font-size: 13px; padding: 6px 18px; border-top: 1px solid var(--line); background: var(--panel); }
+  .source a { color: inherit; }
+
+  @media (max-width: 800px) {
+    main { grid-template-columns: 1fr; grid-template-rows: minmax(180px, 38vh) 1fr; }
+    .left { border-right: 0; border-bottom: 1px solid var(--line); }
+    .left.answered { position: fixed; inset: 0; z-index: 2000; }
+    .result { max-height: 60%; }
+    .hint { left: 10px; top: 54px; }
+  }
+  @media (prefers-reduced-motion: reduce) { * { transition: none !important; animation: none !important; } }
+</style>
+</head>
+<body>
+<header>
+  <div class="title">
+    <h1>Crag Guesser</h1>
+    <span id="puzzle"></span>
+  </div>
+  <div class="stats" aria-live="polite">
+    <span><small>Round</small><b id="roundNo">0</b>/<b id="roundTotal">0</b></span>
+    <span><small>Score</small><b id="score">0</b></span>
+  </div>
+</header>
+
+<main id="game">
+  <div class="left" id="left">
+    <div class="photo-wrap">
+      <img id="photo" alt="A climbing photo. Guess where it was taken." referrerpolicy="no-referrer">
+      <div id="photoMsg">Loading today's photos&hellip;</div>
+    </div>
+    <div class="result" id="result" hidden></div>
+  </div>
+  <div class="right">
+    <div id="map" role="application" aria-label="Guess map"></div>
+    <div class="hint" id="hint">Click the map to drop a pin</div>
+    <div class="guessbar"><button class="primary" id="guessBtn" disabled>Lock in guess</button></div>
+  </div>
+</main>
+<div class="source" id="source">Photos from <a href="https://www.mountainproject.com" target="_blank" rel="noopener">Mountain Project</a> and belong to their contributors. <span id="past"></span></div>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.js"></script>
+<script>
+const SCALE_KM = 1500;   // score = 5000 * exp(-distance / 1500 km)
+const $ = id => document.getElementById(id);
+
+/* ---------- helpers ---------- */
+function haversineKm(a, b) {
+  const R = 6371.0088, rad = Math.PI / 180;
+  const dLat = (b.lat - a.lat) * rad, dLng = (b.lng - a.lng) * rad;
+  const s = Math.sin(dLat / 2) ** 2 +
+            Math.cos(a.lat * rad) * Math.cos(b.lat * rad) * Math.sin(dLng / 2) ** 2;
+  return 2 * R * Math.asin(Math.sqrt(s));
+}
+const scoreFor = km => Math.round(5000 * Math.exp(-km / SCALE_KM));
+function fmtDist(km) {
+  const f = v => v < 10 ? v.toFixed(1) : Math.round(v).toLocaleString();
+  return { km: f(km), mi: f(km * 0.621371) };
+}
+function esc(s) {
+  return String(s ?? "").replace(/[&<>"']/g, c => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]));
+}
+function square(r) {
+  if (r.skipped) return "\u2B1B";
+  return r.pts >= 4000 ? "\uD83D\uDFE9" : r.pts >= 2500 ? "\uD83D\uDFE8" : r.pts >= 1000 ? "\uD83D\uDFE7" : "\uD83D\uDFE5";
+}
+function shareText(daily, results) {
+  const total = results.reduce((a, r) => a + r.pts, 0);
+  const max = daily.photos.length * 5000;
+  const [, m, d] = daily.date.split("-").map(Number);
+  return `Crag Guesser #${daily.number} (${m}/${d}) \u00B7 ${total.toLocaleString()}/${max.toLocaleString()}\n` +
+         `${results.map(square).join("")}\n${location.origin}${location.pathname}`;
+}
+function fmtDate(iso, opts) {
+  const [y, m, d] = iso.split("-").map(Number);
+  return new Date(y, m - 1, d).toLocaleDateString(undefined, opts || { weekday: "short", month: "short", day: "numeric" });
+}
+function loadState(key) {
+  try { return JSON.parse(localStorage.getItem(key) || "null"); } catch (e) { return null; }
+}
+function saveState(key, val) {
+  try { localStorage.setItem(key, JSON.stringify(val)); } catch (e) {}
+}
+function fail(html) {
+  $("game").outerHTML = `<div class="center-msg">${html}</div>`;
+}
+
+/* ---------- load the day's photos ---------- */
+const wanted = new URLSearchParams(location.search).get("date");
+const dataUrl = wanted && /^\d{4}-\d{2}-\d{2}$/.test(wanted) ? `data/daily/${wanted}.json` : "data/today.json";
+
+fetch(dataUrl, { cache: "no-store" })
+  .then(r => { if (!r.ok) throw new Error(r.status); return r.json(); })
+  .then(daily => {
+    if (!daily.photos || !daily.photos.length) throw new Error("empty");
+    init(daily);
+  })
+  .catch(err => { console.error(err); fail(`
+    <h2>No photos yet</h2>
+    <p>${wanted ? "There's no puzzle for that date." : "Today's set hasn't been published yet."}
+    If you just set this up, run the <b>Daily Crag Guesser</b> workflow once from your repository's Actions tab.</p>
+    ${wanted ? `<p><a href="${esc(location.pathname)}">Go to the latest puzzle</a></p>` : ""}`); });
+
+fetch("data/index.json", { cache: "no-store" })
+  .then(r => r.ok ? r.json() : null)
+  .then(idx => {
+    if (!idx || !idx.dates) return;
+    const current = wanted || idx.dates[0];
+    const links = idx.dates.filter(d => d !== current).slice(0, 7)
+      .map(d => `<a href="?date=${d}">${esc(fmtDate(d, { month: "short", day: "numeric" }))}</a>`);
+    if (links.length) $("past").innerHTML = "Past days: " + links.join(" \u00B7 ");
+  })
+  .catch(() => {});
+
+/* ---------- the game ---------- */
+function init(daily) {
+  const photos = daily.photos;
+  const KEY = "cg:" + daily.date;
+  const sig = photos.map(p => p.id).join(",");
+  let saved = loadState(KEY);
+  if (!saved || saved.sig !== sig) saved = { sig, results: [] };   // set was rebuilt: start fresh
+  const results = saved.results;
+  const persist = () => saveState(KEY, { sig, results });
+
+  $("puzzle").textContent = `#${daily.number} \u00B7 ${fmtDate(daily.date)}`;
+  $("roundTotal").textContent = photos.length;
+
+  if (results.length >= photos.length) return showSummary();
+
+  let idx = results.length, answered = false, guess = null;
+  const totalNow = () => results.reduce((a, r) => a + r.pts, 0);
+
+  /* map */
+  const map = L.map("map", { worldCopyJump: true, minZoom: 2 }).setView([39, -100], 4);
+  const topo = L.tileLayer("https://server.arcgisonline.com/ArcGIS/rest/services/World_Topo_Map/MapServer/tile/{z}/{y}/{x}",
+    { maxZoom: 17, attribution: "Tiles &copy; Esri" });
+  const street = L.tileLayer("https://{s}.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}{r}.png",
+    { maxZoom: 19, subdomains: "abcd", attribution: "&copy; OpenStreetMap contributors &copy; CARTO" });
+  const sat = L.tileLayer("https://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/tile/{z}/{y}/{x}",
+    { maxZoom: 17, attribution: "Tiles &copy; Esri" });
+  topo.addTo(map);
+  L.control.layers({ Topo: topo, Streets: street, Satellite: sat }, null, { position: "topright" }).addTo(map);
+
+  const pin = cls => L.divIcon({ className: "", html: `<div class="pin ${cls}"></div>`, iconSize: [22, 22], iconAnchor: [11, 11] });
+  let guessMarker = null, truthMarker = null, line = null;
+
+  map.on("click", e => {
+    if (answered) return;
+    const lng = ((e.latlng.lng + 540) % 360) - 180;       // wrap to [-180, 180)
+    guess = { lat: e.latlng.lat, lng };
+    if (guessMarker) guessMarker.setLatLng(e.latlng);
+    else guessMarker = L.marker(e.latlng, { icon: pin("guess"), keyboard: false }).addTo(map);
+    $("guessBtn").disabled = false;
+  });
+
+  function loadRound() {
+    const p = photos[idx];
+    answered = false; guess = null;
+    [guessMarker, truthMarker, line].forEach(l => l && map.removeLayer(l));
+    guessMarker = truthMarker = line = null;
+    map.setView([39, -100], 4);
+    $("roundNo").textContent = idx + 1;
+    $("score").textContent = totalNow().toLocaleString();
+    $("result").hidden = true;
+    $("left").classList.remove("answered");
+    $("hint").hidden = false;
+    $("guessBtn").hidden = false;
+    $("guessBtn").disabled = true;
+    const img = $("photo"), msg = $("photoMsg");
+    msg.hidden = true;
+    img.style.visibility = "visible";
+    img.onerror = () => {
+      img.style.visibility = "hidden";
+      msg.hidden = false;
+      msg.innerHTML = "This photo didn't load. <button id='skipBtn'>Skip it (0 points)</button>";
+      $("skipBtn").onclick = skipRound;
+    };
+    img.src = p.imageUrl;
+  }
+
+  function advance() {
+    idx++;
+    if (idx >= photos.length) { map.remove(); showSummary(); } else loadRound();
+  }
+
+  function skipRound() {
+    results.push({ id: photos[idx].id, skipped: true, km: null, pts: 0 });
+    persist();
+    advance();
+  }
+
+  function lockIn() {
+    if (!guess || answered) return;
+    answered = true;
+    const p = photos[idx];
+    const km = haversineKm(guess, p);
+    const pts = scoreFor(km);
+    results.push({ id: p.id, lat: guess.lat, lng: guess.lng, km, pts });
+    persist();
+    $("score").textContent = totalNow().toLocaleString();
+
+    truthMarker = L.marker([p.lat, p.lng], { icon: pin("truth"), keyboard: false }).addTo(map);
+    line = L.polyline([[guess.lat, guess.lng], [p.lat, p.lng]], { color: "#d9822b", weight: 3, dashArray: "6 8" }).addTo(map);
+    map.fitBounds(L.latLngBounds([[guess.lat, guess.lng], [p.lat, p.lng]]).pad(0.35), { maxZoom: 13 });
+
+    const d = fmtDist(km);
+    const last = idx === photos.length - 1;
+    $("result").innerHTML = `
+      <p class="dist">${d.mi} mi <small>(${d.km} km away)</small></p>
+      <p class="pts"><strong>+${pts.toLocaleString()}</strong> of 5,000 points</p>
+      <h2>${esc(p.title || "Untitled photo")}</h2>
+      <p>${esc(p.breadcrumb || "")}</p>
+      <p class="pts">GPS point used: ${esc(p.coordArea || "")}</p>
+      ${p.approx ? `<p class="note">Approximate: the area has no GPS of its own, so a parent area's point is used.</p>` : ""}
+      <div class="actions">
+        <a class="btn" href="${esc(p.photoUrl)}" target="_blank" rel="noopener">View photo on Mountain Project</a>
+        <button class="primary" id="nextBtn">${last ? "See results" : "Next photo"}</button>
+      </div>`;
+    $("result").hidden = false;
+    $("left").classList.add("answered");
+    $("hint").hidden = true;
+    $("guessBtn").hidden = true;
+    $("nextBtn").onclick = advance;
+    $("nextBtn").focus();
+  }
+
+  $("guessBtn").addEventListener("click", lockIn);
+  loadRound();
+
+  /* ---------- results ---------- */
+  function showSummary() {
+    const total = results.reduce((a, r) => a + r.pts, 0);
+    const max = photos.length * 5000;
+    const rows = results.map((r, i) => {
+      const p = photos[i];
+      const how = r.skipped ? "skipped" : `${fmtDist(r.km).mi} mi`;
+      return `<li><a href="${esc(p.photoUrl)}" target="_blank" rel="noopener">${esc(p.title || "Photo")}</a>
+              (${esc(p.coordArea || "")}): ${how}, ${r.pts.toLocaleString()} pts</li>`;
+    }).join("");
+    const text = shareText(daily, results);
+    $("game").outerHTML = `
+      <div class="summary"><div class="summary-inner">
+        <h2>${total.toLocaleString()} / ${max.toLocaleString()}</h2>
+        <p>Your result for #${daily.number}. Copy it and paste it in the channel to compare.</p>
+        <div class="share" id="shareText">${esc(text)}</div>
+        <button class="primary" id="copyBtn">Copy result</button>
+        <p class="status" id="copyStatus" aria-live="polite"></p>
+        <ol>${rows}</ol>
+        <p>Come back for the next round.</p>
+      </div></div>`;
+    $("copyBtn").onclick = async () => {
+      let ok = false;
+      try { await navigator.clipboard.writeText(text); ok = true; } catch (e) {
+        const range = document.createRange(); range.selectNodeContents($("shareText"));
+        const sel = getSelection(); sel.removeAllRanges(); sel.addRange(range);
+        try { ok = document.execCommand("copy"); } catch (e2) {}
+      }
+      $("copyStatus").textContent = ok ? "Copied." : "Select the text above and copy it.";
+    };
+    $("roundNo").textContent = photos.length;
+    $("score").textContent = total.toLocaleString();
+  }
+}
+</script>
+</body>
+</html>

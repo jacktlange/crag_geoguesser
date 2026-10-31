@@ -1,0 +1,44 @@
+{
+ "version": 1,
+ "areas": {
+  "https://www.mountainproject.com/area/105792930/nursing-home": {
+   "lat": 39.9859,
+   "lng": -105.4418,
+   "name": "Nursing Home"
+  },
+  "https://www.mountainproject.com/area/105745618/big-rock-candy-mountain": {
+   "lat": 39.1314,
+   "lng": -105.32229,
+   "name": "Big Rock Candy Mountain"
+  }
+ },
+ "rejected": {},
+ "photos": [
+  {
+   "id": "106029868",
+   "photoUrl": "https://www.mountainproject.com/photo/106029868/sending-angel-of-mercy-at-the-nursing-home",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/106029868_medium_1558462530.jpg?cache=1754492848",
+   "title": "Sending Angel of Mercy at the Nursing Home.",
+   "breadcrumb": "Colorado > Boulder > Boulder Canyon > Nursing Home",
+   "coordArea": "Nursing Home",
+   "approx": false,
+   "lat": 39.9859,
+   "lng": -105.4418,
+   "addedOn": "2026-10-29",
+   "usedOn": []
+  },
+  {
+   "id": "106134692",
+   "photoUrl": "https://www.mountainproject.com/photo/106134692/mack-johnson-following-the-first-pitch-on-the-second-ascent-may-1980",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/106134692_medium_1558653047.jpg?cache=1790688766",
+   "title": "Mack Johnson following the first pitch on the second ascent. May, 1980.",
+   "breadcrumb": "Colorado > S Platte > Big Rock Candy Mountain > Rotten Teeth (5.10)",
+   "coordArea": "Big Rock Candy Mountain",
+   "approx": false,
+   "lat": 39.1314,
+   "lng": -105.32229,
+   "addedOn": "2026-10-29",
+   "usedOn": []
+  }
+ ]
+}
