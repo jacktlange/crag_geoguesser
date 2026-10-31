@@ -6,8 +6,9 @@ Build today's Crag Guesser set.
      put in data/extra_photos.txt) and adds new, usable photos to data/pool.json.
   2. Picks today's photos from the pool, least-used first, shuffled with a
      date-based seed so a re-run gives the same set.
-  3. Writes site/data/daily/<date>.json, site/data/today.json,
-     site/data/index.json and site/data/practice.json for the game page.
+  3. Writes site/data/daily/<date>.json (just the photo IDs), site/data/today.json,
+     site/data/index.json, and site/data/photos.json, the one library of photos
+     that the puzzles and Play again both use.
 
 If Mountain Project can't be reached, it still builds today's set from the
 photos already in the pool.
@@ -21,6 +22,7 @@ import argparse
 import datetime
 import hashlib
 import json
+import math
 import os
 import random
 import re
@@ -111,7 +113,29 @@ def crawl_featured(sort, photo_type, is_new, target, max_requests=8):
     return found, len(tried)
 
 
-def collect_urls(sources, types, is_new=None, want=None):
+def crawl_regions(is_new, target, region_stats, photo_type, international=False, max_requests=12):
+    """Sample photos at random from random regions (states), weighted toward busier ones.
+    Each region's Random list is reshuffled on every request, so repeat visits find new photos.
+    A region that keeps returning nothing new is skipped from then on."""
+    pool_regions = [r for r in mp.REGIONS + (mp.INTERNATIONAL if international else [])
+                    if region_stats.get(str(r[0]), {}).get("dry", 0) < 4]
+    found, new_ids, requests = [], set(), 0
+    while pool_regions and requests < max_requests and len(new_ids) < target:
+        rid, name, routes = random.choices(pool_regions, weights=[math.sqrt(r[2]) for r in pool_regions])[0]
+        urls, _ = mp.featured_page("random", photo_type, 1, rid)
+        requests += 1
+        fresh = {mp.photo_id(u) for u in urls if is_new(u)} - new_ids
+        stat = region_stats.setdefault(str(rid), {"name": name, "dry": 0})
+        stat["dry"] = 0 if fresh else stat["dry"] + 1
+        if not fresh:      # nothing new here; don't ask this region again during this run
+            pool_regions = [r for r in pool_regions if r[0] != rid]
+        new_ids |= fresh
+        found += urls
+        print(f"  {name}: {len(urls)} listed, {len(fresh)} new")
+    return found, requests
+
+
+def collect_urls(sources, types, is_new=None, want=None, region_stats=None, international=False):
     """Photo links from the chosen sources: slideshow, popular, newest, random."""
     is_new = is_new or (lambda u: True)
     slide, featured, failed = [], [], False
@@ -125,8 +149,19 @@ def collect_urls(sources, types, is_new=None, want=None):
             failed = True
             warn(f"Could not read the Mountain Project homepage ({e}).")
     lists = [(src, t) for src in sources if src in mp.FEATURED_SORTS for t in types]
-    # Aim a bit high: some candidates get filtered out or can't be read.
-    per_list = max(10, -(-int((want or 10) * 1.3) // len(lists))) if lists else 0
+    # Aim a bit high: some candidates get filtered out or can't be read. When sampling
+    # regions (the big supply), the featured lists only top up.
+    goal = (want or 10) * (0.3 if "regions" in sources else 1.3)
+    per_list = max(10, -(-int(goal) // len(lists))) if lists else 0
+    if "regions" in sources:
+        try:
+            found, n = crawl_regions(is_new, int((want or 10) * 1.3), region_stats if region_stats is not None else {},
+                                     types[0], international)
+            print(f"Regions: {len(found)} photos listed in {n} request(s).")
+            featured += found
+        except urllib.error.URLError as e:
+            failed = True
+            warn(f"Could not read a region's photo list: {e}")
     for src, t in lists:
         try:
             found, pages = crawl_featured(src, t, is_new, per_list)
@@ -150,7 +185,8 @@ def collect_urls(sources, types, is_new=None, want=None):
     return urls, failed
 
 
-def grow_pool(pool, today, excluded, sources=("slideshow",), max_new=None, types=("Action",), max_pool=None):
+def grow_pool(pool, today, excluded, sources=("slideshow",), max_new=None, types=("Action",), max_pool=None,
+              international=False):
     """Add new usable photos to the pool. Returns (number added, any source failed)."""
     if max_pool and len(pool["photos"]) >= max_pool:
         print(f"The pool already has {len(pool['photos'])} photos (limit {max_pool}); not adding more.")
@@ -161,7 +197,7 @@ def grow_pool(pool, today, excluded, sources=("slideshow",), max_new=None, types
         pid = mp.photo_id(url)
         return bool(pid) and pid not in known and pid not in pool["rejected"] and pid not in excluded
 
-    urls, failed = collect_urls(sources, types, is_new, max_new)
+    urls, failed = collect_urls(sources, types, is_new, max_new, pool.setdefault("regions", {}), international)
     fails = pool.setdefault("failures", {})
     added = attempts = 0
     for url in urls:
@@ -201,9 +237,6 @@ def grow_pool(pool, today, excluded, sources=("slideshow",), max_new=None, types
     return added, failed
 
 
-PRACTICE_MODES = ("reserve", "used", "all")
-
-
 def is_reserved(pid):
     """One photo in four is held back for 'Play again'. Daily puzzles only use
     those once every other photo is gone, so practicing can't spoil a puzzle."""
@@ -219,29 +252,20 @@ def pick(pool, count, date_str, excluded):
     return cands[:count]
 
 
-def practice_mode(arg=None):
-    mode = arg or os.environ.get("PRACTICE_POOL") or "reserve"
-    if mode not in PRACTICE_MODES:
-        warn(f"PRACTICE_POOL '{mode}' isn't one of {', '.join(PRACTICE_MODES)}; using 'reserve'.")
-        mode = "reserve"
-    return mode
-
-
-def write_practice(pool, excluded, mode, stamp):
-    """Write site/data/practice.json, the photos 'Play again' draws from.
-      reserve: photos already used in a puzzle, plus the reserved quarter of the pool
-      used:    only photos already used in a puzzle
-      all:     the whole pool (can show a photo before it appears in a puzzle)"""
-    def keep(p):
-        if p["id"] in excluded:
-            return False
-        if mode == "all":
-            return True
-        if mode == "used":
-            return bool(p["usedOn"])
-        return bool(p["usedOn"]) or is_reserved(p["id"])
-    photos = [public(p) for p in sorted(pool["photos"], key=lambda p: p["id"]) if keep(p)]
-    save_json(os.path.join(SITE_DATA, "practice.json"), {"generated": stamp, "source": mode, "photos": photos})
+def write_library(pool, excluded, stamp):
+    """Write site/data/photos.json, the one library the page draws from. A daily puzzle lists
+    photos by ID from it, and Play again deals from all of it. It holds every photo already used
+    in a puzzle, plus the reserved quarter of the pool that puzzles never pick (unless they run
+    out of others), so nothing in it gives away an upcoming puzzle. Capped at LIBRARY_MAX
+    (default 1500) to keep the page quick to load; used photos always stay in."""
+    ok = sorted((p for p in pool["photos"] if p["id"] not in excluded), key=lambda p: p["id"])
+    used = [p for p in ok if p["usedOn"]]
+    spare = [p for p in ok if not p["usedOn"] and is_reserved(p["id"])]
+    room = max(0, int(os.environ.get("LIBRARY_MAX") or 1500) - len(used))
+    if len(spare) > room:
+        spare = random.Random(stamp[:10]).sample(spare, room)
+    photos = [public(p) for p in sorted(used + spare, key=lambda p: p["id"])]
+    save_json(os.path.join(SITE_DATA, "photos.json"), {"generated": stamp, "photos": photos})
     return len(photos)
 
 
@@ -272,8 +296,6 @@ def main():
     ap.add_argument("--no-scrape", action="store_true", help="don't contact Mountain Project")
     ap.add_argument("--sources", default="slideshow",
                     help="comma list from: slideshow, popular, newest, random (default: slideshow)")
-    ap.add_argument("--practice-pool", choices=PRACTICE_MODES, default=None,
-                    help="photos 'Play again' draws from (default: $PRACTICE_POOL, else reserve)")
     args = ap.parse_args()
 
     now = datetime.datetime.now(ZoneInfo(args.tz))
@@ -321,15 +343,15 @@ def main():
         "date": today,
         "number": dates.index(today) + 1,
         "generated": datetime.datetime.now(datetime.timezone.utc).isoformat(timespec="seconds"),
-        "photos": [public(p) for p in chosen],
+        "ids": [p["id"] for p in chosen],
     }
     save_json(daily_path, daily)
     save_json(os.path.join(SITE_DATA, "today.json"), daily)
     save_json(os.path.join(SITE_DATA, "index.json"), {"dates": sorted(dates, reverse=True)})
 
-    n_practice = write_practice(pool, excluded, practice_mode(args.practice_pool), daily["generated"])
+    n_library = write_library(pool, excluded, daily["generated"])
 
-    print(f"Built #{daily['number']} for {today} with {len(chosen)} photo(s); Play again has {n_practice}:")
+    print(f"Built #{daily['number']} for {today} with {len(chosen)} photo(s); the library has {n_library}:")
     for p in chosen:
         print(f"  {p['id']}  {p['coordArea']}  ({p['lat']:.4f}, {p['lng']:.4f})")
     set_output("skip", "false")

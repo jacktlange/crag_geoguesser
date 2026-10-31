@@ -151,13 +151,42 @@ def _photo_links(page):
     return urls
 
 
-def featured_page(sort, photo_type="Action", page=1):
-    """One page of Mountain Project's 'featured photos' list.
+# Top-level regions from Mountain Project's route guide (https://www.mountainproject.com/route-guide):
+# (area ID, name, number of routes). Every area has an "All Photos Within ..." list at
+# featured-photos?locationId=<ID>, so these let the job sample photos from across the whole site.
+REGIONS = [
+    (105905173, "Alabama", 2437), (105909311, "Alaska", 2731), (105708962, "Arizona", 15231),
+    (105901027, "Arkansas", 3766), (105708959, "California", 48617), (105708956, "Colorado", 39371),
+    (105806977, "Connecticut", 3170), (106861605, "Delaware", 77), (111721391, "Florida", 140),
+    (105897947, "Georgia", 1948), (106316122, "Hawaii", 464), (105708958, "Idaho", 5700),
+    (105911816, "Illinois", 2610), (112389571, "Indiana", 269), (106092653, "Iowa", 745),
+    (107235316, "Kansas", 391), (105868674, "Kentucky", 4954), (116720343, "Louisiana", 41),
+    (105948977, "Maine", 2535), (106029417, "Maryland", 3112), (105908062, "Massachusetts", 6483),
+    (106113246, "Michigan", 1629), (105812481, "Minnesota", 2610), (108307056, "Mississippi", 117),
+    (105899020, "Missouri", 2469), (105907492, "Montana", 4555), (116096758, "Nebraska", 14),
+    (105708961, "Nevada", 7410), (105872225, "New Hampshire", 8512), (106374428, "New Jersey", 955),
+    (105708964, "New Mexico", 6996), (105800424, "New York", 6700), (105873282, "North Carolina", 4312),
+    (106598130, "North Dakota", 74), (105994953, "Ohio", 2790), (105854466, "Oklahoma", 2522),
+    (105708965, "Oregon", 6490), (105913279, "Pennsylvania", 4515), (106842810, "Rhode Island", 2084),
+    (107638915, "South Carolina", 380), (105708963, "South Dakota", 4251), (105887760, "Tennessee", 4835),
+    (105835804, "Texas", 4251), (105708957, "Utah", 20349), (105891603, "Vermont", 2726),
+    (105852400, "Virginia", 7229), (105708966, "Washington", 13451), (105855459, "West Virginia", 6229),
+    (105708968, "Wisconsin", 5442), (105708960, "Wyoming", 7596),
+]
+INTERNATIONAL = [
+    (105907756, "Australia", 1707), (106135596, "Africa", 2786), (106660030, "Europe", 23771),
+    (106661469, "North America (outside the US)", 34058), (106661515, "Asia", 9428),
+    (106661603, "South America", 4325), (107833406, "Oceania", 1413),
+]
+
+
+def featured_page(sort, photo_type="Action", page=1, location_id=0):
+    """One page of Mountain Project's photo list for a location (0 = everywhere).
 
     sort: popular, newest, or random. photo_type: Action (action and scenic
     photos, which leaves out the Beta type that holds topos and overlays) or
     Historical. Returns (photo links on the page, total number of pages)."""
-    url = f"{FEATURED_URL}?sort={FEATURED_SORTS[sort]}&locationId=0&type={photo_type}"
+    url = f"{FEATURED_URL}?sort={FEATURED_SORTS[sort]}&locationId={location_id}&type={photo_type}"
     if page > 1:
         url += f"&page={page}"
     page_html = get(url)

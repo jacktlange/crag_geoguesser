@@ -41,10 +41,21 @@ def md_escape(s):
     return re.sub(r"([\\*_~`|\[\]()>#])", r"\\\1", s)
 
 
+def day_photos(day, library):
+    """A day's photos: older files hold them in full, newer ones list IDs from photos.json."""
+    if "photos" in day:
+        return day["photos"]
+    return [library[i] for i in day.get("ids", []) if i in library]
+
+
 def build_message():
     today = load(os.path.join(SITE_DATA, "today.json"))
+    try:
+        library = {p["id"]: p for p in load(os.path.join(SITE_DATA, "photos.json"))["photos"]}
+    except (OSError, ValueError, KeyError):
+        library = {}
     d = datetime.date.fromisoformat(today["date"])
-    n = len(today["photos"])
+    n = len(today["photos"]) if "photos" in today else len(today.get("ids", []))
     url = pages_url()
 
     lines = [
@@ -59,7 +70,7 @@ def build_message():
         prev = next((x for x in dates if x < today["date"]), None)
         if prev:
             old = load(os.path.join(SITE_DATA, "daily", f"{prev}.json"))
-            links = ", ".join(f"[{md_escape(p['coordArea'])}]({p['photoUrl']})" for p in old["photos"])
+            links = ", ".join(f"[{md_escape(p['coordArea'])}]({p['photoUrl']})" for p in day_photos(old, library))
             lines += ["", f"_Last round's answers:_ {links}"]
     except (OSError, ValueError, KeyError):
         pass
