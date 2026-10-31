@@ -1135,6 +1135,56 @@
    "lat": 48.5144,
    "lng": -120.6575,
    "name": null
+  },
+  "https://www.mountainproject.com/area/105738040/mendoza-canyon-aka-coyote-domes": {
+   "lat": 31.98512,
+   "lng": -111.51519,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/105789200/muralla-grande": {
+   "lat": 35.2152,
+   "lng": -106.455,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/105843226/owens-river-gorge": {
+   "lat": 37.51191,
+   "lng": -118.57091,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/112322542/mother-natures-crack": {
+   "lat": 37.02792,
+   "lng": -94.52275,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/106125100/meadows-boulder": {
+   "lat": 33.99418,
+   "lng": -116.14301,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/113289846/puddys-tower": {
+   "lat": 44.37636,
+   "lng": -121.13605,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/105833388/yosemite-valley": {
+   "lat": 37.72349,
+   "lng": -119.63452,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/105721010/zippy-rock": {
+   "lat": 33.95941,
+   "lng": -116.01935,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/118141920/jin-gang-shan-aka-kumgang-mountain": {
+   "lat": 23.65647,
+   "lng": 108.27077,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/106580245/the-great-wall": {
+   "lat": 37.73288,
+   "lng": -83.63751,
+   "name": null
   }
  },
  "rejected": {
@@ -1150,7 +1200,8 @@
   "123535855": "filtered: looks like a map, topo, or drawing (caption)",
   "200762365": "filtered: ice, mixed, or snow route (grade or area)",
   "200879514": "filtered: ice, mixed, or snow route (grade or area)",
-  "106737526": "filtered: ice or snow (caption)"
+  "106737526": "filtered: ice or snow (caption)",
+  "107242252": "filtered: ice or snow (caption)"
  },
  "photos": [
   {
@@ -4396,6 +4447,162 @@
    "lng": -120.6575,
    "addedOn": "2026-10-31",
    "usedOn": []
+  },
+  {
+   "id": "105866127",
+   "photoUrl": "https://www.mountainproject.com/photo/105866127/mendoza-canyon",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/105866127_medium_1557935195.jpg?cache=1759290974",
+   "title": "Mendoza Canyon",
+   "breadcrumb": "Arizona > Southern Arizona > Mendoza Canyon Aka Coyote Domes",
+   "coordArea": "Mendoza Canyon Aka Coyote Domes",
+   "approx": false,
+   "lat": 31.98512,
+   "lng": -111.51519,
+   "addedOn": "2026-10-31",
+   "usedOn": []
+  },
+  {
+   "id": "106097426",
+   "photoUrl": "https://www.mountainproject.com/photo/106097426/mike-roybal-clarks-cramps-1973",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/106097426_medium_1558647515.jpg?cache=1771946360",
+   "title": "Mike Roybal Clarks Cramps 1973",
+   "breadcrumb": "New Mexico > Albuquerque Area > Sandia Mountains West Side > Chimney Canyon > Muralla Grande > Clarks Cramps ( 5.9 5c 17 VI 17 HVS 5a )",
+   "coordArea": "Muralla Grande",
+   "approx": false,
+   "lat": 35.2152,
+   "lng": -106.455,
+   "addedOn": "2026-10-31",
+   "usedOn": []
+  },
+  {
+   "id": "106138242",
+   "photoUrl": "https://www.mountainproject.com/photo/106138242/sunset-at-indian-creek",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/106138242_medium_1558653564.jpg?cache=1737171568",
+   "title": "Sunset at Indian Creek",
+   "breadcrumb": "Utah > Southeast Utah > Indian Creek",
+   "coordArea": "Indian Creek",
+   "approx": false,
+   "lat": 38.02574,
+   "lng": -109.53987,
+   "addedOn": "2026-10-31",
+   "usedOn": []
+  },
+  {
+   "id": "116725029",
+   "photoUrl": "https://www.mountainproject.com/photo/116725029/the-tower-of-n00b-30-pitches-5-areas-7-hours-250-bolts",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/116725029_medium_1555079110.jpg?cache=1709522378",
+   "title": "The Tower of N00b: 30 pitches, 5 areas, 7 hours, 250+ bolts.",
+   "breadcrumb": "California > Eastern Sierra > Bishop Area > Owens River Gorge",
+   "coordArea": "Owens River Gorge",
+   "approx": false,
+   "lat": 37.51191,
+   "lng": -118.57091,
+   "addedOn": "2026-10-31",
+   "usedOn": []
+  },
+  {
+   "id": "117723805",
+   "photoUrl": "https://www.mountainproject.com/photo/117723805/adam-lopardo-climbing-with-jonas-smith-watching",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/117723805_medium_1568133633.jpg?cache=1741958139",
+   "title": "Adam Lopardo climbing with Jonas Smith Watching.",
+   "breadcrumb": "Missouri > Sw Shoal Creek Area > Mother Natures Crack > Under over pass ( V1-2 5 PG13)",
+   "coordArea": "Mother Natures Crack",
+   "approx": false,
+   "lat": 37.02792,
+   "lng": -94.52275,
+   "addedOn": "2026-10-31",
+   "usedOn": []
+  },
+  {
+   "id": "120095484",
+   "photoUrl": "https://www.mountainproject.com/photo/120095484/sloper-safari",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/120095484_medium_1608595732.jpg?cache=1751325541",
+   "title": "Sloper Safari",
+   "breadcrumb": "California > Joshua Tree NP > Joshua Tree Bouldering > Central Joshua Tree Bouldering > Hall Of Horrors Bouldering > Meadows Boulder > Sloper Safari ( V4 6B )",
+   "coordArea": "Meadows Boulder",
+   "approx": false,
+   "lat": 33.99418,
+   "lng": -116.14301,
+   "addedOn": "2026-10-31",
+   "usedOn": []
+  },
+  {
+   "id": "201666589",
+   "photoUrl": "https://www.mountainproject.com/photo/201666589/roland-gets-the-send",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/201666589_medium_1757464666.jpg?cache=1785974565",
+   "title": "Roland gets the send!",
+   "breadcrumb": "Oregon > Central Oregon > Smith Rock > (v) Monument Area > (6) Puddy's Tower > A Little Seduction ( 5.12- 7a+ 25 VIII+ 25 E5 6a )",
+   "coordArea": "(6) Puddy's Tower",
+   "approx": false,
+   "lat": 44.37636,
+   "lng": -121.13605,
+   "addedOn": "2026-10-31",
+   "usedOn": []
+  },
+  {
+   "id": "106000923",
+   "photoUrl": "https://www.mountainproject.com/photo/106000923/shot-taken-from-yosemite-village",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/106000923_medium_1558389509.jpg?cache=1713648407",
+   "title": "Shot taken from Yosemite Village.",
+   "breadcrumb": "California > Yosemite NP > Yosemite Valley",
+   "coordArea": "Yosemite Valley",
+   "approx": false,
+   "lat": 37.72349,
+   "lng": -119.63452,
+   "addedOn": "2026-10-31",
+   "usedOn": []
+  },
+  {
+   "id": "204139761",
+   "photoUrl": "https://www.mountainproject.com/photo/204139761/mr-maxle-56-joshua-tree-np",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/204139761_medium_1793478911.jpg?cache=1793478915",
+   "title": "Mr. Maxle (5.6), Joshua Tree NP",
+   "breadcrumb": "California > Joshua Tree NP > Pinto Basin > Stirrup Tank > Stirrup Tank West > Zippy Rock > Mr. Maxle ( 5.6 4c 14 V 12 S 4b )",
+   "coordArea": "Zippy Rock",
+   "approx": false,
+   "lat": 33.95941,
+   "lng": -116.01935,
+   "addedOn": "2026-10-31",
+   "usedOn": []
+  },
+  {
+   "id": "204140281",
+   "photoUrl": "https://www.mountainproject.com/photo/204140281/stone-heart-joshua-tree-np",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/204140281_medium_1793481984.jpg?cache=1793482003",
+   "title": "Stone heart, Joshua Tree NP",
+   "breadcrumb": "California > Joshua Tree NP > Pinto Basin > Split Rocks > Split Rocks West",
+   "coordArea": "Split Rocks West",
+   "approx": false,
+   "lat": 34.00965,
+   "lng": -116.05414,
+   "addedOn": "2026-10-31",
+   "usedOn": []
+  },
+  {
+   "id": "118169374",
+   "photoUrl": "https://www.mountainproject.com/photo/118169374/jan-novak-photo",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/118169374_medium_1577035723.jpg?cache=1732862924",
+   "title": "Jan Novak photo!",
+   "breadcrumb": "International > Asia > China > Guangxi Province > Mashan > Jin Gang Shan Aka Kumgang Mountain > Lajiao ( 5.14c 8c+ 34 XI- 35 E9 7b )",
+   "coordArea": "Jin Gang Shan Aka Kumgang Mountain",
+   "approx": false,
+   "lat": 23.65647,
+   "lng": 108.27077,
+   "addedOn": "2026-10-31",
+   "usedOn": []
+  },
+  {
+   "id": "106583921",
+   "photoUrl": "https://www.mountainproject.com/photo/106583921/huong-on-the-sharp-end-for-gc",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/106583921_medium_1494122565.jpg?cache=1701316016",
+   "title": "Huong on the sharp end for G&C.",
+   "breadcrumb": "Kentucky > Red River Gorge > Muir Valley > Great Wall > Glory & Consequence ( 5.7+ 5a 15 V+ 13 MVS 4b )",
+   "coordArea": "Great Wall",
+   "approx": false,
+   "lat": 37.73288,
+   "lng": -83.63751,
+   "addedOn": "2026-10-31",
+   "usedOn": []
   }
  ],
  "failures": {
@@ -4429,6 +4636,10 @@
   },
   "105708956": {
    "name": "Colorado",
+   "dry": 0
+  },
+  "105708963": {
+   "name": "South Dakota",
    "dry": 0
   }
  }
