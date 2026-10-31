@@ -10,8 +10,6 @@
    "lat": 39.1314,
    "lng": -105.32229,
    "name": "Big Rock Candy Mountain"
-<<<<<<< HEAD
-=======
   },
   "https://www.mountainproject.com/area/106045694/saturday-night-live-boulder": {
    "lat": 34.01167,
@@ -87,7 +85,6 @@
    "lat": 47.52963,
    "lng": -120.71869,
    "name": null
->>>>>>> 2d70a1e59baafc0ab8b72e214e515d630512ad5d
   }
  },
  "rejected": {},
@@ -116,9 +113,6 @@
    "lat": 39.1314,
    "lng": -105.32229,
    "addedOn": "2026-10-29",
-<<<<<<< HEAD
-   "usedOn": []
-=======
    "usedOn": []
   },
   {
@@ -325,7 +319,6 @@
    "lng": -120.71869,
    "addedOn": "2026-10-30",
    "usedOn": []
->>>>>>> 2d70a1e59baafc0ab8b72e214e515d630512ad5d
   }
  ]
 }
