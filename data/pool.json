@@ -615,6 +615,46 @@
    "lat": 34.0116,
    "lng": -116.0543,
    "name": null
+  },
+  "https://www.mountainproject.com/area/105846967/lost-rocks": {
+   "lat": 41.51957,
+   "lng": -124.08149,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/105863819/ba-the-rostrum": {
+   "lat": 37.71848,
+   "lng": -119.70799,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/106472129/old-aid-wall-aka-upper-echelon-wall": {
+   "lat": 40.69239,
+   "lng": -105.3755,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/105961201/canyon-boulders": {
+   "lat": 34.27152,
+   "lng": -118.60341,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/105731932/red-rocks": {
+   "lat": 36.13128,
+   "lng": -115.42451,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/105876783/hammer-dome": {
+   "lat": 38.49188,
+   "lng": -120.22803,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/114074429/beyond-plutonia": {
+   "lat": 25.95348,
+   "lng": -100.48459,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/106897730/kyhv-peak": {
+   "lat": 40.26788,
+   "lng": -111.6188,
+   "name": null
   }
  },
  "rejected": {
@@ -666,9 +706,7 @@
    "lat": 34.01167,
    "lng": -116.16855,
    "addedOn": "2026-10-30",
-   "usedOn": [
-    "2026-10-31"
-   ]
+   "usedOn": []
   },
   {
    "id": "106240956",
@@ -694,9 +732,7 @@
    "lat": 44.055,
    "lng": -71.16605,
    "addedOn": "2026-10-30",
-   "usedOn": [
-    "2026-10-31"
-   ]
+   "usedOn": []
   },
   {
    "id": "114563343",
@@ -966,7 +1002,9 @@
    "lat": 33.01251,
    "lng": -116.97583,
    "addedOn": "2026-10-31",
-   "usedOn": []
+   "usedOn": [
+    "2026-10-31"
+   ]
   },
   {
    "id": "106080010",
@@ -992,9 +1030,7 @@
    "lat": 44.34048,
    "lng": -73.89977,
    "addedOn": "2026-10-31",
-   "usedOn": [
-    "2026-10-31"
-   ]
+   "usedOn": []
   },
   {
    "id": "107855670",
@@ -1059,9 +1095,7 @@
    "lat": 35.91381,
    "lng": -81.88637,
    "addedOn": "2026-10-31",
-   "usedOn": [
-    "2026-10-31"
-   ]
+   "usedOn": []
   },
   {
    "id": "204134433",
@@ -1139,7 +1173,9 @@
    "lat": 61.99389,
    "lng": -127.5235,
    "addedOn": "2026-10-31",
-   "usedOn": []
+   "usedOn": [
+    "2026-10-31"
+   ]
   },
   {
    "id": "111169765",
@@ -1165,9 +1201,7 @@
    "lat": 48.51169,
    "lng": -121.05894,
    "addedOn": "2026-10-31",
-   "usedOn": [
-    "2026-10-31"
-   ]
+   "usedOn": []
   },
   {
    "id": "113890267",
@@ -1843,7 +1877,9 @@
    "lat": 39.95086,
    "lng": -105.28701,
    "addedOn": "2026-10-31",
-   "usedOn": []
+   "usedOn": [
+    "2026-10-31"
+   ]
   },
   {
    "id": "107679204",
@@ -1999,7 +2035,9 @@
    "lat": 42.2144,
    "lng": -70.9456,
    "addedOn": "2026-10-31",
-   "usedOn": []
+   "usedOn": [
+    "2026-10-31"
+   ]
   },
   {
    "id": "204134833",
@@ -2272,7 +2310,9 @@
    "lat": 34.00831,
    "lng": -116.05707,
    "addedOn": "2026-10-31",
-   "usedOn": []
+   "usedOn": [
+    "2026-10-31"
+   ]
   },
   {
    "id": "107003141",
@@ -2466,6 +2506,110 @@
    "approx": false,
    "lat": 37.73051,
    "lng": -119.63828,
+   "addedOn": "2026-10-31",
+   "usedOn": []
+  },
+  {
+   "id": "105882418",
+   "photoUrl": "https://www.mountainproject.com/photo/105882418/pad-people",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/105882418_medium_1557937040.jpg?cache=1749496588",
+   "title": "Pad people",
+   "breadcrumb": "California > Northwest California > Northwest California Bouldering > Lost Rocks",
+   "coordArea": "Lost Rocks",
+   "approx": false,
+   "lat": 41.51957,
+   "lng": -124.08149,
+   "addedOn": "2026-10-31",
+   "usedOn": []
+  },
+  {
+   "id": "106517979",
+   "photoUrl": "https://www.mountainproject.com/photo/106517979/climber-coming-up-pitch-5-10-of-the-rostrum-north-face-notice-he-is-linking-pitc",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/106517979_medium_1494116481.jpg?cache=1758237986",
+   "title": "Climber coming up pitch 5 (10+) of the Rostrum North Face. (notice he is linking pitches 4 and 5, and that he has only clipped intermediate bolt anchors for pro.)",
+   "breadcrumb": "California > Yosemite NP > Yosemite Valley > Lower Merced River Canyon > Ba. The Rostrum > N Face ( 5.11c 6c+ 24 VIII- 24 E4 6a )",
+   "coordArea": "Ba. The Rostrum",
+   "approx": false,
+   "lat": 37.71848,
+   "lng": -119.70799,
+   "addedOn": "2026-10-31",
+   "usedOn": []
+  },
+  {
+   "id": "108185745",
+   "photoUrl": "https://www.mountainproject.com/photo/108185745/sweet-sidepull",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/108185745_medium_1494267978.jpg?cache=1761317493",
+   "title": "Sweet sidepull.",
+   "breadcrumb": "Colorado > Ft Collins > Poudre Canyon > Triple Tier Area > Old Aid Wall Aka Upper Echelon Wall > Tailspin ( 5.12b 7b 26 VIII+ 26 E5 6b )",
+   "coordArea": "Old Aid Wall Aka Upper Echelon Wall",
+   "approx": false,
+   "lat": 40.69239,
+   "lng": -105.3755,
+   "addedOn": "2026-10-31",
+   "usedOn": []
+  },
+  {
+   "id": "111014790",
+   "photoUrl": "https://www.mountainproject.com/photo/111014790/boulder-next-to-earthquake-not-in-the-guidebook-the-left-hueco-is-a-fun-jug-ladd",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/111014790_medium_1494337772.jpg?cache=1738174839",
+   "title": "Boulder next to Earthquake not in the guidebook, the left hueco is a fun jug ladder.",
+   "breadcrumb": "California > Los Angeles Basin > Stoney Point > Canyon Boulders",
+   "coordArea": "Canyon Boulders",
+   "approx": false,
+   "lat": 34.27152,
+   "lng": -118.60341,
+   "addedOn": "2026-10-31",
+   "usedOn": []
+  },
+  {
+   "id": "111115198",
+   "photoUrl": "https://www.mountainproject.com/photo/111115198/dantes-wall",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/111115198_medium_1494340342.jpg?cache=1782167654",
+   "title": "Dantes Wall",
+   "breadcrumb": "Nevada > Southern Nevada > Red Rocks",
+   "coordArea": "Red Rocks",
+   "approx": false,
+   "lat": 36.13128,
+   "lng": -115.42451,
+   "addedOn": "2026-10-31",
+   "usedOn": []
+  },
+  {
+   "id": "116200257",
+   "photoUrl": "https://www.mountainproject.com/photo/116200257/thats-what-it-feels-like-anyway-wwwearthworksimagerycom",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/116200257_medium_1545342271.jpg?cache=1784837579",
+   "title": "That's what it feels like anyway <br> www.EarthworksImagery.com",
+   "breadcrumb": "California > Lake Tahoe > Carson Pass Highway 88 > Calaveras Domes > Hammer Dome > Wings & Stings ( 5.7 5a 15 V+ 13 MVS 4b )",
+   "coordArea": "Hammer Dome",
+   "approx": false,
+   "lat": 38.49188,
+   "lng": -120.22803,
+   "addedOn": "2026-10-31",
+   "usedOn": []
+  },
+  {
+   "id": "116622238",
+   "photoUrl": "https://www.mountainproject.com/photo/116622238/ffa-team-jacob-cook-and-drew-marshall-on-the-summit-well-done-guys",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/116622238_medium_1552938819.jpg?cache=1735054377",
+   "title": "FFA team, Jacob Cook and Drew Marshall, on the summit.  well done guys!!",
+   "breadcrumb": "International > N America > Mexico > Nuevo Leon > El Potrero Chico > El Toro The Front Side > Beyond Plutonia > La Sombra Luminosa ( 5.12c 7b+ 27 IX- 27 E6 6b PG13)",
+   "coordArea": "Beyond Plutonia",
+   "approx": false,
+   "lat": 25.95348,
+   "lng": -100.48459,
+   "addedOn": "2026-10-31",
+   "usedOn": []
+  },
+  {
+   "id": "118846642",
+   "photoUrl": "https://www.mountainproject.com/photo/118846642/diving-board-a-short-walk-west-from-top-of-pitch-8",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/118846642_medium_1589002045.jpg?cache=1762980906",
+   "title": "Diving Board, a short walk west from top of Pitch 8",
+   "breadcrumb": "Utah > Wasatch Range > Southern Wasatch > Rock Canyon > Kyhv Peak > Kyhv Peak | 7735 ( 5.11b 6c 23 VIII- 23 E3 5c )",
+   "coordArea": "Kyhv Peak",
+   "approx": false,
+   "lat": 40.26788,
+   "lng": -111.6188,
    "addedOn": "2026-10-31",
    "usedOn": []
   }
