@@ -85,6 +85,106 @@
    "lat": 47.52963,
    "lng": -120.71869,
    "name": null
+  },
+  "https://www.mountainproject.com/area/106633404/mount-hayden": {
+   "lat": 36.27243,
+   "lng": -111.96922,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/105905689/the-elephants-perch": {
+   "lat": 44.06857,
+   "lng": -114.97445,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/105908831/thin-air-face": {
+   "lat": 44.06342,
+   "lng": -71.16578,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/107059239/the-yellow-wall-and-the-seasons": {
+   "lat": 41.74756,
+   "lng": -74.17576,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/105833392/el-capitan": {
+   "lat": 37.73051,
+   "lng": -119.6356,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/105833384/tuolumne-meadows": {
+   "lat": 37.87401,
+   "lng": -119.35782,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/121393840/hanging-mountain": {
+   "lat": 42.07016,
+   "lng": -73.06375,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/124024929/brain-stem-rock": {
+   "lat": 33.01251,
+   "lng": -116.97583,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/105907492/montana": {
+   "lat": 46.43212,
+   "lng": -112.83959,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/105871061/moss-cliff": {
+   "lat": 44.34048,
+   "lng": -73.89977,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/105738062/the-sheepshead": {
+   "lat": 31.87031,
+   "lng": -109.99388,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/106278927/kernville-rock-aka-kern-slabs": {
+   "lat": 35.81569,
+   "lng": -118.45446,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/105842821/penny-lane": {
+   "lat": 49.7049,
+   "lng": -123.1378,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/105720942/split-dome": {
+   "lat": 34.0097,
+   "lng": -116.0551,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/107444491/main-wall": {
+   "lat": 35.91381,
+   "lng": -81.88637,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/204134111/cling-or-fling-corridor-north-side": {
+   "lat": 34.00777,
+   "lng": -116.05909,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/201844346/the-niche": {
+   "lat": 34.60073,
+   "lng": -112.39873,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/105745406/fatiron": {
+   "lat": 39.95086,
+   "lng": -105.28701,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/125869658/screamer-rocks-south": {
+   "lat": 34.00731,
+   "lng": -116.05845,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/106088069/timewave-buttress": {
+   "lat": 25.9474,
+   "lng": -100.47958,
+   "name": null
   }
  },
  "rejected": {},
@@ -319,6 +419,267 @@
    "lng": -120.71869,
    "addedOn": "2026-10-30",
    "usedOn": []
+  },
+  {
+   "id": "106268281",
+   "photoUrl": "https://www.mountainproject.com/photo/106268281/jorge-and-joanne-urioste-on-the-summit-looking-down-canyon",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/106268281_medium_1494092961.jpg?cache=1713647535",
+   "title": "Jorge and Joanne Urioste on the summit,  looking down-canyon.",
+   "breadcrumb": "Arizona > Northern Arizona > Grand Canyon > Mt Hayden > S Face ( 5.8 5b 16 VI- 15 HVS 4c )",
+   "coordArea": "Mt Hayden",
+   "approx": false,
+   "lat": 36.27243,
+   "lng": -111.96922,
+   "addedOn": "2026-10-31",
+   "usedOn": []
+  },
+  {
+   "id": "108978488",
+   "photoUrl": "https://www.mountainproject.com/photo/108978488/not-all-bivy-sites-are-created-equal",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/108978488_medium_1494301946.jpg?cache=1701318484",
+   "title": "not all bivy sites are created equal",
+   "breadcrumb": "Idaho > Central Idaho > Sawtooth Range > Elephant's Perch",
+   "coordArea": "Elephant's Perch",
+   "approx": false,
+   "lat": 44.06857,
+   "lng": -114.97445,
+   "addedOn": "2026-10-31",
+   "usedOn": []
+  },
+  {
+   "id": "109608412",
+   "photoUrl": "https://www.mountainproject.com/photo/109608412/yet-another-traverse-pic-at-peak-foliage-never-tire-of-this-little-route",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/109608412_medium_1494357878.jpg?cache=1760732589",
+   "title": "Yet another traverse pic, at peak foliage. Never tire of this little route.",
+   "breadcrumb": "New Hampshire > Cathedral Ledge > Thin Air Face > Thin Air ( 5.6 4c 14 V 12 S 4b )",
+   "coordArea": "Thin Air Face",
+   "approx": false,
+   "lat": 44.06342,
+   "lng": -71.16578,
+   "addedOn": "2026-10-31",
+   "usedOn": []
+  },
+  {
+   "id": "109641006",
+   "photoUrl": "https://www.mountainproject.com/photo/109641006/brett-zefting",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/109641006_medium_1494358740.jpg?cache=1701318694",
+   "title": "Brett Zefting",
+   "breadcrumb": "New York > Gunks > Trapps > The Yellow Wall And The Seasons > No Man's Land ( 5.11 6c+ 23 VIII- 23 E4 5c )",
+   "coordArea": "The Yellow Wall And The Seasons",
+   "approx": false,
+   "lat": 41.74756,
+   "lng": -74.17576,
+   "addedOn": "2026-10-31",
+   "usedOn": []
+  },
+  {
+   "id": "110630687",
+   "photoUrl": "https://www.mountainproject.com/photo/110630687/the-captain",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/110630687_medium_1494341800.jpg?cache=1658278366",
+   "title": "The Captain",
+   "breadcrumb": "California > Yosemite NP > Yosemite Valley > Valley N Side > B. El Capitan",
+   "coordArea": "B. El Capitan",
+   "approx": false,
+   "lat": 37.73051,
+   "lng": -119.6356,
+   "addedOn": "2026-10-31",
+   "usedOn": []
+  },
+  {
+   "id": "116731730",
+   "photoUrl": "https://www.mountainproject.com/photo/116731730/bolt-replacement-set-up-tuolumne-meadows",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/116731730_medium_1555253593.jpg?cache=1673533318",
+   "title": "Bolt replacement set-up, Tuolumne Meadows",
+   "breadcrumb": "California > Yosemite NP > Tuolumne Meadows",
+   "coordArea": "Tuolumne Meadows",
+   "approx": false,
+   "lat": 37.87401,
+   "lng": -119.35782,
+   "addedOn": "2026-10-31",
+   "usedOn": []
+  },
+  {
+   "id": "122725921",
+   "photoUrl": "https://www.mountainproject.com/photo/122725921/i-was-happy-to-see-this-sign-at-the-parking-lot-and-think-theres-some-important-",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/122725921_medium_1657630028.jpg?cache=1787154289",
+   "title": "I was happy to see this sign at the parking lot and think there's some important information here for anybody that may need it.",
+   "breadcrumb": "Massachusetts > Western MA > Hanging Mountain",
+   "coordArea": "Hanging Mountain",
+   "approx": false,
+   "lat": 42.07016,
+   "lng": -73.06375,
+   "addedOn": "2026-10-31",
+   "usedOn": []
+  },
+  {
+   "id": "126267589",
+   "photoUrl": "https://www.mountainproject.com/photo/126267589/extreme-hiking",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/126267589_medium_1717164641.jpg?cache=1786060116",
+   "title": "Extreme Hiking",
+   "breadcrumb": "California > San Diego County > N San Diego County > Mt Woodson > Fry Koegel Trail > Brain Stem Rock > Extreme Hiking ( 5.10d 6b+ 21 VII+ 21 E3 5b )",
+   "coordArea": "Brain Stem Rock",
+   "approx": false,
+   "lat": 33.01251,
+   "lng": -116.97583,
+   "addedOn": "2026-10-31",
+   "usedOn": []
+  },
+  {
+   "id": "106080010",
+   "photoUrl": "https://www.mountainproject.com/photo/106080010/lake-koocanusa-from-the-crags",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/106080010_medium_1558472248.jpg?cache=1701315161",
+   "title": "Lake Koocanusa from the crags",
+   "breadcrumb": "Montana",
+   "coordArea": "Montana",
+   "approx": false,
+   "lat": 46.43212,
+   "lng": -112.83959,
+   "addedOn": "2026-10-31",
+   "usedOn": []
+  },
+  {
+   "id": "112222681",
+   "photoUrl": "https://www.mountainproject.com/photo/112222681/emmett-exits-the-chimney-section-on-pitch-3",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/112222681_medium_1494327446.jpg?cache=1793122272",
+   "title": "Emmett exits the chimney section on pitch 3!",
+   "breadcrumb": "New York > Adirondacks > Wilmington Region > Moss Cliff > Hard Times ( 5.9+ 5c 17 VI 17 E1 5a )",
+   "coordArea": "Moss Cliff",
+   "approx": false,
+   "lat": 44.34048,
+   "lng": -73.89977,
+   "addedOn": "2026-10-31",
+   "usedOn": []
+  },
+  {
+   "id": "107855670",
+   "photoUrl": "https://www.mountainproject.com/photo/107855670/jesse-schultz-leading-the-the-great-second-pitch",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/107855670_medium_1494215732.jpg?cache=1701317743",
+   "title": "Jesse Schultz leading the the great second pitch.",
+   "breadcrumb": "Arizona > Southern Arizona > Cochise Stronghold > W Stronghold > Sheepshead Area Southwest > Sheepshead > Bantam of the Opera ( 5.10+ 6b+ 21 VII+ 20 E3 5b )",
+   "coordArea": "Sheepshead",
+   "approx": false,
+   "lat": 31.87031,
+   "lng": -109.99388,
+   "addedOn": "2026-10-31",
+   "usedOn": []
+  },
+  {
+   "id": "108583815",
+   "photoUrl": "https://www.mountainproject.com/photo/108583815/corey-on-the-first-pitch-of-the-lieback-great-lead",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/108583815_medium_1494289620.jpg?cache=1750176805",
+   "title": "Corey on the first pitch of 'The Lieback.' Great lead!",
+   "breadcrumb": "California > Southern Sierra Nevada Western Slope > Southern Sierra The Needles Kern River Domelands Etc > Kernville Rock Aka Kern Slabs > Lieback ( 5.8 5b 16 VI- 15 HVS 4c )",
+   "coordArea": "Kernville Rock Aka Kern Slabs",
+   "approx": false,
+   "lat": 35.81569,
+   "lng": -118.45446,
+   "addedOn": "2026-10-31",
+   "usedOn": []
+  },
+  {
+   "id": "112360176",
+   "photoUrl": "https://www.mountainproject.com/photo/112360176/penny-lane-photo-by-dan-krauss",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/112360176_medium_1494300408.jpg?cache=1779247627",
+   "title": "Penny Lane Photo by Dan Krauss",
+   "breadcrumb": "International > N America > Canada > British Columbia > Squamish > Smoke Bluffs > Penny Lane > Penny Lane ( 5.9 5c 17 VI 17 HVS 5a )",
+   "coordArea": "Penny Lane",
+   "approx": false,
+   "lat": 49.7049,
+   "lng": -123.1378,
+   "addedOn": "2026-10-31",
+   "usedOn": []
+  },
+  {
+   "id": "204134969",
+   "photoUrl": "https://www.mountainproject.com/photo/204134969/the-split-on-split-dome-joshua-tree-np",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/204134969_medium_1793406574.jpg?cache=1793406655",
+   "title": "The split on Split Dome, Joshua Tree NP",
+   "breadcrumb": "California > Joshua Tree NP > Pinto Basin > Split Rocks > Split Rocks East > Split Dome",
+   "coordArea": "Split Dome",
+   "approx": false,
+   "lat": 34.0097,
+   "lng": -116.0551,
+   "addedOn": "2026-10-31",
+   "usedOn": []
+  },
+  {
+   "id": "117051574",
+   "photoUrl": "https://www.mountainproject.com/photo/117051574/lost-in-space",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/117051574_medium_1559332423.jpg?cache=1788977088",
+   "title": "Lost in Space",
+   "breadcrumb": "N Carolina > Northern Mountains Region > Linville Gorge > Hawksbill Mtn > Main Wall > Lost in Space ( 5.10b 6a+ 19 VII- 19 E2 5b )",
+   "coordArea": "Main Wall",
+   "approx": false,
+   "lat": 35.91381,
+   "lng": -81.88637,
+   "addedOn": "2026-10-31",
+   "usedOn": []
+  },
+  {
+   "id": "204134433",
+   "photoUrl": "https://www.mountainproject.com/photo/204134433/looking-up-at-czech-cows-say-boo-510a-joshua-tree-np",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/204134433_medium_1793401829.jpg?cache=1793401863",
+   "title": "Looking up at Czech Cows Say Boo (5.10a), Joshua Tree NP",
+   "breadcrumb": "California > Joshua Tree NP > Pinto Basin > Split Rocks > Split Rocks West > Screamer Rocks > Cling Or Fling Corridor > Cling Or Fling Corridor North Side > Czech Cows Say Boo ( 5.10a 6a 18 VI+ 18 E1 5a )",
+   "coordArea": "Cling Or Fling Corridor North Side",
+   "approx": false,
+   "lat": 34.00777,
+   "lng": -116.05909,
+   "addedOn": "2026-10-31",
+   "usedOn": []
+  },
+  {
+   "id": "201854240",
+   "photoUrl": "https://www.mountainproject.com/photo/201854240/mid-crux-moves",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/201854240_medium_1760152172.jpg?cache=1785970798",
+   "title": "Mid crux moves",
+   "breadcrumb": "Arizona > Central Arizona > *Prescott Area > Granite Dells > Crags Along The Peavine Trail > Canyon Wren Canyon > Niche > Whip Chatterly ( 5.12a 7a+ 25 VIII+ 25 E5 6a )",
+   "coordArea": "Niche",
+   "approx": false,
+   "lat": 34.60073,
+   "lng": -112.39873,
+   "addedOn": "2026-10-31",
+   "usedOn": []
+  },
+  {
+   "id": "204135199",
+   "photoUrl": "https://www.mountainproject.com/photo/204135199/what-a-view",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/204135199_medium_1793408781.jpg?cache=1793408788",
+   "title": "What a view.",
+   "breadcrumb": "Colorado > Boulder > Flatirons > South > Fatiron > E Face/Fatiron ( 5.5 4b 13 IV+ 11 MS 4a )",
+   "coordArea": "Fatiron",
+   "approx": false,
+   "lat": 39.95086,
+   "lng": -105.28701,
+   "addedOn": "2026-10-31",
+   "usedOn": []
+  },
+  {
+   "id": "204134863",
+   "photoUrl": "https://www.mountainproject.com/photo/204134863/tiny-natural-arch-near-screamer-rocks-joshua-tree-np",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/204134863_medium_1793405432.jpg?cache=1793405437",
+   "title": "Tiny natural arch near Screamer Rocks, Joshua Tree NP",
+   "breadcrumb": "California > Joshua Tree NP > Pinto Basin > Split Rocks > Split Rocks West > Screamer Rocks > Screamer Rocks (South)",
+   "coordArea": "Screamer Rocks (South)",
+   "approx": false,
+   "lat": 34.00731,
+   "lng": -116.05845,
+   "addedOn": "2026-10-31",
+   "usedOn": []
+  },
+  {
+   "id": "110155826",
+   "photoUrl": "https://www.mountainproject.com/photo/110155826/coming-down",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/110155826_medium_1494370525.jpg?cache=1789272292",
+   "title": "Coming down!",
+   "breadcrumb": "International > N America > Mexico > Nuevo Leon > El Potrero Chico > Timewave Buttress > Time Wave Zero ( 5.12a 7a+ 25 VIII+ 25 E5 6a )",
+   "coordArea": "Timewave Buttress",
+   "approx": false,
+   "lat": 25.9474,
+   "lng": -100.47958,
+   "addedOn": "2026-10-31",
+   "usedOn": []
   }
- ]
+ ],
+ "failures": {}
 }
