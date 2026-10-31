@@ -1,0 +1,94 @@
+name: Daily Crag Guesser
+
+on:
+  schedule:
+    # Weekdays at 14:00 and 15:00 UTC. The script only goes ahead when it is
+    # POST_HOUR in TZ_NAME, so exactly one of the two runs does the work and
+    # daylight saving changes take care of themselves. Change the days here
+    # (1-5 = Mon-Fri; use * for every day).
+    - cron: "0 14,15 * * 1-5"
+  workflow_dispatch:
+    inputs:
+      force:
+        description: "Rebuild today's set even if it already exists"
+        type: boolean
+        default: false
+  push:
+    branches: [main]
+    paths: ["site/**"]
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: crag-guesser
+  cancel-in-progress: false
+
+env:
+  TZ_NAME: America/Denver   # defines "today" and the posting hour
+  POST_HOUR: "8"            # local hour to post (0-23)
+  PHOTOS_PER_DAY: "5"
+
+jobs:
+  daily:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deploy.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Build today's set
+        id: daily
+        if: github.event_name != 'push'
+        run: |
+          ARGS="--tz $TZ_NAME --count $PHOTOS_PER_DAY"
+          if [ "${{ github.event_name }}" = "schedule" ]; then ARGS="$ARGS --at-hour $POST_HOUR"; fi
+          if [ "${{ inputs.force }}" = "true" ]; then ARGS="$ARGS --force"; fi
+          python3 scripts/daily.py $ARGS
+
+      - name: Save the new set to the repository
+        if: github.event_name != 'push' && steps.daily.outputs.skip != 'true'
+        run: |
+          git config user.name "crag-guesser-bot"
+          git config user.email "crag-guesser-bot@users.noreply.github.com"
+          git add data site/data
+          git diff --cached --quiet || git commit -m "Daily set for ${{ steps.daily.outputs.date }}"
+          git push
+
+      - uses: actions/configure-pages@v5
+        if: steps.daily.outputs.skip != 'true'
+
+      - uses: actions/upload-pages-artifact@v3
+        if: steps.daily.outputs.skip != 'true'
+        with:
+          path: site
+
+      - name: Publish the page
+        id: deploy
+        if: steps.daily.outputs.skip != 'true'
+        uses: actions/deploy-pages@v4
+
+      - name: Post to Slack
+        if: github.event_name != 'push' && steps.daily.outputs.skip != 'true'
+        env:
+          SLACK_WEBHOOK_URL: ${{ secrets.SLACK_WEBHOOK_URL }}
+          PAGES_URL: ${{ vars.PAGES_URL }}
+        run: python3 scripts/post_slack.py
+
+      - name: Tell Slack if something broke
+        if: failure()
+        env:
+          SLACK_WEBHOOK_URL: ${{ secrets.SLACK_WEBHOOK_URL }}
+          RUN_URL: ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}
+        run: |
+          [ -n "$SLACK_WEBHOOK_URL" ] || exit 0
+          curl -sS -X POST -H 'Content-type: application/json' \
+            --data "{\"text\":\":warning: Crag Guesser's daily run failed. Logs: $RUN_URL\"}" \
+            "$SLACK_WEBHOOK_URL"
