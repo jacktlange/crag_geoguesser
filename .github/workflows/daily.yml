@@ -75,20 +75,20 @@ jobs:
         if: steps.daily.outputs.skip != 'true'
         uses: actions/deploy-pages@v4
 
-      - name: Post to Slack
+      - name: Post to Discord
         if: github.event_name != 'push' && steps.daily.outputs.skip != 'true'
         env:
-          SLACK_WEBHOOK_URL: ${{ secrets.SLACK_WEBHOOK_URL }}
+          DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
           PAGES_URL: ${{ vars.PAGES_URL }}
-        run: python3 scripts/post_slack.py
+        run: python3 scripts/post_discord.py
 
-      - name: Tell Slack if something broke
+      - name: Tell Discord if something broke
         if: failure()
         env:
-          SLACK_WEBHOOK_URL: ${{ secrets.SLACK_WEBHOOK_URL }}
+          DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
           RUN_URL: ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}
         run: |
-          [ -n "$SLACK_WEBHOOK_URL" ] || exit 0
+          [ -n "$DISCORD_WEBHOOK_URL" ] || exit 0
           curl -sS -X POST -H 'Content-type: application/json' \
-            --data "{\"text\":\":warning: Crag Guesser's daily run failed. Logs: $RUN_URL\"}" \
-            "$SLACK_WEBHOOK_URL"
+            --data "{\"content\":\":warning: Crag Guesser's daily run failed. Logs: <$RUN_URL>\"}" \
+            "$DISCORD_WEBHOOK_URL"

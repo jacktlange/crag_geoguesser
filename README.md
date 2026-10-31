@@ -1,12 +1,12 @@
 # Crag Guesser
 
-A daily GeoGuessr-style game for a Slack channel, using climbing photos from the
+A daily GeoGuessr-style game for a Discord channel, using climbing photos from the
 Mountain Project homepage slideshow. Every weekday morning a GitHub Action:
 
 1. adds new slideshow photos to a pool (skipping ice, snow, maps and drawings),
 2. picks the day's photos (least-used first, same set for everyone),
 3. publishes the game page on GitHub Pages,
-4. posts a link to your Slack channel.
+4. posts a link to your Discord channel.
 
 Players guess on a map, see their distance and score, and copy a Wordle-style
 result like this to paste in the channel:
@@ -20,7 +20,7 @@ https://yourname.github.io/crag-guesser/
 Guesses are scored in the browser and kept in that browser, so this is an
 honor-system game: one try per person per day is enforced only by the page,
 and the answers are visible to anyone who opens the page's data. There is no
-shared leaderboard; people compare pasted results in Slack.
+shared leaderboard; people compare pasted results in Discord.
 
 ## Setup (about 15 minutes)
 
@@ -30,14 +30,15 @@ shared leaderboard; people compare pasted results in Slack.
    deployment → Source: GitHub Actions**.
 3. **Allow the job to save the day's set:** **Settings → Actions → General →
    Workflow permissions → Read and write permissions**.
-4. **Create a Slack incoming webhook:** go to <https://api.slack.com/apps>,
-   create an app, turn on **Incoming Webhooks**, add a webhook for your channel,
-   and copy its URL. Your workspace admin may need to approve the app.
+4. **Create a Discord webhook:** you need the *Manage Webhooks* permission on
+   the server. Open the channel's settings (gear icon) → **Integrations →
+   Webhooks → New Webhook**, pick the channel, and click **Copy Webhook URL**.
+   Treat the URL like a password: anyone who has it can post to the channel.
 5. **Save the webhook as a secret:** **Settings → Secrets and variables →
-   Actions → New repository secret**, name `SLACK_WEBHOOK_URL`.
+   Actions → New repository secret**, name `DISCORD_WEBHOOK_URL`.
 6. **Run it once by hand:** **Actions → Daily Crag Guesser → Run workflow**.
-   This builds the first set, publishes the page, and posts to Slack. Open the
-   link in the Slack message to check that photos and the map load.
+   This builds the first set, publishes the page, and posts to Discord. Open the
+   link in the Discord message to check that photos and the map load.
 
 After that it runs by itself on weekdays.
 
@@ -81,7 +82,7 @@ pool starts small and a short set (or repeats) is normal at first. To add more:
 
 ## When something goes wrong
 
-- **Slack gets a "daily run failed" message:** open the link in it to see the
+- **Discord gets a "daily run failed" message:** open the link in it to see the
   log. Yellow warnings in a successful run (for example "could not read the
   homepage") mean the game still ran from the existing pool.
 - **Mountain Project blocks GitHub's servers or changes its layout:** the run
@@ -98,7 +99,7 @@ pool starts small and a short set (or repeats) is normal at first. To add more:
 ```
 python3 scripts/daily.py --date 2026-11-04       # build a set (needs internet)
 python3 scripts/daily.py --no-scrape             # build from the pool only
-python3 scripts/post_slack.py --dry-run          # preview the Slack message
+python3 scripts/post_discord.py --dry-run        # preview the Discord message
 python3 -m http.server -d site                   # then open http://localhost:8000
 ```
 
@@ -118,10 +119,10 @@ If Python reports `CERTIFICATE_VERIFY_FAILED`, run `pip3 install certifi`
 ## Layout
 
 ```
-.github/workflows/daily.yml   the schedule, deploy, and Slack steps
+.github/workflows/daily.yml   the schedule, deploy, and Discord steps
 scripts/mp.py                 Mountain Project scraping and filters
 scripts/daily.py              builds the day's set
-scripts/post_slack.py         posts to Slack
+scripts/post_discord.py       posts to Discord
 data/pool.json                every usable photo so far (not published)
 data/exclude.txt              photos to never use
 data/extra_photos.txt         photo links to add to the pool
