@@ -1185,6 +1185,51 @@
    "lat": 37.73288,
    "lng": -83.63751,
    "name": null
+  },
+  "https://www.mountainproject.com/area/105901638/lost-dome-main-area": {
+   "lat": 34.72377,
+   "lng": -98.74909,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/105808437/medicine-bow-peak-area": {
+   "lat": 41.3408,
+   "lng": -106.326,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/110678832/west-fork": {
+   "lat": 34.99066,
+   "lng": -111.74236,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/105929488/the-precipice-aka-the-south-wall": {
+   "lat": 44.34691,
+   "lng": -68.19013,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/107192115/goat-wall": {
+   "lat": 48.62285,
+   "lng": -120.44865,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/119411443/aeolian-boulder": {
+   "lat": 48.65879,
+   "lng": -122.46134,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/116223284/surferssurvival-beaches-aguadilla": {
+   "lat": 18.5054,
+   "lng": -67.14108,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/125680936/satellite-boulders": {
+   "lat": 33.73938,
+   "lng": -116.71303,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/111312142/tuttle-obelisk": {
+   "lat": 36.53717,
+   "lng": -118.22359,
+   "name": null
   }
  },
  "rejected": {
@@ -4602,6 +4647,162 @@
    "lat": 37.73288,
    "lng": -83.63751,
    "addedOn": "2026-10-31",
+   "usedOn": []
+  },
+  {
+   "id": "106095748",
+   "photoUrl": "https://www.mountainproject.com/photo/106095748/chris-cochran-pulling-through-the-sharp-granite-on-come-get-your-love-10a-lost-d",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/106095748_medium_1558647280.jpg?cache=1768011991",
+   "title": "Chris Cochran pulling through the sharp granite on Come Get Your Love, 10a, Lost Dome, WMWR, OK.",
+   "breadcrumb": "Oklahoma > Wichita Mountains Wildlife Refuge > Charon's Gardens > Lost Dome Region > Lost Dome Main Area > Come & Get Your Love ( 5.10a 6a 18 VI+ 18 E1 5a )",
+   "coordArea": "Lost Dome Main Area",
+   "approx": false,
+   "lat": 34.72377,
+   "lng": -98.74909,
+   "addedOn": "2026-11-01",
+   "usedOn": []
+  },
+  {
+   "id": "107238743",
+   "photoUrl": "https://www.mountainproject.com/photo/107238743/the-red-line-indicates-our-path-on-leftover-direct-although-it-also-shows-the-fi",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/107238743_medium_1494175535.jpg?cache=1663790514",
+   "title": "The red line indicates our path on Leftover Direct, although it also shows the first half of any climb that goes to the Red Spot.  For other routes, follow the diagonal ledge from our third belay up and left off the face.",
+   "breadcrumb": "Wyoming > Laramie Area > Snowy Range > Medicine Bow Peak Area > Red Spot ( 5.5 4b 13 IV+ 11 MS 4a R)",
+   "coordArea": "Medicine Bow Peak Area",
+   "approx": false,
+   "lat": 41.3408,
+   "lng": -106.326,
+   "addedOn": "2026-11-01",
+   "usedOn": []
+  },
+  {
+   "id": "107309155",
+   "photoUrl": "https://www.mountainproject.com/photo/107309155/laurel-knob-with-fathom-center-late-sept-2011",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/107309155_medium_1494180465.jpg?cache=1738691915",
+   "title": "Laurel Knob with Fathom center late Sept 2011",
+   "breadcrumb": "N Carolina > Southern Mountains Region > Laurel Knob > Fathom ( 5.10a 6a 18 VI+ 18 E1 5a )",
+   "coordArea": "Laurel Knob",
+   "approx": false,
+   "lat": 35.15026,
+   "lng": -83.0564,
+   "addedOn": "2026-11-01",
+   "usedOn": []
+  },
+  {
+   "id": "110552174",
+   "photoUrl": "https://www.mountainproject.com/photo/110552174/jacky-exiting-the-p6-window",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/110552174_medium_1494340013.jpg?cache=1776532002",
+   "title": "Jacky exiting the P6 window",
+   "breadcrumb": "Arizona > Northern Arizona > Oak Creek Canyon > W Fork > Engagement ( 5.10+ 6b+ 21 VII+ 20 E3 5b )",
+   "coordArea": "W Fork",
+   "approx": false,
+   "lat": 34.99066,
+   "lng": -111.74236,
+   "addedOn": "2026-11-01",
+   "usedOn": []
+  },
+  {
+   "id": "115186277",
+   "photoUrl": "https://www.mountainproject.com/photo/115186277/benson-sinking-the-jams-at-the-crux",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/115186277_medium_1536578286.jpg?cache=1779723133",
+   "title": "Benson sinking the jams at the crux",
+   "breadcrumb": "Maine > -Acadia NP > The Precipice Aka The South Wall > Connecticut Cracks ( 5.11a 6c 22 VII+ 22 E3 5c )",
+   "coordArea": "The Precipice Aka The South Wall",
+   "approx": false,
+   "lat": 44.34691,
+   "lng": -68.19013,
+   "addedOn": "2026-11-01",
+   "usedOn": []
+  },
+  {
+   "id": "116089706",
+   "photoUrl": "https://www.mountainproject.com/photo/116089706/flyboys",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/116089706_medium_1542055367.jpg?cache=1773267355",
+   "title": "Flyboys",
+   "breadcrumb": "Washington > Okanogan > Mazama > Goat Wall > Flyboys ( 5.9 5c 17 VI 17 HVS 5a )",
+   "coordArea": "Goat Wall",
+   "approx": false,
+   "lat": 48.62285,
+   "lng": -120.44865,
+   "addedOn": "2026-11-01",
+   "usedOn": []
+  },
+  {
+   "id": "119477497",
+   "photoUrl": "https://www.mountainproject.com/photo/119477497/trip-punchin-a-lap",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/119477497_medium_1598899035.jpg?cache=1702073859",
+   "title": "Trip punchin a lap",
+   "breadcrumb": "Washington > Northwest Region > Bellingham And Mt Baker Hwy > Bellingham Area > Larrabee > Lost Ledge > Main Area > Aeolian > Aeolian Boulder > Aeolian ( V6 7A )",
+   "coordArea": "Aeolian Boulder",
+   "approx": false,
+   "lat": 48.65879,
+   "lng": -122.46134,
+   "addedOn": "2026-11-01",
+   "usedOn": []
+  },
+  {
+   "id": "122311186",
+   "photoUrl": "https://www.mountainproject.com/photo/122311186/tom-soloing-some-easy-bolted-route",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/122311186_medium_1651192022.jpg?cache=1760471142",
+   "title": "Tom soloing some easy bolted route",
+   "breadcrumb": "International > N America > Puerto Rico > Surferssurvival Beaches Aguadilla",
+   "coordArea": "Surferssurvival Beaches Aguadilla",
+   "approx": false,
+   "lat": 18.5054,
+   "lng": -67.14108,
+   "addedOn": "2026-11-01",
+   "usedOn": []
+  },
+  {
+   "id": "108375954",
+   "photoUrl": "https://www.mountainproject.com/photo/108375954/backcountry-bouldering",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/108375954_medium_1494279569.jpg?cache=1708118813",
+   "title": "Backcountry bouldering.",
+   "breadcrumb": "California > San Jacinto Mountains > Backcountry Bouldering > Satellite Boulders > Monkey Boy Highway ( V3 6A )",
+   "coordArea": "Satellite Boulders",
+   "approx": false,
+   "lat": 33.73938,
+   "lng": -116.71303,
+   "addedOn": "2026-11-01",
+   "usedOn": []
+  },
+  {
+   "id": "204143188",
+   "photoUrl": "https://www.mountainproject.com/photo/204143188/the-sick-exposed-traverse-on-pitch-5",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/204143188_medium_1793498244.jpg?cache=1793498346",
+   "title": "The sick exposed traverse on pitch 5",
+   "breadcrumb": "California > High Sierra > 14 Whitney Surrounding Peaks > Tuttle Obelisk > Schools Out ( 5.9+ 5c 17 VI 17 E1 5a )",
+   "coordArea": "Tuttle Obelisk",
+   "approx": false,
+   "lat": 36.53717,
+   "lng": -118.22359,
+   "addedOn": "2026-11-01",
+   "usedOn": []
+  },
+  {
+   "id": "121009205",
+   "photoUrl": "https://www.mountainproject.com/photo/121009205/me-and-my-brother-aidans-ashes-on-the-top",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/121009205_medium_1626110968.jpg?cache=1791487151",
+   "title": "Me and my brother Aidan's ashes on the top",
+   "breadcrumb": "California > Yosemite NP > Yosemite Valley > Valley N Side > B. El Capitan > 3. Southeast Face > Zodiac ( 5.7 5a 15 V+ 13 MVS 4b C3)",
+   "coordArea": "3. Southeast Face",
+   "approx": false,
+   "lat": 37.72954,
+   "lng": -119.63438,
+   "addedOn": "2026-11-01",
+   "usedOn": []
+  },
+  {
+   "id": "204142757",
+   "photoUrl": "https://www.mountainproject.com/photo/204142757/last-pitch",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/204142757_medium_1793495561.jpg?cache=1793498501",
+   "title": "Last pitch",
+   "breadcrumb": "California > High Sierra > 14 Whitney Surrounding Peaks > Tuttle Obelisk > Schools Out ( 5.9+ 5c 17 VI 17 E1 5a )",
+   "coordArea": "Tuttle Obelisk",
+   "approx": false,
+   "lat": 36.53717,
+   "lng": -118.22359,
+   "addedOn": "2026-11-01",
    "usedOn": []
   }
  ],
