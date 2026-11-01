@@ -1285,6 +1285,61 @@
    "lat": 43.41812,
    "lng": -89.72723,
    "name": null
+  },
+  "https://www.mountainproject.com/area/105905087/barton-creek-greenbelt": {
+   "lat": 30.2439,
+   "lng": -97.8005,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/105920215/la-selva-jungle-wall": {
+   "lat": 25.94838,
+   "lng": -100.47698,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/105734315/shipwreck-wall": {
+   "lat": 38.59565,
+   "lng": -123.34932,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/112845124/death-valley-np": {
+   "lat": 36.49666,
+   "lng": -117.11418,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/106908934/weetamoo-boulder": {
+   "lat": 42.4988,
+   "lng": -70.99573,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/110103756/mt-goode": {
+   "lat": 48.48291,
+   "lng": -120.9108,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/105716907/happy-turk-hoodoo": {
+   "lat": 38.48266,
+   "lng": -109.60131,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/105732024/cannibal-crag": {
+   "lat": 36.14888,
+   "lng": -115.42273,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/119538644/central-joshua-tree": {
+   "lat": 34.00763,
+   "lng": -116.13394,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/105793817/near-end-aka-twin-cracks-area": {
+   "lat": 47.02288,
+   "lng": -119.97333,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/114557647/southwest-face": {
+   "lat": 37.73971,
+   "lng": -119.54003,
+   "name": null
   }
  },
  "rejected": {
@@ -5015,6 +5070,162 @@
    "lng": -89.72723,
    "addedOn": "2026-11-01",
    "usedOn": []
+  },
+  {
+   "id": "108802092",
+   "photoUrl": "https://www.mountainproject.com/photo/108802092/knee-bar-bat-hang-zone-and-moreif-you-look-really-close",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/108802092_medium_1494296674.jpg?cache=1750710739",
+   "title": "Knee bar, bat hang zone! And more...if you look really close. (:",
+   "breadcrumb": "Texas > Austin Area > Barton Creek Greenbelt",
+   "coordArea": "Barton Creek Greenbelt",
+   "approx": false,
+   "lat": 30.2439,
+   "lng": -97.8005,
+   "addedOn": "2026-11-01",
+   "usedOn": []
+  },
+  {
+   "id": "111069934",
+   "photoUrl": "https://www.mountainproject.com/photo/111069934/on-the-summit-belaying-derek",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/111069934_medium_1494339190.jpg?cache=1741026540",
+   "title": "on the summit belaying derek",
+   "breadcrumb": "International > N America > Mexico > Nuevo Leon > El Potrero Chico > La Selva Jungle Wall > Space Boyz ( 5.10d 6b+ 21 VII+ 21 E3 5b )",
+   "coordArea": "La Selva Jungle Wall",
+   "approx": false,
+   "lat": 25.94838,
+   "lng": -100.47698,
+   "addedOn": "2026-11-01",
+   "usedOn": []
+  },
+  {
+   "id": "112035943",
+   "photoUrl": "https://www.mountainproject.com/photo/112035943/we-found-ourselves-over-a-rising-tide-beside-the-setting-sun-it-was-extraordinar",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/112035943_medium_1494317584.jpg?cache=1762282294",
+   "title": "We found ourselves over a rising tide beside the setting sun. It was extraordinary. PC: j cox",
+   "breadcrumb": "California > San Francisco Bay Area > Wine Countrynortheast Bay > Salt Point SP > Shipwreck Wall > Skaliwag ( 5.10a 6a 18 VI+ 18 E1 5a )",
+   "coordArea": "Shipwreck Wall",
+   "approx": false,
+   "lat": 38.59565,
+   "lng": -123.34932,
+   "addedOn": "2026-11-01",
+   "usedOn": []
+  },
+  {
+   "id": "116138356",
+   "photoUrl": "https://www.mountainproject.com/photo/116138356/awesome-510-dihedral-deep-in-death-valley",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/116138356_medium_1543210025.jpg?cache=1739553182",
+   "title": "Awesome 5.10+ dihedral deep in Death Valley.",
+   "breadcrumb": "California > High Desert > Death Valley NP",
+   "coordArea": "Death Valley NP",
+   "approx": false,
+   "lat": 36.49666,
+   "lng": -117.11418,
+   "addedOn": "2026-11-01",
+   "usedOn": []
+  },
+  {
+   "id": "118330361",
+   "photoUrl": "https://www.mountainproject.com/photo/118330361/golden-arete",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/118330361_medium_1581356258.jpg?cache=1702073591",
+   "title": "Golden Arete.",
+   "breadcrumb": "Massachusetts > N Shore > Lynn Woods > Weetamoo Area > Weetamoo Boulder > I. Golden Arete ( V7 7A+ )",
+   "coordArea": "Weetamoo Boulder",
+   "approx": false,
+   "lat": 42.4988,
+   "lng": -70.99573,
+   "addedOn": "2026-11-01",
+   "usedOn": []
+  },
+  {
+   "id": "119175794",
+   "photoUrl": "https://www.mountainproject.com/photo/119175794/climbing-just-below-the-big-ledge",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/119175794_medium_1594149736.jpg?cache=1777746767",
+   "title": "Climbing just below the big ledge",
+   "breadcrumb": "Washington > Northwest Region > Hwy 20 And North Cascades National Park > N Cascades > Mt Goode > Northeast Buttress ( 5.5 4b 13 IV+ 11 MS 4a )",
+   "coordArea": "Mt Goode",
+   "approx": false,
+   "lat": 48.48291,
+   "lng": -120.9108,
+   "addedOn": "2026-11-01",
+   "usedOn": []
+  },
+  {
+   "id": "119185929",
+   "photoUrl": "https://www.mountainproject.com/photo/119185929/dangling-off-aiders-on-the-happy-turk-hoodoo-cold-autumn-days-in-the-desert-are-",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/119185929_medium_1594323714.jpg?cache=1783291012",
+   "title": "Dangling off aiders on the Happy Turk Hoodoo.  Cold autumn days in the desert are dreamy!",
+   "breadcrumb": "Utah > Southeast Utah > Grand County > Kane Springs Canyon > Happy Turk Hoodoo > Happy Turk ( 5.8 5b 16 VI- 15 HVS 4c C1)",
+   "coordArea": "Happy Turk Hoodoo",
+   "approx": false,
+   "lat": 38.48266,
+   "lng": -109.60131,
+   "addedOn": "2026-11-01",
+   "usedOn": []
+  },
+  {
+   "id": "120343575",
+   "photoUrl": "https://www.mountainproject.com/photo/120343575/cannibal-crag",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/120343575_medium_1614729561.jpg?cache=1771365621",
+   "title": "Cannibal Crag.",
+   "breadcrumb": "Nevada > Southern Nevada > Red Rocks > Calico Basin > Red Spring > Cannibal Crag",
+   "coordArea": "Cannibal Crag",
+   "approx": false,
+   "lat": 36.14888,
+   "lng": -115.42273,
+   "addedOn": "2026-11-01",
+   "usedOn": []
+  },
+  {
+   "id": "204146564",
+   "photoUrl": "https://www.mountainproject.com/photo/204146564/trough-below-barker-dam-joshua-tree-np",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/204146564_medium_1793555980.jpg?cache=1793556015",
+   "title": "Trough below Barker Dam, Joshua Tree NP",
+   "breadcrumb": "California > Joshua Tree NP > Central Joshua Tree",
+   "coordArea": "Central Joshua Tree",
+   "approx": false,
+   "lat": 34.00763,
+   "lng": -116.13394,
+   "addedOn": "2026-11-01",
+   "usedOn": []
+  },
+  {
+   "id": "111881137",
+   "photoUrl": "https://www.mountainproject.com/photo/111881137/finishing-in-style-on-a-midsummer-night39s-dream",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/111881137_medium_1494309358.jpg?cache=1614710333",
+   "title": "Finishing in style on A Midsummer Night&#39;s Dream",
+   "breadcrumb": "Washington > Central Region > Frenchman Coulee Vantage > Echo Basin > Sunshine Wall > Near End Aka Twin Cracks Area > A Midsummer Night's D… ( 5.11a 6c 22 VII+ 22 E3 5c )",
+   "coordArea": "Near End Aka Twin Cracks Area",
+   "approx": false,
+   "lat": 47.02288,
+   "lng": -119.97333,
+   "addedOn": "2026-11-01",
+   "usedOn": []
+  },
+  {
+   "id": "106860941",
+   "photoUrl": "https://www.mountainproject.com/photo/106860941/halfway-up-riding-a-saddle",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/106860941_medium_1494146428.jpg?cache=1614710332",
+   "title": "halfway up, riding a saddle.",
+   "breadcrumb": "Washington > Central Region > Frenchman Coulee Vantage > Echo Basin > Sunshine Wall > Near End Aka Twin Cracks Area > Ride 'em Cowboy ( 5.9 5c 17 VI 17 HVS 5a )",
+   "coordArea": "Near End Aka Twin Cracks Area",
+   "approx": false,
+   "lat": 47.02288,
+   "lng": -119.97333,
+   "addedOn": "2026-11-01",
+   "usedOn": []
+  },
+  {
+   "id": "112009840",
+   "photoUrl": "https://www.mountainproject.com/photo/112009840/extreme-stemming-on-snake-dike-thanks-jason-halladay-for-the-beta",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/112009840_medium_1494316168.jpg?cache=1777841959",
+   "title": "Extreme stemming on Snake Dike.  Thanks Jason Halladay for the beta!",
+   "breadcrumb": "California > Yosemite NP > Yosemite Valley > Valley S Side > D. Half Dome > 4. Southwest Face > Snake Dike ( 5.7 5a 15 V+ 13 MVS 4b R)",
+   "coordArea": "4. Southwest Face",
+   "approx": false,
+   "lat": 37.73971,
+   "lng": -119.54003,
+   "addedOn": "2026-11-01",
+   "usedOn": []
   }
  ],
  "failures": {
@@ -5031,7 +5242,8 @@
   "106033851": 1,
   "108348273": 1,
   "110376585": 1,
-  "106177797": 1
+  "106177797": 1,
+  "107046069": 1
  },
  "regions": {
   "105708961": {
@@ -5056,6 +5268,10 @@
   },
   "106316122": {
    "name": "Hawaii",
+   "dry": 0
+  },
+  "105708966": {
+   "name": "Washington",
    "dry": 0
   }
  }
