@@ -1230,6 +1230,61 @@
    "lat": 36.53717,
    "lng": -118.22359,
    "name": null
+  },
+  "https://www.mountainproject.com/area/105835737/stately-pleasure-dome": {
+   "lat": 37.83546,
+   "lng": -119.4577,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/105807524/the-bastille-w-face": {
+   "lat": 39.9304,
+   "lng": -105.283,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/105880394/right-fork": {
+   "lat": 39.28089,
+   "lng": -111.17648,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/105745438/the-wasteland": {
+   "lat": 39.70873,
+   "lng": -107.69268,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/113847595/kung-fu-theatre": {
+   "lat": 39.31356,
+   "lng": -111.18238,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/105855364/the-dry-wall": {
+   "lat": 41.00293,
+   "lng": -111.38901,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/105820889/watch-crystal": {
+   "lat": 37.32033,
+   "lng": -107.83351,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/105746266/capitol-peak": {
+   "lat": 39.1503,
+   "lng": -107.082,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/122298624/makahuna-gulch": {
+   "lat": 20.78748,
+   "lng": -156.54531,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/111871760/mcgregor-point": {
+   "lat": 20.77727,
+   "lng": -156.52304,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/105730068/711-railroad-amphitheater": {
+   "lat": 43.41812,
+   "lng": -89.72723,
+   "name": null
   }
  },
  "rejected": {
@@ -4804,6 +4859,162 @@
    "lng": -118.22359,
    "addedOn": "2026-11-01",
    "usedOn": []
+  },
+  {
+   "id": "105996372",
+   "photoUrl": "https://www.mountainproject.com/photo/105996372/chuck-following-the-great-p2-fingers-crack",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/105996372_medium_1558388749.jpg?cache=1772411447",
+   "title": "Chuck following the great p2 fingers crack.",
+   "breadcrumb": "California > Yosemite NP > Tuolumne Meadows > Stately Pleasure Dome > S Crack ( 5.8 5b 16 VI- 15 HVS 4c R)",
+   "coordArea": "Stately Pleasure Dome",
+   "approx": false,
+   "lat": 37.83546,
+   "lng": -119.4577,
+   "addedOn": "2026-11-01",
+   "usedOn": []
+  },
+  {
+   "id": "106195832",
+   "photoUrl": "https://www.mountainproject.com/photo/106195832/this-photo-was-taken-from-the-base-of-genesis-in-april-2007-we-watched-michael-s",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/106195832_medium_1494087157.jpg?cache=1769105787",
+   "title": "This photo was taken from the base of Genesis in April 2007. We watched Michael solo Hair City, NW Corner, West Buttress, and Outer Space...all in about an hour. I felt lucky to catch the show.  This was only a couple weeks before the tragedy.",
+   "breadcrumb": "Colorado > Boulder > Eldorado Canyon SP > Bastille > Bastille - W Face > Hair City ( 5.9+ 5c 17 VI 17 E1 5a R)",
+   "coordArea": "Bastille - W Face",
+   "approx": false,
+   "lat": 39.9304,
+   "lng": -105.283,
+   "addedOn": "2026-11-01",
+   "usedOn": []
+  },
+  {
+   "id": "106237592",
+   "photoUrl": "https://www.mountainproject.com/photo/106237592/darshan-throws-the-rope-off-the-top-of-the-rostrum",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/106237592_medium_1494090569.jpg?cache=1777479523",
+   "title": "Darshan throws the rope off the top of the Rostrum",
+   "breadcrumb": "California > Yosemite NP > Yosemite Valley > Lower Merced River Canyon > Ba. The Rostrum",
+   "coordArea": "Ba. The Rostrum",
+   "approx": false,
+   "lat": 37.71848,
+   "lng": -119.70799,
+   "addedOn": "2026-11-01",
+   "usedOn": []
+  },
+  {
+   "id": "107659172",
+   "photoUrl": "https://www.mountainproject.com/photo/107659172/isaac-caldiero-fa-on-death-scream-v10",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/107659172_medium_1494203059.jpg?cache=1785339386",
+   "title": "isaac caldiero FA on Death scream v10",
+   "breadcrumb": "Utah > Central Utah > Joe's Valley > Right Fork",
+   "coordArea": "Right Fork",
+   "approx": false,
+   "lat": 39.28089,
+   "lng": -111.17648,
+   "addedOn": "2026-11-01",
+   "usedOn": []
+  },
+  {
+   "id": "108218529",
+   "photoUrl": "https://www.mountainproject.com/photo/108218529/liesel-knee-barring",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/108218529_medium_1494270092.jpg?cache=1701318112",
+   "title": "Liesel knee-barring.",
+   "breadcrumb": "Colorado > Rifle > Rifle Mtn Park > Wasteland > Espresso ( 5.12d 7c 28 IX 28 E6 6b )",
+   "coordArea": "Wasteland",
+   "approx": false,
+   "lat": 39.70873,
+   "lng": -107.69268,
+   "addedOn": "2026-11-01",
+   "usedOn": []
+  },
+  {
+   "id": "113848855",
+   "photoUrl": "https://www.mountainproject.com/photo/113848855/the-crux-of-kung-fu-theatre",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/113848855_medium_1511241215.jpg?cache=1715869118",
+   "title": "The crux of Kung Fu Theatre.",
+   "breadcrumb": "Utah > Central Utah > Joe's Valley > Right Fork > Kung Fu Theatre > Kung Fu Theatre ( V7 7A+ )",
+   "coordArea": "Kung Fu Theatre",
+   "approx": false,
+   "lat": 39.31356,
+   "lng": -111.18238,
+   "addedOn": "2026-11-01",
+   "usedOn": []
+  },
+  {
+   "id": "114387887",
+   "photoUrl": "https://www.mountainproject.com/photo/114387887/climber-chris-rubacha-photo-by-anthony-johnson",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/114387887_medium_1526858296.jpg?cache=1715812315",
+   "title": "Climber Chris Rubacha <br> Photo by Anthony Johnson",
+   "breadcrumb": "Utah > Wasatch Range > Wasatch Back > Echo Canyon > Dry Wall",
+   "coordArea": "Dry Wall",
+   "approx": false,
+   "lat": 41.00293,
+   "lng": -111.38901,
+   "addedOn": "2026-11-01",
+   "usedOn": []
+  },
+  {
+   "id": "120503023",
+   "photoUrl": "https://www.mountainproject.com/photo/120503023/mary-ann-markes-following-through-the-crux-sequence",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/120503023_medium_1617721073.jpg?cache=1725564277",
+   "title": "Mary-Ann Markes following through the crux sequence.",
+   "breadcrumb": "Colorado > Durango > E Animas > I. Watch Crystal > Doctor Doolittle ( 5.11- 6c 22 VIII- 22 E3 5c )",
+   "coordArea": "I. Watch Crystal",
+   "approx": false,
+   "lat": 37.32033,
+   "lng": -107.83351,
+   "addedOn": "2026-11-01",
+   "usedOn": []
+  },
+  {
+   "id": "105902625",
+   "photoUrl": "https://www.mountainproject.com/photo/105902625/josh-howell-descending-the-knife-ridge-after-blasting-the-nw-buttress-in-october",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/105902625_medium_1557939614.jpg?cache=1765900654",
+   "title": "Josh Howell descending the Knife Ridge after blasting the NW Buttress in October, '95 or so.  We got absolutely hammered by weather shortly below K2.",
+   "breadcrumb": "Colorado > Alpine Rock > Capitol Peak > Northeast Ridge (Knif… ( 4th 1 2 I 2 M 1b )",
+   "coordArea": "Capitol Peak",
+   "approx": false,
+   "lat": 39.1503,
+   "lng": -107.082,
+   "addedOn": "2026-11-01",
+   "usedOn": []
+  },
+  {
+   "id": "122301363",
+   "photoUrl": "https://www.mountainproject.com/photo/122301363/pulling-over-the-bulge-on-dont-step-on-the-reef",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/122301363_medium_1650996071.jpg?cache=1747323519",
+   "title": "Pulling over the bulge on \"Don't Step on the Reef\"",
+   "breadcrumb": "Hawaii > Maui > Lahaina Pali Trail > Makahuna Gulch > Don't Step on the Reef ( 5.8 5b 16 VI- 15 HVS 4c )",
+   "coordArea": "Makahuna Gulch",
+   "approx": false,
+   "lat": 20.78748,
+   "lng": -156.54531,
+   "addedOn": "2026-11-01",
+   "usedOn": []
+  },
+  {
+   "id": "111871796",
+   "photoUrl": "https://www.mountainproject.com/photo/111871796/crab",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/111871796_medium_1494308880.jpg?cache=1702071790",
+   "title": "Crab",
+   "breadcrumb": "Hawaii > Maui > McGregor Point > Crab ( V3 6A )",
+   "coordArea": "McGregor Point",
+   "approx": false,
+   "lat": 20.77727,
+   "lng": -156.52304,
+   "addedOn": "2026-11-01",
+   "usedOn": []
+  },
+  {
+   "id": "107092128",
+   "photoUrl": "https://www.mountainproject.com/photo/107092128/tony-brengosz-classically-cool-on-the-upper-portion-of-cop-out",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/107092128_medium_1494165319.jpg?cache=1605620186",
+   "title": "Tony Brengosz classically cool on the upper portion of Cop Out.",
+   "breadcrumb": "Wisconsin > Baraboo Range > Devil's Lake > East Bluff 07 Railroad Tracks > 711 Railroad Amphitheater > Cop-Out ( 5.11a 6c 22 VII+ 22 E3 5c )",
+   "coordArea": "711 Railroad Amphitheater",
+   "approx": false,
+   "lat": 43.41812,
+   "lng": -89.72723,
+   "addedOn": "2026-11-01",
+   "usedOn": []
   }
  ],
  "failures": {
@@ -4841,6 +5052,10 @@
   },
   "105708963": {
    "name": "South Dakota",
+   "dry": 0
+  },
+  "106316122": {
+   "name": "Hawaii",
    "dry": 0
   }
  }
