@@ -1890,6 +1890,36 @@
    "lat": 37.75604,
    "lng": -119.59553,
    "name": null
+  },
+  "https://www.mountainproject.com/area/105926415/the-mordor-wall": {
+   "lat": 44.0636,
+   "lng": -71.16568,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/105708968/wisconsin": {
+   "lat": 44.46518,
+   "lng": -89.47268,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/119624688/upper-tan-corridor": {
+   "lat": 39.51669,
+   "lng": -105.39578,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/105716988/washer-woman": {
+   "lat": 38.39059,
+   "lng": -109.83879,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/109968874/imja-tse-island-peak": {
+   "lat": 27.9225,
+   "lng": 86.9361,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/105931351/out-of-sight-boulder-area": {
+   "lat": 33.01016,
+   "lng": -116.96838,
+   "name": null
   }
  },
  "rejected": {
@@ -7348,6 +7378,84 @@
    "approx": false,
    "lat": 37.75604,
    "lng": -119.59553,
+   "addedOn": "2026-11-02",
+   "usedOn": []
+  },
+  {
+   "id": "106243398",
+   "photoUrl": "https://www.mountainproject.com/photo/106243398/conway-taking-the-shorter-fall-off-the-crux",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/106243398_medium_1494091002.jpg?cache=1782350474",
+   "title": "Conway taking the shorter fall off the crux.",
+   "breadcrumb": "New Hampshire > Cathedral Ledge > Mordor Wall > Cecile ( 5.13d 8b 31 X 32 E8 7a )",
+   "coordArea": "Mordor Wall",
+   "approx": false,
+   "lat": 44.0636,
+   "lng": -71.16568,
+   "addedOn": "2026-11-02",
+   "usedOn": []
+  },
+  {
+   "id": "106909144",
+   "photoUrl": "https://www.mountainproject.com/photo/106909144/somewhere-in-southern-wisconsin",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/106909144_medium_1494150336.jpg?cache=1740444284",
+   "title": "Somewhere in southern Wisconsin...",
+   "breadcrumb": "Wisconsin",
+   "coordArea": "Wisconsin",
+   "approx": false,
+   "lat": 44.46518,
+   "lng": -89.47268,
+   "addedOn": "2026-11-02",
+   "usedOn": []
+  },
+  {
+   "id": "108153091",
+   "photoUrl": "https://www.mountainproject.com/photo/108153091/brian-cruising-the-opportunist",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/108153091_medium_1494266074.jpg?cache=1761437775",
+   "title": "Brian cruising the Opportunist.",
+   "breadcrumb": "Colorado > S Platte > Staunton SP > Staunton Rocks > Meadow Dome > Tan Corridor > Upper Tan Corridor > Opportunist ( 5.11a 6c 22 VII+ 22 E3 5c )",
+   "coordArea": "Upper Tan Corridor",
+   "approx": false,
+   "lat": 39.51669,
+   "lng": -105.39578,
+   "addedOn": "2026-11-02",
+   "usedOn": []
+  },
+  {
+   "id": "108448900",
+   "photoUrl": "https://www.mountainproject.com/photo/108448900/the-view-through-the-huge-window-while-rappelling-on-washer-woman-october-2013",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/108448900_medium_1494283686.jpg?cache=1792382235",
+   "title": "The view through the huge window while rappelling on Washer Woman. October 2013.",
+   "breadcrumb": "Utah > Southeast Utah > San Juan County > Island In The Sky > Washer Woman > In Search Of Suds ( 5.10+ 6b+ 21 VII+ 20 E3 5b )",
+   "coordArea": "Washer Woman",
+   "approx": false,
+   "lat": 38.39059,
+   "lng": -109.83879,
+   "addedOn": "2026-11-02",
+   "usedOn": []
+  },
+  {
+   "id": "115313394",
+   "photoUrl": "https://www.mountainproject.com/photo/115313394/photo-from-the-summit-of-imja-tse-island-peak",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/115313394_medium_1536875734.jpg?cache=1787049918",
+   "title": "Photo from the summit of Imja Tse (Island Peak)",
+   "breadcrumb": "International > Asia > Nepal > Sagarmatha NP > Imja Tse Island Peak > S Face (Easy Snow)",
+   "coordArea": "Imja Tse Island Peak",
+   "approx": false,
+   "lat": 27.9225,
+   "lng": 86.9361,
+   "addedOn": "2026-11-02",
+   "usedOn": []
+  },
+  {
+   "id": "124015820",
+   "photoUrl": "https://www.mountainproject.com/photo/124015820/splitter",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/124015820_medium_1681364705.jpg?cache=1786087936",
+   "title": "Splitter!",
+   "breadcrumb": "California > San Diego County > N San Diego County > Mt Woodson > Out Of Sight Boulder Area > Out of Sight ( 5.9 5c 17 VI 17 HVS 5a )",
+   "coordArea": "Out Of Sight Boulder Area",
+   "approx": false,
+   "lat": 33.01016,
+   "lng": -116.96838,
    "addedOn": "2026-11-02",
    "usedOn": []
   }
