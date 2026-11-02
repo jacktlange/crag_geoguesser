@@ -1340,6 +1340,36 @@
    "lat": 37.73971,
    "lng": -119.54003,
    "name": null
+  },
+  "https://www.mountainproject.com/area/106638539/camp-dick": {
+   "lat": 40.129,
+   "lng": -105.52,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/106815377/blindspot-buttress": {
+   "lat": 37.38572,
+   "lng": -118.67932,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/107712660/mount-thor": {
+   "lat": 66.5379,
+   "lng": -65.3084,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/105744267/shelf-road": {
+   "lat": 38.6296,
+   "lng": -105.223,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/105720906/freak-brothers-dome": {
+   "lat": 34.04285,
+   "lng": -116.14436,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/107577289/bath-rock-west": {
+   "lat": 42.07578,
+   "lng": -113.7227,
+   "name": null
   }
  },
  "rejected": {
@@ -5224,6 +5254,84 @@
    "approx": false,
    "lat": 37.73971,
    "lng": -119.54003,
+   "addedOn": "2026-11-01",
+   "usedOn": []
+  },
+  {
+   "id": "106638610",
+   "photoUrl": "https://www.mountainproject.com/photo/106638610/great-free-camping-right-across-from-the-fingerbanger-boulder-along-the-river",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/106638610_medium_1494127792.jpg?cache=1701316116",
+   "title": "Great free camping right across from the Fingerbanger boulder along the river.",
+   "breadcrumb": "Colorado > Lyons > Camp Dick",
+   "coordArea": "Camp Dick",
+   "approx": false,
+   "lat": 40.129,
+   "lng": -105.52,
+   "addedOn": "2026-11-01",
+   "usedOn": []
+  },
+  {
+   "id": "106910166",
+   "photoUrl": "https://www.mountainproject.com/photo/106910166/secret-footjam-beta",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/106910166_medium_1494150444.jpg?cache=1776485116",
+   "title": "secret footjam beta",
+   "breadcrumb": "California > Eastern Sierra > Bishop Area > Pine Creek Canyon > Scheelite Canyon Pratts Crack Gully > Blindspot Buttress > Blindspot ( 5.11 6c+ 23 VIII- 23 E4 5c )",
+   "coordArea": "Blindspot Buttress",
+   "approx": false,
+   "lat": 37.38572,
+   "lng": -118.67932,
+   "addedOn": "2026-11-01",
+   "usedOn": []
+  },
+  {
+   "id": "107712666",
+   "photoUrl": "https://www.mountainproject.com/photo/107712666/mt-thor-thor-peak",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/107712666_medium_1494206592.jpg?cache=1786997536",
+   "title": "Mt Thor (Thor Peak)",
+   "breadcrumb": "International > N America > Canada > Nunavut > Baffin Island > Baffin Mountains > Mt Thor",
+   "coordArea": "Mt Thor",
+   "approx": false,
+   "lat": 66.5379,
+   "lng": -65.3084,
+   "addedOn": "2026-11-01",
+   "usedOn": []
+  },
+  {
+   "id": "107924647",
+   "photoUrl": "https://www.mountainproject.com/photo/107924647/summer-storm-at-shelf",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/107924647_medium_1494251039.jpg?cache=1701317821",
+   "title": "Summer storm at Shelf.",
+   "breadcrumb": "Colorado > Canon City > Shelf Rd",
+   "coordArea": "Shelf Rd",
+   "approx": false,
+   "lat": 38.6296,
+   "lng": -105.223,
+   "addedOn": "2026-11-01",
+   "usedOn": []
+  },
+  {
+   "id": "108024709",
+   "photoUrl": "https://www.mountainproject.com/photo/108024709/i-cant-believe-its-a-girdle-510a-r-joshua-tree-np",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/108024709_medium_1494258004.jpg?cache=1701317937",
+   "title": "I Can't Believe It's a Girdle (5.10a R), Joshua Tree NP",
+   "breadcrumb": "California > Joshua Tree NP > Wonderland Of Rocks > Wonderland South > Wonderland Valley > East Wonderland Valley > Freak Brothers Dome > I Can't Believe It's… ( 5.10b 6a+ 19 VII- 19 E2 5b R)",
+   "coordArea": "Freak Brothers Dome",
+   "approx": false,
+   "lat": 34.04285,
+   "lng": -116.14436,
+   "addedOn": "2026-11-01",
+   "usedOn": []
+  },
+  {
+   "id": "110931244",
+   "photoUrl": "https://www.mountainproject.com/photo/110931244/bryan-tikalsky-on-colossus",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/110931244_medium_1494358717.jpg?cache=1701319023",
+   "title": "Bryan Tikalsky on Colossus",
+   "breadcrumb": "Idaho > S Idaho > City of Rocks > Bath Rock > Bath Rock - West > Colossus ( 5.10c 6b 20 VII 20 E2 5b )",
+   "coordArea": "Bath Rock - West",
+   "approx": false,
+   "lat": 42.07578,
+   "lng": -113.7227,
    "addedOn": "2026-11-01",
    "usedOn": []
   }
