@@ -1,0 +1,40 @@
+name: Poll slideshow
+
+on:
+  schedule:
+    # Once an hour (at minute 17): look at the Mountain Project homepage slideshow
+    # and add up to 6 new photos to the pool. The slideshow rotates, so checking
+    # often catches photos that would otherwise slip past.
+    - cron: "17 * * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+# Same group as the other workflows, so they never edit the pool at the same time.
+concurrency:
+  group: crag-guesser
+  cancel-in-progress: false
+
+jobs:
+  poll:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Check the slideshow
+        run: python3 scripts/refresh_pool.py --sources slideshow --max-new 6 --skip-library
+
+      # Most hours add nothing, and then there is nothing to commit.
+      - name: Save the pool
+        run: |
+          git config user.name "crag-guesser-bot"
+          git config user.email "crag-guesser-bot@users.noreply.github.com"
+          git add data/pool.json
+          git diff --cached --quiet || git commit -m "Slideshow poll"
+          git push

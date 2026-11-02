@@ -10,10 +10,12 @@ on:
       max_new:
         description: "Most photos to add in this run"
         type: string
-        default: "12"
+        default: "100"
 
 permissions:
   contents: write
+  pages: write
+  id-token: write
 
 # Same group as the daily workflow, so the two never edit the pool at once.
 concurrency:
@@ -23,6 +25,10 @@ concurrency:
 jobs:
   refresh:
     runs-on: ubuntu-latest
+    timeout-minutes: 60       # a 100-photo run takes roughly 5-10 minutes
+    environment:
+      name: github-pages
+      url: ${{ steps.deploy.outputs.page_url }}
     steps:
       - uses: actions/checkout@v4
 
@@ -31,12 +37,23 @@ jobs:
           python-version: "3.12"
 
       - name: Look for fresh photos
-        run: python3 scripts/refresh_pool.py --max-new "${{ inputs.max_new || '12' }}"
+        run: python3 scripts/refresh_pool.py --max-new "${{ inputs.max_new || '100' }}"
 
-      - name: Save the pool
+      - name: Save the pool and the photo library
         run: |
           git config user.name "crag-guesser-bot"
           git config user.email "crag-guesser-bot@users.noreply.github.com"
-          git add data/pool.json
+          git rm -q --ignore-unmatch site/data/practice.json   # the old Play again list, now part of photos.json
+          git add data/pool.json site/data/photos.json
           git diff --cached --quiet || git commit -m "Refresh photo pool"
           git push
+
+      - uses: actions/configure-pages@v5
+
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: site
+
+      - name: Publish the page
+        id: deploy
+        uses: actions/deploy-pages@v4

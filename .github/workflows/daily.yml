@@ -30,7 +30,6 @@ env:
   TZ_NAME: America/Denver   # defines "today" and the posting hour
   POST_HOUR: "8"            # local hour to post (0-23)
   PHOTOS_PER_DAY: "5"
-  PRACTICE_POOL: used       # "Play again" photos: "used" = past puzzles only, "all" = the whole pool
 
 jobs:
   daily:
@@ -49,7 +48,7 @@ jobs:
         id: daily
         if: github.event_name != 'push'
         run: |
-          ARGS="--tz $TZ_NAME --count $PHOTOS_PER_DAY --practice-pool $PRACTICE_POOL"
+          ARGS="--tz $TZ_NAME --count $PHOTOS_PER_DAY"
           if [ "${{ github.event_name }}" = "schedule" ]; then ARGS="$ARGS --at-hour $POST_HOUR"; fi
           if [ "${{ inputs.force }}" = "true" ]; then ARGS="$ARGS --force"; fi
           python3 scripts/daily.py $ARGS
