@@ -1865,6 +1865,31 @@
    "lat": 41.40957,
    "lng": -72.94328,
    "name": null
+  },
+  "https://www.mountainproject.com/area/106461132/the-waterfall": {
+   "lat": 34.93174,
+   "lng": -111.73268,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/106394622/whekenui-wall": {
+   "lat": -38.7845,
+   "lng": 175.7308,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/105792035/north-cascades": {
+   "lat": 48.61952,
+   "lng": -121.15124,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/111835725/4x4-boulder": {
+   "lat": 37.74821,
+   "lng": -119.57789,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/111733991/yosemite-falls-wall": {
+   "lat": 37.75604,
+   "lng": -119.59553,
+   "name": null
   }
  },
  "rejected": {
@@ -7246,6 +7271,84 @@
    "lat": 47.66819,
    "lng": -116.77991,
    "addedOn": "2026-11-01",
+   "usedOn": []
+  },
+  {
+   "id": "106232273",
+   "photoUrl": "https://www.mountainproject.com/photo/106232273/two-of-my-best-partners-at-the-waterfall-barley-and-roggen-happy-to-see-me-on-th",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/106232273_medium_1494090169.jpg?cache=1774663893",
+   "title": "Two of my best partners at the waterfall, Barley and Roggen, happy to see me on the ground again.",
+   "breadcrumb": "Arizona > Northern Arizona > Oak Creek Canyon > Waterfall",
+   "coordArea": "Waterfall",
+   "approx": false,
+   "lat": 34.93174,
+   "lng": -111.73268,
+   "addedOn": "2026-11-02",
+   "usedOn": []
+  },
+  {
+   "id": "106394625",
+   "photoUrl": "https://www.mountainproject.com/photo/106394625/whekenui-wall-as-seen-from-the-beach",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/106394625_medium_1494104755.jpg?cache=1751306898",
+   "title": "Whekenui wall as seen from the beach.",
+   "breadcrumb": "International > Oceania > New Zealand > N Island > Lake Taupo > Whanganui Bay > Whekenui Wall",
+   "coordArea": "Whekenui Wall",
+   "approx": false,
+   "lat": -38.7845,
+   "lng": 175.7308,
+   "addedOn": "2026-11-02",
+   "usedOn": []
+  },
+  {
+   "id": "106416149",
+   "photoUrl": "https://www.mountainproject.com/photo/106416149/canyon-wren-nest-at-san-ysidro-canyon",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/106416149_medium_1494106808.jpg?cache=1712413220",
+   "title": "Canyon Wren nest, at San Ysidro Canyon",
+   "breadcrumb": "California > Central Coast > Santa Barbara > San Ysidro",
+   "coordArea": "San Ysidro",
+   "approx": false,
+   "lat": 34.45379,
+   "lng": -119.62329,
+   "addedOn": "2026-11-02",
+   "usedOn": []
+  },
+  {
+   "id": "106450730",
+   "photoUrl": "https://www.mountainproject.com/photo/106450730/fog-and-mountain-goats-must-be-the-cascades",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/106450730_medium_1494109780.jpg?cache=1784570539",
+   "title": "Fog and mountain goats: must be the Cascades.",
+   "breadcrumb": "Washington > Northwest Region > Hwy 20 And North Cascades National Park > N Cascades",
+   "coordArea": "N Cascades",
+   "approx": false,
+   "lat": 48.61952,
+   "lng": -121.15124,
+   "addedOn": "2026-11-02",
+   "usedOn": []
+  },
+  {
+   "id": "109828561",
+   "photoUrl": "https://www.mountainproject.com/photo/109828561/4x4-boulder",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/109828561_medium_1494363737.jpg?cache=1745437059",
+   "title": "4x4 boulder",
+   "breadcrumb": "California > Yosemite NP > Yosemite Valley > Yosemite Valley Bouldering > Ahwahnee Boulders > 4x4 Boulder",
+   "coordArea": "4x4 Boulder",
+   "approx": false,
+   "lat": 37.74821,
+   "lng": -119.57789,
+   "addedOn": "2026-11-02",
+   "usedOn": []
+  },
+  {
+   "id": "111734077",
+   "photoUrl": "https://www.mountainproject.com/photo/111734077/3rd-pitch-black-streak-was-wet-but-didnt-affect-the-climbing",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/111734077_medium_1494302048.jpg?cache=1790801262",
+   "title": "3rd pitch. Black streak was wet but didn't affect the climbing",
+   "breadcrumb": "California > Yosemite NP > Yosemite Valley > Valley N Side > Yosemite Falls Area > Yosemite Falls Wall > Freestone (Geek Tower… ( 5.11+ 7a 24 VIII 24 E4 6a )",
+   "coordArea": "Yosemite Falls Wall",
+   "approx": false,
+   "lat": 37.75604,
+   "lng": -119.59553,
+   "addedOn": "2026-11-02",
    "usedOn": []
   }
  ],
