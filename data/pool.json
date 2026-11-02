@@ -1370,6 +1370,46 @@
    "lat": 42.07578,
    "lng": -113.7227,
    "name": null
+  },
+  "https://www.mountainproject.com/area/106005102/mt-timpanogos": {
+   "lat": 40.52763,
+   "lng": -111.72408,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/105936139/green-wall-boulder": {
+   "lat": 37.32873,
+   "lng": -118.57534,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/106563103/hemingway-buttress-e-face-l": {
+   "lat": 34.02386,
+   "lng": -116.17782,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/114946024/southeast-slopes": {
+   "lat": 37.84705,
+   "lng": -119.40453,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/105808407/the-fin": {
+   "lat": 34.90455,
+   "lng": -111.80682,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/105745870/creek-side": {
+   "lat": 39.74102,
+   "lng": -105.41042,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/111061973/the-old-zoo-closed": {
+   "lat": 37.73201,
+   "lng": -83.66185,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/105792041/the-prow": {
+   "lat": 35.13773,
+   "lng": -112.02415,
+   "name": null
   }
  },
  "rejected": {
@@ -1534,7 +1574,9 @@
    "lat": 49.6867,
    "lng": -123.13487,
    "addedOn": "2026-10-30",
-   "usedOn": []
+   "usedOn": [
+    "2026-11-01"
+   ]
   },
   {
    "id": "110927888",
@@ -2038,7 +2080,9 @@
    "lat": 37.42372,
    "lng": -113.17921,
    "addedOn": "2026-10-31",
-   "usedOn": []
+   "usedOn": [
+    "2026-11-01"
+   ]
   },
   {
    "id": "127163803",
@@ -2467,7 +2511,9 @@
    "lat": 43.4203,
    "lng": -89.73836,
    "addedOn": "2026-10-31",
-   "usedOn": []
+   "usedOn": [
+    "2026-11-01"
+   ]
   },
   {
    "id": "107089396",
@@ -3004,7 +3050,9 @@
    "lat": 37.73051,
    "lng": -119.63828,
    "addedOn": "2026-10-31",
-   "usedOn": []
+   "usedOn": [
+    "2026-11-01"
+   ]
   },
   {
    "id": "120432508",
@@ -4878,7 +4926,9 @@
    "lat": 48.65879,
    "lng": -122.46134,
    "addedOn": "2026-11-01",
-   "usedOn": []
+   "usedOn": [
+    "2026-11-01"
+   ]
   },
   {
    "id": "122311186",
@@ -5332,6 +5382,110 @@
    "approx": false,
    "lat": 42.07578,
    "lng": -113.7227,
+   "addedOn": "2026-11-01",
+   "usedOn": []
+  },
+  {
+   "id": "106332290",
+   "photoUrl": "https://www.mountainproject.com/photo/106332290/dawn-patrol-in-the-wasatch-as-seen-from-everest-ridge",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/106332290_medium_1494098610.jpg?cache=1737608764",
+   "title": "Dawn patrol in the Wasatch as seen from Everest Ridge.",
+   "breadcrumb": "Utah > Wasatch Range > Wasatch Alpine Areas > Mt Timpanogos > Everest Ridge ( Easy 5th 1+ 3 I 5 M 1c Mod. Snow)",
+   "coordArea": "Mt Timpanogos",
+   "approx": false,
+   "lat": 40.52763,
+   "lng": -111.72408,
+   "addedOn": "2026-11-01",
+   "usedOn": []
+  },
+  {
+   "id": "106699336",
+   "photoUrl": "https://www.mountainproject.com/photo/106699336/green-wall-center",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/106699336_medium_1494133252.jpg?cache=1701316223",
+   "title": "Green Wall Center",
+   "breadcrumb": "California > Eastern Sierra > Bishop Area > Buttermilk Country > Buttermilks Main > Green Wall Boulder > Green Wall Center ( V6 7A )",
+   "coordArea": "Green Wall Boulder",
+   "approx": false,
+   "lat": 37.32873,
+   "lng": -118.57534,
+   "addedOn": "2026-11-01",
+   "usedOn": []
+  },
+  {
+   "id": "107103411",
+   "photoUrl": "https://www.mountainproject.com/photo/107103411/this-baby-is-steep-doesnt-look-like-it-from-the-ground",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/107103411_medium_1494166072.jpg?cache=1689971109",
+   "title": "This baby is steep!  Doesn't look like it from the ground.",
+   "breadcrumb": "California > Joshua Tree NP > Lost Horse Area > Lost Horse Roadside Crags > Hemingway Buttress > Hemingway Buttress E Face L > Poodles are People Too ( 5.10b 6a+ 19 VII- 19 E2 5b )",
+   "coordArea": "Hemingway Buttress E Face L",
+   "approx": false,
+   "lat": 34.02386,
+   "lng": -116.17782,
+   "addedOn": "2026-11-01",
+   "usedOn": []
+  },
+  {
+   "id": "109083792",
+   "photoUrl": "https://www.mountainproject.com/photo/109083792/after-approx-10-minutes-up-the-jmt-from-the-cathedral-lakes-trailhead-you-will-s",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/109083792_medium_1494338297.jpg?cache=1748702463",
+   "title": "After approx. 10 minutes up the JMT from the Cathedral Lakes trailhead, you will see the obvious climbers trail on the left blocked by a log. The trail runs parallel to Budd Creek for a good portion of the hike then wraps around the left(East) side of Cathedral Peak.",
+   "breadcrumb": "California > Yosemite NP > Tuolumne Meadows > Cathedral Range > Cathedral Peak > Southeast Slopes > Southeast Buttress ( 5.6 4c 14 V 12 S 4b )",
+   "coordArea": "Southeast Slopes",
+   "approx": false,
+   "lat": 37.84705,
+   "lng": -119.40453,
+   "addedOn": "2026-11-01",
+   "usedOn": []
+  },
+  {
+   "id": "116210461",
+   "photoUrl": "https://www.mountainproject.com/photo/116210461/route-overlay-mars-attacks",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/116210461_medium_1545708263.jpg?cache=1692668957",
+   "title": "Route Overlay Mars Attacks",
+   "breadcrumb": "Arizona > Northern Arizona > Sedona Area > W Sedona > Dry Creek Rd Area > Fin > Mars Attacks ( 5.9 5c 17 VI 17 HVS 5a PG13)",
+   "coordArea": "Fin",
+   "approx": false,
+   "lat": 34.90455,
+   "lng": -111.80682,
+   "addedOn": "2026-11-01",
+   "usedOn": []
+  },
+  {
+   "id": "117510215",
+   "photoUrl": "https://www.mountainproject.com/photo/117510215/the-traverse",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/117510215_medium_1564264665.jpg?cache=1725399941",
+   "title": "The traverse.",
+   "breadcrumb": "Colorado > Golden > Clear Creek Canyon > Creek Side > Creekafixion ( 5.11c 6c+ 24 VIII- 24 E4 6a )",
+   "coordArea": "Creek Side",
+   "approx": false,
+   "lat": 39.74102,
+   "lng": -105.41042,
+   "addedOn": "2026-11-01",
+   "usedOn": []
+  },
+  {
+   "id": "121783120",
+   "photoUrl": "https://www.mountainproject.com/photo/121783120/michael-getting-a-good-shake-out-mid-route",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/121783120_medium_1639788341.jpg?cache=1768254601",
+   "title": "Michael getting a good shake out mid-route",
+   "breadcrumb": "Kentucky > Red River Gorge > Natural Bridge Region > Zoo (CLOSED) > Old Zoo (CLOSED) > Monkey in the Middle ( 5.11a 6c 22 VII+ 22 E3 5c )",
+   "coordArea": "Old Zoo (CLOSED)",
+   "approx": false,
+   "lat": 37.73201,
+   "lng": -83.66185,
+   "addedOn": "2026-11-01",
+   "usedOn": []
+  },
+  {
+   "id": "201232985",
+   "photoUrl": "https://www.mountainproject.com/photo/201232985/wiley-reaching-to-the-end-of-the-75s",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/201232985_medium_1751145177.jpg?cache=1785993361",
+   "title": "Wiley reaching to the end of the .75s",
+   "breadcrumb": "Arizona > Northern Arizona > Sycamore Canyon > Paradise Forks > Prow > Prow ( 5.11a 6c 22 VII+ 22 E3 5c )",
+   "coordArea": "Prow",
+   "approx": false,
+   "lat": 35.13773,
+   "lng": -112.02415,
    "addedOn": "2026-11-01",
    "usedOn": []
   }
