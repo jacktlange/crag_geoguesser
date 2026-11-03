@@ -2815,6 +2815,31 @@
    "lat": 46.43292,
    "lng": -121.87069,
    "name": null
+  },
+  "https://www.mountainproject.com/area/105834180/southern-sierra-the-needles-kern-river-domelands-etc": {
+   "lat": 36.02916,
+   "lng": -118.46983,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/114194666/nueva-esperanza": {
+   "lat": 36.27524,
+   "lng": -115.66963,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/105905418/sun-wall": {
+   "lat": 34.18041,
+   "lng": -85.81555,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/105899481/the-moat-boulder": {
+   "lat": 43.80318,
+   "lng": -71.84274,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/107614528/the-beach": {
+   "lat": 47.82399,
+   "lng": -121.56549,
+   "name": null
   }
  },
  "rejected": {
@@ -2846,7 +2871,9 @@
   "106662820": "filtered: ice or snow (caption)",
   "107068632": "filtered: ice or snow (caption)",
   "120234501": "filtered: ice, mixed, or snow route (grade or area)",
-  "108028581": "filtered: ice, mixed, or snow route (grade or area)"
+  "108028581": "filtered: ice, mixed, or snow route (grade or area)",
+  "106307278": "filtered: looks like a map, topo, or drawing (caption)",
+  "117537801": "filtered: looks like a map, topo, or drawing (caption)"
  },
  "photos": [
   {
@@ -11105,6 +11132,84 @@
    "approx": false,
    "lat": 46.43292,
    "lng": -121.87069,
+   "addedOn": "2026-11-03",
+   "usedOn": []
+  },
+  {
+   "id": "106496731",
+   "photoUrl": "https://www.mountainproject.com/photo/106496731/horned-lizard-another-of-the-extraordinary-creatures-who-make-the-upper-kern-riv",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/106496731_medium_1494114327.jpg?cache=1762217181",
+   "title": "Horned Lizard--another of the extraordinary creatures who make the Upper Kern River Valley home.",
+   "breadcrumb": "California > Southern Sierra Nevada Western Slope > Southern Sierra The Needles Kern River Domelands Etc",
+   "coordArea": "Southern Sierra The Needles Kern River Domelands Etc",
+   "approx": false,
+   "lat": 36.02916,
+   "lng": -118.46983,
+   "addedOn": "2026-11-03",
+   "usedOn": []
+  },
+  {
+   "id": "107869455",
+   "photoUrl": "https://www.mountainproject.com/photo/107869455/the-good-the-bad-and-the-jacked-some-jacked-sequence-photo-darin-limvere-oct-201",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/107869455_medium_1494247459.jpg?cache=1766085057",
+   "title": "The Good, the Bad, and the Jacked. Some jacked sequence. Photo: Darin Limvere. Oct. 2012.",
+   "breadcrumb": "Wisconsin > Baraboo Range > Devil's Lake > West Bluff 05 West Rampart > Prospect Point Rampart > Great Chimney Area > Good, the Bad, & the… ( 5.12b 7b 26 VIII+ 26 E5 6b R)",
+   "coordArea": "Great Chimney Area",
+   "approx": false,
+   "lat": 43.4203,
+   "lng": -89.73836,
+   "addedOn": "2026-11-03",
+   "usedOn": []
+  },
+  {
+   "id": "114194716",
+   "photoUrl": "https://www.mountainproject.com/photo/114194716/the-chert-filled-slab-of-nueva-esperanza",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/114194716_medium_1538368994_topo.jpg?cache=1748662467",
+   "title": "The chert filled slab of Nueva Esperanza.",
+   "breadcrumb": "Nevada > Southern Nevada > Mt Charleston > Route 157 Kyle Canyon > Mary Jane Trailhead Temporarily Closed > Nueva Esperanza",
+   "coordArea": "Nueva Esperanza",
+   "approx": false,
+   "lat": 36.27524,
+   "lng": -115.66963,
+   "addedOn": "2026-11-03",
+   "usedOn": []
+  },
+  {
+   "id": "116821952",
+   "photoUrl": "https://www.mountainproject.com/photo/116821952/one-of-my-favorites-from-sand-rock",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/116821952_medium_1556931892.jpg?cache=1726507355",
+   "title": "One of my favorites from Sand Rock",
+   "breadcrumb": "Alabama > Cherokee Rock Village Sand Rock > Sun Wall > Misty ( 5.10b/c 6b 20 VII 20 E2 5b )",
+   "coordArea": "Sun Wall",
+   "approx": false,
+   "lat": 34.18041,
+   "lng": -85.81555,
+   "addedOn": "2026-11-03",
+   "usedOn": []
+  },
+  {
+   "id": "120372098",
+   "photoUrl": "https://www.mountainproject.com/photo/120372098/john-meager-sending-child-prodigy-in-perfect-light-photo-suzannah-buzzell",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/120372098_medium_1615299393.jpg?cache=1733333484",
+   "title": "John Meager sending child prodigy in perfect light. <br> Photo: Suzannah Buzzell",
+   "breadcrumb": "New Hampshire > Rumney > Rumney Bouldering > Black Jack Boulders > Moat Boulders > Moat Boulder > Child Prodigy ( V6+ 7A )",
+   "coordArea": "Moat Boulder",
+   "approx": false,
+   "lat": 43.80318,
+   "lng": -71.84274,
+   "addedOn": "2026-11-03",
+   "usedOn": []
+  },
+  {
+   "id": "124572504",
+   "photoUrl": "https://www.mountainproject.com/photo/124572504/thuggy",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/124572504_medium_1689103071.jpg?cache=1786075778",
+   "title": "Thuggy!",
+   "breadcrumb": "Washington > Central West Cascades Seattle > Skykomish Valley > Index > Cheeks > (1) Upper Cheeks > (c) The Beach > Barnacle ( 5.12- 7a+ 25 VIII+ 25 E5 6a )",
+   "coordArea": "(c) The Beach",
+   "approx": false,
+   "lat": 47.82399,
+   "lng": -121.56549,
    "addedOn": "2026-11-03",
    "usedOn": []
   }
