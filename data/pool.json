@@ -3250,6 +3250,26 @@
    "lat": 37.65331,
    "lng": -83.72648,
    "name": null
+  },
+  "https://www.mountainproject.com/area/105914871/the-friar-and-byrd-pinnacle": {
+   "lat": 36.10394,
+   "lng": -115.48544,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/105885491/the-wedge": {
+   "lat": 32.3511,
+   "lng": -106.5701,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/105734162/turtle-rock": {
+   "lat": 37.91104,
+   "lng": -122.49157,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/107556277/scorpion-slab": {
+   "lat": 38.99848,
+   "lng": -113.38091,
+   "name": null
   }
  },
  "rejected": {
@@ -12930,6 +12950,84 @@
    "approx": false,
    "lat": 37.65331,
    "lng": -83.72648,
+   "addedOn": "2026-11-03",
+   "usedOn": []
+  },
+  {
+   "id": "105928349",
+   "photoUrl": "https://www.mountainproject.com/photo/105928349/mike-lorenzo-on-the-fryer-by-lauren-di-scipio",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/105928349_medium_1557950534.jpg?cache=1789846075",
+   "title": "mike lorenzo on the fryer, by lauren di scipio",
+   "breadcrumb": "Nevada > Southern Nevada > Red Rocks > Oak Creek Canyon > The Friar And Byrd Pinnacle > Friar ( 5.9 5c 17 VI 17 HVS 5a )",
+   "coordArea": "The Friar And Byrd Pinnacle",
+   "approx": false,
+   "lat": 36.10394,
+   "lng": -115.48544,
+   "addedOn": "2026-11-03",
+   "usedOn": []
+  },
+  {
+   "id": "106264142",
+   "photoUrl": "https://www.mountainproject.com/photo/106264142/a-clear-pic-of-the-wedge-showing-the-west-ridge-and-a-partial-of-the-sf-diagonal",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/106264142_medium_1494092530.jpg?cache=1786918355",
+   "title": "A clear pic of The Wedge showing the West Ridge and a partial of the SF Diagonal route.",
+   "breadcrumb": "New Mexico > Las Cruces Area > Organ Mountains > High Horns > Wedge",
+   "coordArea": "Wedge",
+   "approx": false,
+   "lat": 32.3511,
+   "lng": -106.5701,
+   "addedOn": "2026-11-03",
+   "usedOn": []
+  },
+  {
+   "id": "106332824",
+   "photoUrl": "https://www.mountainproject.com/photo/106332824/sunset-bouldering-at-turtle-rock-photo-by-shems-judd-once-upon-a-time-the-back-c",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/106332824_medium_1494098684.jpg?cache=1718216585",
+   "title": "Sunset bouldering at Turtle Rock, photo by Shems Judd. Once upon a time the back cover of the Shoreline Mt Products catalog.",
+   "breadcrumb": "California > San Francisco Bay Area > Marinnorthwest Bay Area > Ring Mountain > Turtle Rock",
+   "coordArea": "Turtle Rock",
+   "approx": false,
+   "lat": 37.91104,
+   "lng": -122.49157,
+   "addedOn": "2026-11-03",
+   "usedOn": []
+  },
+  {
+   "id": "106495299",
+   "photoUrl": "https://www.mountainproject.com/photo/106495299/mt-whitney-backcountry",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/106495299_medium_1494114154.jpg?cache=1790610499",
+   "title": "Mt Whitney Backcountry",
+   "breadcrumb": "California > High Sierra > 14 Whitney Surrounding Peaks > Mt Whitney",
+   "coordArea": "Mt Whitney",
+   "approx": false,
+   "lat": 36.57844,
+   "lng": -118.29228,
+   "addedOn": "2026-11-03",
+   "usedOn": []
+  },
+  {
+   "id": "106565561",
+   "photoUrl": "https://www.mountainproject.com/photo/106565561/a-few-moves-into-the-pumpfest-that-is-vomit-launch",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/106565561_medium_1494120982.jpg?cache=1777586869",
+   "title": "A few moves into the pumpfest that is Vomit Launch",
+   "breadcrumb": "Oregon > Central Oregon > Smith Rock > (f) Cocaine Gully > Vomit Launch ( 5.11b 6c 23 VIII- 23 E3 5c )",
+   "coordArea": "(f) Cocaine Gully",
+   "approx": false,
+   "lat": 44.36719,
+   "lng": -121.14307,
+   "addedOn": "2026-11-03",
+   "usedOn": []
+  },
+  {
+   "id": "108703536",
+   "photoUrl": "https://www.mountainproject.com/photo/108703536/aaron-livingston-finishing-satisfaction-guaranteed",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/108703536_medium_1494293665.jpg?cache=1765219887",
+   "title": "Aaron Livingston finishing Satisfaction Guaranteed.",
+   "breadcrumb": "Utah > W Desert > Confusion Range > Ibex > S Corridor > Scorpion Slab > Satisfaction Guaranteed ( 5.12c 7b+ 27 IX- 27 E6 6b )",
+   "coordArea": "Scorpion Slab",
+   "approx": false,
+   "lat": 38.99848,
+   "lng": -113.38091,
    "addedOn": "2026-11-03",
    "usedOn": []
   }
