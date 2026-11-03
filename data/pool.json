@@ -2350,6 +2350,31 @@
    "lat": 34.87684,
    "lng": -111.72573,
    "name": null
+  },
+  "https://www.mountainproject.com/area/106780938/turtle-rock-east-face": {
+   "lat": 34.01109,
+   "lng": -116.16637,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/105817841/super-bowl-wall": {
+   "lat": 40.26656,
+   "lng": -111.62635,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/105738125/cochise-dome-whats-my-line-dome": {
+   "lat": 31.929,
+   "lng": -109.98167,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/105985858/southeast-face": {
+   "lat": 44.30131,
+   "lng": -122.14792,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/126558568/left-side": {
+   "lat": 34.99323,
+   "lng": -111.78071,
+   "name": null
   }
  },
  "rejected": {
@@ -2377,7 +2402,10 @@
   "123575787": "filtered: looks like a map, topo, or drawing (caption)",
   "204000878": "filtered: looks like a map, topo, or drawing (caption)",
   "125731056": "filtered: looks like a map, topo, or drawing (caption)",
-  "204154534": "filtered: ice, mixed, or snow route (grade or area)"
+  "204154534": "filtered: ice, mixed, or snow route (grade or area)",
+  "106662820": "filtered: ice or snow (caption)",
+  "107068632": "filtered: ice or snow (caption)",
+  "120234501": "filtered: ice, mixed, or snow route (grade or area)"
  },
  "photos": [
   {
@@ -9193,6 +9221,71 @@
    "approx": false,
    "lat": 34.87684,
    "lng": -111.72573,
+   "addedOn": "2026-11-02",
+   "usedOn": []
+  },
+  {
+   "id": "105982363",
+   "photoUrl": "https://www.mountainproject.com/photo/105982363/blistering-photo-by-blitzo",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/105982363_medium_1558386836.jpg?cache=1713399314",
+   "title": "\"Blistering\". <br> Photo by Blitzo.",
+   "breadcrumb": "California > Joshua Tree NP > Hidden Valley Area > Real Hidden Valley > Real Hidden Valley Vicinity > Turtle Rock > Turtle Rock East Face > Blistering ( 5.5 4b 13 IV+ 11 MS 4a )",
+   "coordArea": "Turtle Rock East Face",
+   "approx": false,
+   "lat": 34.01109,
+   "lng": -116.16637,
+   "addedOn": "2026-11-02",
+   "usedOn": []
+  },
+  {
+   "id": "110163716",
+   "photoUrl": "https://www.mountainproject.com/photo/110163716/james-leavy-getting-the-send-rock-canyon-classic",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/110163716_medium_1494370633.jpg?cache=1753723787",
+   "title": "James Leavy getting the send. Rock Canyon classic.",
+   "breadcrumb": "Utah > Wasatch Range > Southern Wasatch > Rock Canyon > Super Bowl Wall > Simple Simon ( 5.11b 6c 23 VIII- 23 E3 5c )",
+   "coordArea": "Super Bowl Wall",
+   "approx": false,
+   "lat": 40.26656,
+   "lng": -111.62635,
+   "addedOn": "2026-11-02",
+   "usedOn": []
+  },
+  {
+   "id": "120124667",
+   "photoUrl": "https://www.mountainproject.com/photo/120124667/photo-overlay",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/120124667_medium_1609247078.jpg?cache=1756598827",
+   "title": "Photo overlay.",
+   "breadcrumb": "Arizona > Southern Arizona > Cochise Stronghold > E Stronghold > Cochise Dome Whats My Line Dome > What's My Line? ( 5.6 4c 14 V 12 S 4b A0 R)",
+   "coordArea": "Cochise Dome Whats My Line Dome",
+   "approx": false,
+   "lat": 31.929,
+   "lng": -109.98167,
+   "addedOn": "2026-11-02",
+   "usedOn": []
+  },
+  {
+   "id": "120514373",
+   "photoUrl": "https://www.mountainproject.com/photo/120514373/ma-ma-ma-money-shot",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/120514373_medium_1617930165.jpg?cache=1720729306",
+   "title": "Ma-ma-ma-money shot",
+   "breadcrumb": "Oregon > Willamette Valley > Wolf Rock > Southeast Face > Barad-dûr ( 5.11a 6c 22 VII+ 22 E3 5c )",
+   "coordArea": "Southeast Face",
+   "approx": false,
+   "lat": 44.30131,
+   "lng": -122.14792,
+   "addedOn": "2026-11-02",
+   "usedOn": []
+  },
+  {
+   "id": "201758919",
+   "photoUrl": "https://www.mountainproject.com/photo/201758919/nolan-b-on-pitch-5-photo-by-jeremiah-watt",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/201758919_medium_1758860696.jpg?cache=1785975513",
+   "title": "Nolan B on pitch 5. Photo by Jeremiah Watt",
+   "breadcrumb": "Arizona > Northern Arizona > Oak Creek Canyon > Insomnia Canyon > Insomnia East > Left Side > Heavy Metal ( 5.13- 7c+ 29 IX+ 29 E7 6c V5 6C )",
+   "coordArea": "Left Side",
+   "approx": false,
+   "lat": 34.99323,
+   "lng": -111.78071,
    "addedOn": "2026-11-02",
    "usedOn": []
   }
