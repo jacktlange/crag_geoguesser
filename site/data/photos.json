@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-02T21:55:18+00:00",
+ "generated": "2026-11-03T07:06:17+00:00",
  "photos": [
   {
    "id": "105818268",
@@ -46,6 +46,17 @@
    "lng": -119.4577
   },
   {
+   "id": "106012834",
+   "photoUrl": "https://www.mountainproject.com/photo/106012834/time-to-retreat-dave-just-took-a-long-fall-and-pulled-the-pinhes-a-little-excite",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/106012834_medium_1558391151.jpg?cache=1764543518",
+   "title": "Time to retreat!  Dave just took a long fall and pulled the pin...he's a little excited here.",
+   "breadcrumb": "Colorado > Telluridenorwood Area > Ames Wall > Seamstress Corner ( 5.11+ 7a 24 VIII 24 E4 6a R)",
+   "coordArea": "Ames Wall",
+   "approx": false,
+   "lat": 37.9392,
+   "lng": -107.8163
+  },
+  {
    "id": "106034033",
    "photoUrl": "https://www.mountainproject.com/photo/106034033/kimmmmyyyy-j-and-i-had-to-snip-the-old-chain-out-cus-it-just-wasnt-right-12-inch",
    "imageUrl": "https://mountainproject.com/assets/photos/climb/106034033_medium_1558463153.jpg?cache=1792121048",
@@ -79,6 +90,17 @@
    "lng": -111.77699
   },
   {
+   "id": "106067410",
+   "photoUrl": "https://www.mountainproject.com/photo/106067410/paying-my-respects-to-the-late-great-dan-osman-atop-long-canyon",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/106067410_medium_1558470332.jpg?cache=1771744906",
+   "title": "Paying my respects to the late great Dan Osman atop Long Canyon.",
+   "breadcrumb": "Utah > Southeast Utah > Potash Rd > Long Canyon",
+   "coordArea": "Long Canyon",
+   "approx": false,
+   "lat": 38.54502,
+   "lng": -109.65514
+  },
+  {
    "id": "106083552",
    "photoUrl": "https://www.mountainproject.com/photo/106083552/incredible-sunset-after-a-typical-sierra-thunderstorm-taken-from-dusy-basin-in-t",
    "imageUrl": "https://mountainproject.com/assets/photos/climb/106083552_medium_1558472795.jpg?cache=1753808532",
@@ -99,6 +121,17 @@
    "approx": false,
    "lat": 36.07813,
    "lng": -115.47797
+  },
+  {
+   "id": "106131344",
+   "photoUrl": "https://www.mountainproject.com/photo/106131344/descending-owen-spalding-january",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/106131344_medium_1558652562.jpg?cache=1792694973",
+   "title": "Descending Owen Spalding, January.",
+   "breadcrumb": "Wyoming > Grand Teton NP > Grand Teton > Owen Spalding ( 5.4 4a 12 IV 10 VD 3c )",
+   "coordArea": "Grand Teton",
+   "approx": false,
+   "lat": 43.74092,
+   "lng": -110.80253
   },
   {
    "id": "106138242",
@@ -132,6 +165,17 @@
    "approx": false,
    "lat": 39.18029,
    "lng": -105.35411
+  },
+  {
+   "id": "106194648",
+   "photoUrl": "https://www.mountainproject.com/photo/106194648/looking-down-the-chimney-at-the-second-belay",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/106194648_medium_1494087075.jpg?cache=1701315368",
+   "title": "Looking down the chimney at the second belay.",
+   "breadcrumb": "Nevada > Southern Nevada > Red Rocks > Juniper Canyon > Cloud Tower > Thagomizer ( 5.10 6b 20 VII- 19 E2 5b )",
+   "coordArea": "Cloud Tower",
+   "approx": false,
+   "lat": 36.11237,
+   "lng": -115.48908
   },
   {
    "id": "106243398",
@@ -387,6 +431,17 @@
    "lng": -118.67932
   },
   {
+   "id": "106963105",
+   "photoUrl": "https://www.mountainproject.com/photo/106963105/starting-up-p1-shared-with-armatron",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/106963105_medium_1494154608.jpg?cache=1701316636",
+   "title": "starting up P1 (shared with Armatron)",
+   "breadcrumb": "Nevada > Southern Nevada > Red Rocks > Juniper Canyon > Brownstone Wall > Sweet Thin ( 5.9 5c 17 VI 17 HVS 5a )",
+   "coordArea": "Brownstone Wall",
+   "approx": false,
+   "lat": 36.11483,
+   "lng": -115.4957
+  },
+  {
    "id": "107089396",
    "photoUrl": "https://www.mountainproject.com/photo/107089396/arjun-on-the-sporty-start-to-two-bit-shuffle",
    "imageUrl": "https://mountainproject.com/assets/photos/climb/107089396_medium_1494165161.jpg?cache=1701316840",
@@ -407,6 +462,17 @@
    "approx": false,
    "lat": 36.08491,
    "lng": -112.18882
+  },
+  {
+   "id": "107170560",
+   "photoUrl": "https://www.mountainproject.com/photo/107170560/ufo",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/107170560_medium_1494170979.jpg?cache=1701316945",
+   "title": "UFO",
+   "breadcrumb": "Connecticut > CT Bouldering > Hurd Park > Hideout > UFO Boulder",
+   "coordArea": "UFO Boulder",
+   "approx": false,
+   "lat": 41.50773,
+   "lng": -72.54012
   },
   {
    "id": "107324312",
@@ -442,6 +508,17 @@
    "lng": -80.09347
   },
   {
+   "id": "107377316",
+   "photoUrl": "https://www.mountainproject.com/photo/107377316/pad-crag",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/107377316_medium_1494185035.jpg?cache=1701317195",
+   "title": "pad crag",
+   "breadcrumb": "Connecticut > Eastern Coastal Slope > Pad Crag",
+   "coordArea": "Pad Crag",
+   "approx": false,
+   "lat": 41.43964,
+   "lng": -72.54111
+  },
+  {
    "id": "107527296",
    "photoUrl": "https://www.mountainproject.com/photo/107527296/reid-stunning-the-crowd-into-silence-on-quiet-on-the-set",
    "imageUrl": "https://mountainproject.com/assets/photos/climb/107527296_medium_1494195242.jpg?cache=1701317380",
@@ -451,6 +528,17 @@
    "approx": false,
    "lat": 36.14695,
    "lng": -115.42702
+  },
+  {
+   "id": "107531249",
+   "photoUrl": "https://www.mountainproject.com/photo/107531249/p11",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/107531249_medium_1494195447.jpg?cache=1701317384",
+   "title": "P11",
+   "breadcrumb": "Nevada > Southern Nevada > Red Rocks > Oak Creek Canyon > Black Orpheus Amphitheater > Black Orpheus ( 5.9+ 5c 17 VI 17 E1 5a )",
+   "coordArea": "Black Orpheus Amphitheater",
+   "approx": false,
+   "lat": 36.10256,
+   "lng": -115.49045
   },
   {
    "id": "107533808",
@@ -563,6 +651,17 @@
    "lng": -111.69742
   },
   {
+   "id": "107841942",
+   "photoUrl": "https://www.mountainproject.com/photo/107841942/some-climbers-on-hairstyles-and-attitudes-at-dusk",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/107841942_medium_1494214907.jpg?cache=1701317728",
+   "title": "Some climbers on Hairstyles and Attitudes at dusk.",
+   "breadcrumb": "Colorado > Boulder > Eldorado Canyon SP > Bastille",
+   "coordArea": "Bastille",
+   "approx": false,
+   "lat": 39.9307,
+   "lng": -105.283
+  },
+  {
    "id": "107848480",
    "photoUrl": "https://www.mountainproject.com/photo/107848480/pick-your-nose",
    "imageUrl": "https://mountainproject.com/assets/photos/climb/107848480_medium_1494215262.jpg?cache=1701317735",
@@ -629,6 +728,17 @@
    "lng": -115.44912
   },
   {
+   "id": "108221070",
+   "photoUrl": "https://www.mountainproject.com/photo/108221070/el-mar-wall-a-la-playa-traverse-v2-to-v7-b-starfish-v2-r-c-urchin-v2-r-d-the-fis",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/108221070_medium_1494270231.jpg?cache=1701318115",
+   "title": "El Mar Wall: <br> A: \"La Playa Traverse\" V2 to V7 <br> B: \"Starfish\" V2 R <br> C: \"Urchin\" V2 R <br> D: \"The Fish\" V3 R <br> E: Project <br> G: \"El Mar\" V2",
+   "breadcrumb": "Connecticut > CT Bouldering > Mystic Areas > Ledyard Areas > El Mar Wall",
+   "coordArea": "El Mar Wall",
+   "approx": false,
+   "lat": 41.36622,
+   "lng": -72.01403
+  },
+  {
    "id": "108288806",
    "photoUrl": "https://www.mountainproject.com/photo/108288806/alex-mcintyre-in-the-crux-of-special-brew-on-the-fa-of-the-pub-crawl-photo-by-ja",
    "imageUrl": "https://mountainproject.com/assets/photos/climb/108288806_medium_1494274159.jpg?cache=1632430361",
@@ -660,6 +770,17 @@
    "approx": false,
    "lat": 33.73938,
    "lng": -116.71303
+  },
+  {
+   "id": "108425741",
+   "photoUrl": "https://www.mountainproject.com/photo/108425741/thanks-martha",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/108425741_medium_1494282542.jpg?cache=1701318275",
+   "title": "Thanks, Martha!",
+   "breadcrumb": "Connecticut > Western Highlands > Mile of Ledges",
+   "coordArea": "Mile of Ledges",
+   "approx": false,
+   "lat": 41.7184,
+   "lng": -72.9941
   },
   {
    "id": "108436075",
@@ -959,6 +1080,17 @@
    "lng": -123.1378
   },
   {
+   "id": "112504826",
+   "photoUrl": "https://www.mountainproject.com/photo/112504826/floridita-tr",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/112504826_medium_1494309006.jpg?cache=1702072296",
+   "title": "Floridita TR",
+   "breadcrumb": "California > San Francisco Bay Area > Wine Countrynortheast Bay > Mt St Helena > Macondo Cliff > Floridita ( 5.10b 6a+ 19 VII- 19 E2 5b )",
+   "coordArea": "Macondo Cliff",
+   "approx": false,
+   "lat": 38.65407,
+   "lng": -122.61897
+  },
+  {
    "id": "112510143",
    "photoUrl": "https://www.mountainproject.com/photo/112510143/bolting-battle-of-bulge",
    "imageUrl": "https://mountainproject.com/assets/photos/climb/112510143_medium_1494309376.jpg?cache=1789600029",
@@ -990,6 +1122,17 @@
    "approx": false,
    "lat": 44.80197,
    "lng": -121.10859
+  },
+  {
+   "id": "113763312",
+   "photoUrl": "https://www.mountainproject.com/photo/113763312/looking-down-p1",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/113763312_medium_1509291862.jpg?cache=1702072699",
+   "title": "looking down P1",
+   "breadcrumb": "New York > Adirondacks > Northern Region > Silver Lake > Outback Slab > Lurch ( 5.11b 6c 23 VIII- 23 E3 5c )",
+   "coordArea": "Outback Slab",
+   "approx": false,
+   "lat": 44.5157,
+   "lng": -73.8017
   },
   {
    "id": "113890267",
@@ -1146,6 +1289,17 @@
    "lng": -110.91981
   },
   {
+   "id": "119076540",
+   "photoUrl": "https://www.mountainproject.com/photo/119076540/second-move",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/119076540_medium_1592693589.jpg?cache=1721318015",
+   "title": "Second move",
+   "breadcrumb": "Louisiana > Kistachie Boulder Longleaf Vista > Dave's Juicy Single ( V2 5+ )",
+   "coordArea": "Kistachie Boulder Longleaf Vista",
+   "approx": false,
+   "lat": 31.47633,
+   "lng": -92.99513
+  },
+  {
    "id": "119477497",
    "photoUrl": "https://www.mountainproject.com/photo/119477497/trip-punchin-a-lap",
    "imageUrl": "https://mountainproject.com/assets/photos/climb/119477497_medium_1598899035.jpg?cache=1702073859",
@@ -1177,6 +1331,17 @@
    "approx": false,
    "lat": 39.11198,
    "lng": -84.49227
+  },
+  {
+   "id": "120124667",
+   "photoUrl": "https://www.mountainproject.com/photo/120124667/photo-overlay",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/120124667_medium_1609247078.jpg?cache=1756598827",
+   "title": "Photo overlay.",
+   "breadcrumb": "Arizona > Southern Arizona > Cochise Stronghold > E Stronghold > Cochise Dome Whats My Line Dome > What's My Line? ( 5.6 4c 14 V 12 S 4b A0 R)",
+   "coordArea": "Cochise Dome Whats My Line Dome",
+   "approx": false,
+   "lat": 31.929,
+   "lng": -109.98167
   },
   {
    "id": "120156915",
@@ -1289,6 +1454,17 @@
    "lng": -107.69446
   },
   {
+   "id": "123239232",
+   "photoUrl": "https://www.mountainproject.com/photo/123239232/top",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/123239232_medium_1665711033.jpg?cache=1665979921",
+   "title": "Top!",
+   "breadcrumb": "International > N America > Canada > Alberta > Kananaskis > Goatview Peak > Whatever Floats Your… ( 5.10a/b 6a+ 19 VI+ 19 E2 5b )",
+   "coordArea": "Goatview Peak",
+   "approx": false,
+   "lat": 51.02513,
+   "lng": -115.42602
+  },
+  {
    "id": "123563700",
    "photoUrl": "https://www.mountainproject.com/photo/123563700/harrys-house-north-facing",
    "imageUrl": "https://mountainproject.com/assets/photos/climb/123563700_medium_1671160046.jpg?cache=1786136534",
@@ -1298,6 +1474,17 @@
    "approx": false,
    "lat": 33.68248,
    "lng": -112.04751
+  },
+  {
+   "id": "123577824",
+   "photoUrl": "https://www.mountainproject.com/photo/123577824/stin-practicing-the-gear-before-leading",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/123577824_medium_1671563587.jpg?cache=1786136647",
+   "title": "Stin practicing the gear before leading",
+   "breadcrumb": "Connecticut > Western Highlands > Mattatuck State Forest > Route 6 Cave > Rusty Artifacts ( 5.7 5a 15 V+ 13 MVS 4b )",
+   "coordArea": "Route 6 Cave",
+   "approx": false,
+   "lat": 41.64434,
+   "lng": -73.09075
   },
   {
    "id": "124436221",
@@ -1377,6 +1564,28 @@
    "lng": -116.97583
   },
   {
+   "id": "126634129",
+   "photoUrl": "https://www.mountainproject.com/photo/126634129/the-knob",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/126634129_medium_1722347981_topo.jpg?cache=1722348219",
+   "title": "The Knob",
+   "breadcrumb": "Louisiana > Kisatchie Boulder East Vista > Hob-K-bobbler ( V2 5+ )",
+   "coordArea": "Kisatchie Boulder East Vista",
+   "approx": false,
+   "lat": 31.47732,
+   "lng": -92.99312
+  },
+  {
+   "id": "126634148",
+   "photoUrl": "https://www.mountainproject.com/photo/126634148/randys-machine",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/126634148_medium_1722348570_topo.jpg?cache=1786052539",
+   "title": "Randy's Machine",
+   "breadcrumb": "Louisiana > Kisatchie Boulder East Vista > Randy's Machine ( V1 5 )",
+   "coordArea": "Kisatchie Boulder East Vista",
+   "approx": false,
+   "lat": 31.47732,
+   "lng": -92.99312
+  },
+  {
    "id": "200312487",
    "photoUrl": "https://www.mountainproject.com/photo/200312487/high-country-climbing-guide-book-a-must-have-companion-for-boone-area-climbing",
    "imageUrl": "https://mountainproject.com/assets/photos/climb/200312487_medium_1735187767.jpg?cache=1735492852",
@@ -1399,6 +1608,17 @@
    "lng": -117.67846
   },
   {
+   "id": "200399033",
+   "photoUrl": "https://www.mountainproject.com/photo/200399033/anonymous",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/200399033_medium_1737241407_topo.jpg?cache=1737326359",
+   "title": "-------------",
+   "breadcrumb": "Louisiana > Red River Mud Boulders > Western Treeline > King Ghidora ( V2 5+ )",
+   "coordArea": "Western Treeline",
+   "approx": false,
+   "lat": 32.50579,
+   "lng": -93.72955
+  },
+  {
    "id": "201411818",
    "photoUrl": "https://www.mountainproject.com/photo/201411818/the-author-questing-for-protection-on-pitch-3-the-safe-fun-pitch",
    "imageUrl": "https://mountainproject.com/assets/photos/climb/201411818_medium_1753750056.jpg?cache=1785989382",
@@ -1408,6 +1628,17 @@
    "approx": false,
    "lat": 34.5539,
    "lng": -111.41886
+  },
+  {
+   "id": "201758919",
+   "photoUrl": "https://www.mountainproject.com/photo/201758919/nolan-b-on-pitch-5-photo-by-jeremiah-watt",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/201758919_medium_1758860696.jpg?cache=1785975513",
+   "title": "Nolan B on pitch 5. Photo by Jeremiah Watt",
+   "breadcrumb": "Arizona > Northern Arizona > Oak Creek Canyon > Insomnia Canyon > Insomnia East > Left Side > Heavy Metal ( 5.13- 7c+ 29 IX+ 29 E7 6c V5 6C )",
+   "coordArea": "Left Side",
+   "approx": false,
+   "lat": 34.99323,
+   "lng": -111.78071
   },
   {
    "id": "201854240",
@@ -1650,6 +1881,72 @@
    "approx": false,
    "lat": 43.03993,
    "lng": -90.10516
+  },
+  {
+   "id": "204156420",
+   "photoUrl": "https://www.mountainproject.com/photo/204156420/sandor-nagy-starting-into-the-traverse",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/204156420_medium_1793661346.jpg?cache=1793664725",
+   "title": "Sandor Nagy starting into the traverse.",
+   "breadcrumb": "Maine > Western Mountains > Chain of Ponds > 5. Benedict Bluff > Side Show ( 5.10a 6a 18 VI+ 18 E1 5a )",
+   "coordArea": "5. Benedict Bluff",
+   "approx": false,
+   "lat": 45.3886,
+   "lng": -70.78822
+  },
+  {
+   "id": "204157307",
+   "photoUrl": "https://www.mountainproject.com/photo/204157307/stabat-matercoal-train-wall-102026",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/204157307_medium_1793671921.jpg?cache=1793671927",
+   "title": "Stabat Mater/Coal Train Wall 10/2026",
+   "breadcrumb": "W Virginia > The New River Gorge Region > New River Gorge Proper > Beauty Mountain > 7) Thunder Buttress",
+   "coordArea": "7) Thunder Buttress",
+   "approx": false,
+   "lat": 38.05053,
+   "lng": -81.03102
+  },
+  {
+   "id": "204157832",
+   "photoUrl": "https://www.mountainproject.com/photo/204157832/steven-adjusting-his-feet-while-on-2-super-nice-crimps-preparing-to-move-around-",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/204157832_medium_1793680973.jpg?cache=1793684266",
+   "title": "Steven adjusting his feet while on 2 super nice crimps, preparing to move around the arete.",
+   "breadcrumb": "Colorado > Colorado Springs > Air Force Academy > Leg Boulder > Knee Breaker ( V3 6A PG13)",
+   "coordArea": "Leg Boulder",
+   "approx": false,
+   "lat": 39.01305,
+   "lng": -104.89668
+  },
+  {
+   "id": "204157911",
+   "photoUrl": "https://www.mountainproject.com/photo/204157911/steven-on-the-crux-oct-30-2026",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/204157911_medium_1793682954.jpg?cache=1793682956",
+   "title": "Steven on the crux, Oct 30 2026",
+   "breadcrumb": "Colorado > Colorado Springs > Air Force Academy > Leg Boulder > Ankle Bone ( V0+ 4+ )",
+   "coordArea": "Leg Boulder",
+   "approx": false,
+   "lat": 39.01305,
+   "lng": -104.89668
+  },
+  {
+   "id": "3200486",
+   "photoUrl": "https://www.mountainproject.com/photo/3200486/it-was-cold-thanksgiving-weekend-2003-but-this-route-had-a-really-sheltered-bela",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/3200486_medium_1557852591.jpg?cache=1636918230",
+   "title": "It was cold, thanksgiving weekend 2003, but this route had a really sheltered belay.  Our first route at J-Tree, we thought it was 5.6d/5.7a, and the nice gold rock was worth the long drive from Denver.  The short approach was especially nice and we noticed very little traffic noise compared to Clear Creek or Boulder Canyons in Colorado. <br>  <br> We also did El Chivo, 5.9a , a route who's steepness, shelter, anchors, and good bolting made pulling on the loose rock very worthwhile.  <br>  <br> We carried no guide and mostly got on routes that had visible anchors, good protection, and winter warmth. Turns out our favorites were all Todd Gordon routes.  Thank you Todd! <br>  <br> Submitted by Trout/Slater family",
+   "breadcrumb": "California > Joshua Tree NP > Indian Cove > Indian Cove Campground > Indian Cove Cg East > Billboard Buttress > Driving Limitations ( 5.8- 5b 16 VI- 14 VS 4c )",
+   "coordArea": "Billboard Buttress",
+   "approx": false,
+   "lat": 34.0935,
+   "lng": -116.1561
+  },
+  {
+   "id": "6200261",
+   "photoUrl": "https://www.mountainproject.com/photo/6200261/paul-under-the-first-roof",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/6200261_medium_1557854326.jpg?cache=1694794028",
+   "title": "Paul under the first roof.",
+   "breadcrumb": "California > San Francisco Bay Area > E Bay Area > Mt Diablo SP > Boy Scout Rocks > Lower Tier > Ozone (a.k.a.) The Arch ( 5.10c 6b 20 VII 20 E2 5b )",
+   "coordArea": "Lower Tier",
+   "approx": false,
+   "lat": 37.8471,
+   "lng": -121.9258
   }
  ]
 }
