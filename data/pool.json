@@ -2785,6 +2785,36 @@
    "lat": 36.15536,
    "lng": -115.43608,
    "name": null
+  },
+  "https://www.mountainproject.com/area/105789245/the-thumb": {
+   "lat": 35.2049,
+   "lng": -106.454,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/106025837/west-bell-tower": {
+   "lat": 40.56299,
+   "lng": -111.76907,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/106031965/box-canyon": {
+   "lat": 39.5551,
+   "lng": -111.6752,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/112396146/the-concave": {
+   "lat": 34.37859,
+   "lng": -85.63084,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/105807701/redgarden-roof-routes": {
+   "lat": 39.93112,
+   "lng": -105.2846,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/110834012/tower-rock": {
+   "lat": 46.43292,
+   "lng": -121.87069,
+   "name": null
   }
  },
  "rejected": {
@@ -10997,6 +11027,84 @@
    "approx": false,
    "lat": 36.15536,
    "lng": -115.43608,
+   "addedOn": "2026-11-03",
+   "usedOn": []
+  },
+  {
+   "id": "105961143",
+   "photoUrl": "https://www.mountainproject.com/photo/105961143/fun-stemming-on-p1-the-59-slot-is-visible-above-my-right-shoulder",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/105961143_medium_1558030327.jpg?cache=1753375855",
+   "title": "Fun stemming on P1.  The \"5.9 slot\" is visible above my right shoulder",
+   "breadcrumb": "New Mexico > Albuquerque Area > Sandia Mountains West Side > La Cueva Canyon Upper > Thumb > Aviary Ort Overhangs ( 5.9+ 5c 17 VI 17 E1 5a )",
+   "coordArea": "Thumb",
+   "approx": false,
+   "lat": 35.2049,
+   "lng": -106.454,
+   "addedOn": "2026-11-03",
+   "usedOn": []
+  },
+  {
+   "id": "106956526",
+   "photoUrl": "https://www.mountainproject.com/photo/106956526/entering-the-alcove-photo-credit-andrew-burr",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/106956526_medium_1494154055.jpg?cache=1660241505",
+   "title": "Entering the Alcove. <br> Photo credit: Andrew Burr",
+   "breadcrumb": "Utah > Wasatch Range > Central Wasatch > Bells Canyon > W Bell Tower > Ring That Bell ( 5.13b 8a 29 IX+ 30 E7 6c R)",
+   "coordArea": "W Bell Tower",
+   "approx": false,
+   "lat": 40.56299,
+   "lng": -111.76907,
+   "addedOn": "2026-11-03",
+   "usedOn": []
+  },
+  {
+   "id": "108314852",
+   "photoUrl": "https://www.mountainproject.com/photo/108314852/keith-investigating",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/108314852_medium_1494275643.jpg?cache=1750797437",
+   "title": "keith investigating",
+   "breadcrumb": "Utah > Central Utah > Maple Canyon > Maple Canyon Rd > Box Canyon",
+   "coordArea": "Box Canyon",
+   "approx": false,
+   "lat": 39.5551,
+   "lng": -111.6752,
+   "addedOn": "2026-11-03",
+   "usedOn": []
+  },
+  {
+   "id": "112396219",
+   "photoUrl": "https://www.mountainproject.com/photo/112396219/photo-tyler-casey-wwwtylercaseyphotosquarespacecom",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/112396219_medium_1494302472.jpg?cache=1659563104",
+   "title": "Photo: Tyler Casey <br>  <br> www.tylercaseyphoto.squarespace.com",
+   "breadcrumb": "Alabama > Little River Canyon > Concave",
+   "coordArea": "Concave",
+   "approx": false,
+   "lat": 34.37859,
+   "lng": -85.63084,
+   "addedOn": "2026-11-03",
+   "usedOn": []
+  },
+  {
+   "id": "114007727",
+   "photoUrl": "https://www.mountainproject.com/photo/114007727/entering-the-crux-roof-great-black-totem-green-alien-down-and-left-photo-marc-be",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/114007727_medium_1515888824.jpg?cache=1766354107",
+   "title": "Entering the crux roof. Great black Totem/ green Alien down and left. <br>  <br> Photo: Marc Bergreen.",
+   "breadcrumb": "Colorado > Boulder > Eldorado Canyon SP > Redgarden Wall > Redgarden Roof Routes > Le Toit Direct ( 5.11d 7a 24 VIII 25 E5 6a R)",
+   "coordArea": "Redgarden Roof Routes",
+   "approx": false,
+   "lat": 39.93112,
+   "lng": -105.2846,
+   "addedOn": "2026-11-03",
+   "usedOn": []
+  },
+  {
+   "id": "118910609",
+   "photoUrl": "https://www.mountainproject.com/photo/118910609/leading-up-p3",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/118910609_medium_1590173447.jpg?cache=1759254145",
+   "title": "Leading up P3",
+   "breadcrumb": "Washington > South-W & Tacoma > Columbia Gorge > Tower Rock > Rapunzel's Back in Rehab ( 5.7+ 5a 15 V+ 13 MVS 4b C1)",
+   "coordArea": "Tower Rock",
+   "approx": false,
+   "lat": 46.43292,
+   "lng": -121.87069,
    "addedOn": "2026-11-03",
    "usedOn": []
   }
