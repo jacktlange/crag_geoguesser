@@ -15,6 +15,7 @@ photos already in the pool.
 
 Examples
   python3 scripts/daily.py                      # today, in America/Denver
+  python3 scripts/daily.py --local-hours 0-5    # what the schedule runs: only just after midnight
   python3 scripts/daily.py --no-scrape          # skip Mountain Project, use the pool
   python3 scripts/daily.py --date 2026-11-02 --force
 """
@@ -291,18 +292,25 @@ def main():
     ap.add_argument("--tz", default="America/Denver", help="time zone that defines 'today'")
     ap.add_argument("--count", type=int, default=5, help="photos per day")
     ap.add_argument("--date", help="override today's date (YYYY-MM-DD)")
-    ap.add_argument("--at-hour", type=int, help="only run when it is this hour (0-23) in --tz")
+    ap.add_argument("--local-hours", metavar="START-END",
+                    help="only build when the local hour in --tz is in this range, e.g. 0-5 for the first hours "
+                         "after midnight. Scheduled runs can arrive late or get dropped, so any run in the range "
+                         "builds the day's set if it doesn't exist yet and later ones stop")
+    ap.add_argument("--now", help=argparse.SUPPRESS)   # testing: pretend it is this local time (YYYY-MM-DDTHH:MM)
     ap.add_argument("--force", action="store_true", help="rebuild the day's set if it already exists")
     ap.add_argument("--no-scrape", action="store_true", help="don't contact Mountain Project")
     ap.add_argument("--sources", default="slideshow",
                     help="comma list from: slideshow, popular, newest, random (default: slideshow)")
     args = ap.parse_args()
 
-    now = datetime.datetime.now(ZoneInfo(args.tz))
-    if args.at_hour is not None and now.hour != args.at_hour:
-        print(f"It is {now:%H:%M} in {args.tz}, not {args.at_hour}:00. Nothing to do.")
-        set_output("skip", "true")
-        return 0
+    tz = ZoneInfo(args.tz)
+    now = datetime.datetime.fromisoformat(args.now).replace(tzinfo=tz) if args.now else datetime.datetime.now(tz)
+    if args.local_hours:
+        lo, hi = (int(x) for x in args.local_hours.split("-"))
+        if not lo <= now.hour <= hi:
+            print(f"It is {now:%H:%M} in {args.tz}, outside the {lo}:00-{hi}:59 window. Nothing to do.")
+            set_output("skip", "true")
+            return 0
 
     today = args.date or now.date().isoformat()
     daily_path = os.path.join(DAILY_DIR, f"{today}.json")
