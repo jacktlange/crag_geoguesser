@@ -3270,6 +3270,36 @@
    "lat": 38.99848,
    "lng": -113.38091,
    "name": null
+  },
+  "https://www.mountainproject.com/area/105834183/the-sorcerer": {
+   "lat": 36.10745,
+   "lng": -118.48148,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/105809830/sacred-cow-wall": {
+   "lat": 38.14011,
+   "lng": -109.58944,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/105808450/gibraltar-rock": {
+   "lat": 34.8196,
+   "lng": -111.75331,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/105789143/christian-brothers-east-side": {
+   "lat": 44.36598,
+   "lng": -121.14688,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/110087262/the-wild-granites": {
+   "lat": 39.07203,
+   "lng": -117.21454,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/113406457/emigrant-wall": {
+   "lat": 38.66764,
+   "lng": -120.14898,
+   "name": null
   }
  },
  "rejected": {
@@ -3313,7 +3343,8 @@
   "107860218": "filtered: looks like a map, topo, or drawing (caption)",
   "106664571": "filtered: ice, mixed, or snow route (grade or area)",
   "204157974": "filtered: ice, mixed, or snow route (grade or area)",
-  "106126943": "filtered: ice or snow (caption)"
+  "106126943": "filtered: ice or snow (caption)",
+  "105977273": "filtered: looks like a map, topo, or drawing (caption)"
  },
  "photos": [
   {
@@ -13028,6 +13059,84 @@
    "approx": false,
    "lat": 38.99848,
    "lng": -113.38091,
+   "addedOn": "2026-11-03",
+   "usedOn": []
+  },
+  {
+   "id": "105863747",
+   "photoUrl": "https://www.mountainproject.com/photo/105863747/unknown-climber-hiking-the-crux",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/105863747_medium_1557865154.jpg?cache=1773517166",
+   "title": "Unknown climber hiking the crux.",
+   "breadcrumb": "California > Southern Sierra Nevada Western Slope > Southern Sierra The Needles Kern River Domelands Etc > Needles > Sorcerer > Atlantis ( 5.11+ 7a 24 VIII 24 E4 6a PG13)",
+   "coordArea": "Sorcerer",
+   "approx": false,
+   "lat": 36.10745,
+   "lng": -118.48148,
+   "addedOn": "2026-11-03",
+   "usedOn": []
+  },
+  {
+   "id": "106338076",
+   "photoUrl": "https://www.mountainproject.com/photo/106338076/crack-opening-up",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/106338076_medium_1494099364.jpg?cache=1784849172",
+   "title": "Crack opening up",
+   "breadcrumb": "Utah > Southeast Utah > San Juan County > Indian Creek > Sacred Cow Wall > Fatted Calf ( 5.11- 6c 22 VIII- 22 E3 5c )",
+   "coordArea": "Sacred Cow Wall",
+   "approx": false,
+   "lat": 38.14011,
+   "lng": -109.58944,
+   "addedOn": "2026-11-03",
+   "usedOn": []
+  },
+  {
+   "id": "112352530",
+   "photoUrl": "https://www.mountainproject.com/photo/112352530/new-approach-info-nov-2016-the-approach-for-this-climb-should-follow-the-green-0",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/112352530_medium_1494300014.jpg?cache=1756750628",
+   "title": "NEW APPROACH INFO NOV 2016 <br> The approach for this climb should follow the green (0.3mi), blue(1.1mi) and yellow indicated trails.  The red route was the previous approach and is only 0.1 miles shorter than the blue trail on the way to the upper wash. Both have the same elevation gain but the red route moves through un-established terrain. Please use the existing trails to reach the upper wash so we can minimize impact.",
+   "breadcrumb": "Arizona > Northern Arizona > Sedona Area > Sedona > Gibraltar Rock Area > Gibraltar Rock > Sedona's Scenic Cruise ( 5.9 5c 17 VI 17 HVS 5a )",
+   "coordArea": "Gibraltar Rock",
+   "approx": false,
+   "lat": 34.8196,
+   "lng": -111.75331,
+   "addedOn": "2026-11-03",
+   "usedOn": []
+  },
+  {
+   "id": "114403908",
+   "photoUrl": "https://www.mountainproject.com/photo/114403908/headed-up-on-good-holds-to-the-chains",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/114403908_medium_1527272682.jpg?cache=1751373268",
+   "title": "Headed up on good holds to the chains",
+   "breadcrumb": "Oregon > Central Oregon > Smith Rock > Christian Brothers > Christian Brothers East Side > Rawhide ( 5.11d 7a 24 VIII 25 E5 6a )",
+   "coordArea": "Christian Brothers East Side",
+   "approx": false,
+   "lat": 44.36598,
+   "lng": -121.14688,
+   "addedOn": "2026-11-03",
+   "usedOn": []
+  },
+  {
+   "id": "118202349",
+   "photoUrl": "https://www.mountainproject.com/photo/118202349/copious-slabs-below-the-main-formations",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/118202349_medium_1577939121.jpg?cache=1768000908",
+   "title": "Copious slabs below the \"main\" formations",
+   "breadcrumb": "Nevada > Western Nevada > Wild Granites",
+   "coordArea": "Wild Granites",
+   "approx": false,
+   "lat": 39.07203,
+   "lng": -117.21454,
+   "addedOn": "2026-11-03",
+   "usedOn": []
+  },
+  {
+   "id": "120117599",
+   "photoUrl": "https://www.mountainproject.com/photo/120117599/1220-green-routes-are-located-at-the-bottom-of-the-approach-trail-routes-in-oran",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/120117599_medium_1609114382_topo.jpg?cache=1790877603",
+   "title": "12/20 <br> Green routes are located at the bottom of the approach trail.  <br> Routes in Orange start from the lowest section of the Wall. <br> Routes in Yellow begin from a third bench. <br> Arrow in circle = bolted rap anchor <br> X = bolted anchor <br> O = trad anchor",
+   "breadcrumb": "California > Lake Tahoe > Carson Pass Highway 88 > Silver Lake > Emigrant Wall",
+   "coordArea": "Emigrant Wall",
+   "approx": false,
+   "lat": 38.66764,
+   "lng": -120.14898,
    "addedOn": "2026-11-03",
    "usedOn": []
   }
