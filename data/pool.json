@@ -3695,6 +3695,31 @@
    "lat": 44.30576,
    "lng": 15.47256,
    "name": null
+  },
+  "https://www.mountainproject.com/area/107176507/saddle-rocks-skirt-west-face": {
+   "lat": 33.99445,
+   "lng": -116.14002,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/105739365/crescent-crack-buttress": {
+   "lat": 40.5733,
+   "lng": -111.771,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/105902180/the-moonstone": {
+   "lat": 42.52941,
+   "lng": -107.51337,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/105868851/military-wall": {
+   "lat": 37.8159,
+   "lng": -83.66918,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/106692070/pontatoc-ridge": {
+   "lat": 32.34528,
+   "lng": -110.88783,
+   "name": null
   }
  },
  "rejected": {
@@ -14838,6 +14863,84 @@
    "lat": 44.30576,
    "lng": 15.47256,
    "addedOn": "2026-11-03",
+   "usedOn": []
+  },
+  {
+   "id": "106083975",
+   "photoUrl": "https://www.mountainproject.com/photo/106083975/tony-sartin-drilling-on-the-lead-during-the-fa",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/106083975_medium_1558472895.jpg?cache=1787688603",
+   "title": "Tony Sartin drilling on the lead during the FA.",
+   "breadcrumb": "California > Joshua Tree NP > Central Joshua Tree > Sheep Pass Area > Saddle Rocks Area > Saddle Rocks > Saddle Rocks Skirt > Saddle Rocks Skirt West Face > Harley Queen ( 5.10d 6b+ 21 VII+ 21 E3 5b )",
+   "coordArea": "Saddle Rocks Skirt West Face",
+   "approx": false,
+   "lat": 33.99445,
+   "lng": -116.14002,
+   "addedOn": "2026-11-04",
+   "usedOn": []
+  },
+  {
+   "id": "106458539",
+   "photoUrl": "https://www.mountainproject.com/photo/106458539/long-shot-of-lcc-and-the-mexican-crack",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/106458539_medium_1494110629.jpg?cache=1738823729",
+   "title": "Long shot of LCC and the Mexican Crack",
+   "breadcrumb": "Utah > Wasatch Range > Central Wasatch > Little Cottonwood Canyon > Crescent Crack Buttress > Mexican Crack ( 5.10a 6a 18 VI+ 18 E1 5a )",
+   "coordArea": "Crescent Crack Buttress",
+   "approx": false,
+   "lat": 40.5733,
+   "lng": -111.771,
+   "addedOn": "2026-11-04",
+   "usedOn": []
+  },
+  {
+   "id": "106477798",
+   "photoUrl": "https://www.mountainproject.com/photo/106477798/slab-heaven",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/106477798_medium_1494112579.jpg?cache=1715721434",
+   "title": "Slab Heaven!",
+   "breadcrumb": "Wyoming > Sweetwater Rocks > Moonstone",
+   "coordArea": "Moonstone",
+   "approx": false,
+   "lat": 42.52941,
+   "lng": -107.51337,
+   "addedOn": "2026-11-04",
+   "usedOn": []
+  },
+  {
+   "id": "107253676",
+   "photoUrl": "https://www.mountainproject.com/photo/107253676/lindsay-reareon-on-fuzzy-this-angle-shows-the-routes-steepness-well-november-200",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/107253676_medium_1494176627.jpg?cache=1777438371",
+   "title": "Lindsay Reareon on Fuzzy.  This angle shows the routes steepness well.  November 2009 www.mattkuehlphoto.com",
+   "breadcrumb": "Kentucky > Red River Gorge > Northern Gorge > Military Wall > Fuzzy Undercling ( 5.11b 6c 23 VIII- 23 E3 5c V4 6B )",
+   "coordArea": "Military Wall",
+   "approx": false,
+   "lat": 37.8159,
+   "lng": -83.66918,
+   "addedOn": "2026-11-04",
+   "usedOn": []
+  },
+  {
+   "id": "107339148",
+   "photoUrl": "https://www.mountainproject.com/photo/107339148/rainbow-mt-from-the-summit-of-mt-wilson",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/107339148_medium_1494182638.jpg?cache=1779100704",
+   "title": "Rainbow Mt from the summit of Mt Wilson",
+   "breadcrumb": "Nevada > Southern Nevada > Red Rocks > Mt Wilson > Aeolian Wall > Inti Watana ( 5.10c 6b 20 VII 20 E2 5b )",
+   "coordArea": "Aeolian Wall",
+   "approx": false,
+   "lat": 36.09485,
+   "lng": -115.48188,
+   "addedOn": "2026-11-04",
+   "usedOn": []
+  },
+  {
+   "id": "114262570",
+   "photoUrl": "https://www.mountainproject.com/photo/114262570/peter-senchyna-on-the-crux-9th-pitch-during-the-first-ascent",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/114262570_medium_1523812659.jpg?cache=1789660810",
+   "title": "Peter Senchyna on the crux 9th pitch during the first ascent.",
+   "breadcrumb": "Arizona > Southern Arizona > Mount Lemmon Santa Catalina Mountains > Pontatoc Canyon > Pontatoc Ridge > Void of Form ( 5.9 5c 17 VI 17 HVS 5a )",
+   "coordArea": "Pontatoc Ridge",
+   "approx": false,
+   "lat": 32.34528,
+   "lng": -110.88783,
+   "addedOn": "2026-11-04",
    "usedOn": []
   }
  ],
