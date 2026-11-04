@@ -4150,6 +4150,36 @@
    "lat": 41.90487,
    "lng": -71.43466,
    "name": null
+  },
+  "https://www.mountainproject.com/area/105745669/ypsilon-mountain": {
+   "lat": 40.4569,
+   "lng": -105.681,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/105746140/vestal-peak": {
+   "lat": 37.6894,
+   "lng": -107.602,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/105928943/ha-ling": {
+   "lat": 51.06495,
+   "lng": -115.39966,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/107575851/the-lost-and-found-boulders": {
+   "lat": 43.4179,
+   "lng": -89.72497,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/106755660/simpson-rock": {
+   "lat": 39.56135,
+   "lng": -111.68774,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/105808366/summit-block-rock": {
+   "lat": 34.88502,
+   "lng": -111.79434,
+   "name": null
   }
  },
  "rejected": {
@@ -16677,6 +16707,84 @@
    "approx": false,
    "lat": 41.90487,
    "lng": -71.43466,
+   "addedOn": "2026-11-04",
+   "usedOn": []
+  },
+  {
+   "id": "105835609",
+   "photoUrl": "https://www.mountainproject.com/photo/105835609/wow-exposure-at-its-best-606",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/105835609_medium_1557861644.jpg?cache=1772463533",
+   "title": "Wow!  Exposure at its best. 6/06.",
+   "breadcrumb": "Colorado > Alpine Rock > RMNP - Rock > Ypsilon Mountain > Blitzen Ridge ( 5.4 4a 12 IV 10 VD 3c )",
+   "coordArea": "Ypsilon Mountain",
+   "approx": false,
+   "lat": 40.4569,
+   "lng": -105.681,
+   "addedOn": "2026-11-04",
+   "usedOn": []
+  },
+  {
+   "id": "106257139",
+   "photoUrl": "https://www.mountainproject.com/photo/106257139/brian-hansen-l-and-parker-newby-wham-ridge-1982",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/106257139_medium_1494092062.jpg?cache=1788535867",
+   "title": "Brian Hansen (l) and Parker Newby, Wham Ridge, 1982.",
+   "breadcrumb": "Colorado > Alpine Rock > San Juans > Grenadiers > Vestal Peak > Wham Ridge ( 5.4 4a 12 IV 10 VD 3c R)",
+   "coordArea": "Vestal Peak",
+   "approx": false,
+   "lat": 37.6894,
+   "lng": -107.602,
+   "addedOn": "2026-11-04",
+   "usedOn": []
+  },
+  {
+   "id": "106389327",
+   "photoUrl": "https://www.mountainproject.com/photo/106389327/an-amazing-wall",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/106389327_medium_1494104204.jpg?cache=1772572445",
+   "title": "An amazing wall!",
+   "breadcrumb": "International > N America > Canada > Alberta > Bow Valley > Ha Ling",
+   "coordArea": "Ha Ling",
+   "approx": false,
+   "lat": 51.06495,
+   "lng": -115.39966,
+   "addedOn": "2026-11-04",
+   "usedOn": []
+  },
+  {
+   "id": "107790972",
+   "photoUrl": "https://www.mountainproject.com/photo/107790972/sticking-the-second-hard-move",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/107790972_medium_1494211620.jpg?cache=1739826651",
+   "title": "Sticking the second hard move.",
+   "breadcrumb": "Wisconsin > Baraboo Range > Devil's Lake > Devils Lake Bouldering > E Bluff > E Bluff South > The Lost Found Neck Oil Wall > The Lost And Found Boulders > Bossy ( V6 7A )",
+   "coordArea": "The Lost And Found Boulders",
+   "approx": false,
+   "lat": 43.4179,
+   "lng": -89.72497,
+   "addedOn": "2026-11-04",
+   "usedOn": []
+  },
+  {
+   "id": "108170840",
+   "photoUrl": "https://www.mountainproject.com/photo/108170840/tomaco",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/108170840_medium_1494267188.jpg?cache=1760118633",
+   "title": "Tomaco",
+   "breadcrumb": "Utah > Central Utah > Maple Canyon > Right Fork > Simpson Rock > Tomacco ( 5.12a 7a+ 25 VIII+ 25 E5 6a )",
+   "coordArea": "Simpson Rock",
+   "approx": false,
+   "lat": 39.56135,
+   "lng": -111.68774,
+   "addedOn": "2026-11-04",
+   "usedOn": []
+  },
+  {
+   "id": "108415090",
+   "photoUrl": "https://www.mountainproject.com/photo/108415090/austin-nearing-the-top-of-p2-on-a-pitch-1-and-2-link-up",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/108415090_medium_1494281916.jpg?cache=1728992443",
+   "title": "Austin nearing the top of P2 on a pitch 1 and 2 link up.",
+   "breadcrumb": "Arizona > Northern Arizona > Sedona Area > W Sedona > Coffeepot Rock Area > Summit Block Rock > Dr. Rubo's Wild Ride ( 5.9+ 5c 17 VI 17 E1 5a )",
+   "coordArea": "Summit Block Rock",
+   "approx": false,
+   "lat": 34.88502,
+   "lng": -111.79434,
    "addedOn": "2026-11-04",
    "usedOn": []
   }
