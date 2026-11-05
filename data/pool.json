@@ -4595,6 +4595,36 @@
    "lat": 37.93213,
    "lng": -120.46228,
    "name": null
+  },
+  "https://www.mountainproject.com/area/105788031/tahquitz-rock": {
+   "lat": 33.76025,
+   "lng": -116.68322,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/105717173/chuckwalla-wall": {
+   "lat": 37.13919,
+   "lng": -113.60558,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/105732069/running-man-wall": {
+   "lat": 36.16016,
+   "lng": -115.4423,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/105739757/animal-cracker-rock": {
+   "lat": 42.08716,
+   "lng": -113.72271,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/106118838/the-hamlet": {
+   "lat": 36.15055,
+   "lng": -115.43111,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/105883248/foster-falls": {
+   "lat": 35.18234,
+   "lng": -85.67385,
+   "name": null
   }
  },
  "rejected": {
@@ -4658,7 +4688,8 @@
   "105911248": "filtered: ice, mixed, or snow route (grade or area)",
   "202396856": "filtered: ice, mixed, or snow route (grade or area)",
   "204165683": "filtered: looks like a map, topo, or drawing (caption)",
-  "122183695": "filtered: ice, mixed, or snow route (grade or area)"
+  "122183695": "filtered: ice, mixed, or snow route (grade or area)",
+  "121528653": "filtered: looks like a map, topo, or drawing (caption)"
  },
  "photos": [
   {
@@ -18673,6 +18704,84 @@
    "approx": false,
    "lat": 37.93213,
    "lng": -120.46228,
+   "addedOn": "2026-11-05",
+   "usedOn": []
+  },
+  {
+   "id": "105907754",
+   "photoUrl": "https://www.mountainproject.com/photo/105907754/tahquitz-rock-idyllwild-ca",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/105907754_medium_1557940476.jpg?cache=1773967755",
+   "title": "Tahquitz Rock, Idyllwild, Ca.",
+   "breadcrumb": "California > Tahquitz Suicide Rocks > Tahquitz Rock",
+   "coordArea": "Tahquitz Rock",
+   "approx": false,
+   "lat": 33.76025,
+   "lng": -116.68322,
+   "addedOn": "2026-11-05",
+   "usedOn": []
+  },
+  {
+   "id": "106065837",
+   "photoUrl": "https://www.mountainproject.com/photo/106065837/a-geriatric-climbers-outing-on-the-left-jon-is-bouldering-around-beneath-em10571",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/106065837_medium_1558470013.jpg?cache=1771799047",
+   "title": "A geriatric climbers outing... <br>  <br> On the left Jon is bouldering around beneath <em><a href='https://www.mountainproject.com/route/105718204/popular-demand'>Popular Demand</a></em>, in the middle Jeff is on <em><a href='https://www.mountainproject.com/route/105792753/solace'>Solace</a></em>, and on the right Walt is on <em><a href='https://www.mountainproject.com/route/105718198/apostasy'>Apostasy</a></em>. <br>",
+   "breadcrumb": "Utah > Southwest Utah > Saint George > Chuckwalla Wall",
+   "coordArea": "Chuckwalla Wall",
+   "approx": false,
+   "lat": 37.13919,
+   "lng": -113.60558,
+   "addedOn": "2026-11-05",
+   "usedOn": []
+  },
+  {
+   "id": "106207414",
+   "photoUrl": "https://www.mountainproject.com/photo/106207414/one-way-to-do-this-climb",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/106207414_medium_1494088059.jpg?cache=1731770589",
+   "title": "One way to do this climb.",
+   "breadcrumb": "Nevada > Southern Nevada > Red Rocks > Sandstone Quarry > Calico Hills Trail > Running Man Wall > Running Man ( 5.11c 6c+ 24 VIII- 24 E4 6a )",
+   "coordArea": "Running Man Wall",
+   "approx": false,
+   "lat": 36.16016,
+   "lng": -115.4423,
+   "addedOn": "2026-11-05",
+   "usedOn": []
+  },
+  {
+   "id": "107615316",
+   "photoUrl": "https://www.mountainproject.com/photo/107615316/resting-up-getting-ready-for-the-crux",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/107615316_medium_1494200317.jpg?cache=1792075693",
+   "title": "Resting up, getting ready for the crux",
+   "breadcrumb": "Idaho > S Idaho > City of Rocks > Animal Cracker Rock > Animal Cracker ( 5.10a 6a 18 VI+ 18 E1 5a )",
+   "coordArea": "Animal Cracker Rock",
+   "approx": false,
+   "lat": 42.08716,
+   "lng": -113.72271,
+   "addedOn": "2026-11-05",
+   "usedOn": []
+  },
+  {
+   "id": "112371235",
+   "photoUrl": "https://www.mountainproject.com/photo/112371235/if-your-climbing-at-the-hamlet-and-the-weather-gets-worse-or-the-commiting-natur",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/112371235_medium_1494301052.jpg?cache=1747092610",
+   "title": "If your climbing at the hamlet and the weather gets worse ,or the commiting nature of this notorious big wall. Slows you down mentally . Their is an optional hanging bivy below the roof on the upper tier.",
+   "breadcrumb": "Nevada > Southern Nevada > Red Rocks > First Pullout Calico I > Hamlet",
+   "coordArea": "Hamlet",
+   "approx": false,
+   "lat": 36.15055,
+   "lng": -115.43111,
+   "addedOn": "2026-11-05",
+   "usedOn": []
+  },
+  {
+   "id": "123842222",
+   "photoUrl": "https://www.mountainproject.com/photo/123842222/bugs-biners-books",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/123842222_medium_1678154004.jpg?cache=1786086331",
+   "title": "bugs, biners, books",
+   "breadcrumb": "Tennessee > Foster Falls",
+   "coordArea": "Foster Falls",
+   "approx": false,
+   "lat": 35.18234,
+   "lng": -85.67385,
    "addedOn": "2026-11-05",
    "usedOn": []
   }
