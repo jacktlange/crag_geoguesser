@@ -4625,6 +4625,31 @@
    "lat": 35.18234,
    "lng": -85.67385,
    "name": null
+  },
+  "https://www.mountainproject.com/area/105828720/wine-and-roses": {
+   "lat": 42.46729,
+   "lng": -106.80228,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/105794170/toxic-waste-wall": {
+   "lat": 34.47574,
+   "lng": -119.67865,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/121818359/10-2150-wall": {
+   "lat": 38.63179,
+   "lng": -105.22852,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/105807692/redgarden-s-buttress": {
+   "lat": 39.93119,
+   "lng": -105.28395,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/107717803/pilot-peak": {
+   "lat": 44.96061,
+   "lng": -109.91809,
+   "name": null
   }
  },
  "rejected": {
@@ -4689,7 +4714,8 @@
   "202396856": "filtered: ice, mixed, or snow route (grade or area)",
   "204165683": "filtered: looks like a map, topo, or drawing (caption)",
   "122183695": "filtered: ice, mixed, or snow route (grade or area)",
-  "121528653": "filtered: looks like a map, topo, or drawing (caption)"
+  "121528653": "filtered: looks like a map, topo, or drawing (caption)",
+  "121085002": "filtered: ice or snow (caption)"
  },
  "photos": [
   {
@@ -8061,7 +8087,9 @@
    "lat": 33.95941,
    "lng": -116.01935,
    "addedOn": "2026-10-31",
-   "usedOn": []
+   "usedOn": [
+    "2026-11-05"
+   ]
   },
   {
    "id": "204140281",
@@ -13791,7 +13819,9 @@
    "lat": 44.36716,
    "lng": -121.14353,
    "addedOn": "2026-11-03",
-   "usedOn": []
+   "usedOn": [
+    "2026-11-05"
+   ]
   },
   {
    "id": "105972813",
@@ -14974,7 +15004,9 @@
    "lat": 39.9662,
    "lng": -105.2906,
    "addedOn": "2026-11-03",
-   "usedOn": []
+   "usedOn": [
+    "2026-11-05"
+   ]
   },
   {
    "id": "204161805",
@@ -15234,7 +15266,9 @@
    "lat": 39.4073,
    "lng": -106.6562,
    "addedOn": "2026-11-03",
-   "usedOn": []
+   "usedOn": [
+    "2026-11-05"
+   ]
   },
   {
    "id": "124212247",
@@ -17366,7 +17400,9 @@
    "lat": 37.65459,
    "lng": -83.71673,
    "addedOn": "2026-11-04",
-   "usedOn": []
+   "usedOn": [
+    "2026-11-05"
+   ]
   },
   {
    "id": "113718915",
@@ -18782,6 +18818,84 @@
    "approx": false,
    "lat": 35.18234,
    "lng": -85.67385,
+   "addedOn": "2026-11-05",
+   "usedOn": []
+  },
+  {
+   "id": "106163513",
+   "photoUrl": "https://www.mountainproject.com/photo/106163513/josh-finkelstein-diggin-into-a-beauty-photo-by-frosty-weller",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/106163513_medium_1494084676.jpg?cache=1785010619",
+   "title": "Josh Finkelstein diggin' into a beauty. <br> Photo by: Frosty Weller",
+   "breadcrumb": "Wyoming > Fremont Canyon > Wine & Roses > Wine & Roses ( 5.11a 6c 22 VII+ 22 E3 5c )",
+   "coordArea": "Wine & Roses",
+   "approx": false,
+   "lat": 42.46729,
+   "lng": -106.80228,
+   "addedOn": "2026-11-05",
+   "usedOn": []
+  },
+  {
+   "id": "106231623",
+   "photoUrl": "https://www.mountainproject.com/photo/106231623/on-sport-lead-i-think-just-past-the-first-bolt-definitely-would-recommend-having",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/106231623_medium_1494090090.jpg?cache=1701315427",
+   "title": "On sport lead I think just past the first bolt.  Definitely would recommend having a few pieces of gear as I found it a bit runout without.",
+   "breadcrumb": "California > Central Coast > Santa Barbara > Gibraltar Area > Toxic Waste Wall > Toxic Socks ( 5.9 5c 17 VI 17 HVS 5a )",
+   "coordArea": "Toxic Waste Wall",
+   "approx": false,
+   "lat": 34.47574,
+   "lng": -119.67865,
+   "addedOn": "2026-11-05",
+   "usedOn": []
+  },
+  {
+   "id": "107106779",
+   "photoUrl": "https://www.mountainproject.com/photo/107106779/tina-seconding-ripped",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/107106779_medium_1494166366.jpg?cache=1741876353",
+   "title": "Tina seconding Ripped.",
+   "breadcrumb": "Colorado > Canon City > Shelf Rd > Bank > 10. 2150 Wall > Ripped ( 5.10b 6a+ 19 VII- 19 E2 5b )",
+   "coordArea": "10. 2150 Wall",
+   "approx": false,
+   "lat": 38.63179,
+   "lng": -105.22852,
+   "addedOn": "2026-11-05",
+   "usedOn": []
+  },
+  {
+   "id": "117077110",
+   "photoUrl": "https://www.mountainproject.com/photo/117077110/sam-dorsey-entering-the-dihedral-en-route-to-desdichado",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/117077110_medium_1559770782.jpg?cache=1726959361",
+   "title": "Sam Dorsey entering the dihedral, en route to Desdichado.",
+   "breadcrumb": "Colorado > Boulder > Eldorado Canyon SP > Redgarden Wall > Redgarden S Buttress > C'est La Vie ( 5.11 6c+ 23 VIII- 23 E4 5c )",
+   "coordArea": "Redgarden S Buttress",
+   "approx": false,
+   "lat": 39.93119,
+   "lng": -105.28395,
+   "addedOn": "2026-11-05",
+   "usedOn": []
+  },
+  {
+   "id": "117528513",
+   "photoUrl": "https://www.mountainproject.com/photo/117528513/southeast-buttress-climbers",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/117528513_medium_1564556463.jpg?cache=1788537053",
+   "title": "Southeast Buttress - climbers",
+   "breadcrumb": "California > Yosemite NP > Tuolumne Meadows > Cathedral Range > Cathedral Peak > Southeast Slopes > Southeast Buttress ( 5.6 4c 14 V 12 S 4b )",
+   "coordArea": "Southeast Slopes",
+   "approx": false,
+   "lat": 37.84705,
+   "lng": -119.40453,
+   "addedOn": "2026-11-05",
+   "usedOn": []
+  },
+  {
+   "id": "118608922",
+   "photoUrl": "https://www.mountainproject.com/photo/118608922/misty-glow",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/118608922_medium_1583336085.jpg?cache=1791568438",
+   "title": "Misty glow",
+   "breadcrumb": "Wyoming > Absaroka Range > Pilot Peak > Standard Route, South… ( 5.7 5a 15 V+ 13 MVS 4b R)",
+   "coordArea": "Pilot Peak",
+   "approx": false,
+   "lat": 44.96061,
+   "lng": -109.91809,
    "addedOn": "2026-11-05",
    "usedOn": []
   }
