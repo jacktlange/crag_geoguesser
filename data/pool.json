@@ -4650,6 +4650,26 @@
    "lat": 44.96061,
    "lng": -109.91809,
    "name": null
+  },
+  "https://www.mountainproject.com/area/105716895/reservoir-wall": {
+   "lat": 38.08284,
+   "lng": -109.56274,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/105912152/lost-arrow-spire": {
+   "lat": 37.75604,
+   "lng": -119.5941,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/105813164/prairie-walls-area": {
+   "lat": 43.69974,
+   "lng": -96.18314,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/107017517/shot-hole-boulder": {
+   "lat": 37.06962,
+   "lng": -113.62769,
+   "name": null
   }
  },
  "rejected": {
@@ -18896,6 +18916,84 @@
    "approx": false,
    "lat": 44.96061,
    "lng": -109.91809,
+   "addedOn": "2026-11-05",
+   "usedOn": []
+  },
+  {
+   "id": "106320795",
+   "photoUrl": "https://www.mountainproject.com/photo/106320795/pente-511-a-grand-perspective-terry-climbing",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/106320795_medium_1494097385.jpg?cache=1773711843",
+   "title": "Pente (5.11), a grand perspective. <br> Terry climbing. <br>",
+   "breadcrumb": "Utah > Southeast Utah > San Juan County > Indian Creek > Reservoir Wall > Pente ( 5.11- 6c 22 VIII- 22 E3 5c )",
+   "coordArea": "Reservoir Wall",
+   "approx": false,
+   "lat": 38.08284,
+   "lng": -109.56274,
+   "addedOn": "2026-11-05",
+   "usedOn": []
+  },
+  {
+   "id": "106331617",
+   "photoUrl": "https://www.mountainproject.com/photo/106331617/surmounting-the-low-roof-on-dreamin",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/106331617_medium_1494098501.jpg?cache=1786290073",
+   "title": "Surmounting the low roof on Dreamin'.",
+   "breadcrumb": "Oregon > Central Oregon > Smith Rock > Christian Brothers > Christian Brothers East Side > Dreamin' ( 5.12a 7a+ 25 VIII+ 25 E5 6a )",
+   "coordArea": "Christian Brothers East Side",
+   "approx": false,
+   "lat": 44.36598,
+   "lng": -121.14688,
+   "addedOn": "2026-11-05",
+   "usedOn": []
+  },
+  {
+   "id": "106797511",
+   "photoUrl": "https://www.mountainproject.com/photo/106797511/erin-green-jugging-to-the-top",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/106797511_medium_1494141434.jpg?cache=1764100818",
+   "title": "Erin Green jugging to the top.",
+   "breadcrumb": "California > Yosemite NP > Yosemite Valley > Valley N Side > Yosemite Falls Area > Lost Arrow Spire > Lost Arrow Tip ( 5.7 5a 15 V+ 13 MVS 4b C2)",
+   "coordArea": "Lost Arrow Spire",
+   "approx": false,
+   "lat": 37.75604,
+   "lng": -119.5941,
+   "addedOn": "2026-11-05",
+   "usedOn": []
+  },
+  {
+   "id": "107354255",
+   "photoUrl": "https://www.mountainproject.com/photo/107354255/a-beautiful-late-october-day-at-the-prairie-walls-area",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/107354255_medium_1494183592.jpg?cache=1773416813",
+   "title": "A beautiful late October day at the Prairie Walls area.",
+   "breadcrumb": "Minnesota > Blue Mounds State Park Luverne > Prairie Walls Area",
+   "coordArea": "Prairie Walls Area",
+   "approx": false,
+   "lat": 43.69974,
+   "lng": -96.18314,
+   "addedOn": "2026-11-05",
+   "usedOn": []
+  },
+  {
+   "id": "108019433",
+   "photoUrl": "https://www.mountainproject.com/photo/108019433/chris-healy-setting-up-for-the-3rd-move",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/108019433_medium_1494257654.jpg?cache=1749601534",
+   "title": "Chris Healy setting up for the 3rd move.",
+   "breadcrumb": "Utah > Southwest Utah > Saint George > Moe's Valley > Sentinel Area > Shot Hole Boulder > Shot Hole ( V6 7A )",
+   "coordArea": "Shot Hole Boulder",
+   "approx": false,
+   "lat": 37.06962,
+   "lng": -113.62769,
+   "addedOn": "2026-11-05",
+   "usedOn": []
+  },
+  {
+   "id": "108294382",
+   "photoUrl": "https://www.mountainproject.com/photo/108294382/from-glacier-view-turnout",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/108294382_medium_1494274469.jpg?cache=1701318175",
+   "title": "From Glacier View Turnout",
+   "breadcrumb": "Wyoming > Grand Teton NP",
+   "coordArea": "Grand Teton NP",
+   "approx": false,
+   "lat": 43.74069,
+   "lng": -110.80298,
    "addedOn": "2026-11-05",
    "usedOn": []
   }
