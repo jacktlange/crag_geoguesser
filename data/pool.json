@@ -4200,6 +4200,26 @@
    "lat": 46.1252,
    "lng": -74.67686,
    "name": null
+  },
+  "https://www.mountainproject.com/area/106073044/castle-mountain": {
+   "lat": 51.3006,
+   "lng": -115.9301,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/106124276/volunteer-wall": {
+   "lat": 37.65459,
+   "lng": -83.71673,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/105862554/news-wall": {
+   "lat": 30.5077,
+   "lng": -98.8198,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/107669527/heart-rock": {
+   "lat": 39.5561,
+   "lng": -111.6708,
+   "name": null
   }
  },
  "rejected": {
@@ -4257,7 +4277,9 @@
   "204163570": "filtered: looks like a map, topo, or drawing (caption)",
   "204161435": "filtered: looks like a map, topo, or drawing (caption)",
   "204163182": "filtered: ice, mixed, or snow route (grade or area)",
-  "114058608": "filtered: ice, mixed, or snow route (grade or area)"
+  "114058608": "filtered: ice, mixed, or snow route (grade or area)",
+  "105799603": "filtered: ice, mixed, or snow route (grade or area)",
+  "111863420": "filtered: ice, mixed, or snow route (grade or area)"
  },
  "photos": [
   {
@@ -6912,7 +6934,9 @@
    "lat": 37.59237,
    "lng": -119.01369,
    "addedOn": "2026-10-31",
-   "usedOn": []
+   "usedOn": [
+    "2026-11-04"
+   ]
   },
   {
    "id": "125750036",
@@ -10151,7 +10175,9 @@
    "lat": 39.33231,
    "lng": -77.67658,
    "addedOn": "2026-11-02",
-   "usedOn": []
+   "usedOn": [
+    "2026-11-04"
+   ]
   },
   {
    "id": "122806794",
@@ -10736,7 +10762,9 @@
    "lat": 31.77129,
    "lng": -111.59357,
    "addedOn": "2026-11-02",
-   "usedOn": []
+   "usedOn": [
+    "2026-11-04"
+   ]
   },
   {
    "id": "122976694",
@@ -11750,7 +11778,9 @@
    "lat": 30.97239,
    "lng": -93.19278,
    "addedOn": "2026-11-03",
-   "usedOn": []
+   "usedOn": [
+    "2026-11-04"
+   ]
   },
   {
    "id": "106963105",
@@ -12236,7 +12266,7 @@
   {
    "id": "204156568",
    "photoUrl": "https://www.mountainproject.com/photo/204156568/jimmie-dunn-belayed-by-martha-morris-attempting-the-first-free-ascent-of-the-pro",
-   "imageUrl": "https://mountainproject.com/assets/photos/climb/204156568_medium_1793663248.jpg?cache=1793663250",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/204156568_medium_1793663248.jpg?cache=1793715808",
    "title": "Jimmie Dunn belayed by Martha Morris , attempting the first free ascent of the Prow . Jim spent about a year before success. 5.11d",
    "breadcrumb": "New Hampshire > Cathedral Ledge > Prow Area > Prow ( 5.11d 7a 24 VIII 25 E5 6a )",
    "coordArea": "Prow Area",
@@ -12244,7 +12274,9 @@
    "lat": 44.06298,
    "lng": -71.1656,
    "addedOn": "2026-11-03",
-   "usedOn": []
+   "usedOn": [
+    "2026-11-04"
+   ]
   },
   {
    "id": "107718444",
@@ -16884,6 +16916,84 @@
    "approx": false,
    "lat": 46.1252,
    "lng": -74.67686,
+   "addedOn": "2026-11-04",
+   "usedOn": []
+  },
+  {
+   "id": "107302711",
+   "photoUrl": "https://www.mountainproject.com/photo/107302711/overview-of-trails-orange-brewer-buttress-location-blue-and-correct-descent-gull",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/107302711_medium_1494180037.jpg?cache=1749568877",
+   "title": "Overview of trails (orange), Brewer Buttress location (blue), and correct descent gully. The \"fire lookout\" approach is 2.5 hours to the hut. The Rockbound Lake approach is 4-5 hours to the hut and only a good option for Eisenhower Tower.",
+   "breadcrumb": "International > N America > Canada > Alberta > Banff NP > Castle Mountain > Brewer Buttress ( 5.6 4c 14 V 12 S 4b PG13)",
+   "coordArea": "Castle Mountain",
+   "approx": false,
+   "lat": 51.3006,
+   "lng": -115.9301,
+   "addedOn": "2026-11-04",
+   "usedOn": []
+  },
+  {
+   "id": "112828951",
+   "photoUrl": "https://www.mountainproject.com/photo/112828951/starting-up-techno-on-the-first-warm-day-of-the-year-2017-photo-torie",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/112828951_medium_1494317367.jpg?cache=1762202339",
+   "title": "Starting up Techno on the first warm day of the year 2017... photo torie",
+   "breadcrumb": "New Hampshire > Rumney > Waimea > Technosurfing ( 5.12b 7b 26 VIII+ 26 E5 6b )",
+   "coordArea": "Waimea",
+   "approx": false,
+   "lat": 43.80386,
+   "lng": -71.84091,
+   "addedOn": "2026-11-04",
+   "usedOn": []
+  },
+  {
+   "id": "113234594",
+   "photoUrl": "https://www.mountainproject.com/photo/113234594/fun-routea-bit-pumpy-in-the-middle",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/113234594_medium_1498790065.jpg?cache=1765756267",
+   "title": "Fun route...a bit pumpy in the middle.",
+   "breadcrumb": "Kentucky > Red River Gorge > Pmrp Pendergrass Murray Recreational Preserve > Sore Heel Hollow > Volunteer Wall > Darwin Loves You ( 5.9+ 5c 17 VI 17 E1 5a )",
+   "coordArea": "Volunteer Wall",
+   "approx": false,
+   "lat": 37.65459,
+   "lng": -83.71673,
+   "addedOn": "2026-11-04",
+   "usedOn": []
+  },
+  {
+   "id": "113718915",
+   "photoUrl": "https://www.mountainproject.com/photo/113718915/garret-nearing-the-end-of-sweat",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/113718915_medium_1508270341.jpg?cache=1702072682",
+   "title": "garret nearing the end of Sweat",
+   "breadcrumb": "Texas > Enchanted Rock State Natural Area > Main Dome > News Wall > Sweat ( 5.7 5a 15 V+ 13 MVS 4b )",
+   "coordArea": "News Wall",
+   "approx": false,
+   "lat": 30.5077,
+   "lng": -98.8198,
+   "addedOn": "2026-11-04",
+   "usedOn": []
+  },
+  {
+   "id": "114792992",
+   "photoUrl": "https://www.mountainproject.com/photo/114792992/does-this-wet-your-appetite",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/114792992_medium_1532961377.jpg?cache=1750187368",
+   "title": "Does this wet your appetite?",
+   "breadcrumb": "Utah > Central Utah > Maple Canyon > Maple Canyon Rd > Heart Rock Area > Heart Rock > Tachycardia ( 5.7 5a 15 V+ 13 MVS 4b )",
+   "coordArea": "Heart Rock",
+   "approx": false,
+   "lat": 39.5561,
+   "lng": -111.6708,
+   "addedOn": "2026-11-04",
+   "usedOn": []
+  },
+  {
+   "id": "125387622",
+   "photoUrl": "https://www.mountainproject.com/photo/125387622/top-of-pitch-6-definitely-not-at-all-staged",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/125387622_medium_1700793870.jpg?cache=1791246278",
+   "title": "Top of pitch 6. Definitely not at all staged",
+   "breadcrumb": "Nevada > Southern Nevada > Red Rocks > Black Velvet Canyon > Black Velvet Wall > Sour Mash ( 5.10a 6a 18 VI+ 18 E1 5a )",
+   "coordArea": "Black Velvet Wall",
+   "approx": false,
+   "lat": 36.03518,
+   "lng": -115.46652,
    "addedOn": "2026-11-04",
    "usedOn": []
   }
