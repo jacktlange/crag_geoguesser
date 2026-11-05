@@ -2,14 +2,13 @@ name: Daily Crag Guesser
 
 on:
   schedule:
-    # Every day, a few times just after midnight Mountain Time. Midnight there is 06:00 UTC in
-    # summer and 07:00 UTC in winter, so the runs start at 06:07 and go hourly to 09:07 UTC.
-    # The script only builds when the local hour is inside LOCAL_HOURS, and only if today's
-    # puzzle doesn't exist yet, so the first run after midnight builds it and the others
-    # stop within seconds. The repeats are a safety net: GitHub often delays or drops
-    # scheduled runs, and a missed one is made up by the next.
-    # Weekdays only? Change the last * to 1-5.
-    - cron: "7 6,7,8,9 * * *"
+    # Every day, a few times just after midnight Mountain Time, plus one extra run at 14:07 UTC
+    # (7 am). Midnight there is 06:00 UTC in summer and 07:00 UTC in winter, so the runs start
+    # at 06:07 and go hourly to 09:07 UTC. Any run builds today's puzzle if it doesn't exist yet
+    # and stops within seconds if it does, so the first run after midnight does the work and the
+    # rest are a safety net: GitHub often delays or drops scheduled runs, and a missed one is
+    # made up by the next. Weekdays only? Change the last * to 1-5.
+    - cron: "7 6,7,8,9,14 * * *"
   workflow_dispatch:
     inputs:
       force:
@@ -31,7 +30,6 @@ concurrency:
 
 env:
   TZ_NAME: America/Denver   # defines "today" and the posting hour
-  LOCAL_HOURS: "0-5"        # local hours in which a run may build the day's puzzle (0 = midnight)
   PHOTOS_PER_DAY: "5"
 
 jobs:
@@ -42,8 +40,11 @@ jobs:
       name: github-pages
       url: ${{ steps.deploy.outputs.page_url }}
     steps:
+      # Check out the newest main when the job actually starts. A run that waited in the queue
+      # would otherwise use the commit from when it was first triggered, which can be out of date.
       - uses: actions/checkout@v4
         with:
+          ref: ${{ github.event.repository.default_branch }}
           fetch-depth: 0
 
       - uses: actions/setup-python@v5
@@ -55,7 +56,6 @@ jobs:
         if: github.event_name != 'push'
         run: |
           ARGS="--tz $TZ_NAME --count $PHOTOS_PER_DAY"
-          if [ "${{ github.event_name }}" = "schedule" ]; then ARGS="$ARGS --local-hours $LOCAL_HOURS"; fi
           if [ "${{ inputs.force }}" = "true" ]; then ARGS="$ARGS --force"; fi
           python3 scripts/daily.py $ARGS
 
@@ -74,17 +74,33 @@ jobs:
           done
           [ "$pushed" = 1 ] || { echo "::error::Could not push after 3 tries."; exit 1; }
 
+      # When a scheduled run has nothing new to build, make sure the live site actually shows
+      # the latest puzzle. If a deploy failed earlier, this run publishes the site again.
+      - name: Check the live site is up to date
+        id: live
+        if: github.event_name == 'schedule' && steps.daily.outputs.skip == 'true'
+        env:
+          PAGES_URL: ${{ vars.PAGES_URL }}
+        run: |
+          URL="${PAGES_URL:-https://${GITHUB_REPOSITORY_OWNER,,}.github.io/${GITHUB_REPOSITORY#*/}/}"
+          WANT=$(python3 -c "import json; print(json.load(open('site/data/today.json'))['date'])" 2>/dev/null || echo none)
+          GOT=$(curl -fsS "${URL%/}/data/today.json?nocache=$(date +%s)" | python3 -c "import sys, json; print(json.load(sys.stdin)['date'])" 2>/dev/null || echo none)
+          echo "Latest puzzle in the repository: $WANT. On the live site: $GOT."
+          if [ "$WANT" != "$GOT" ]; then echo "redeploy=true" >> "$GITHUB_OUTPUT"; fi
+
+      # Publish when a puzzle was built, when the live site is behind, and on every manual run
+      # (so "Run workflow" can always repair a site that is out of date).
       - uses: actions/configure-pages@v5
-        if: steps.daily.outputs.skip != 'true'
+        if: steps.daily.outputs.skip != 'true' || steps.live.outputs.redeploy == 'true' || github.event_name == 'workflow_dispatch'
 
       - uses: actions/upload-pages-artifact@v3
-        if: steps.daily.outputs.skip != 'true'
+        if: steps.daily.outputs.skip != 'true' || steps.live.outputs.redeploy == 'true' || github.event_name == 'workflow_dispatch'
         with:
           path: site
 
       - name: Publish the page
         id: deploy
-        if: steps.daily.outputs.skip != 'true'
+        if: steps.daily.outputs.skip != 'true' || steps.live.outputs.redeploy == 'true' || github.event_name == 'workflow_dispatch'
         uses: actions/deploy-pages@v4
 
       - name: Post to Discord
