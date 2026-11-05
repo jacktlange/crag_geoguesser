@@ -4180,6 +4180,26 @@
    "lat": 34.88502,
    "lng": -111.79434,
    "name": null
+  },
+  "https://www.mountainproject.com/area/105861910/seneca-rocks": {
+   "lat": 38.8338,
+   "lng": -79.3663,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/105716985/maverick-buttress": {
+   "lat": 38.54492,
+   "lng": -109.69654,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/120156777/north-face": {
+   "lat": 40.76919,
+   "lng": -73.97759,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/109283588/17-lhippocampe": {
+   "lat": 46.1252,
+   "lng": -74.67686,
+   "name": null
   }
  },
  "rejected": {
@@ -4236,7 +4256,8 @@
   "204163574": "filtered: ice, mixed, or snow route (grade or area)",
   "204163570": "filtered: looks like a map, topo, or drawing (caption)",
   "204161435": "filtered: looks like a map, topo, or drawing (caption)",
-  "204163182": "filtered: ice, mixed, or snow route (grade or area)"
+  "204163182": "filtered: ice, mixed, or snow route (grade or area)",
+  "114058608": "filtered: ice, mixed, or snow route (grade or area)"
  },
  "photos": [
   {
@@ -16785,6 +16806,84 @@
    "approx": false,
    "lat": 34.88502,
    "lng": -111.79434,
+   "addedOn": "2026-11-04",
+   "usedOn": []
+  },
+  {
+   "id": "106044648",
+   "photoUrl": "https://www.mountainproject.com/photo/106044648/inscription-carved-on-the-summit-block-db-sept-16-1908-db-was-a-hardman",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/106044648_medium_1558466718.jpg?cache=1701315085",
+   "title": "Inscription carved on the summit block: <br>  <br> D.B. SEPT 16, 1908 <br>  <br> D.B. was a hardman.",
+   "breadcrumb": "W Virginia > Seneca Rocks",
+   "coordArea": "Seneca Rocks",
+   "approx": false,
+   "lat": 38.8338,
+   "lng": -79.3663,
+   "addedOn": "2026-11-04",
+   "usedOn": []
+  },
+  {
+   "id": "110457944",
+   "photoUrl": "https://www.mountainproject.com/photo/110457944/at-maverick-buttress-with-the-great-jim-donini",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/110457944_medium_1494351040.jpg?cache=1791685592",
+   "title": "At Maverick Buttress with THE great Jim Donini",
+   "breadcrumb": "Utah > Southeast Utah > Grand County > Potash Rd > Long Canyon > Maverick Buttress > Gunsmoke ( 5.11a 6c 22 VII+ 22 E3 5c )",
+   "coordArea": "Maverick Buttress",
+   "approx": false,
+   "lat": 38.54492,
+   "lng": -109.69654,
+   "addedOn": "2026-11-04",
+   "usedOn": []
+  },
+  {
+   "id": "114259487",
+   "photoUrl": "https://www.mountainproject.com/photo/114259487/rat-rock-traverse-1-high-travers-2-low-traverse-3-photo-is-from-httpwwwbeta-boyc",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/114259487_medium_1523743136.jpg?cache=1745629198",
+   "title": "Rat rock traverse = 1 <br> High travers =2 <br> Low Traverse =3  <br>  <br> Photo is from: http://www.beta-boy.com/nycboulderingguide/id4.html",
+   "breadcrumb": "New York > New York City > Central Park > Rat Rock > N Face > Rat Rock Traverse ( V0+ 4+ )",
+   "coordArea": "N Face",
+   "approx": false,
+   "lat": 40.76919,
+   "lng": -73.97759,
+   "addedOn": "2026-11-04",
+   "usedOn": []
+  },
+  {
+   "id": "116231331",
+   "photoUrl": "https://www.mountainproject.com/photo/116231331/table-rock-as-seen-from-the-chimneysmountains-to-sea-trail",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/116231331_medium_1546391034.jpg?cache=1702073222",
+   "title": "Table Rock as seen from The Chimneys/Mountains-to-Sea Trail.",
+   "breadcrumb": "N Carolina > Northern Mountains Region > Linville Gorge > Table Rock",
+   "coordArea": "Table Rock",
+   "approx": false,
+   "lat": 35.88831,
+   "lng": -81.88519,
+   "addedOn": "2026-11-04",
+   "usedOn": []
+  },
+  {
+   "id": "120639519",
+   "photoUrl": "https://www.mountainproject.com/photo/120639519/nick-starting-up-another-12",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/120639519_medium_1619924754.jpg?cache=1707933022",
+   "title": "Nick starting up another 12-.",
+   "breadcrumb": "Colorado > Gunnison > Black Canyon Of The Gunnison > N Rim Routes > N Chasm View Wall > Air Guitar ( 5.12+ 7c 28 IX 27 E6 6b R)",
+   "coordArea": "N Chasm View Wall",
+   "approx": false,
+   "lat": 38.582,
+   "lng": -107.70883,
+   "addedOn": "2026-11-04",
+   "usedOn": []
+  },
+  {
+   "id": "125017595",
+   "photoUrl": "https://www.mountainproject.com/photo/125017595/dogs-on-the-party-ledge",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/125017595_medium_1695928307.jpg?cache=1786460721",
+   "title": "dogs on the party ledge",
+   "breadcrumb": "International > N America > Canada > Quebec > 15. Laurentides > Montagne d'Argent > 17 - L'Hippocampe > L'arête des Urubus ( 5.10b 6a+ 19 VII- 19 E2 5b )",
+   "coordArea": "17 - L'Hippocampe",
+   "approx": false,
+   "lat": 46.1252,
+   "lng": -74.67686,
    "addedOn": "2026-11-04",
    "usedOn": []
   }
