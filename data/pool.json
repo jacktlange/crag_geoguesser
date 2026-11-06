@@ -5545,6 +5545,26 @@
    "lat": 42.70645,
    "lng": -71.77132,
    "name": null
+  },
+  "https://www.mountainproject.com/area/105739353/storm-mountain-island": {
+   "lat": 40.6239,
+   "lng": -111.7446,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/105813134/minnesota-strip": {
+   "lat": 45.39843,
+   "lng": -92.6535,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/106462989/the-pasture": {
+   "lat": 47.54418,
+   "lng": -120.67133,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/108424057/blackwhite-club-sandwich": {
+   "lat": 45.94478,
+   "lng": -74.52769,
+   "name": null
   }
  },
  "rejected": {
@@ -5630,7 +5650,8 @@
   "118110185": "filtered: ice, mixed, or snow route (grade or area)",
   "107371213": "filtered: looks like a map, topo, or drawing (caption)",
   "110245587": "filtered: ice, mixed, or snow route (grade or area)",
-  "120033736": "filtered: looks like a map, topo, or drawing (caption)"
+  "120033736": "filtered: looks like a map, topo, or drawing (caption)",
+  "106115654": "filtered: looks like a map, topo, or drawing (caption)"
  },
  "photos": [
   {
@@ -22746,6 +22767,84 @@
    "approx": false,
    "lat": 42.70645,
    "lng": -71.77132,
+   "addedOn": "2026-11-06",
+   "usedOn": []
+  },
+  {
+   "id": "105903105",
+   "photoUrl": "https://www.mountainproject.com/photo/105903105/tamara-negotiating-the-roof-crux",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/105903105_medium_1557939686.jpg?cache=1707672531",
+   "title": "Tamara negotiating the roof crux",
+   "breadcrumb": "Nevada > Southern Nevada > Red Rocks > White Rock Spring > Angel Food Area > Angel Food Wall > Stilgar's Wild Ride ( 5.8 5b 16 VI- 15 HVS 4c )",
+   "coordArea": "Angel Food Wall",
+   "approx": false,
+   "lat": 36.16926,
+   "lng": -115.4896,
+   "addedOn": "2026-11-06",
+   "usedOn": []
+  },
+  {
+   "id": "105985758",
+   "photoUrl": "https://www.mountainproject.com/photo/105985758/goodros-from-the-top-of-epic-wall-must-be-hot-out-look-at-all-that-chalk",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/105985758_medium_1558387358.jpg?cache=1712586163",
+   "title": "Goodro's from the top of Epic Wall.  Must be hot out, look at all that chalk!",
+   "breadcrumb": "Utah > Wasatch Range > Central Wasatch > Big Cottonwood Canyon > Storm Mountain Picnic Area > Storm Mtn Island > Goodro's Wall ( 5.10c 6b 20 VII 20 E2 5b )",
+   "coordArea": "Storm Mtn Island",
+   "approx": false,
+   "lat": 40.6239,
+   "lng": -111.7446,
+   "addedOn": "2026-11-06",
+   "usedOn": []
+  },
+  {
+   "id": "106630925",
+   "photoUrl": "https://www.mountainproject.com/photo/106630925/late-1970s-cosmic-curt-lee-on-number-6-direct",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/106630925_medium_1494127053.jpg?cache=1740510752",
+   "title": "Late 1970's - Cosmic Curt Lee on Number 6 Direct",
+   "breadcrumb": "Minnesota > Interstate Sp Taylors Falls > Minnesota Strip > Number 6 a.k.a. The B… ( 5.10a 6a 18 VI+ 18 E1 5a )",
+   "coordArea": "Minnesota Strip",
+   "approx": false,
+   "lat": 45.39843,
+   "lng": -92.6535,
+   "addedOn": "2026-11-06",
+   "usedOn": []
+  },
+  {
+   "id": "109647965",
+   "photoUrl": "https://www.mountainproject.com/photo/109647965/a-perfect-autumn-day-on-mountain-home",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/109647965_medium_1494358952.jpg?cache=1735853877",
+   "title": "A perfect Autumn day on Mountain Home.",
+   "breadcrumb": "Washington > Central East Cascades Wenatchee Leavenworth > Leavenworth > Mountain Home Road Boulders > Pasture > Cattleguard Arete ( V8 7B )",
+   "coordArea": "Pasture",
+   "approx": false,
+   "lat": 47.54418,
+   "lng": -120.67133,
+   "addedOn": "2026-11-06",
+   "usedOn": []
+  },
+  {
+   "id": "114260653",
+   "photoUrl": "https://www.mountainproject.com/photo/114260653/vue-depuis-le-sol",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/114260653_medium_1523758450_topo.jpg?cache=1702072950",
+   "title": "Vue depuis le sol",
+   "breadcrumb": "International > N America > Canada > Quebec > 15. Laurentides > Weir > Blackwhite Club Sandwich > Le Temple du Soleil ( 5.13a/b 8a 29 IX+ 29 E7 6c )",
+   "coordArea": "Blackwhite Club Sandwich",
+   "approx": false,
+   "lat": 45.94478,
+   "lng": -74.52769,
+   "addedOn": "2026-11-06",
+   "usedOn": []
+  },
+  {
+   "id": "120825500",
+   "photoUrl": "https://www.mountainproject.com/photo/120825500/gary-hicks-following-doug-bridgers-up-beaver-cleaver-may-1981-gary-hicks-collect",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/120825500_medium_1622903833.jpg?cache=1776329629",
+   "title": "Gary Hicks following Doug Bridgers up Beaver Cleaver... May 1981 (Gary Hicks collection)",
+   "breadcrumb": "Arizona > Central Arizona > *Prescott Area > Granite Mountain > Middle Section > Beaver Cleaver ( 5.8+ 5b 16 VI- 15 HVS 4c PG13)",
+   "coordArea": "Middle Section",
+   "approx": false,
+   "lat": 34.62908,
+   "lng": -112.56665,
    "addedOn": "2026-11-06",
    "usedOn": []
   }
