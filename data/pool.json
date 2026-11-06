@@ -5940,6 +5940,21 @@
    "lat": 40.24965,
    "lng": -75.82247,
    "name": null
+  },
+  "https://www.mountainproject.com/area/105720570/indian-cove": {
+   "lat": 34.09378,
+   "lng": -116.15658,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/105936955/the-bride": {
+   "lat": 38.61377,
+   "lng": -109.65903,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/107277340/picture-peak": {
+   "lat": 37.15094,
+   "lng": -118.64916,
+   "name": null
   }
  },
  "rejected": {
@@ -6032,7 +6047,10 @@
   "203959011": "filtered: looks like a map, topo, or drawing (caption)",
   "201371167": "filtered: looks like a map, topo, or drawing (caption)",
   "202759863": "filtered: ice or snow (caption)",
-  "106277719": "filtered: ice or snow (caption)"
+  "106277719": "filtered: ice or snow (caption)",
+  "106938275": "filtered: looks like a map, topo, or drawing (caption)",
+  "111848480": "filtered: ice, mixed, or snow route (grade or area)",
+  "117827831": "filtered: ice, mixed, or snow route (grade or area)"
  },
  "photos": [
   {
@@ -24526,6 +24544,71 @@
    "approx": false,
    "lat": 40.24965,
    "lng": -75.82247,
+   "addedOn": "2026-11-06",
+   "usedOn": []
+  },
+  {
+   "id": "105856315",
+   "photoUrl": "https://www.mountainproject.com/photo/105856315/rick-cashner-at-the-crux-on-the-first-free-ascent-of-space-walk-511c-1979-photo-",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/105856315_medium_1557864169.jpg?cache=1787813126",
+   "title": "Rick Cashner at the crux, on the first free ascent of \"Space Walk\" 5.11c. 1979. <br> Photo by Blitzo.",
+   "breadcrumb": "California > Lake Tahoe > W Shore > Eagle Creek Canyon > Eagle Lake Cliff > Space Walk ( 5.11c/d 7a 24 VIII 25 E4 6a )",
+   "coordArea": "Eagle Lake Cliff",
+   "approx": false,
+   "lat": 38.93997,
+   "lng": -120.12315,
+   "addedOn": "2026-11-06",
+   "usedOn": []
+  },
+  {
+   "id": "105863095",
+   "photoUrl": "https://www.mountainproject.com/photo/105863095/desert-iguana-photo-by-blitzo",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/105863095_medium_1557865076.jpg?cache=1759621615",
+   "title": "Desert Iguana. <br> Photo by Blitzo.",
+   "breadcrumb": "California > Joshua Tree NP > Indian Cove",
+   "coordArea": "Indian Cove",
+   "approx": false,
+   "lat": 34.09378,
+   "lng": -116.15658,
+   "addedOn": "2026-11-06",
+   "usedOn": []
+  },
+  {
+   "id": "105936995",
+   "photoUrl": "https://www.mountainproject.com/photo/105936995/the-view-down-to-your-last-piece-of-pro-at-the-first-rest-in-the-chimney-that-bi",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/105936995_medium_1557951822.jpg?cache=1773712964",
+   "title": "The view down to your last piece of pro at the first rest in the chimney. That bigbro is about 15 feet off the ground, but 25 feet below you.",
+   "breadcrumb": "Utah > Southeast Utah > Grand County > Little Valley > Bride > Shotgun Wedding ( 5.11 6c+ 23 VIII- 23 E4 5c A1+ R)",
+   "coordArea": "Bride",
+   "approx": false,
+   "lat": 38.61377,
+   "lng": -109.65903,
+   "addedOn": "2026-11-06",
+   "usedOn": []
+  },
+  {
+   "id": "106396239",
+   "photoUrl": "https://www.mountainproject.com/photo/106396239/long-time-big-rock-resident",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/106396239_medium_1494104921.jpg?cache=1783793151",
+   "title": "Long time Big Rock resident",
+   "breadcrumb": "California > Inland Empire > Perris Area > Lake Perris SRA > Big Rock Area > Big Rock - Main Slab",
+   "coordArea": "Big Rock - Main Slab",
+   "approx": false,
+   "lat": 33.83823,
+   "lng": -117.17296,
+   "addedOn": "2026-11-06",
+   "usedOn": []
+  },
+  {
+   "id": "108522638",
+   "photoUrl": "https://www.mountainproject.com/photo/108522638/picture-peak-from-hungry-packer-lake",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/108522638_medium_1494287464.jpg?cache=1758808891",
+   "title": "Picture Peak from Hungry Packer Lake",
+   "breadcrumb": "California > High Sierra > 08 Bishop Pass Evolution > Picture Peak > NE Buttress ( 5.10b 6a+ 19 VII- 19 E2 5b )",
+   "coordArea": "Picture Peak",
+   "approx": false,
+   "lat": 37.15094,
+   "lng": -118.64916,
    "addedOn": "2026-11-06",
    "usedOn": []
   }
