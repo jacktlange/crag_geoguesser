@@ -5515,6 +5515,36 @@
    "lat": 47.36499,
    "lng": -121.31445,
    "name": null
+  },
+  "https://www.mountainproject.com/area/106156350/mojave-national-preserve": {
+   "lat": 35.0121,
+   "lng": -115.65499,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/120249267/busted-boulder": {
+   "lat": 47.54501,
+   "lng": -120.73283,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/126903186/3rd4th-the-curtain": {
+   "lat": 58.53196,
+   "lng": -134.48283,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/105847835/main-wall": {
+   "lat": 35.86945,
+   "lng": -106.35773,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/105739392/the-membrane": {
+   "lat": 40.44666,
+   "lng": -111.68668,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/113793857/townsend-conjecture-overhang": {
+   "lat": 42.70645,
+   "lng": -71.77132,
+   "name": null
   }
  },
  "rejected": {
@@ -5599,7 +5629,8 @@
   "107814866": "filtered: ice, mixed, or snow route (grade or area)",
   "118110185": "filtered: ice, mixed, or snow route (grade or area)",
   "107371213": "filtered: looks like a map, topo, or drawing (caption)",
-  "110245587": "filtered: ice, mixed, or snow route (grade or area)"
+  "110245587": "filtered: ice, mixed, or snow route (grade or area)",
+  "120033736": "filtered: looks like a map, topo, or drawing (caption)"
  },
  "photos": [
   {
@@ -5665,7 +5696,9 @@
    "lat": 44.055,
    "lng": -71.16605,
    "addedOn": "2026-10-30",
-   "usedOn": []
+   "usedOn": [
+    "2026-11-06"
+   ]
   },
   {
    "id": "114563343",
@@ -7643,7 +7676,9 @@
    "lat": 44.53949,
    "lng": -74.50349,
    "addedOn": "2026-10-31",
-   "usedOn": []
+   "usedOn": [
+    "2026-11-06"
+   ]
   },
   {
    "id": "200600368",
@@ -17426,7 +17461,9 @@
    "lat": 33.72093,
    "lng": -84.56445,
    "addedOn": "2026-11-04",
-   "usedOn": []
+   "usedOn": [
+    "2026-11-06"
+   ]
   },
   {
    "id": "202476955",
@@ -19326,7 +19363,9 @@
    "lat": 36.62477,
    "lng": -118.30511,
    "addedOn": "2026-11-05",
-   "usedOn": []
+   "usedOn": [
+    "2026-11-06"
+   ]
   },
   {
    "id": "118841615",
@@ -21692,7 +21731,9 @@
    "lat": 47.81911,
    "lng": -121.57607,
    "addedOn": "2026-11-06",
-   "usedOn": []
+   "usedOn": [
+    "2026-11-06"
+   ]
   },
   {
    "id": "203364495",
@@ -22614,6 +22655,97 @@
    "approx": false,
    "lat": 47.36499,
    "lng": -121.31445,
+   "addedOn": "2026-11-06",
+   "usedOn": []
+  },
+  {
+   "id": "106284787",
+   "photoUrl": "https://www.mountainproject.com/photo/106284787/the-scenic-route-follow-the-coyote-melon-road-on-our-way-to-scope-out-some-crags",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/106284787_medium_1494094429.jpg?cache=1748529991",
+   "title": "The scenic route. <br> Follow the Coyote Melon road.... <br>  <br> On our way to scope out some crags in the New York Mountains 10/21/08",
+   "breadcrumb": "California > High Desert > Mojave National Preserve",
+   "coordArea": "Mojave National Preserve",
+   "approx": false,
+   "lat": 35.0121,
+   "lng": -115.65499,
+   "addedOn": "2026-11-06",
+   "usedOn": []
+  },
+  {
+   "id": "106288761",
+   "photoUrl": "https://www.mountainproject.com/photo/106288761/kyle-on-the-shield",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/106288761_medium_1494094729.jpg?cache=1726096337",
+   "title": "Kyle on The Shield",
+   "breadcrumb": "Washington > Central East Cascades Wenatchee Leavenworth > Leavenworth > Icicle Creek > Bouldering In Icicle Creek > Forestland Boulders > Busted Boulder > Shield ( V7 7A+ )",
+   "coordArea": "Busted Boulder",
+   "approx": false,
+   "lat": 47.54501,
+   "lng": -120.73283,
+   "addedOn": "2026-11-06",
+   "usedOn": []
+  },
+  {
+   "id": "107089885",
+   "photoUrl": "https://www.mountainproject.com/photo/107089885/blake-herrington-approaching-the-summit-of-the-main-tower",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/107089885_medium_1494165182.jpg?cache=1777128210",
+   "title": "Blake Herrington approaching the summit of the Main Tower",
+   "breadcrumb": "Alaska > Southeastern Alaskacoastal Range > Juneau > Off The Road System Roped > Mendenhall Towers > 3Rd4Th The Curtain > Iron Curtain ( 5.11+ 7a 24 VIII 24 E4 6a )",
+   "coordArea": "3Rd4Th The Curtain",
+   "approx": false,
+   "lat": 58.53196,
+   "lng": -134.48283,
+   "addedOn": "2026-11-06",
+   "usedOn": []
+  },
+  {
+   "id": "109065163",
+   "photoUrl": "https://www.mountainproject.com/photo/109065163/daniel-trugman-pulling-over-the-roof-on-death-drives-a-stick",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/109065163_medium_1494337862.jpg?cache=1701318510",
+   "title": "Daniel Trugman pulling over the roof on Death Drives a Stick.",
+   "breadcrumb": "New Mexico > Los Alamos White Rock > Dungeon > Main Wall > Death Drives a Stick ( 5.13b 8a 29 IX+ 30 E7 6c )",
+   "coordArea": "Main Wall",
+   "approx": false,
+   "lat": 35.86945,
+   "lng": -106.35773,
+   "addedOn": "2026-11-06",
+   "usedOn": []
+  },
+  {
+   "id": "111906940",
+   "photoUrl": "https://www.mountainproject.com/photo/111906940/bivy-at-the-top-of-pitch-6",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/111906940_medium_1494310620.jpg?cache=1780508226",
+   "title": "Bivy at the top of pitch 6",
+   "breadcrumb": "California > Yosemite NP > Yosemite Valley > Valley S Side > F. Liberty Cap > Southwest Face ( 5.9 5c 17 VI 17 HVS 5a C2+)",
+   "coordArea": "F. Liberty Cap",
+   "approx": false,
+   "lat": 37.7275,
+   "lng": -119.53364,
+   "addedOn": "2026-11-06",
+   "usedOn": []
+  },
+  {
+   "id": "112106567",
+   "photoUrl": "https://www.mountainproject.com/photo/112106567/chris-powering-through-the-roof",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/112106567_medium_1494321580.jpg?cache=1787665191",
+   "title": "Chris powering through the roof.",
+   "breadcrumb": "Utah > Wasatch Range > Southern Wasatch > American Fork Canyon > Membrane > Membrane Roof ( 5.13a 7c+ 29 IX+ 29 E6 6c )",
+   "coordArea": "Membrane",
+   "approx": false,
+   "lat": 40.44666,
+   "lng": -111.68668,
+   "addedOn": "2026-11-06",
+   "usedOn": []
+  },
+  {
+   "id": "114122439",
+   "photoUrl": "https://www.mountainproject.com/photo/114122439/set-up-on-the-sloper-rail",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/114122439_medium_1520034832.jpg?cache=1696341924",
+   "title": "Set up on the sloper rail.",
+   "breadcrumb": "Massachusetts > Eastern, MA > Townsend Ma Bouldering > State Line Boulders > Townsend Conjecture Overhang > Conjecture ( V6 7A )",
+   "coordArea": "Townsend Conjecture Overhang",
+   "approx": false,
+   "lat": 42.70645,
+   "lng": -71.77132,
    "addedOn": "2026-11-06",
    "usedOn": []
   }
