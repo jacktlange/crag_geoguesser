@@ -5085,6 +5085,31 @@
    "lat": 44.58986,
    "lng": -104.71457,
    "name": null
+  },
+  "https://www.mountainproject.com/area/107341359/upper-tier-bocco-area": {
+   "lat": 39.71525,
+   "lng": -106.70244,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/105716711/southeast-utah": {
+   "lat": 38.56318,
+   "lng": -109.542,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/106790833/mount-emerson": {
+   "lat": 37.24199,
+   "lng": -118.653,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/105908828/barber-wall": {
+   "lat": 44.0622,
+   "lng": -71.16582,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/105746406/ra": {
+   "lat": 39.76827,
+   "lng": -105.74296,
+   "name": null
   }
  },
  "rejected": {
@@ -5160,7 +5185,8 @@
   "121978643": "filtered: ice, mixed, or snow route (grade or area)",
   "118314406": "filtered: ice, mixed, or snow route (grade or area)",
   "107092140": "filtered: ice, mixed, or snow route (grade or area)",
-  "107468447": "filtered: looks like a map, topo, or drawing (caption)"
+  "107468447": "filtered: looks like a map, topo, or drawing (caption)",
+  "114353747": "filtered: looks like a map, topo, or drawing (caption)"
  },
  "photos": [
   {
@@ -20797,6 +20823,84 @@
    "approx": false,
    "lat": 40.5741,
    "lng": -111.7543,
+   "addedOn": "2026-11-05",
+   "usedOn": []
+  },
+  {
+   "id": "105832197",
+   "photoUrl": "https://www.mountainproject.com/photo/105832197/sixshooter-peaks",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/105832197_medium_1557861227.jpg?cache=1743263579",
+   "title": "Sixshooter Peaks",
+   "breadcrumb": "Utah > Southeast Utah > Indian Creek",
+   "coordArea": "Indian Creek",
+   "approx": false,
+   "lat": 38.02574,
+   "lng": -109.53987,
+   "addedOn": "2026-11-05",
+   "usedOn": []
+  },
+  {
+   "id": "108315578",
+   "photoUrl": "https://www.mountainproject.com/photo/108315578/main-wall",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/108315578_medium_1494275713.jpg?cache=1751842676",
+   "title": "Main Wall.",
+   "breadcrumb": "Colorado > Eaglevailminturnred Cliff > Wolcott Crags And Boulders > Upper Tier (Bocco Area)",
+   "coordArea": "Upper Tier (Bocco Area)",
+   "approx": false,
+   "lat": 39.71525,
+   "lng": -106.70244,
+   "addedOn": "2026-11-05",
+   "usedOn": []
+  },
+  {
+   "id": "109237614",
+   "photoUrl": "https://www.mountainproject.com/photo/109237614/darcy-and-i-in-moab",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/109237614_medium_1494342588.jpg?cache=1783021371",
+   "title": "Darcy and I in Moab",
+   "breadcrumb": "Utah > Southeast Utah",
+   "coordArea": "Southeast Utah",
+   "approx": false,
+   "lat": 38.56318,
+   "lng": -109.542,
+   "addedOn": "2026-11-05",
+   "usedOn": []
+  },
+  {
+   "id": "110657167",
+   "photoUrl": "https://www.mountainproject.com/photo/110657167/the-final-ridgeline-on-a-summer-evening",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/110657167_medium_1494342355.jpg?cache=1786751727",
+   "title": "The final ridgeline on a summer evening",
+   "breadcrumb": "California > High Sierra > 07 Humphreys Basin Pine Creek Granite Park > Mt Emerson > Southeast Face (aka t… ( 5.4 4a 12 IV 10 VD 3c )",
+   "coordArea": "Mt Emerson",
+   "approx": false,
+   "lat": 37.24199,
+   "lng": -118.653,
+   "addedOn": "2026-11-05",
+   "usedOn": []
+  },
+  {
+   "id": "111211333",
+   "photoUrl": "https://www.mountainproject.com/photo/111211333/mark-synnott-follows-p1-of-the-book-of-solemnity-10a-oct-2015",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/111211333_medium_1494343030.jpg?cache=1732478842",
+   "title": "Mark Synnott follows P1 of The Book of Solemnity (10a).  Oct 2015.",
+   "breadcrumb": "New Hampshire > Cathedral Ledge > Barber Wall > Book of Solemnity ( 5.10a 6a 18 VI+ 18 E1 5a )",
+   "coordArea": "Barber Wall",
+   "approx": false,
+   "lat": 44.0622,
+   "lng": -71.16582,
+   "addedOn": "2026-11-05",
+   "usedOn": []
+  },
+  {
+   "id": "119222376",
+   "photoUrl": "https://www.mountainproject.com/photo/119222376/dakota-walz-fights-the-pump-after-the-crux-of-walk-on-water-during-an-ascent-of-",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/119222376_medium_1594875090.jpg?cache=1774888627",
+   "title": "Dakota Walz fights the pump after the crux of Walk on Water during an ascent of the Triple WOW. <br>  <br> Photo: Lane Mathis.",
+   "breadcrumb": "Colorado > Empire > Ra > Triple WOW ( 5.13b 8a 29 IX+ 30 E7 6c )",
+   "coordArea": "Ra",
+   "approx": false,
+   "lat": 39.76827,
+   "lng": -105.74296,
    "addedOn": "2026-11-05",
    "usedOn": []
   }
