@@ -5060,6 +5060,31 @@
    "lat": 40.2666,
    "lng": -111.6263,
    "name": null
+  },
+  "https://www.mountainproject.com/area/105716856/kingfisher": {
+   "lat": 38.72273,
+   "lng": -109.30259,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/105875775/east-face": {
+   "lat": 38.77622,
+   "lng": -120.30784,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/105717033/the-optimator": {
+   "lat": 38.0758,
+   "lng": -109.5948,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/106990934/penon-blanco": {
+   "lat": 24.96686,
+   "lng": -104.04447,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/105714384/south-and-east-faces": {
+   "lat": 44.58986,
+   "lng": -104.71457,
+   "name": null
   }
  },
  "rejected": {
@@ -5134,7 +5159,8 @@
   "106240816": "filtered: ice or snow (caption)",
   "121978643": "filtered: ice, mixed, or snow route (grade or area)",
   "118314406": "filtered: ice, mixed, or snow route (grade or area)",
-  "107092140": "filtered: ice, mixed, or snow route (grade or area)"
+  "107092140": "filtered: ice, mixed, or snow route (grade or area)",
+  "107468447": "filtered: looks like a map, topo, or drawing (caption)"
  },
  "photos": [
   {
@@ -20693,6 +20719,84 @@
    "approx": false,
    "lat": 40.2666,
    "lng": -111.6263,
+   "addedOn": "2026-11-05",
+   "usedOn": []
+  },
+  {
+   "id": "105811656",
+   "photoUrl": "https://www.mountainproject.com/photo/105811656/the-view-from-the-top-of-the-kingfisher-is-awesome",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/105811656_medium_1557858690.jpg?cache=1773712725",
+   "title": "The view from the top of the Kingfisher is awesome.",
+   "breadcrumb": "Utah > Southeast Utah > Grand County > Fisher Towers > Kingfisher > Colorado Northeast Ridge ( 5.8 5b 16 VI- 15 HVS 4c C2)",
+   "coordArea": "Kingfisher",
+   "approx": false,
+   "lat": 38.72273,
+   "lng": -109.30259,
+   "addedOn": "2026-11-05",
+   "usedOn": []
+  },
+  {
+   "id": "107099018",
+   "photoUrl": "https://www.mountainproject.com/photo/107099018/climbers-on-the-seldom-done-third-pitch-the-knob-wall",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/107099018_medium_1494165800.jpg?cache=1791898806",
+   "title": "Climbers on the seldom-done third pitch, the \"Knob Wall\".",
+   "breadcrumb": "California > Lake Tahoe > Highway 50 Corridor > Sugarloaf Area > Sugarloaf > E Face > Farley ( 5.9 5c 17 VI 17 HVS 5a )",
+   "coordArea": "E Face",
+   "approx": false,
+   "lat": 38.77622,
+   "lng": -120.30784,
+   "addedOn": "2026-11-05",
+   "usedOn": []
+  },
+  {
+   "id": "108802348",
+   "photoUrl": "https://www.mountainproject.com/photo/108802348/max-rodatz-and-some-gnarly-rocks",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/108802348_medium_1494296691.jpg?cache=1773712071",
+   "title": "Max Rodatz and some gnarly rocks",
+   "breadcrumb": "Utah > Southeast Utah > San Juan County > Indian Creek > Optimator > Soul Fire ( 5.11- 6c 22 VIII- 22 E3 5c )",
+   "coordArea": "Optimator",
+   "approx": false,
+   "lat": 38.0758,
+   "lng": -109.5948,
+   "addedOn": "2026-11-05",
+   "usedOn": []
+  },
+  {
+   "id": "111954776",
+   "photoUrl": "https://www.mountainproject.com/photo/111954776/another-angle",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/111954776_medium_1494313378.jpg?cache=1716516682",
+   "title": "another angle",
+   "breadcrumb": "International > N America > Mexico > Durango > Peñón Blanco",
+   "coordArea": "Peñón Blanco",
+   "approx": false,
+   "lat": 24.96686,
+   "lng": -104.04447,
+   "addedOn": "2026-11-05",
+   "usedOn": []
+  },
+  {
+   "id": "113656832",
+   "photoUrl": "https://www.mountainproject.com/photo/113656832/this-is-a-good-view-of-the-traverse-on-the-first-pitch-dont-start-traversing-unt",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/113656832_medium_1506978658.jpg?cache=1779559900",
+   "title": "This is a good view of the traverse on the first pitch. Don't start traversing until your hands are in the horizontal crack.",
+   "breadcrumb": "Wyoming > Devils Tower > S & E Faces > Bon Homme Variation ( 5.8 5b 16 VI- 15 HVS 4c )",
+   "coordArea": "S & E Faces",
+   "approx": false,
+   "lat": 44.58986,
+   "lng": -104.71457,
+   "addedOn": "2026-11-05",
+   "usedOn": []
+  },
+  {
+   "id": "114227018",
+   "photoUrl": "https://www.mountainproject.com/photo/114227018/savannah-buik-was-always-on-top-of-the-world",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/114227018_medium_1522965852.jpg?cache=1750795352",
+   "title": "Savannah Buik was always on top of the world.",
+   "breadcrumb": "Utah > Wasatch Range > Central Wasatch > Little Cottonwood Canyon > Green Adjective Gully > Savvy ( 5.12d 7c 28 IX 28 E6 6b )",
+   "coordArea": "Green Adjective Gully",
+   "approx": false,
+   "lat": 40.5741,
+   "lng": -111.7543,
    "addedOn": "2026-11-05",
    "usedOn": []
   }
