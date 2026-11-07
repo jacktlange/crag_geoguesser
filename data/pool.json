@@ -6775,6 +6775,31 @@
    "lat": 40.57257,
    "lng": -111.74753,
    "name": null
+  },
+  "https://www.mountainproject.com/area/105948269/the-solarium": {
+   "lat": 37.73372,
+   "lng": -83.63884,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/105948977/maine": {
+   "lat": 45.1511,
+   "lng": -69.16988,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/105790784/castle-rock": {
+   "lat": 47.59967,
+   "lng": -120.71235,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/114942465/west-face": {
+   "lat": 37.87012,
+   "lng": -119.40627,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/105792810/santa-barbara": {
+   "lat": 34.4477,
+   "lng": -119.68,
+   "name": null
   }
  },
  "rejected": {
@@ -28343,6 +28368,84 @@
    "approx": false,
    "lat": 40.57257,
    "lng": -111.74753,
+   "addedOn": "2026-11-07",
+   "usedOn": []
+  },
+  {
+   "id": "106336014",
+   "photoUrl": "https://www.mountainproject.com/photo/106336014/manifest-destiny-may-not-be-512a-for-those-of-average-height-but-for-linda-4-115",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/106336014_medium_1494099098.jpg?cache=1701315602",
+   "title": "Manifest Destiny may not be 5.12a for those of average height, but for Linda (4' 11.5\") it is definitely solid 5.12. Full iron cross reach out the roof then good body tension to release out with out swinging.",
+   "breadcrumb": "Kentucky > Red River Gorge > Muir Valley > Solarium > Manifest Destiny ( 5.11d 7a 24 VIII 25 E5 6a )",
+   "coordArea": "Solarium",
+   "approx": false,
+   "lat": 37.73372,
+   "lng": -83.63884,
+   "addedOn": "2026-11-07",
+   "usedOn": []
+  },
+  {
+   "id": "106923008",
+   "photoUrl": "https://www.mountainproject.com/photo/106923008/maine",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/106923008_medium_1494151340.jpg?cache=1701316571",
+   "title": "Maine",
+   "breadcrumb": "Maine",
+   "coordArea": "Maine",
+   "approx": false,
+   "lat": 45.1511,
+   "lng": -69.16988,
+   "addedOn": "2026-11-07",
+   "usedOn": []
+  },
+  {
+   "id": "107822212",
+   "photoUrl": "https://www.mountainproject.com/photo/107822212/castle-rock-viewed-from-across-the-wenatchee-river",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/107822212_medium_1494213626.jpg?cache=1706720815",
+   "title": "Castle rock viewed from across the Wenatchee river.",
+   "breadcrumb": "Washington > Central East Cascades Wenatchee Leavenworth > Leavenworth > Tumwater Canyon > Castle Rock",
+   "coordArea": "Castle Rock",
+   "approx": false,
+   "lat": 47.59967,
+   "lng": -120.71235,
+   "addedOn": "2026-11-07",
+   "usedOn": []
+  },
+  {
+   "id": "112049637",
+   "photoUrl": "https://www.mountainproject.com/photo/112049637/unknown-climbers-on-the-great-pumpkin",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/112049637_medium_1494318535.jpg?cache=1691559256",
+   "title": "Unknown climbers on the Great Pumpkin.",
+   "breadcrumb": "California > Yosemite NP > Tuolumne Meadows > Fairview Dome > W Face > Great Pumpkin ( 5.8 5b 16 VI- 15 HVS 4c R)",
+   "coordArea": "W Face",
+   "approx": false,
+   "lat": 37.87012,
+   "lng": -119.40627,
+   "addedOn": "2026-11-07",
+   "usedOn": []
+  },
+  {
+   "id": "112839400",
+   "photoUrl": "https://www.mountainproject.com/photo/112839400/apollo-reed-dyno-climber-michael-mosure",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/112839400_medium_1494318009.jpg?cache=1758118586",
+   "title": "Apollo Reed Dyno, Climber Michael Mosure",
+   "breadcrumb": "W Virginia > The New River Gorge Region > Summersville Gauley River Area > Summersville Lake Main > Coliseum > Apollo Reed ( 5.13a 7c+ 29 IX+ 29 E6 6c )",
+   "coordArea": "Coliseum",
+   "approx": false,
+   "lat": 38.24146,
+   "lng": -80.84583,
+   "addedOn": "2026-11-07",
+   "usedOn": []
+  },
+  {
+   "id": "115959883",
+   "photoUrl": "https://www.mountainproject.com/photo/115959883/sunset-gibraltar-rock-1122018",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/115959883_medium_1541270848.jpg?cache=1722530130",
+   "title": "Sunset & Gibraltar rock <br> 11/2/2018",
+   "breadcrumb": "California > Central Coast > Santa Barbara",
+   "coordArea": "Santa Barbara",
+   "approx": false,
+   "lat": 34.4477,
+   "lng": -119.68,
    "addedOn": "2026-11-07",
    "usedOn": []
   }
