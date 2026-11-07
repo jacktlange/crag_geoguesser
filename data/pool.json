@@ -5955,6 +5955,31 @@
    "lat": 37.15094,
    "lng": -118.64916,
    "name": null
+  },
+  "https://www.mountainproject.com/area/105992186/brazos-cliffs": {
+   "lat": 36.745,
+   "lng": -106.4196,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/105721313/the-super-dome": {
+   "lat": 34.0721,
+   "lng": -116.15292,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/105716799/zion-national-park": {
+   "lat": 37.25928,
+   "lng": -112.97265,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/105963731/white-wall": {
+   "lat": 38.04953,
+   "lng": -81.07039,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/114373736/patterson-left": {
+   "lat": 36.92802,
+   "lng": -119.09471,
+   "name": null
   }
  },
  "rejected": {
@@ -6050,7 +6075,10 @@
   "106277719": "filtered: ice or snow (caption)",
   "106938275": "filtered: looks like a map, topo, or drawing (caption)",
   "111848480": "filtered: ice, mixed, or snow route (grade or area)",
-  "117827831": "filtered: ice, mixed, or snow route (grade or area)"
+  "117827831": "filtered: ice, mixed, or snow route (grade or area)",
+  "112504516": "filtered: ice, mixed, or snow route (grade or area)",
+  "115162120": "filtered: looks like a map, topo, or drawing (caption)",
+  "116958366": "filtered: ice, mixed, or snow route (grade or area)"
  },
  "photos": [
   {
@@ -24609,6 +24637,71 @@
    "approx": false,
    "lat": 37.15094,
    "lng": -118.64916,
+   "addedOn": "2026-11-06",
+   "usedOn": []
+  },
+  {
+   "id": "106313381",
+   "photoUrl": "https://www.mountainproject.com/photo/106313381/view-of-the-brazos-from-the-highway",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/106313381_medium_1494096695.jpg?cache=1733789327",
+   "title": "View of the Brazos from the highway",
+   "breadcrumb": "New Mexico > New Mexico Other Northern Areas > Rio Arriba County Brazos San Juans > Brazos Cliffs",
+   "coordArea": "Brazos Cliffs",
+   "approx": false,
+   "lat": 36.745,
+   "lng": -106.4196,
+   "addedOn": "2026-11-06",
+   "usedOn": []
+  },
+  {
+   "id": "110186375",
+   "photoUrl": "https://www.mountainproject.com/photo/110186375/de-on-the-fa-during-the-acid-traverse-photo-de-collection",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/110186375_medium_1494367687.jpg?cache=1767063699",
+   "title": "DE on the FA during the \"Acid Traverse.\" <br>  <br> photo: DE collection",
+   "breadcrumb": "California > Joshua Tree NP > Wonderland Of Rocks > Wonderland North > Willow Hole Area > Super Dome > Last Unicorn ( 5.11a 6c 22 VII+ 22 E3 5c R)",
+   "coordArea": "Super Dome",
+   "approx": false,
+   "lat": 34.0721,
+   "lng": -116.15292,
+   "addedOn": "2026-11-06",
+   "usedOn": []
+  },
+  {
+   "id": "116732527",
+   "photoUrl": "https://www.mountainproject.com/photo/116732527/yup",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/116732527_medium_1555264687.jpg?cache=1790202673",
+   "title": "yup",
+   "breadcrumb": "Utah > Southwest Utah > Zion NP",
+   "coordArea": "Zion NP",
+   "approx": false,
+   "lat": 37.25928,
+   "lng": -112.97265,
+   "addedOn": "2026-11-06",
+   "usedOn": []
+  },
+  {
+   "id": "117009126",
+   "photoUrl": "https://www.mountainproject.com/photo/117009126/arek-making-thunderstruck-look-easy",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/117009126_medium_1558615028.jpg?cache=1665774815",
+   "title": "Arek  making Thunderstruck look easy.",
+   "breadcrumb": "W Virginia > The New River Gorge Region > New River Gorge Proper > Kaymoor > 5. White Wall > Thunderstruck ( 5.12b 7b 26 VIII+ 26 E5 6b )",
+   "coordArea": "5. White Wall",
+   "approx": false,
+   "lat": 38.04953,
+   "lng": -81.07039,
+   "addedOn": "2026-11-06",
+   "usedOn": []
+  },
+  {
+   "id": "121833992",
+   "photoUrl": "https://www.mountainproject.com/photo/121833992/joe-sending-crux-pitch-9",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/121833992_medium_1641316112.jpg?cache=1669140048",
+   "title": "Joe sending crux pitch 9",
+   "breadcrumb": "California > Southern Sierra Nevada Western Slope > Hwy 168Tollhouse Shaver Lake Courtright > Patterson Bluff > Patterson Left > Forebay ( 5.12 7b+ 27 VIII+ 26 E6 6b )",
+   "coordArea": "Patterson Left",
+   "approx": false,
+   "lat": 36.92802,
+   "lng": -119.09471,
    "addedOn": "2026-11-06",
    "usedOn": []
   }
