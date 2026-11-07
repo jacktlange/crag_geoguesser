@@ -6390,6 +6390,26 @@
    "lat": 39.61125,
    "lng": 70.30662,
    "name": null
+  },
+  "https://www.mountainproject.com/area/106121413/cactus-flower-tower-summit": {
+   "lat": 36.09653,
+   "lng": -115.4856,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/107839329/north-fork-of-the-st-vrain-river": {
+   "lat": 40.24453,
+   "lng": -105.33163,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/116970919/southeast-base": {
+   "lat": 37.72855,
+   "lng": -119.63636,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/106361908/picture-perfect-boulder": {
+   "lat": 35.6852,
+   "lng": -106.6588,
+   "name": null
   }
  },
  "rejected": {
@@ -6497,7 +6517,8 @@
   "125896320": "filtered: looks like a map, topo, or drawing (caption)",
   "107496471": "filtered: ice, mixed, or snow route (grade or area)",
   "110082474": "filtered: ice, mixed, or snow route (grade or area)",
-  "110160074": "filtered: ice, mixed, or snow route (grade or area)"
+  "110160074": "filtered: ice, mixed, or snow route (grade or area)",
+  "121880460": "filtered: looks like a map, topo, or drawing (caption)"
  },
  "photos": [
   {
@@ -16530,7 +16551,9 @@
    "lat": 43.0511,
    "lng": -90.0994,
    "addedOn": "2026-11-03",
-   "usedOn": []
+   "usedOn": [
+    "2026-11-07"
+   ]
   },
   {
    "id": "106831293",
@@ -17158,7 +17181,9 @@
    "lat": 46.71374,
    "lng": -114.56526,
    "addedOn": "2026-11-03",
-   "usedOn": []
+   "usedOn": [
+    "2026-11-07"
+   ]
   },
   {
    "id": "108507461",
@@ -21831,7 +21856,9 @@
    "lat": 36.09485,
    "lng": -115.48188,
    "addedOn": "2026-11-05",
-   "usedOn": []
+   "usedOn": [
+    "2026-11-07"
+   ]
   },
   {
    "id": "111385455",
@@ -23211,7 +23238,9 @@
    "lat": 44.73196,
    "lng": -72.09339,
    "addedOn": "2026-11-06",
-   "usedOn": []
+   "usedOn": [
+    "2026-11-07"
+   ]
   },
   {
    "id": "113782054",
@@ -23679,7 +23708,9 @@
    "lat": 45.94478,
    "lng": -74.52769,
    "addedOn": "2026-11-06",
-   "usedOn": []
+   "usedOn": [
+    "2026-11-07"
+   ]
   },
   {
    "id": "120825500",
@@ -26486,6 +26517,84 @@
    "approx": false,
    "lat": 39.61125,
    "lng": 70.30662,
+   "addedOn": "2026-11-07",
+   "usedOn": []
+  },
+  {
+   "id": "1206075",
+   "photoUrl": "https://www.mountainproject.com/photo/1206075/leading-off-the-belay-while-advocating-participation-in-the-electoral-process-on",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/1206075_medium_1557849206.jpg?cache=1782220891",
+   "title": "Leading off the belay while advocating participation in the electoral process on the first 5.9 pitch. Photo by Jeff Amato.",
+   "breadcrumb": "Colorado > Alpine Rock > RMNP - Rock > Glacier Gorge > Spearhead > Barb ( 5.10 6b 20 VII- 19 E2 5b )",
+   "coordArea": "Spearhead",
+   "approx": false,
+   "lat": 40.2567,
+   "lng": -105.63834,
+   "addedOn": "2026-11-07",
+   "usedOn": []
+  },
+  {
+   "id": "106158858",
+   "photoUrl": "https://www.mountainproject.com/photo/106158858/the-beautiful-cactus-flower-tower",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/106158858_medium_1494084331.jpg?cache=1738435402",
+   "title": "The beautiful Cactus Flower Tower",
+   "breadcrumb": "Nevada > Southern Nevada > Red Rocks > Oak Creek Canyon > Cactus Flower Tower > Cactus Flower Tower Summit",
+   "coordArea": "Cactus Flower Tower Summit",
+   "approx": false,
+   "lat": 36.09653,
+   "lng": -115.4856,
+   "addedOn": "2026-11-07",
+   "usedOn": []
+  },
+  {
+   "id": "106230505",
+   "photoUrl": "https://www.mountainproject.com/photo/106230505/across-the-divide-palisades",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/106230505_medium_1494090018.jpg?cache=1768506991",
+   "title": "Across the Divide, Palisades",
+   "breadcrumb": "California > High Sierra",
+   "coordArea": "High Sierra",
+   "approx": false,
+   "lat": 37.27549,
+   "lng": -118.6765,
+   "addedOn": "2026-11-07",
+   "usedOn": []
+  },
+  {
+   "id": "106334150",
+   "photoUrl": "https://www.mountainproject.com/photo/106334150/bob-horan-on-3rd-ascent-of-randy-leavitts-animal-magnetism-512d-leavitation-off-",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/106334150_medium_1494098838.jpg?cache=1785442183",
+   "title": "Bob Horan on 3rd ascent of Randy Leavitt's Animal Magnetism 5.12d, leavitation off-width roof.",
+   "breadcrumb": "Colorado > Lyons > St Vrain Canyons > North Fork Of The St Vrain River",
+   "coordArea": "North Fork Of The St Vrain River",
+   "approx": false,
+   "lat": 40.24453,
+   "lng": -105.33163,
+   "addedOn": "2026-11-07",
+   "usedOn": []
+  },
+  {
+   "id": "107049842",
+   "photoUrl": "https://www.mountainproject.com/photo/107049842/the-line-begins-at-the-tree-against-the-wall-on-the-right-and-finishes-at-the-cl",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/107049842_medium_1494161928.jpg?cache=1701316777",
+   "title": "The line begins at the tree against the wall on the right and finishes at the climber.",
+   "breadcrumb": "California > Yosemite NP > Yosemite Valley > Valley N Side > B. El Capitan > 1. Base Routes > Southeast Base > TRON ( 5.13b 8a 29 IX+ 30 E7 6c PG13)",
+   "coordArea": "Southeast Base",
+   "approx": false,
+   "lat": 37.72855,
+   "lng": -119.63636,
+   "addedOn": "2026-11-07",
+   "usedOn": []
+  },
+  {
+   "id": "115960674",
+   "photoUrl": "https://www.mountainproject.com/photo/115960674/trying-to-figure-out-the-beta-for-picture-perfect",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/115960674_medium_1541284037.jpg?cache=1779160875",
+   "title": "trying to figure out the beta for picture perfect!",
+   "breadcrumb": "New Mexico > Jemez Area > Ponderosa Bouldering > Pond > Picture Perfect Boulder > Picture Perfect ( V3 6A )",
+   "coordArea": "Picture Perfect Boulder",
+   "approx": false,
+   "lat": 35.6852,
+   "lng": -106.6588,
    "addedOn": "2026-11-07",
    "usedOn": []
   }
