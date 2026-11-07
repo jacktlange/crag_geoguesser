@@ -6755,6 +6755,26 @@
    "lat": 48.64784,
    "lng": -119.44072,
    "name": null
+  },
+  "https://www.mountainproject.com/area/105807742/west-ridge-part-c-pony-express-to-long-john": {
+   "lat": 39.93203,
+   "lng": -105.28849,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/106093146/brown-corridor": {
+   "lat": 34.48091,
+   "lng": -117.12858,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/106923403/emerald-point": {
+   "lat": 38.95473,
+   "lng": -120.1228,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/111326318/wrist-rocket-area": {
+   "lat": 40.57257,
+   "lng": -111.74753,
+   "name": null
   }
  },
  "rejected": {
@@ -28245,6 +28265,84 @@
    "approx": false,
    "lat": 48.64784,
    "lng": -119.44072,
+   "addedOn": "2026-11-07",
+   "usedOn": []
+  },
+  {
+   "id": "106041901",
+   "photoUrl": "https://www.mountainproject.com/photo/106041901/delicate-arch-photo-by-dave-fiorucci",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/106041901_medium_1558466334.jpg?cache=1747489635",
+   "title": "Delicate Arch <br> Photo by: Dave Fiorucci",
+   "breadcrumb": "Utah > Southeast Utah",
+   "coordArea": "Southeast Utah",
+   "approx": false,
+   "lat": 38.56318,
+   "lng": -109.542,
+   "addedOn": "2026-11-07",
+   "usedOn": []
+  },
+  {
+   "id": "106367372",
+   "photoUrl": "https://www.mountainproject.com/photo/106367372/another-good-photo-by-ben",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/106367372_medium_1494102265.jpg?cache=1760727229",
+   "title": "Another good photo by Ben.",
+   "breadcrumb": "Colorado > Boulder > Eldorado Canyon SP > W Ridge > West Ridge Part C Pony Express To Long John > Iron Horse ( 5.11 6c+ 23 VIII- 23 E4 5c )",
+   "coordArea": "West Ridge Part C Pony Express To Long John",
+   "approx": false,
+   "lat": 39.93203,
+   "lng": -105.28849,
+   "addedOn": "2026-11-07",
+   "usedOn": []
+  },
+  {
+   "id": "107272017",
+   "photoUrl": "https://www.mountainproject.com/photo/107272017/evolution-valley",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/107272017_medium_1494177885.jpg?cache=1701317068",
+   "title": "Evolution Valley.  <br>",
+   "breadcrumb": "California > High Sierra",
+   "coordArea": "High Sierra",
+   "approx": false,
+   "lat": 37.27549,
+   "lng": -118.6765,
+   "addedOn": "2026-11-07",
+   "usedOn": []
+  },
+  {
+   "id": "107443121",
+   "photoUrl": "https://www.mountainproject.com/photo/107443121/if-you-go-to-this-cave-entrance-on-the-south-end-of-the-corridor-you-can-scoot-u",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/107443121_medium_1494189667.jpg?cache=1701317279",
+   "title": "If you go to this cave entrance on the south end of the corridor you can scoot up an easy slab then head right through a tunnel, boulder hop and you're right under Mojave Green Arete.",
+   "breadcrumb": "California > High Desert > Apple Valley Area > Horsemen's Center > Cemetery > Brown Corridor",
+   "coordArea": "Brown Corridor",
+   "approx": false,
+   "lat": 34.48091,
+   "lng": -117.12858,
+   "addedOn": "2026-11-07",
+   "usedOn": []
+  },
+  {
+   "id": "108419589",
+   "photoUrl": "https://www.mountainproject.com/photo/108419589/splitter-all-american-finger-crack",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/108419589_medium_1494282206.jpg?cache=1765218055",
+   "title": "Splitter, All American Finger Crack",
+   "breadcrumb": "California > Lake Tahoe > W Shore > Eagle Creek Canyon > Emerald Point > All American Finger C… ( 5.9 5c 17 VI 17 HVS 5a )",
+   "coordArea": "Emerald Point",
+   "approx": false,
+   "lat": 38.95473,
+   "lng": -120.1228,
+   "addedOn": "2026-11-07",
+   "usedOn": []
+  },
+  {
+   "id": "111326346",
+   "photoUrl": "https://www.mountainproject.com/photo/111326346/setting-up-for-the-transition-onto-the-slab-face",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/111326346_medium_1494348130.jpg?cache=1770484219",
+   "title": "Setting up for the transition,... onto the slab face....",
+   "breadcrumb": "Utah > Wasatch Range > Central Wasatch > Little Cottonwood Canyon > Boulders Little Cottonwood > Hill > Wrist Rocket Area > Wrist Rocket ( V9 7C )",
+   "coordArea": "Wrist Rocket Area",
+   "approx": false,
+   "lat": 40.57257,
+   "lng": -111.74753,
    "addedOn": "2026-11-07",
    "usedOn": []
   }
