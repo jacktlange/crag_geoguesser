@@ -6375,6 +6375,21 @@
    "lat": 47.4789,
    "lng": -120.83318,
    "name": null
+  },
+  "https://www.mountainproject.com/area/106871476/cat-lake": {
+   "lat": 49.81452,
+   "lng": -123.11127,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/108081431/totem-proto-area": {
+   "lat": 33.27587,
+   "lng": -111.02832,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/108515342/peak-slesova": {
+   "lat": 39.61125,
+   "lng": 70.30662,
+   "name": null
   }
  },
  "rejected": {
@@ -6479,7 +6494,10 @@
   "108698469": "filtered: ice, mixed, or snow route (grade or area)",
   "118338595": "filtered: ice, mixed, or snow route (grade or area)",
   "116528000": "filtered: ice or snow (caption)",
-  "125896320": "filtered: looks like a map, topo, or drawing (caption)"
+  "125896320": "filtered: looks like a map, topo, or drawing (caption)",
+  "107496471": "filtered: ice, mixed, or snow route (grade or area)",
+  "110082474": "filtered: ice, mixed, or snow route (grade or area)",
+  "110160074": "filtered: ice, mixed, or snow route (grade or area)"
  },
  "photos": [
   {
@@ -26404,6 +26422,71 @@
    "lat": 47.4789,
    "lng": -120.83318,
    "addedOn": "2026-11-06",
+   "usedOn": []
+  },
+  {
+   "id": "106143087",
+   "photoUrl": "https://www.mountainproject.com/photo/106143087/late-night-snack-at-the-sex-burger-stand-3am-in-huaraz",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/106143087_medium_1559058589.jpg?cache=1738279714",
+   "title": "Late night snack. At the Sex Burger stand, 3am in Huaraz!",
+   "breadcrumb": "International > S America > Peru > Cordillera Blanca",
+   "coordArea": "Cordillera Blanca",
+   "approx": false,
+   "lat": -9.35156,
+   "lng": -77.40971,
+   "addedOn": "2026-11-07",
+   "usedOn": []
+  },
+  {
+   "id": "106877411",
+   "photoUrl": "https://www.mountainproject.com/photo/106877411/climbing-on-the-stupidity-of-it-all-with-the-tantalus-range-in-the-background",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/106877411_medium_1494147839.jpg?cache=1780282050",
+   "title": "Climbing on The Stupidity of it all, with the Tantalus range in the background.",
+   "breadcrumb": "International > N America > Canada > British Columbia > Sea To Sky Squamish To Whistler > Cat Lake",
+   "coordArea": "Cat Lake",
+   "approx": false,
+   "lat": 49.81452,
+   "lng": -123.11127,
+   "addedOn": "2026-11-07",
+   "usedOn": []
+  },
+  {
+   "id": "106962081",
+   "photoUrl": "https://www.mountainproject.com/photo/106962081/unknown-climber-ends-the-day-on-the-pole",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/106962081_medium_1494154491.jpg?cache=1784411172",
+   "title": "unknown climber ends the day on the pole",
+   "breadcrumb": "Arizona > Central Arizona > Queen Creek Canyon > Lower Devils Canyon > Totem-Proto Area > Totem Pole ( 5.10c/d 6b+ 21 VII+ 21 E3 5b )",
+   "coordArea": "Totem-Proto Area",
+   "approx": false,
+   "lat": 33.27587,
+   "lng": -111.02832,
+   "addedOn": "2026-11-07",
+   "usedOn": []
+  },
+  {
+   "id": "120234766",
+   "photoUrl": "https://www.mountainproject.com/photo/120234766/robert-reaching-for-the-crux",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/120234766_medium_1611624628.jpg?cache=1737062815",
+   "title": "Robert reaching for the crux",
+   "breadcrumb": "California > Joshua Tree NP > Hidden Valley Area > Hidden Valley Campground > Chimney Rock > Chimney Rock West Face > Pinched Rib ( 5.10a 6a 18 VI+ 18 E1 5a )",
+   "coordArea": "Chimney Rock West Face",
+   "approx": false,
+   "lat": 34.01661,
+   "lng": -116.16159,
+   "addedOn": "2026-11-07",
+   "usedOn": []
+  },
+  {
+   "id": "121443470",
+   "photoUrl": "https://www.mountainproject.com/photo/121443470/the-bivy-ledge",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/121443470_medium_1633910282.jpg?cache=1784583703",
+   "title": "The bivy ledge.",
+   "breadcrumb": "International > Asia > Kyrgyzstan > Karavshin Valley > Peak Slesova > Perestroika Crack ( 5.12- 7a+ 25 VIII+ 25 E5 6a )",
+   "coordArea": "Peak Slesova",
+   "approx": false,
+   "lat": 39.61125,
+   "lng": 70.30662,
+   "addedOn": "2026-11-07",
    "usedOn": []
   }
  ],
