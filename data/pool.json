@@ -7205,6 +7205,21 @@
    "lat": 38.09105,
    "lng": -109.56274,
    "name": null
+  },
+  "https://www.mountainproject.com/area/105734141/the-eastern-front": {
+   "lat": 37.9262,
+   "lng": -120.4632,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/122928403/north-wall-north-slab": {
+   "lat": 43.98555,
+   "lng": -122.29832,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/123975599/the-shish-mahal": {
+   "lat": 38.46545,
+   "lng": -110.73524,
+   "name": null
   }
  },
  "rejected": {
@@ -7324,7 +7339,8 @@
   "123821290": "filtered: ice, mixed, or snow route (grade or area)",
   "112573490": "filtered: looks like a map, topo, or drawing (caption)",
   "204178694": "filtered: ice, mixed, or snow route (grade or area)",
-  "204178316": "filtered: ice, mixed, or snow route (grade or area)"
+  "204178316": "filtered: ice, mixed, or snow route (grade or area)",
+  "105921820": "filtered: ice or snow (caption)"
  },
  "photos": [
   {
@@ -30157,6 +30173,84 @@
    "approx": false,
    "lat": 37.73151,
    "lng": -83.65679,
+   "addedOn": "2026-11-07",
+   "usedOn": []
+  },
+  {
+   "id": "105955080",
+   "photoUrl": "https://www.mountainproject.com/photo/105955080/heading-up-dc-angel-cat",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/105955080_medium_1558029580.jpg?cache=1778337956",
+   "title": "Heading up DC Angel Cat",
+   "breadcrumb": "California > Sonora Pass Highway 108 > Table Mountain > Eastern Front",
+   "coordArea": "Eastern Front",
+   "approx": false,
+   "lat": 37.9262,
+   "lng": -120.4632,
+   "addedOn": "2026-11-07",
+   "usedOn": []
+  },
+  {
+   "id": "106554647",
+   "photoUrl": "https://www.mountainproject.com/photo/106554647/the-offwidth-pitch-on-the-north-face-of-the-rostrum-photo-by-darshan-ahluwalia",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/106554647_medium_1494119927.jpg?cache=1709780387",
+   "title": "The Offwidth pitch on the North Face of the Rostrum <br> photo by Darshan Ahluwalia <br>",
+   "breadcrumb": "California > Yosemite NP > Yosemite Valley > Lower Merced River Canyon > Ba. The Rostrum",
+   "coordArea": "Ba. The Rostrum",
+   "approx": false,
+   "lat": 37.71848,
+   "lng": -119.70799,
+   "addedOn": "2026-11-07",
+   "usedOn": []
+  },
+  {
+   "id": "114947905",
+   "photoUrl": "https://www.mountainproject.com/photo/114947905/p4-corners",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/114947905_medium_1534003257.jpg?cache=1655240850",
+   "title": "P4 corners",
+   "breadcrumb": "California > High Sierra > 02 The Sawtooth Ridge > Incredible Hulk > Positive Vibrations ( 5.11a 6c 22 VII+ 22 E3 5c )",
+   "coordArea": "Incredible Hulk",
+   "approx": false,
+   "lat": 38.12188,
+   "lng": -119.41522,
+   "addedOn": "2026-11-07",
+   "usedOn": []
+  },
+  {
+   "id": "118589389",
+   "photoUrl": "https://www.mountainproject.com/photo/118589389/first-ascent-of-the-money-pitch",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/118589389_medium_1582913543.jpg?cache=1746035451",
+   "title": "First ascent. Of the money pitch",
+   "breadcrumb": "International > N America > Mexico > Nuevo Leon > El Potrero Chico > La Selva Jungle Wall > Canadian Controversy ( 5.11d 7a 24 VIII 25 E5 6a )",
+   "coordArea": "La Selva Jungle Wall",
+   "approx": false,
+   "lat": 25.94838,
+   "lng": -100.47698,
+   "addedOn": "2026-11-07",
+   "usedOn": []
+  },
+  {
+   "id": "123014565",
+   "photoUrl": "https://www.mountainproject.com/photo/123014565/start-of-the-routes-on-the-left-side-of-the-north-slab-red-egos-and-friction-510",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/123014565_medium_1662443166_topo.jpg?cache=1749242947",
+   "title": "Start of the routes on the left side of the North Slab: <br> red - Egos and Friction (5.10c/d); <br> orange - The Malediction Route (5.10b/c); <br> yellow - Northern Lights (5.9); <br> green - Pygmy Twylyte (5.8); <br> blue - Endless Sky (5.9+)",
+   "breadcrumb": "Oregon > Willamette Valley > Flagstone > North Wall North Slab > Egos & Friction ( 5.10c/d 6b+ 21 VII+ 21 E3 5b )",
+   "coordArea": "North Wall North Slab",
+   "approx": false,
+   "lat": 43.98555,
+   "lng": -122.29832,
+   "addedOn": "2026-11-07",
+   "usedOn": []
+  },
+  {
+   "id": "123975636",
+   "photoUrl": "https://www.mountainproject.com/photo/123975636/shadow-of-the-tower-and-the-photographer",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/123975636_medium_1680817080.jpg?cache=1786087631",
+   "title": "Shadow of the tower and the photographer",
+   "breadcrumb": "Utah > S Central Utah > San Rafael Swell > San Rafael Swell South > Red Stripe Canyon Near Viewfinder Towers > Shish Mahal > Tikka Masala ( 5.5 4b 13 IV+ 11 MS 4a A2)",
+   "coordArea": "Shish Mahal",
+   "approx": false,
+   "lat": 38.46545,
+   "lng": -110.73524,
    "addedOn": "2026-11-07",
    "usedOn": []
   }
