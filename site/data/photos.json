@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-07T12:53:37+00:00",
+ "generated": "2026-11-07T13:26:11+00:00",
  "photos": [
   {
    "id": "105787726",
@@ -11,6 +11,17 @@
    "approx": false,
    "lat": 38.47567,
    "lng": -109.91054
+  },
+  {
+   "id": "105814081",
+   "photoUrl": "https://www.mountainproject.com/photo/105814081/nitorgen-narcosis-looking-irresistable",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/105814081_medium_1557858922.jpg?cache=1776371362",
+   "title": "Nitorgen Narcosis looking irresistable.",
+   "breadcrumb": "Wyoming > Laramie Area > Vedauwoo > Nautilus > Nitrogen Narcosis ( 5.11a 6c 22 VII+ 22 E3 5c )",
+   "coordArea": "Nautilus",
+   "approx": false,
+   "lat": 41.15478,
+   "lng": -105.37467
   },
   {
    "id": "105818268",
@@ -134,6 +145,17 @@
    "lng": -107.8163
   },
   {
+   "id": "106016197",
+   "photoUrl": "https://www.mountainproject.com/photo/106016197/devils-tower-at-night",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/106016197_medium_1558391659.jpg?cache=1709591303",
+   "title": "Devils Tower at night",
+   "breadcrumb": "Wyoming > Devils Tower",
+   "coordArea": "Devils Tower",
+   "approx": false,
+   "lat": 44.59048,
+   "lng": -104.71507
+  },
+  {
    "id": "106018944",
    "photoUrl": "https://www.mountainproject.com/photo/106018944/midway-through-the-crux-roof-on-plaid-to-the-bone-510d",
    "imageUrl": "https://mountainproject.com/assets/photos/climb/106018944_medium_1558391980.jpg?cache=1598409908",
@@ -143,6 +165,17 @@
    "approx": false,
    "lat": 37.59237,
    "lng": -119.01369
+  },
+  {
+   "id": "106026367",
+   "photoUrl": "https://www.mountainproject.com/photo/106026367/bill-beck-follows-the-pitch",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/106026367_medium_1558392941.jpg?cache=1773702607",
+   "title": "Bill Beck follows the pitch.",
+   "breadcrumb": "Georgia > N E Georgia Region > Tallulah Gorge > Main Wall > Punk Wave ( 5.10 6b 20 VII- 19 E2 5b )",
+   "coordArea": "Main Wall",
+   "approx": false,
+   "lat": 34.73817,
+   "lng": -83.38763
   },
   {
    "id": "106034033",
@@ -176,6 +209,17 @@
    "approx": false,
    "lat": 38.8338,
    "lng": -79.3663
+  },
+  {
+   "id": "106049128",
+   "photoUrl": "https://www.mountainproject.com/photo/106049128/reflections",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/106049128_medium_1558467481.jpg?cache=1783007986",
+   "title": "reflections",
+   "breadcrumb": "Wyoming > Wind River Range > Deep Lake Area",
+   "coordArea": "Deep Lake Area",
+   "approx": false,
+   "lat": 42.71223,
+   "lng": -109.15759
   },
   {
    "id": "106051028",
@@ -398,6 +442,17 @@
    "lng": -71.16568
   },
   {
+   "id": "106247112",
+   "photoUrl": "https://www.mountainproject.com/photo/106247112/looking-down-the-awesome-blue-crack-on-pitch-6",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/106247112_medium_1494091274.jpg?cache=1613529960",
+   "title": "Looking down the awesome blue crack on pitch 6.",
+   "breadcrumb": "Washington > Northwest Region > Darrington And Mountain Loop Hwy > Darrington > Green Giant Buttress > Dreamer ( 5.9 5c 17 VI 17 HVS 5a )",
+   "coordArea": "Green Giant Buttress",
+   "approx": false,
+   "lat": 48.14755,
+   "lng": -121.6625
+  },
+  {
    "id": "106267413",
    "photoUrl": "https://www.mountainproject.com/photo/106267413/totally",
    "imageUrl": "https://mountainproject.com/assets/photos/climb/106267413_medium_1494092884.jpg?cache=1793123979",
@@ -464,6 +519,17 @@
    "lng": -109.60173
   },
   {
+   "id": "106298259",
+   "photoUrl": "https://www.mountainproject.com/photo/106298259/slab-area-tallulah-gorge-ga",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/106298259_medium_1494095469.jpg?cache=1773702620",
+   "title": "Slab Area, Tallulah Gorge, GA",
+   "breadcrumb": "Georgia > N E Georgia Region > Tallulah Gorge > Slab Area",
+   "coordArea": "Slab Area",
+   "approx": false,
+   "lat": 34.74,
+   "lng": -83.3931
+  },
+  {
    "id": "106309494",
    "photoUrl": "https://www.mountainproject.com/photo/106309494/bob-d-setting-the-route-on-another-stellar-taos-novemebr-day-just-after-a-bald-e",
    "imageUrl": "https://mountainproject.com/assets/photos/climb/106309494_medium_1494096403.jpg?cache=1701315549",
@@ -506,6 +572,17 @@
    "approx": false,
    "lat": 38.08284,
    "lng": -109.56274
+  },
+  {
+   "id": "106345618",
+   "photoUrl": "https://www.mountainproject.com/photo/106345618/the-wedge",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/106345618_medium_1494100059.jpg?cache=1773703575",
+   "title": "The Wedge",
+   "breadcrumb": "Georgia > Piedmont And Middle Georgia Region > Juliette Boulders > Wedge",
+   "coordArea": "Wedge",
+   "approx": false,
+   "lat": 33.02969,
+   "lng": -83.76744
   },
   {
    "id": "106389327",
@@ -671,6 +748,17 @@
    "approx": false,
    "lat": 53.2496,
    "lng": -1.6521
+  },
+  {
+   "id": "106577361",
+   "photoUrl": "https://www.mountainproject.com/photo/106577361/making-the-reach-on-giant-man",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/106577361_medium_1494122078.jpg?cache=1743822756",
+   "title": "Making the reach on Giant Man",
+   "breadcrumb": "Washington > Central East Cascades Wenatchee Leavenworth > Leavenworth > Icicle Creek > Bouldering In Icicle Creek > Carnival Boulders > The Rib Boulder Backside > Giant Man ( V3 6A )",
+   "coordArea": "The Rib Boulder Backside",
+   "approx": false,
+   "lat": 47.55556,
+   "lng": -120.7682
   },
   {
    "id": "106596374",
@@ -1102,6 +1190,17 @@
    "lng": -72.54111
   },
   {
+   "id": "107382923",
+   "photoUrl": "https://www.mountainproject.com/photo/107382923/after-days-of-smokey-fires-the-rain-came-and-cleared-things-up-a-great-view-from",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/107382923_medium_1494185407.jpg?cache=1746215067",
+   "title": "After days of smokey fires, the rain came and cleared things up. A great view from the Monkeys mouth.",
+   "breadcrumb": "Oregon > Central Oregon > Smith Rock",
+   "coordArea": "Smith Rock",
+   "approx": false,
+   "lat": 44.36779,
+   "lng": -121.13906
+  },
+  {
    "id": "107439849",
    "photoUrl": "https://www.mountainproject.com/photo/107439849/neatly-featured-rock-on-p-1-of-catharsis",
    "imageUrl": "https://mountainproject.com/assets/photos/climb/107439849_medium_1494189448.jpg?cache=1701317276",
@@ -1111,6 +1210,17 @@
    "approx": false,
    "lat": 44.39631,
    "lng": -73.50691
+  },
+  {
+   "id": "107469594",
+   "photoUrl": "https://www.mountainproject.com/photo/107469594/high-on-the-west-ridge-of-musembeah-1986",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/107469594_medium_1494191283.jpg?cache=1711309338",
+   "title": "High on the west ridge of Musembeah, 1986",
+   "breadcrumb": "Wyoming > Wind River Range > Baptiste Lake > Musembeah Peak > W Buttress ( 5.9 5c 17 VI 17 HVS 5a )",
+   "coordArea": "Musembeah Peak",
+   "approx": false,
+   "lat": 42.86573,
+   "lng": -109.29769
   },
   {
    "id": "107475259",
@@ -1553,6 +1663,17 @@
    "lng": -122.44946
   },
   {
+   "id": "108497942",
+   "photoUrl": "https://www.mountainproject.com/photo/108497942/the-start-of-inja-da-ninja",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/108497942_medium_1494286522.jpg?cache=1613529957",
+   "title": "The start of Inja Da Ninja",
+   "breadcrumb": "Washington > Northwest Region > Darrington And Mountain Loop Hwy > Darrington > White Chuck River Boulders D Ton > Inja Da Ninja ( V6 7A )",
+   "coordArea": "White Chuck River Boulders D Ton",
+   "approx": false,
+   "lat": 48.17671,
+   "lng": -121.38053
+  },
+  {
    "id": "108500536",
    "photoUrl": "https://www.mountainproject.com/photo/108500536/lambda-wall-from-the-approach-photo-marc-tarnosky",
    "imageUrl": "https://mountainproject.com/assets/photos/climb/108500536_medium_1494286583.jpg?cache=1701318313",
@@ -1705,6 +1826,17 @@
    "approx": false,
    "lat": 36.62477,
    "lng": -118.30511
+  },
+  {
+   "id": "109366992",
+   "photoUrl": "https://www.mountainproject.com/photo/109366992/gokul",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/109366992_medium_1494348245.jpg?cache=1777066031",
+   "title": "Gokul",
+   "breadcrumb": "Wyoming > Wind River Range > Cirque Of The Towers > Wolfs Head > E Ridge ( 5.6 4c 14 V 12 S 4b )",
+   "coordArea": "Wolfs Head",
+   "approx": false,
+   "lat": 42.7802,
+   "lng": -109.233
   },
   {
    "id": "109400597",
@@ -2079,6 +2211,17 @@
    "approx": false,
    "lat": 39.97621,
    "lng": -75.19266
+  },
+  {
+   "id": "111889531",
+   "photoUrl": "https://www.mountainproject.com/photo/111889531/kangaroo-ridge",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/111889531_medium_1494309771.jpg?cache=1755782178",
+   "title": "Kangaroo Ridge",
+   "breadcrumb": "Washington > Northwest Region > Hwy 20 And North Cascades National Park > N Cascades > Washington Pass",
+   "coordArea": "Washington Pass",
+   "approx": false,
+   "lat": 48.55475,
+   "lng": -120.65489
   },
   {
    "id": "111948174",
@@ -2499,6 +2642,17 @@
    "lng": -119.39356
   },
   {
+   "id": "115351752",
+   "photoUrl": "https://www.mountainproject.com/photo/115351752/smith-isakson-age-5",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/115351752_medium_1537799519.jpg?cache=1537817097",
+   "title": "Smith Isakson- age 5.",
+   "breadcrumb": "Washington > Northeast Corner Spokane > Spokane Area > McLellan Rocks > Crisis Wall > Significant Other ( 5.9 5c 17 VI 17 HVS 5a )",
+   "coordArea": "Crisis Wall",
+   "approx": false,
+   "lat": 47.83596,
+   "lng": -117.72481
+  },
+  {
    "id": "115380929",
    "photoUrl": "https://www.mountainproject.com/photo/115380929/triple-divide-stewart-eagle-scout-peak-kaweahs",
    "imageUrl": "https://mountainproject.com/assets/photos/climb/115380929_medium_1538468913.jpg?cache=1585148231",
@@ -2741,6 +2895,17 @@
    "lng": -106.67446
   },
   {
+   "id": "117705193",
+   "photoUrl": "https://www.mountainproject.com/photo/117705193/looking-down-honeypepper",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/117705193_medium_1567836539.jpg?cache=1567956881",
+   "title": "Looking down Honeypepper",
+   "breadcrumb": "Washington > Okanogan > Mazama > Prospector Crags > 1. Nugget Wall > Honeypepper ( 5.10b 6a+ 19 VII- 19 E2 5b )",
+   "coordArea": "1. Nugget Wall",
+   "approx": false,
+   "lat": 48.66218,
+   "lng": -120.53064
+  },
+  {
    "id": "117723072",
    "photoUrl": "https://www.mountainproject.com/photo/117723072/mariann-having-fun-on-pave-paradise",
    "imageUrl": "https://mountainproject.com/assets/photos/climb/117723072_medium_1568121974.jpg?cache=1571281675",
@@ -2906,6 +3071,17 @@
    "lng": -92.99513
   },
   {
+   "id": "119135697",
+   "photoUrl": "https://www.mountainproject.com/photo/119135697/a-short-but-nice-route-i-feel-like-this-is-v3",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/119135697_medium_1593549100.jpg?cache=1702073788",
+   "title": "A short but nice route. I feel like this is V3.",
+   "breadcrumb": "California > San Francisco Bay Area > Marinnorthwest Bay Area > Mickey's Beach > Stinson Beach",
+   "coordArea": "Stinson Beach",
+   "approx": false,
+   "lat": 37.89652,
+   "lng": -122.63934
+  },
+  {
    "id": "119254397",
    "photoUrl": "https://www.mountainproject.com/photo/119254397/route-overview",
    "imageUrl": "https://mountainproject.com/assets/photos/climb/119254397_medium_1595354010.jpg?cache=1750042152",
@@ -3049,6 +3225,17 @@
    "lng": 6.86901
   },
   {
+   "id": "1203110",
+   "photoUrl": "https://www.mountainproject.com/photo/1203110/jason-hardman-keith-approaching-the-first-roof-on-the-upper-10-crack-pitch-of-so",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/1203110_medium_1557526275.jpg?cache=1701314491",
+   "title": "Jason (hardman) Keith approaching the first roof on the upper 10+ crack pitch of southern arete.  9/6/03 Matt Steward",
+   "breadcrumb": "Colorado > Gunnison > Black Canyon Of The Gunnison > N Rim Routes > Painted Wall > Southern Arete ( 5.10+ 6b+ 21 VII+ 20 E3 5b R)",
+   "coordArea": "Painted Wall",
+   "approx": false,
+   "lat": 38.57939,
+   "lng": -107.70252
+  },
+  {
    "id": "120343575",
    "photoUrl": "https://www.mountainproject.com/photo/120343575/cannibal-crag",
    "imageUrl": "https://mountainproject.com/assets/photos/climb/120343575_medium_1614729561.jpg?cache=1771365621",
@@ -3115,6 +3302,17 @@
    "lng": -112.95145
   },
   {
+   "id": "120617679",
+   "photoUrl": "https://www.mountainproject.com/photo/120617679/carrie-cruising-a-classic-at-browns",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/120617679_medium_1619531816.jpg?cache=1619535154",
+   "title": "Carrie cruising a classic at Brown's",
+   "breadcrumb": "Wyoming > Fremont Canyon > Brown's Park",
+   "coordArea": "Brown's Park",
+   "approx": false,
+   "lat": 42.51615,
+   "lng": -106.77711
+  },
+  {
    "id": "120639519",
    "photoUrl": "https://www.mountainproject.com/photo/120639519/nick-starting-up-another-12",
    "imageUrl": "https://mountainproject.com/assets/photos/climb/120639519_medium_1619924754.jpg?cache=1707933022",
@@ -3124,6 +3322,17 @@
    "approx": false,
    "lat": 38.582,
    "lng": -107.70883
+  },
+  {
+   "id": "120643881",
+   "photoUrl": "https://www.mountainproject.com/photo/120643881/the-real-thing",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/120643881_medium_1619987556.jpg?cache=1717013085",
+   "title": "The real thing",
+   "breadcrumb": "Washington > Central East Cascades Wenatchee Leavenworth > Leavenworth > Icicle Creek > Bouldering In Icicle Creek > Forestland Boulders > Real Thing Boulder > Real Thing ( V4 6B )",
+   "coordArea": "Real Thing Boulder",
+   "approx": false,
+   "lat": 47.54498,
+   "lng": -120.73286
   },
   {
    "id": "120678354",
@@ -3146,6 +3355,17 @@
    "approx": false,
    "lat": 39.9312,
    "lng": -105.28518
+  },
+  {
+   "id": "121056998",
+   "photoUrl": "https://www.mountainproject.com/photo/121056998/lake-point-crags-as-seen-from-the-approach-trail",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/121056998_medium_1627067294.jpg?cache=1627393073",
+   "title": "Lake Point crags as seen from the approach trail",
+   "breadcrumb": "Wyoming > Ten Sleep Canyon > Lake Point",
+   "coordArea": "Lake Point",
+   "approx": false,
+   "lat": 44.15693,
+   "lng": -107.23337
   },
   {
    "id": "121310343",
@@ -3456,6 +3676,17 @@
    "lng": -85.67385
   },
   {
+   "id": "123844589",
+   "photoUrl": "https://www.mountainproject.com/photo/123844589/capt-kirk",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/123844589_medium_1678218733.jpg?cache=1786086373",
+   "title": "Capt. Kirk",
+   "breadcrumb": "Georgia > Greater Atlanta Area > Boat Rock > Beam Me Up Scotty Area > Beam Me Up Scotty Area > Capt. Kirk ( V0 4 )",
+   "coordArea": "Beam Me Up Scotty Area",
+   "approx": false,
+   "lat": 33.71763,
+   "lng": -84.5636
+  },
+  {
    "id": "123872058",
    "photoUrl": "https://www.mountainproject.com/photo/123872058/arabia-mountain",
    "imageUrl": "https://mountainproject.com/assets/photos/climb/123872058_medium_1678831096.jpg?cache=1786086653",
@@ -3542,6 +3773,17 @@
    "approx": false,
    "lat": 44.37058,
    "lng": -72.85755
+  },
+  {
+   "id": "125020474",
+   "photoUrl": "https://www.mountainproject.com/photo/125020474/barely-hanging-on",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/125020474_medium_1695995448_topo.jpg?cache=1696628044",
+   "title": "Barely Hanging On",
+   "breadcrumb": "Wyoming > Cody > Cedar Mountain > Highway Boulders > Beggars And Hangers On > Barely Hanging On ( V3 6A )",
+   "coordArea": "Beggars And Hangers On",
+   "approx": false,
+   "lat": 44.50982,
+   "lng": -109.13693
   },
   {
    "id": "125187033",
@@ -3663,6 +3905,17 @@
    "approx": false,
    "lat": 33.01251,
    "lng": -116.97583
+  },
+  {
+   "id": "126350468",
+   "photoUrl": "https://www.mountainproject.com/photo/126350468/the-climb",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/126350468_medium_1718226593.jpg?cache=1786060865",
+   "title": "The climb",
+   "breadcrumb": "New Jersey > d. Mid-state > Bouldering Mid State Nj > Cliffwood Beach Caves > Death by stone skipping ( V2 5+ )",
+   "coordArea": "Cliffwood Beach Caves",
+   "approx": false,
+   "lat": 40.44979,
+   "lng": -74.21565
   },
   {
    "id": "126362070",
@@ -4017,6 +4270,17 @@
    "lng": -84.56445
   },
   {
+   "id": "202980382",
+   "photoUrl": "https://www.mountainproject.com/photo/202980382/heres-the-rope-line",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/202980382_medium_1778896077.jpg?cache=1785966275",
+   "title": "Here's the rope line",
+   "breadcrumb": "Georgia > N W Georgia Region > Lost Wall > Lost Wall North > Guzzler ( 5.8 5b 16 VI- 15 HVS 4c )",
+   "coordArea": "Lost Wall North",
+   "approx": false,
+   "lat": 34.6652,
+   "lng": -85.3726
+  },
+  {
    "id": "203083158",
    "photoUrl": "https://www.mountainproject.com/photo/203083158/the-route",
    "imageUrl": "https://mountainproject.com/assets/photos/climb/203083158_medium_1780180375.jpg?cache=1785967132",
@@ -4059,6 +4323,17 @@
    "approx": false,
    "lat": 45.3886,
    "lng": -70.78822
+  },
+  {
+   "id": "203830602",
+   "photoUrl": "https://www.mountainproject.com/photo/203830602/upper-crux-of-the-pressure-chamber",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/203830602_medium_1789446129.jpg?cache=1789447302",
+   "title": "Upper crux of the pressure chamber",
+   "breadcrumb": "Washington > Central East Cascades Wenatchee Leavenworth > Leavenworth > Icicle Creek > Snow Creek Area > Snow Creek Wall > Hyperspace ( 5.11a 6c 22 VII+ 22 E3 5c )",
+   "coordArea": "Snow Creek Wall",
+   "approx": false,
+   "lat": 47.52963,
+   "lng": -120.71869
   },
   {
    "id": "203839492",
@@ -4593,6 +4868,39 @@
    "photoUrl": "https://www.mountainproject.com/photo/204174332/an-overview-line-of-no-stairway-showing-the-main-pitches-4-8",
    "imageUrl": "https://mountainproject.com/assets/photos/climb/204174332_medium_1794018509.jpg?cache=1794018515",
    "title": "An Overview line of No Stairway, showing the main pitches (4-8).",
+   "breadcrumb": "California > Eastern Sierra > Lee Vining Canyon Tioga Road > Dana Plateau > Third Pillar > No Stairway ( 5.12a/b 7b 26 VIII+ 26 E5 6a )",
+   "coordArea": "Third Pillar",
+   "approx": false,
+   "lat": 37.92272,
+   "lng": -119.21347
+  },
+  {
+   "id": "204174918",
+   "photoUrl": "https://www.mountainproject.com/photo/204174918/gorgeous-58-dihedral-on-pitch-4",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/204174918_medium_1794025522.jpg?cache=1794025532",
+   "title": "Gorgeous 5.8 dihedral on pitch 4",
+   "breadcrumb": "California > Yosemite NP > Yosemite Valley > Valley N Side > Royal Arches Area > Royal Arches > Central Royal Arches > Super Arches ( 5.10a/b 6a+ 19 VI+ 19 E2 5b )",
+   "coordArea": "Central Royal Arches",
+   "approx": false,
+   "lat": 37.74724,
+   "lng": -119.57128
+  },
+  {
+   "id": "204174990",
+   "photoUrl": "https://www.mountainproject.com/photo/204174990/rob-daniel-fighting-for-the-last-moves-to-the-anchors-on-loco-motive",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/204174990_medium_1794027035.jpg?cache=1794027039",
+   "title": "Rob Daniel fighting for the last moves to the anchors on \"Loco Motive\"",
+   "breadcrumb": "Colorado > S Platte > Wonderland > Wonderland (Roped) > Lucy's (Roped) > Almost Heaven > Loco Motive ( 5.13c 8a+ 30 X- 31 E7 7a )",
+   "coordArea": "Almost Heaven",
+   "approx": false,
+   "lat": 39.40039,
+   "lng": -105.39639
+  },
+  {
+   "id": "204175310",
+   "photoUrl": "https://www.mountainproject.com/photo/204175310/kory-nearing-the-top-of-no-stairway",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/204175310_medium_1794036908.jpg?cache=1794036913",
+   "title": "Kory nearing the top of No Stairway.",
    "breadcrumb": "California > Eastern Sierra > Lee Vining Canyon Tioga Road > Dana Plateau > Third Pillar > No Stairway ( 5.12a/b 7b 26 VIII+ 26 E5 6a )",
    "coordArea": "Third Pillar",
    "approx": false,
