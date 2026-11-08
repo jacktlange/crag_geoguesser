@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-08T06:27:43+00:00",
+ "generated": "2026-11-08T13:15:54+00:00",
  "photos": [
   {
    "id": "105787726",
@@ -387,6 +387,17 @@
    "lng": -110.80253
   },
   {
+   "id": "106134556",
+   "photoUrl": "https://www.mountainproject.com/photo/106134556/john-porensky-at-the-birthday-boulders",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/106134556_medium_1558653042.jpg?cache=1774469077",
+   "title": "John Porensky at the Birthday Boulders",
+   "breadcrumb": "California > Eastern Sierra > Bishop Area > Buttermilk Country > Buttermilks Main > Birthday Boulders",
+   "coordArea": "Birthday Boulders",
+   "approx": false,
+   "lat": 37.33004,
+   "lng": -118.57901
+  },
+  {
    "id": "106138242",
    "photoUrl": "https://www.mountainproject.com/photo/106138242/sunset-at-indian-creek",
    "imageUrl": "https://mountainproject.com/assets/photos/climb/106138242_medium_1558653564.jpg?cache=1737171568",
@@ -739,6 +750,17 @@
    "lng": -105.32832
   },
   {
+   "id": "106406094",
+   "photoUrl": "https://www.mountainproject.com/photo/106406094/climbers-on-mudterm-41409",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/106406094_medium_1494105843.jpg?cache=1720558434",
+   "title": "Climbers on Mudterm. 4/14/09",
+   "breadcrumb": "Nevada > Southern Nevada > Red Rocks > First Creek Canyon > Mudterm Area > Mudterm ( 5.9 5c 17 VI 17 HVS 5a )",
+   "coordArea": "Mudterm Area",
+   "approx": false,
+   "lat": 36.07703,
+   "lng": -115.47571
+  },
+  {
    "id": "106417893",
    "photoUrl": "https://www.mountainproject.com/photo/106417893/jointed-venture",
    "imageUrl": "https://mountainproject.com/assets/photos/climb/106417893_medium_1494106914.jpg?cache=1687408908",
@@ -847,6 +869,17 @@
    "approx": false,
    "lat": 35.53775,
    "lng": -85.03099
+  },
+  {
+   "id": "106522634",
+   "photoUrl": "https://www.mountainproject.com/photo/106522634/the-blasted-rock-in-the-boxcar-area-1-drifters-escape-v2-2-blasted-rock-crack-v0",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/106522634_medium_1494116844.jpg?cache=1701315919",
+   "title": "The Blasted Rock in the Boxcar Area: 1. Drifter's Escape (V2), 2. Blasted Rock Crack (V0), 3. Blasted Rock (V1), 3a. Blasted Rock Variation (V0), 3b. Blasted Rock Variation (V0), 4. Blasted Rock Slab (V0), 5. Boxcar Arete (V8)",
+   "breadcrumb": "New York > Gunks > Trapps Bouldering > Boxcar Area",
+   "coordArea": "Boxcar Area",
+   "approx": false,
+   "lat": 41.7475,
+   "lng": -74.1756
   },
   {
    "id": "106523836",
@@ -2708,6 +2741,17 @@
    "lng": -111.76469
   },
   {
+   "id": "112352530",
+   "photoUrl": "https://www.mountainproject.com/photo/112352530/new-approach-info-nov-2016-the-approach-for-this-climb-should-follow-the-green-0",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/112352530_medium_1494300014.jpg?cache=1756750628",
+   "title": "NEW APPROACH INFO NOV 2016 <br> The approach for this climb should follow the green (0.3mi), blue(1.1mi) and yellow indicated trails.  The red route was the previous approach and is only 0.1 miles shorter than the blue trail on the way to the upper wash. Both have the same elevation gain but the red route moves through un-established terrain. Please use the existing trails to reach the upper wash so we can minimize impact.",
+   "breadcrumb": "Arizona > Northern Arizona > Sedona Area > Sedona > Gibraltar Rock Area > Gibraltar Rock > Sedona's Scenic Cruise ( 5.9 5c 17 VI 17 HVS 5a )",
+   "coordArea": "Gibraltar Rock",
+   "approx": false,
+   "lat": 34.8196,
+   "lng": -111.75331
+  },
+  {
    "id": "112360176",
    "photoUrl": "https://www.mountainproject.com/photo/112360176/penny-lane-photo-by-dan-krauss",
    "imageUrl": "https://mountainproject.com/assets/photos/climb/112360176_medium_1494300408.jpg?cache=1779247627",
@@ -3148,6 +3192,17 @@
    "lng": -109.5774
   },
   {
+   "id": "116376330",
+   "photoUrl": "https://www.mountainproject.com/photo/116376330/rappelling-second-pitch-of-gns",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/116376330_medium_1548106225.jpg?cache=1746727377",
+   "title": "rappelling second pitch of GNS",
+   "breadcrumb": "Washington > Central West Cascades Seattle > Skykomish Valley > Index > Lower Town Wall > Great Northern Slab > Great Northern Slab ( 5.7 5a 15 V+ 13 MVS 4b )",
+   "coordArea": "Great Northern Slab",
+   "approx": false,
+   "lat": 47.81841,
+   "lng": -121.57219
+  },
+  {
    "id": "116622711",
    "photoUrl": "https://www.mountainproject.com/photo/116622711/the-rock",
    "imageUrl": "https://mountainproject.com/assets/photos/climb/116622711_medium_1552945227.jpg?cache=1729307449",
@@ -3333,6 +3388,17 @@
    "approx": false,
    "lat": 47.81911,
    "lng": -121.57607
+  },
+  {
+   "id": "118330361",
+   "photoUrl": "https://www.mountainproject.com/photo/118330361/golden-arete",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/118330361_medium_1581356258.jpg?cache=1702073591",
+   "title": "Golden Arete.",
+   "breadcrumb": "Massachusetts > N Shore > Lynn Woods > Weetamoo Area > Weetamoo Boulder > I. Golden Arete ( V7 7A+ )",
+   "coordArea": "Weetamoo Boulder",
+   "approx": false,
+   "lat": 42.4988,
+   "lng": -70.99573
   },
   {
    "id": "118356296",
@@ -3806,6 +3872,17 @@
    "approx": false,
    "lat": 39.61125,
    "lng": 70.30662
+  },
+  {
+   "id": "121646818",
+   "photoUrl": "https://www.mountainproject.com/photo/121646818/view-from-coyote-ugly",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/121646818_medium_1637079667.jpg?cache=1766589855",
+   "title": "View from Coyote Ugly",
+   "breadcrumb": "California > Central Coast > Pinnacles NP > E Side > Tiburcio's X > Coyote Ugly ( 5.9 5c 17 VI 17 HVS 5a )",
+   "coordArea": "Tiburcio's X",
+   "approx": false,
+   "lat": 36.47318,
+   "lng": -121.18722
   },
   {
    "id": "121783120",
@@ -4556,6 +4633,17 @@
    "lng": -93.19278
   },
   {
+   "id": "126773567",
+   "photoUrl": "https://www.mountainproject.com/photo/126773567/on-the-slopey-crux",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/126773567_medium_1724631206.jpg?cache=1786053876",
+   "title": "On the slopey crux",
+   "breadcrumb": "Texas > Enchanted Rock State Natural Area > Lunar Boulders > Negative Edge ( V1-2 5 R)",
+   "coordArea": "Lunar Boulders",
+   "approx": false,
+   "lat": 30.50585,
+   "lng": -98.82005
+  },
+  {
    "id": "127079592",
    "photoUrl": "https://www.mountainproject.com/photo/127079592/candi-cook-seconding-on-the-fa-of-goofy",
    "imageUrl": "https://mountainproject.com/assets/photos/climb/127079592_medium_1728786718.jpg?cache=1760816578",
@@ -4719,6 +4807,17 @@
    "approx": false,
    "lat": 41.85367,
    "lng": -71.53122
+  },
+  {
+   "id": "201624724",
+   "photoUrl": "https://www.mountainproject.com/photo/201624724/dogs",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/201624724_medium_1756854145.jpg?cache=1785974078",
+   "title": "dogs",
+   "breadcrumb": "California > Joshua Tree NP > Central Joshua Tree > Sheep Pass Area > Hall Of Horrors Area > Hall of Horrors > East Wall North End Diamond Dogs Area > Diamond Dogs ( 5.10a 6a 18 VI+ 18 E1 5a )",
+   "coordArea": "East Wall North End Diamond Dogs Area",
+   "approx": false,
+   "lat": 34.00051,
+   "lng": -116.14604
   },
   {
    "id": "201750009",

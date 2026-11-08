@@ -7625,6 +7625,46 @@
    "lat": 47.81841,
    "lng": -121.57219,
    "name": null
+  },
+  "https://www.mountainproject.com/area/105739298/maple-canyon": {
+   "lat": 39.55638,
+   "lng": -111.6867,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/105732150/mudterm-area": {
+   "lat": 36.07703,
+   "lng": -115.47571,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/106522605/boxcar-area": {
+   "lat": 41.7475,
+   "lng": -74.1756,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/107581864/castell-de-santueri": {
+   "lat": 39.5634,
+   "lng": 2.9883,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/106024847/main-hellgate": {
+   "lat": 40.59065,
+   "lng": -111.6495,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/105717003/moonlight-buttress": {
+   "lat": 37.27785,
+   "lng": -112.94955,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/109014094/the-others": {
+   "lat": 33.76306,
+   "lng": -116.67715,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/120744510/the-balcony": {
+   "lat": 43.99209,
+   "lng": -71.65742,
+   "name": null
   }
  },
  "rejected": {
@@ -7865,7 +7905,9 @@
    "lat": 36.47318,
    "lng": -121.18722,
    "addedOn": "2026-10-30",
-   "usedOn": []
+   "usedOn": [
+    "2026-11-08"
+   ]
   },
   {
    "id": "124175166",
@@ -11552,7 +11594,9 @@
    "lat": 42.4988,
    "lng": -70.99573,
    "addedOn": "2026-11-01",
-   "usedOn": []
+   "usedOn": [
+    "2026-11-08"
+   ]
   },
   {
    "id": "119175794",
@@ -14754,7 +14798,9 @@
    "lat": 34.00051,
    "lng": -116.14604,
    "addedOn": "2026-11-03",
-   "usedOn": []
+   "usedOn": [
+    "2026-11-08"
+   ]
   },
   {
    "id": "118067270",
@@ -17529,7 +17575,9 @@
    "lat": 34.8196,
    "lng": -111.75331,
    "addedOn": "2026-11-03",
-   "usedOn": []
+   "usedOn": [
+    "2026-11-08"
+   ]
   },
   {
    "id": "114403908",
@@ -27483,7 +27531,9 @@
    "lat": 30.50585,
    "lng": -98.82005,
    "addedOn": "2026-11-06",
-   "usedOn": []
+   "usedOn": [
+    "2026-11-08"
+   ]
   },
   {
    "id": "127093181",
@@ -32123,6 +32173,110 @@
    "approx": false,
    "lat": 35.88831,
    "lng": -81.88519,
+   "addedOn": "2026-11-08",
+   "usedOn": []
+  },
+  {
+   "id": "105912759",
+   "photoUrl": "https://www.mountainproject.com/photo/105912759/the-bend-in-the-road",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/105912759_medium_1557941255.jpg?cache=1692996189",
+   "title": "The bend in the road!",
+   "breadcrumb": "Utah > Central Utah > Maple Canyon",
+   "coordArea": "Maple Canyon",
+   "approx": false,
+   "lat": 39.55638,
+   "lng": -111.6867,
+   "addedOn": "2026-11-08",
+   "usedOn": []
+  },
+  {
+   "id": "106406094",
+   "photoUrl": "https://www.mountainproject.com/photo/106406094/climbers-on-mudterm-41409",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/106406094_medium_1494105843.jpg?cache=1720558434",
+   "title": "Climbers on Mudterm. 4/14/09",
+   "breadcrumb": "Nevada > Southern Nevada > Red Rocks > First Creek Canyon > Mudterm Area > Mudterm ( 5.9 5c 17 VI 17 HVS 5a )",
+   "coordArea": "Mudterm Area",
+   "approx": false,
+   "lat": 36.07703,
+   "lng": -115.47571,
+   "addedOn": "2026-11-08",
+   "usedOn": []
+  },
+  {
+   "id": "106522634",
+   "photoUrl": "https://www.mountainproject.com/photo/106522634/the-blasted-rock-in-the-boxcar-area-1-drifters-escape-v2-2-blasted-rock-crack-v0",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/106522634_medium_1494116844.jpg?cache=1701315919",
+   "title": "The Blasted Rock in the Boxcar Area: 1. Drifter's Escape (V2), 2. Blasted Rock Crack (V0), 3. Blasted Rock (V1), 3a. Blasted Rock Variation (V0), 3b. Blasted Rock Variation (V0), 4. Blasted Rock Slab (V0), 5. Boxcar Arete (V8)",
+   "breadcrumb": "New York > Gunks > Trapps Bouldering > Boxcar Area",
+   "coordArea": "Boxcar Area",
+   "approx": false,
+   "lat": 41.7475,
+   "lng": -74.1756,
+   "addedOn": "2026-11-08",
+   "usedOn": []
+  },
+  {
+   "id": "107581931",
+   "photoUrl": "https://www.mountainproject.com/photo/107581931/just-before-receiving-a-flapper-and-taking-a-whipper",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/107581931_medium_1494198434.jpg?cache=1771512360",
+   "title": "Just before receiving a flapper and taking a whipper.",
+   "breadcrumb": "International > Europe > Spain > Mallorca > Castell De Santueri > Sex cannabis ( 5.12 7b+ 27 VIII+ 26 E6 6b )",
+   "coordArea": "Castell De Santueri",
+   "approx": false,
+   "lat": 39.5634,
+   "lng": 2.9883,
+   "addedOn": "2026-11-08",
+   "usedOn": []
+  },
+  {
+   "id": "113225987",
+   "photoUrl": "https://www.mountainproject.com/photo/113225987/hellgate-condominiums-is-the-red-arrow-at-the-bottom-the-beginning-of-the-climb-",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/113225987_medium_1498612381.jpg?cache=1748354039",
+   "title": "Hellgate Condominiums is the red arrow at the bottom. The beginning of the climb is the red dot at the top. <br>  <br> You can park anywhere in the red circle, then follow the blue line for 30 feet up the unimproved road, then take the trail and follow the red line up to emerge just south of Tower 2.",
+   "breadcrumb": "Utah > Wasatch Range > Central Wasatch > Little Cottonwood Canyon > Hellgate Cliffs > Main Hellgate > Hellgate Highway ( 5.8 5b 16 VI- 15 HVS 4c )",
+   "coordArea": "Main Hellgate",
+   "approx": false,
+   "lat": 40.59065,
+   "lng": -111.6495,
+   "addedOn": "2026-11-08",
+   "usedOn": []
+  },
+  {
+   "id": "113789727",
+   "photoUrl": "https://www.mountainproject.com/photo/113789727/the-amazing-finger-crack-on-the-crux-pitch",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/113789727_medium_1509923326.jpg?cache=1779223715",
+   "title": "The amazing finger crack on the crux pitch.",
+   "breadcrumb": "Utah > Southwest Utah > Zion NP > Moonlight Buttress > Sheer Lunacy (Free) ( 5.12 7b+ 27 VIII+ 26 E6 6b )",
+   "coordArea": "Moonlight Buttress",
+   "approx": false,
+   "lat": 37.27785,
+   "lng": -112.94955,
+   "addedOn": "2026-11-08",
+   "usedOn": []
+  },
+  {
+   "id": "117318977",
+   "photoUrl": "https://www.mountainproject.com/photo/117318977/tahquitz-and-suicide",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/117318977_medium_1562477702.jpg?cache=1775164280",
+   "title": "Tahquitz and Suicide",
+   "breadcrumb": "California > Tahquitz Suicide Rocks > Others",
+   "coordArea": "Others",
+   "approx": false,
+   "lat": 33.76306,
+   "lng": -116.67715,
+   "addedOn": "2026-11-08",
+   "usedOn": []
+  },
+  {
+   "id": "121338939",
+   "photoUrl": "https://www.mountainproject.com/photo/121338939/clipping-before-feeling-the-sting-photo-with-permission-from-emma-donahue",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/121338939_medium_1632192646.jpg?cache=1779805524",
+   "title": "Clipping before feeling the sting - photo with permission from Emma Donahue",
+   "breadcrumb": "New Hampshire > Wm Lincolnwoodstock Area > Russell Crags In Merriam Woods > Balcony > Sting ( 5.11d 7a 24 VIII 25 E5 6a )",
+   "coordArea": "Balcony",
+   "approx": false,
+   "lat": 43.99209,
+   "lng": -71.65742,
    "addedOn": "2026-11-08",
    "usedOn": []
   }
