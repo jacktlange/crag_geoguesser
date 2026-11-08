@@ -8045,6 +8045,21 @@
    "lat": 37.41844,
    "lng": -118.45269,
    "name": null
+  },
+  "https://www.mountainproject.com/area/106060690/tall-cliffs": {
+   "lat": 43.5363,
+   "lng": -116.0857,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/105744882/the-crimpfest-wall": {
+   "lat": 39.25618,
+   "lng": -105.09877,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/105745226/ridge-1-aka-stairway-to-heaven": {
+   "lat": 39.979,
+   "lng": -105.29,
+   "name": null
   }
  },
  "rejected": {
@@ -33960,6 +33975,84 @@
    "approx": false,
    "lat": 37.41844,
    "lng": -118.45269,
+   "addedOn": "2026-11-08",
+   "usedOn": []
+  },
+  {
+   "id": "106060700",
+   "photoUrl": "https://www.mountainproject.com/photo/106060700/climbing-the-lower-section-of-circumciser",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/106060700_medium_1558469317.jpg?cache=1756333090",
+   "title": "Climbing the lower section of Circumciser",
+   "breadcrumb": "Idaho > W Idaho > Black Cliffs > Tall Cliffs > Circumciser ( 5.10b 6a+ 19 VII- 19 E2 5b )",
+   "coordArea": "Tall Cliffs",
+   "approx": false,
+   "lat": 43.5363,
+   "lng": -116.0857,
+   "addedOn": "2026-11-08",
+   "usedOn": []
+  },
+  {
+   "id": "106256844",
+   "photoUrl": "https://www.mountainproject.com/photo/106256844/just-past-the-intitial-crux",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/106256844_medium_1494092028.jpg?cache=1753366280",
+   "title": "Just past the intitial crux.",
+   "breadcrumb": "Colorado > S Platte > Devil's Head > Crimpfest Wall > Season Opener ( 5.11c 6c+ 24 VIII- 24 E4 6a )",
+   "coordArea": "Crimpfest Wall",
+   "approx": false,
+   "lat": 39.25618,
+   "lng": -105.09877,
+   "addedOn": "2026-11-08",
+   "usedOn": []
+  },
+  {
+   "id": "106268964",
+   "photoUrl": "https://www.mountainproject.com/photo/106268964/looking-upstream-from-half-way-up-journey-through-mirkwood-on-the-painted-wall",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/106268964_medium_1494093054.jpg?cache=1742319343",
+   "title": "Looking upstream from half way up Journey Through Mirkwood on the Painted Wall.",
+   "breadcrumb": "Colorado > Gunnison > Black Canyon Of The Gunnison > N Rim Routes > Painted Wall",
+   "coordArea": "Painted Wall",
+   "approx": false,
+   "lat": 38.57939,
+   "lng": -107.70252,
+   "addedOn": "2026-11-08",
+   "usedOn": []
+  },
+  {
+   "id": "107511282",
+   "photoUrl": "https://www.mountainproject.com/photo/107511282/king-cat",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/107511282_medium_1494194389.jpg?cache=1773712008",
+   "title": "King cat",
+   "breadcrumb": "Utah > Southeast Utah > San Juan County > Indian Creek > Cat Wall > King Cat ( 5.11+ 7a 24 VIII 24 E4 6a )",
+   "coordArea": "Cat Wall",
+   "approx": false,
+   "lat": 38.09105,
+   "lng": -109.56274,
+   "addedOn": "2026-11-08",
+   "usedOn": []
+  },
+  {
+   "id": "111928286",
+   "photoUrl": "https://www.mountainproject.com/photo/111928286/afternoon-cruise",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/111928286_medium_1494311950.jpg?cache=1746843501",
+   "title": "Afternoon cruise.",
+   "breadcrumb": "Colorado > Boulder > Flatirons > North > Skunk Canyon > Ridge 1 Aka Stairway To Heaven > Stairway to Heaven ( 5.3 3+ 10 III 9 VD 3a )",
+   "coordArea": "Ridge 1 Aka Stairway To Heaven",
+   "approx": false,
+   "lat": 39.979,
+   "lng": -105.29,
+   "addedOn": "2026-11-08",
+   "usedOn": []
+  },
+  {
+   "id": "117729411",
+   "photoUrl": "https://www.mountainproject.com/photo/117729411/a-sunlight-spotlight-on-the-longs-peak-east-diamond-wall-piercing-low-morning-cl",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/117729411_medium_1568240251.jpg?cache=1717413800",
+   "title": "A sunlight spotlight on the Long's Peak East Diamond Wall, piercing low morning clouds after a stormy night, September 9th, 2019.",
+   "breadcrumb": "Colorado > Alpine Rock > RMNP - Rock > Long's Peak > Diamond",
+   "coordArea": "Diamond",
+   "approx": false,
+   "lat": 40.25617,
+   "lng": -105.61384,
    "addedOn": "2026-11-08",
    "usedOn": []
   }
