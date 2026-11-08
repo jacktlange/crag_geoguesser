@@ -7220,6 +7220,26 @@
    "lat": 38.46545,
    "lng": -110.73524,
    "name": null
+  },
+  "https://www.mountainproject.com/area/106064825/bishop-area": {
+   "lat": 37.36119,
+   "lng": -118.39539,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/105733884/mickeys-beach": {
+   "lat": 37.8886,
+   "lng": -122.6327,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/105875168/northwest-face": {
+   "lat": 37.88103,
+   "lng": -119.35106,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/106711093/norwich-ledge": {
+   "lat": 46.65463,
+   "lng": -89.51436,
+   "name": null
   }
  },
  "rejected": {
@@ -30251,6 +30271,84 @@
    "approx": false,
    "lat": 38.46545,
    "lng": -110.73524,
+   "addedOn": "2026-11-07",
+   "usedOn": []
+  },
+  {
+   "id": "106051449",
+   "photoUrl": "https://www.mountainproject.com/photo/106051449/mt-tom-13692-ft-and-storm-clouds-just-west-of-bishop-ca",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/106051449_medium_1558467938.jpg?cache=1776421371",
+   "title": "Mt. Tom (13,692 ft.) and storm clouds just west of Bishop, CA.",
+   "breadcrumb": "California > Eastern Sierra > Bishop Area",
+   "coordArea": "Bishop Area",
+   "approx": false,
+   "lat": 37.36119,
+   "lng": -118.39539,
+   "addedOn": "2026-11-07",
+   "usedOn": []
+  },
+  {
+   "id": "107675863",
+   "photoUrl": "https://www.mountainproject.com/photo/107675863/endless-bummer-rock-south-of-mickeys-beach-home-to-endless-bummer-13b-and-surf-s",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/107675863_medium_1494204201.jpg?cache=1733630037",
+   "title": "Endless Bummer Rock, south of Mickey's Beach. Home to Endless Bummer 13b, and Surf Safari 14a. Usually fixed. Bring draws. It's windy.",
+   "breadcrumb": "California > San Francisco Bay Area > Marinnorthwest Bay Area > Mickey's Beach",
+   "coordArea": "Mickey's Beach",
+   "approx": false,
+   "lat": 37.8886,
+   "lng": -122.6327,
+   "addedOn": "2026-11-07",
+   "usedOn": []
+  },
+  {
+   "id": "107860095",
+   "photoUrl": "https://www.mountainproject.com/photo/107860095/pitch-3-i-think",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/107860095_medium_1494215994.jpg?cache=1748966495",
+   "title": "pitch 3 i think <br>",
+   "breadcrumb": "California > Yosemite NP > Tuolumne Meadows > Lembert Dome > Northwest Face > Crying Time Again ( 5.10a 6a 18 VI+ 18 E1 5a )",
+   "coordArea": "Northwest Face",
+   "approx": false,
+   "lat": 37.88103,
+   "lng": -119.35106,
+   "addedOn": "2026-11-07",
+   "usedOn": []
+  },
+  {
+   "id": "108286443",
+   "photoUrl": "https://www.mountainproject.com/photo/108286443/jeff-m-in-the-upper-jam-section-of-senior-citizens-in-space",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/108286443_medium_1494274034.jpg?cache=1761832100",
+   "title": "Jeff M. in the upper jam section of Senior Citizens in Space.",
+   "breadcrumb": "Washington > Central West Cascades Seattle > Skykomish Valley > Index > Lookout Point Area > Private Idaho > Senior Citizens in Space ( 5.7+ 5a 15 V+ 13 MVS 4b )",
+   "coordArea": "Private Idaho",
+   "approx": false,
+   "lat": 47.825,
+   "lng": -121.55807,
+   "addedOn": "2026-11-07",
+   "usedOn": []
+  },
+  {
+   "id": "110508819",
+   "photoUrl": "https://www.mountainproject.com/photo/110508819/cole-pulling-through-nice-slots-while-smearing-on-slightly-protruding-nothings",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/110508819_medium_1494338934.jpg?cache=1701318904",
+   "title": "Cole pulling through nice slots while smearing on slightly protruding nothings.",
+   "breadcrumb": "Minnesota > Red Wing Aka He Mni Can Barn Bluff > Winter Wall > Paradigm Shift ( 5.13a 7c+ 29 IX+ 29 E6 6c )",
+   "coordArea": "Winter Wall",
+   "approx": false,
+   "lat": 44.56899,
+   "lng": -92.52106,
+   "addedOn": "2026-11-07",
+   "usedOn": []
+  },
+  {
+   "id": "111870938",
+   "photoUrl": "https://www.mountainproject.com/photo/111870938/first-winter-ascent-of-the-wall-kim-i-climbed-the-direct-start-to-bos-with-an-m5",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/111870938_medium_1494308846.jpg?cache=1770010653",
+   "title": "First winter ascent of the wall?  Kim & I climbed the direct start to BOS with an M5 grading.",
+   "breadcrumb": "Michigan > Upper Peninsula > Norwich Ledge",
+   "coordArea": "Norwich Ledge",
+   "approx": false,
+   "lat": 46.65463,
+   "lng": -89.51436,
    "addedOn": "2026-11-07",
    "usedOn": []
   }
