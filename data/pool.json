@@ -8060,6 +8060,31 @@
    "lat": 39.979,
    "lng": -105.29,
    "name": null
+  },
+  "https://www.mountainproject.com/area/106042239/marble-caves": {
+   "lat": 40.39359,
+   "lng": -123.32989,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/106175297/cave-boulders": {
+   "lat": 45.39795,
+   "lng": -92.64953,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/106065861/the-spice-roof": {
+   "lat": 40.32189,
+   "lng": -105.21337,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/106024926/altaworld": {
+   "lat": 40.59131,
+   "lng": -111.64796,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/105816761/the-boxtop": {
+   "lat": 42.0809,
+   "lng": -113.70743,
+   "name": null
   }
  },
  "rejected": {
@@ -8194,7 +8219,8 @@
   "119544797": "filtered: ice, mixed, or snow route (grade or area)",
   "121949843": "filtered: ice or snow (caption)",
   "118245478": "filtered: ice, mixed, or snow route (grade or area)",
-  "108364075": "filtered: ice or snow (caption)"
+  "108364075": "filtered: ice or snow (caption)",
+  "111597970": "filtered: ice, mixed, or snow route (grade or area)"
  },
  "photos": [
   {
@@ -34053,6 +34079,84 @@
    "approx": false,
    "lat": 40.25617,
    "lng": -105.61384,
+   "addedOn": "2026-11-08",
+   "usedOn": []
+  },
+  {
+   "id": "106042244",
+   "photoUrl": "https://www.mountainproject.com/photo/106042244/marble-caves-as-seen-from-hwy-36-when-traveling-down-the-east-side-of-south-fork",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/106042244_medium_1558466388.jpg?cache=1733949098",
+   "title": "Marble Caves as seen from Hwy. 36 when traveling down the east side of South Fork Mountain.",
+   "breadcrumb": "California > Northwest California > Marble Caves",
+   "coordArea": "Marble Caves",
+   "approx": false,
+   "lat": 40.39359,
+   "lng": -123.32989,
+   "addedOn": "2026-11-08",
+   "usedOn": []
+  },
+  {
+   "id": "107747855",
+   "photoUrl": "https://www.mountainproject.com/photo/107747855/katie-on-the-cave-traverse",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/107747855_medium_1494208833.jpg?cache=1754017400",
+   "title": "Katie on the Cave Traverse.",
+   "breadcrumb": "Wisconsin > Northwest > Interstate Park > Cave Boulders > Cave Traverse ( V8 7B )",
+   "coordArea": "Cave Boulders",
+   "approx": false,
+   "lat": 45.39795,
+   "lng": -92.64953,
+   "addedOn": "2026-11-08",
+   "usedOn": []
+  },
+  {
+   "id": "107950619",
+   "photoUrl": "https://www.mountainproject.com/photo/107950619/best-warm-up-ever",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/107950619_medium_1494252886.jpg?cache=1777925339",
+   "title": "Best warm-up ever!",
+   "breadcrumb": "Colorado > Ft Collins > Carter Lake > Spice Roof > Seam ( V2 5+ )",
+   "coordArea": "Spice Roof",
+   "approx": false,
+   "lat": 40.32189,
+   "lng": -105.21337,
+   "addedOn": "2026-11-08",
+   "usedOn": []
+  },
+  {
+   "id": "110786607",
+   "photoUrl": "https://www.mountainproject.com/photo/110786607/wildflowers-on-the-trail-photo-garrett-bentley",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/110786607_medium_1494354058.jpg?cache=1787244765",
+   "title": "Wildflowers on the trail. <br> Photo: Garrett Bentley",
+   "breadcrumb": "Utah > Wasatch Range > Central Wasatch > Little Cottonwood Canyon > Hellgate Cliffs > Altaworld",
+   "coordArea": "Altaworld",
+   "approx": false,
+   "lat": 40.59131,
+   "lng": -111.64796,
+   "addedOn": "2026-11-08",
+   "usedOn": []
+  },
+  {
+   "id": "112106547",
+   "photoUrl": "https://www.mountainproject.com/photo/112106547/casual-cruxin-collin",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/112106547_medium_1494321578.jpg?cache=1762289458",
+   "title": "Casual Cruxin Collin.",
+   "breadcrumb": "Utah > Wasatch Range > Southern Wasatch > American Fork Canyon > Membrane > Dad Dick ( 5.12d 7c 28 IX 28 E6 6b )",
+   "coordArea": "Membrane",
+   "approx": false,
+   "lat": 40.44666,
+   "lng": -111.68668,
+   "addedOn": "2026-11-08",
+   "usedOn": []
+  },
+  {
+   "id": "117302106",
+   "photoUrl": "https://www.mountainproject.com/photo/117302106/corridor-crack",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/117302106_medium_1562206252.jpg?cache=1676778996",
+   "title": "Corridor Crack.",
+   "breadcrumb": "Idaho > S Idaho > City of Rocks > Boxtop > Boxtop Traverse ( 5.9 5c 17 VI 17 HVS 5a PG13)",
+   "coordArea": "Boxtop",
+   "approx": false,
+   "lat": 42.0809,
+   "lng": -113.70743,
    "addedOn": "2026-11-08",
    "usedOn": []
   }
