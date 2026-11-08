@@ -7600,6 +7600,31 @@
    "lat": 40.41269,
    "lng": -105.5516,
    "name": null
+  },
+  "https://www.mountainproject.com/area/105876417/birthday-boulders": {
+   "lat": 37.33004,
+   "lng": -118.57901,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/106130717/slash-boulder": {
+   "lat": 33.95344,
+   "lng": -116.08706,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/108245005/tamarack-lake-area": {
+   "lat": 36.5822,
+   "lng": -118.567,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/105857301/big-horn-wall": {
+   "lat": 32.2452,
+   "lng": -104.696,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/105790646/great-northern-slab": {
+   "lat": 47.81841,
+   "lng": -121.57219,
+   "name": null
   }
  },
  "rejected": {
@@ -32021,6 +32046,84 @@
    "lat": 36.09553,
    "lng": -81.80047,
    "addedOn": "2026-11-07",
+   "usedOn": []
+  },
+  {
+   "id": "106134556",
+   "photoUrl": "https://www.mountainproject.com/photo/106134556/john-porensky-at-the-birthday-boulders",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/106134556_medium_1558653042.jpg?cache=1774469077",
+   "title": "John Porensky at the Birthday Boulders",
+   "breadcrumb": "California > Eastern Sierra > Bishop Area > Buttermilk Country > Buttermilks Main > Birthday Boulders",
+   "coordArea": "Birthday Boulders",
+   "approx": false,
+   "lat": 37.33004,
+   "lng": -118.57901,
+   "addedOn": "2026-11-08",
+   "usedOn": []
+  },
+  {
+   "id": "106344661",
+   "photoUrl": "https://www.mountainproject.com/photo/106344661/dustin-on-slashface",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/106344661_medium_1494099951.jpg?cache=1722529300",
+   "title": "Dustin on Slashface",
+   "breadcrumb": "California > Joshua Tree NP > Joshua Tree Bouldering > Queen Valley Area Bouldering > Geology Tour Road Bouldering > Western Belt > Slash Boulder > Slashface ( V3 6A R)",
+   "coordArea": "Slash Boulder",
+   "approx": false,
+   "lat": 33.95344,
+   "lng": -116.08706,
+   "addedOn": "2026-11-08",
+   "usedOn": []
+  },
+  {
+   "id": "114969374",
+   "photoUrl": "https://www.mountainproject.com/photo/114969374/prism-time-saber-ridge-traverse-shield-and-sword",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/114969374_medium_1534530900_topo.jpg?cache=1743000739",
+   "title": "Prism Time, Saber Ridge Traverse, Shield and Sword",
+   "breadcrumb": "California > Sequoia Kings Canyon Np > Tamarack Lake Area",
+   "coordArea": "Tamarack Lake Area",
+   "approx": false,
+   "lat": 36.5822,
+   "lng": -118.567,
+   "addedOn": "2026-11-08",
+   "usedOn": []
+  },
+  {
+   "id": "115146766",
+   "photoUrl": "https://www.mountainproject.com/photo/115146766/not-sure-if-france-or-new-mexico",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/115146766_medium_1535674376.jpg?cache=1738614219",
+   "title": "Not sure if France or New Mexico",
+   "breadcrumb": "New Mexico > New Mexico Other Southern Areas > Sitting Bull Falls > Big Horn Wall > Tribal War ( 5.12c/d 7c 28 IX 28 E6 6b )",
+   "coordArea": "Big Horn Wall",
+   "approx": false,
+   "lat": 32.2452,
+   "lng": -104.696,
+   "addedOn": "2026-11-08",
+   "usedOn": []
+  },
+  {
+   "id": "116376330",
+   "photoUrl": "https://www.mountainproject.com/photo/116376330/rappelling-second-pitch-of-gns",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/116376330_medium_1548106225.jpg?cache=1746727377",
+   "title": "rappelling second pitch of GNS",
+   "breadcrumb": "Washington > Central West Cascades Seattle > Skykomish Valley > Index > Lower Town Wall > Great Northern Slab > Great Northern Slab ( 5.7 5a 15 V+ 13 MVS 4b )",
+   "coordArea": "Great Northern Slab",
+   "approx": false,
+   "lat": 47.81841,
+   "lng": -121.57219,
+   "addedOn": "2026-11-08",
+   "usedOn": []
+  },
+  {
+   "id": "118915167",
+   "photoUrl": "https://www.mountainproject.com/photo/118915167/ben-wu-fox-mountain-guide-on-indecent-exposure-photo-by-natalie-sheffield",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/118915167_medium_1590264005.jpg?cache=1791205737",
+   "title": "Ben Wu, Fox Mountain Guide, on Indecent Exposure. Photo by Natalie Sheffield",
+   "breadcrumb": "N Carolina > Northern Mountains Region > Linville Gorge > Table Rock > Indecent exposure ( 5.11+ 7a 24 VIII 24 E4 6a )",
+   "coordArea": "Table Rock",
+   "approx": false,
+   "lat": 35.88831,
+   "lng": -81.88519,
+   "addedOn": "2026-11-08",
    "usedOn": []
   }
  ],
