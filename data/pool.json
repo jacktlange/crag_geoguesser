@@ -8445,6 +8445,21 @@
    "lat": 43.116,
    "lng": -71.17689,
    "name": null
+  },
+  "https://www.mountainproject.com/area/105734255/main-wall": {
+   "lat": 37.02938,
+   "lng": -119.38526,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/113934413/western-brook-pond": {
+   "lat": 49.69454,
+   "lng": -57.72693,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/105816996/spray-wall": {
+   "lat": 38.93993,
+   "lng": -105.40626,
+   "name": null
   }
  },
  "rejected": {
@@ -8588,7 +8603,8 @@
   "204188044": "filtered: ice, mixed, or snow route (grade or area)",
   "204187986": "filtered: ice, mixed, or snow route (grade or area)",
   "110188346": "filtered: ice, mixed, or snow route (grade or area)",
-  "106348872": "filtered: ice, mixed, or snow route (grade or area)"
+  "106348872": "filtered: ice, mixed, or snow route (grade or area)",
+  "106025082": "filtered: ice, mixed, or snow route (grade or area)"
  },
  "photos": [
   {
@@ -35825,6 +35841,84 @@
    "approx": false,
    "lat": 43.116,
    "lng": -71.17689,
+   "addedOn": "2026-11-08",
+   "usedOn": []
+  },
+  {
+   "id": "106188819",
+   "photoUrl": "https://www.mountainproject.com/photo/106188819/perfect-pin-protects-precarious-protuberance",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/106188819_medium_1494086567.jpg?cache=1764656896",
+   "title": "Perfect pin protects precarious protuberance.",
+   "breadcrumb": "Minnesota > N Shore Rock > Tettegouche Sp North Shore > Palisade Head > Urge to Mate ( 5.10b 6a+ 19 VII- 19 E2 5b )",
+   "coordArea": "Palisade Head",
+   "approx": false,
+   "lat": 47.32016,
+   "lng": -91.21086,
+   "addedOn": "2026-11-08",
+   "usedOn": []
+  },
+  {
+   "id": "108096001",
+   "photoUrl": "https://www.mountainproject.com/photo/108096001/spring-is-flowering-atop-tollhouse",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/108096001_medium_1494262673.jpg?cache=1768004584",
+   "title": "Spring is flowering atop Tollhouse!",
+   "breadcrumb": "California > Southern Sierra Nevada Western Slope > Hwy 168Tollhouse Shaver Lake Courtright > Tollhouse Rock > Main Wall",
+   "coordArea": "Main Wall",
+   "approx": false,
+   "lat": 37.02938,
+   "lng": -119.38526,
+   "addedOn": "2026-11-08",
+   "usedOn": []
+  },
+  {
+   "id": "112157775",
+   "photoUrl": "https://www.mountainproject.com/photo/112157775/this-is-where-c39est-la-vie-and-desdichado-13-split",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/112157775_medium_1494324326.jpg?cache=1702072018",
+   "title": "This is where C&#39;est la Vie and Desdichado (13+) split.",
+   "breadcrumb": "Colorado > Boulder > Eldorado Canyon SP > Redgarden Wall > Redgarden S Buttress > C'est La Vie ( 5.11 6c+ 23 VIII- 23 E4 5c )",
+   "coordArea": "Redgarden S Buttress",
+   "approx": false,
+   "lat": 39.93119,
+   "lng": -105.28395,
+   "addedOn": "2026-11-08",
+   "usedOn": []
+  },
+  {
+   "id": "113164530",
+   "photoUrl": "https://www.mountainproject.com/photo/113164530/brandon-looking-a-little-tense-tom-with-the-perfect-spot",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/113164530_medium_1497581239.jpg?cache=1779309117",
+   "title": "Brandon. Looking a little tense! Tom with the perfect spot.",
+   "breadcrumb": "Wisconsin > South > Governor Dodge SP > Group Camps > 4. Group Camp B > Backbone Ridge > West Side Backbone Ridge > Scarete ( V2 5+ )",
+   "coordArea": "West Side Backbone Ridge",
+   "approx": false,
+   "lat": 43.0511,
+   "lng": -90.0994,
+   "addedOn": "2026-11-08",
+   "usedOn": []
+  },
+  {
+   "id": "113934606",
+   "photoUrl": "https://www.mountainproject.com/photo/113934606/karin-bates-terravecchia-on-the-south-rim-of-western-brook-pond-1999",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/113934606_medium_1513471861.jpg?cache=1731888000",
+   "title": "Karin Bates Terravecchia on the south rim of Western Brook Pond. 1999",
+   "breadcrumb": "International > N America > Canada > Newfoundland And Labrador > Newfoundland > W Coast > Gros Morne NP > Western Brook Pond",
+   "coordArea": "Western Brook Pond",
+   "approx": false,
+   "lat": 49.69454,
+   "lng": -57.72693,
+   "addedOn": "2026-11-08",
+   "usedOn": []
+  },
+  {
+   "id": "122223888",
+   "photoUrl": "https://www.mountainproject.com/photo/122223888/spray-wall",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/122223888_medium_1649719150.jpg?cache=1687143820",
+   "title": "Spray Wall.",
+   "breadcrumb": "Colorado > S Platte > Elevenmile Canyon > Spray Wall",
+   "coordArea": "Spray Wall",
+   "approx": false,
+   "lat": 38.93993,
+   "lng": -105.40626,
    "addedOn": "2026-11-08",
    "usedOn": []
   }
