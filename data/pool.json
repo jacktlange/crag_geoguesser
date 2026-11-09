@@ -8845,6 +8845,21 @@
    "lat": 44.1454,
    "lng": -73.75082,
    "name": null
+  },
+  "https://www.mountainproject.com/area/106155641/the-splinter": {
+   "lat": 43.0046,
+   "lng": -107.842,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/107418193/renaissance-crag": {
+   "lat": 34.47122,
+   "lng": -119.68976,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/106368735/aries-butte": {
+   "lat": 37.23167,
+   "lng": -112.90746,
+   "name": null
   }
  },
  "rejected": {
@@ -37610,6 +37625,84 @@
    "lat": 44.1454,
    "lng": -73.75082,
    "addedOn": "2026-11-08",
+   "usedOn": []
+  },
+  {
+   "id": "106155663",
+   "photoUrl": "https://www.mountainproject.com/photo/106155663/the-old-man-on-the-summit-of-the-splinter-with-shell-canyon-spire-in-the-backgro",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/106155663_medium_1559060267.jpg?cache=1778302453",
+   "title": "The old man on the summit of the Splinter, with Shell Canyon Spire in the background.",
+   "breadcrumb": "Wyoming > Shell Canyon > Beef Trail Towers > Splinter > W Chimney ( 5.8 5b 16 VI- 15 HVS 4c PG13)",
+   "coordArea": "Splinter",
+   "approx": false,
+   "lat": 43.0046,
+   "lng": -107.842,
+   "addedOn": "2026-11-09",
+   "usedOn": []
+  },
+  {
+   "id": "106183066",
+   "photoUrl": "https://www.mountainproject.com/photo/106183066/following-the-crux",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/106183066_medium_1494086097.jpg?cache=1701315348",
+   "title": "Following the crux",
+   "breadcrumb": "New Hampshire > Whitehorse Ledge > 07. The Slabs > Standard Route ( 5.5 4b 13 IV+ 11 MS 4a R)",
+   "coordArea": "07. The Slabs",
+   "approx": false,
+   "lat": 44.055,
+   "lng": -71.16605,
+   "addedOn": "2026-11-09",
+   "usedOn": []
+  },
+  {
+   "id": "107858616",
+   "photoUrl": "https://www.mountainproject.com/photo/107858616/bushwhack-crack-lcc",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/107858616_medium_1494215904.jpg?cache=1755117112",
+   "title": "Bushwhack Crack, LCC",
+   "breadcrumb": "Utah > Wasatch Range > Central Wasatch > Little Cottonwood Canyon",
+   "coordArea": "Little Cottonwood Canyon",
+   "approx": false,
+   "lat": 40.5727,
+   "lng": -111.77699,
+   "addedOn": "2026-11-09",
+   "usedOn": []
+  },
+  {
+   "id": "108305851",
+   "photoUrl": "https://www.mountainproject.com/photo/108305851/nice-place",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/108305851_medium_1494275123.jpg?cache=1701318185",
+   "title": "Nice place.",
+   "breadcrumb": "California > Eastern Sierra > Lone Pine Area > Alabama Hills",
+   "coordArea": "Alabama Hills",
+   "approx": false,
+   "lat": 36.59552,
+   "lng": -118.1086,
+   "addedOn": "2026-11-09",
+   "usedOn": []
+  },
+  {
+   "id": "109326528",
+   "photoUrl": "https://www.mountainproject.com/photo/109326528/the-fun-in-the-sun-wall-in-rattlesnake-canyon-gets-my-vote-as-santa-barbaras-coo",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/109326528_medium_1494346702.jpg?cache=1752255514",
+   "title": "The Fun in the Sun wall, in Rattlesnake Canyon, gets my vote as Santa Barbara's coolest climbing outing. The wall boasts excellent moderate face climbs up to 70 meters tall (70 meters!!). And the upper headwall of Fun in the Sun is simply unforgettable--certainly the best route I've done to date in SB. <br>  <br> Blue - Written Exam 5.9 <br> Green - King Snake Crack (5.7) <br> Yellow - Tender Flakes of Mercy (5.8) <br> Red - Fun in the Sun (5.8)",
+   "breadcrumb": "California > Central Coast > Santa Barbara > Renaissance Crag",
+   "coordArea": "Renaissance Crag",
+   "approx": false,
+   "lat": 34.47122,
+   "lng": -119.68976,
+   "addedOn": "2026-11-09",
+   "usedOn": []
+  },
+  {
+   "id": "110274752",
+   "photoUrl": "https://www.mountainproject.com/photo/110274752/rappelling-back-to-the-base-of-the-climb",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/110274752_medium_1494369777.jpg?cache=1760644187",
+   "title": "Rappelling back to the base of the climb.",
+   "breadcrumb": "Utah > Southwest Utah > Zion NP > E Side > Aries Butte > Led by Sheep ( 5.6 4c 14 V 12 S 4b )",
+   "coordArea": "Aries Butte",
+   "approx": false,
+   "lat": 37.23167,
+   "lng": -112.90746,
+   "addedOn": "2026-11-09",
    "usedOn": []
   }
  ],
