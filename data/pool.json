@@ -8890,6 +8890,26 @@
    "lat": 47.53985,
    "lng": -121.52493,
    "name": null
+  },
+  "https://www.mountainproject.com/area/115004583/southeast-buttress": {
+   "lat": 36.12178,
+   "lng": -115.49277,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/105744460/rmnp-rock": {
+   "lat": 40.3753,
+   "lng": -105.61598,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/105804351/temple-crag": {
+   "lat": 37.1096,
+   "lng": -118.491,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/113977752/the-aretes-aka-the-road-area": {
+   "lat": 37.3741,
+   "lng": -114.55067,
+   "name": null
   }
  },
  "rejected": {
@@ -37834,6 +37854,84 @@
    "approx": false,
    "lat": 47.53985,
    "lng": -121.52493,
+   "addedOn": "2026-11-09",
+   "usedOn": []
+  },
+  {
+   "id": "5200063",
+   "photoUrl": "https://www.mountainproject.com/photo/5200063/start-of-pitch-4-note-the-traverse-to-the-left-crack-under-the-roof",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/5200063_medium_1557853734.jpg?cache=1743994086",
+   "title": "Start of pitch 4.  Note the traverse to the left crack under the roof.",
+   "breadcrumb": "Nevada > Southern Nevada > Red Rocks > Pine Creek Canyon > Mescalito > Southeast Buttress > Cat in the Hat ( 5.6 4c 14 V 12 S 4b )",
+   "coordArea": "Southeast Buttress",
+   "approx": false,
+   "lat": 36.12178,
+   "lng": -115.49277,
+   "addedOn": "2026-11-09",
+   "usedOn": []
+  },
+  {
+   "id": "105995379",
+   "photoUrl": "https://www.mountainproject.com/photo/105995379/mark-neagle-on-the-summit-pitch-of-the-petit-grepon-07152007",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/105995379_medium_1558388585.jpg?cache=1748969845",
+   "title": "Mark Neagle on the summit pitch of the Petit Grepon (07/15/2007).",
+   "breadcrumb": "Colorado > Alpine Rock > RMNP - Rock > Petit Grepon > S Face ( 5.8 5b 16 VI- 15 HVS 4c )",
+   "coordArea": "Petit Grepon",
+   "approx": false,
+   "lat": 40.28029,
+   "lng": -105.6725,
+   "addedOn": "2026-11-09",
+   "usedOn": []
+  },
+  {
+   "id": "106514291",
+   "photoUrl": "https://www.mountainproject.com/photo/106514291/from-north-slabs-rappel-station-after-soloing-back-up-to-retrieve-the-camera",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/106514291_medium_1494116133.jpg?cache=1793903008",
+   "title": "From north slabs rappel station after soloing back up to retrieve the camera.",
+   "breadcrumb": "Colorado > Alpine Rock > RMNP - Rock",
+   "coordArea": "RMNP - Rock",
+   "approx": false,
+   "lat": 40.3753,
+   "lng": -105.61598,
+   "addedOn": "2026-11-09",
+   "usedOn": []
+  },
+  {
+   "id": "107405924",
+   "photoUrl": "https://www.mountainproject.com/photo/107405924/carlos-high-on-moon-goddess-arete",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/107405924_medium_1494186901.jpg?cache=1773602725",
+   "title": "Carlos high on Moon Goddess Arete.",
+   "breadcrumb": "California > High Sierra > 09 Palisades Surrounding Peaks > Temple Crag > Moon Goddess Arete ( 5.8 5b 16 VI- 15 HVS 4c )",
+   "coordArea": "Temple Crag",
+   "approx": false,
+   "lat": 37.1096,
+   "lng": -118.491,
+   "addedOn": "2026-11-09",
+   "usedOn": []
+  },
+  {
+   "id": "108140241",
+   "photoUrl": "https://www.mountainproject.com/photo/108140241/stephen-king-getting-techy",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/108140241_medium_1494265363.jpg?cache=1785959061",
+   "title": "Stephen King getting techy",
+   "breadcrumb": "Nevada > Southern Nevada > Rainbow Canyon > The Aretes Aka The Road Area > Air Farce One ( 5.11b 6c 23 VIII- 23 E3 5c )",
+   "coordArea": "The Aretes Aka The Road Area",
+   "approx": false,
+   "lat": 37.3741,
+   "lng": -114.55067,
+   "addedOn": "2026-11-09",
+   "usedOn": []
+  },
+  {
+   "id": "118007096",
+   "photoUrl": "https://www.mountainproject.com/photo/118007096/guide-elias-martos-climbing-the-west-summit",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/118007096_medium_1573222452.jpg?cache=1787111179",
+   "title": "Guide Elias Martos climbing the west summit.",
+   "breadcrumb": "Washington > Northwest Region > Hwy 20 And North Cascades National Park > N Cascades > Cascade River Drainage Eldorado Forbidden Johannesburg Sahale Torment Etc > Boston Basin Peaks Forbidden Johannesburg Etc > Forbidden Peak > W Ridge ( 5.6 4c 14 V 12 S 4b Mod. Snow)",
+   "coordArea": "Forbidden Peak",
+   "approx": false,
+   "lat": 48.51169,
+   "lng": -121.05894,
    "addedOn": "2026-11-09",
    "usedOn": []
   }
