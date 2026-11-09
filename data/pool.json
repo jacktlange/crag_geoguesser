@@ -8860,6 +8860,36 @@
    "lat": 37.23167,
    "lng": -112.90746,
    "name": null
+  },
+  "https://www.mountainproject.com/area/105739581/south-summit-wall": {
+   "lat": 40.52624,
+   "lng": -111.75564,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/105744358/mt-blue-sky-formerly-mt-evans": {
+   "lat": 39.5886,
+   "lng": -105.64298,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/105739371/s-curve-the-pile": {
+   "lat": 40.63494,
+   "lng": -111.72419,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/119317287/cannibals-gully": {
+   "lat": 39.31608,
+   "lng": -120.31852,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/105744316/penitente-canyon": {
+   "lat": 37.8429,
+   "lng": -106.28469,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/121147719/the-goods": {
+   "lat": 47.53985,
+   "lng": -121.52493,
+   "name": null
   }
  },
  "rejected": {
@@ -9009,7 +9039,8 @@
   "119338525": "filtered: ice or snow (caption)",
   "106051236": "filtered: ice, mixed, or snow route (grade or area)",
   "110073876": "filtered: ice or snow (caption)",
-  "116534757": "filtered: ice, mixed, or snow route (grade or area)"
+  "116534757": "filtered: ice, mixed, or snow route (grade or area)",
+  "112065881": "filtered: ice, mixed, or snow route (grade or area)"
  },
  "photos": [
   {
@@ -13706,7 +13737,9 @@
    "lat": 35.30546,
    "lng": -82.79093,
    "addedOn": "2026-11-01",
-   "usedOn": []
+   "usedOn": [
+    "2026-11-09"
+   ]
   },
   {
    "id": "106317033",
@@ -13888,7 +13921,9 @@
    "lat": 41.42377,
    "lng": -72.90245,
    "addedOn": "2026-11-01",
-   "usedOn": []
+   "usedOn": [
+    "2026-11-09"
+   ]
   },
   {
    "id": "107369245",
@@ -16247,7 +16282,9 @@
    "lat": 36.07801,
    "lng": -115.47777,
    "addedOn": "2026-11-03",
-   "usedOn": []
+   "usedOn": [
+    "2026-11-09"
+   ]
   },
   {
    "id": "127189819",
@@ -31294,7 +31331,9 @@
    "lat": 38.06928,
    "lng": -109.55004,
    "addedOn": "2026-11-07",
-   "usedOn": []
+   "usedOn": [
+    "2026-11-09"
+   ]
   },
   {
    "id": "201495867",
@@ -31931,7 +31970,9 @@
    "lat": 38.46545,
    "lng": -110.73524,
    "addedOn": "2026-11-07",
-   "usedOn": []
+   "usedOn": [
+    "2026-11-09"
+   ]
   },
   {
    "id": "106051449",
@@ -37702,6 +37743,97 @@
    "approx": false,
    "lat": 37.23167,
    "lng": -112.90746,
+   "addedOn": "2026-11-09",
+   "usedOn": []
+  },
+  {
+   "id": "105844195",
+   "photoUrl": "https://www.mountainproject.com/photo/105844195/the-crux-pitch-of-center-thumb-9",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/105844195_medium_1557862651.jpg?cache=1787544704",
+   "title": "The crux pitch of Center Thumb 9-.",
+   "breadcrumb": "Utah > Wasatch Range > Central Wasatch > Lone Peak Cirque > S Summit Wall > Center Thumb ( 5.9 5c 17 VI 17 HVS 5a )",
+   "coordArea": "S Summit Wall",
+   "approx": false,
+   "lat": 40.52624,
+   "lng": -111.75564,
+   "addedOn": "2026-11-09",
+   "usedOn": []
+  },
+  {
+   "id": "106153802",
+   "photoUrl": "https://www.mountainproject.com/photo/106153802/goats-on-the-north-face-of-mt-blue-sky-formerly-mt-evans",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/106153802_medium_1559059982.jpg?cache=1701315304",
+   "title": "Goats on the north face of Mt. Blue Sky (formerly Mt. Evans).",
+   "breadcrumb": "Colorado > Alpine Rock > Mt Blue Sky Formerly Mt Evans",
+   "coordArea": "Mt Blue Sky Formerly Mt Evans",
+   "approx": false,
+   "lat": 39.5886,
+   "lng": -105.64298,
+   "addedOn": "2026-11-09",
+   "usedOn": []
+  },
+  {
+   "id": "109593236",
+   "photoUrl": "https://www.mountainproject.com/photo/109593236/gabby-clipping-the-third-bolt-on-the-red-point-go",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/109593236_medium_1494357513.jpg?cache=1683304674",
+   "title": "Gabby clipping the third bolt on the red point go!",
+   "breadcrumb": "Utah > Wasatch Range > Central Wasatch > Big Cottonwood Canyon > S-Curves > S-Curve - The Pile > Right Pile ( 5.11d 7a 24 VIII 25 E5 6a )",
+   "coordArea": "S-Curve - The Pile",
+   "approx": false,
+   "lat": 40.63494,
+   "lng": -111.72419,
+   "addedOn": "2026-11-09",
+   "usedOn": []
+  },
+  {
+   "id": "112360963",
+   "photoUrl": "https://www.mountainproject.com/photo/112360963/ben-crawford-working-the-route",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/112360963_medium_1494300479.jpg?cache=1768415230",
+   "title": "Ben Crawford working the route.",
+   "breadcrumb": "Colorado > Morrisonevergreenlittleton > Morrison Routes > Price For Fire ( 5.13a 7c+ 29 IX+ 29 E6 6c )",
+   "coordArea": "Morrison Routes",
+   "approx": false,
+   "lat": 39.6531,
+   "lng": -105.1878,
+   "addedOn": "2026-11-09",
+   "usedOn": []
+  },
+  {
+   "id": "121096192",
+   "photoUrl": "https://www.mountainproject.com/photo/121096192/patrick-at-work",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/121096192_medium_1627834474.jpg?cache=1721419812",
+   "title": "Patrick at work",
+   "breadcrumb": "California > Lake Tahoe > I-80 Corridor > Donner Summit > Snowshed Wall > E Face > 4. Cannibals Gully > Pump Lust ( 5.13b 8a 29 IX+ 30 E7 6c )",
+   "coordArea": "4. Cannibals Gully",
+   "approx": false,
+   "lat": 39.31608,
+   "lng": -120.31852,
+   "addedOn": "2026-11-09",
+   "usedOn": []
+  },
+  {
+   "id": "122159802",
+   "photoUrl": "https://www.mountainproject.com/photo/122159802/on-the-trail-in-the-canyon-they-are-in-love",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/122159802_medium_1648747009.jpg?cache=1773700954",
+   "title": "On the trail in the Canyon. They are in love!",
+   "breadcrumb": "Colorado > San Luis Valley > Penitente Canyon",
+   "coordArea": "Penitente Canyon",
+   "approx": false,
+   "lat": 37.8429,
+   "lng": -106.28469,
+   "addedOn": "2026-11-09",
+   "usedOn": []
+  },
+  {
+   "id": "123467460",
+   "photoUrl": "https://www.mountainproject.com/photo/123467460/jeremy-hand-drillin-pitch-one",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/123467460_medium_1669040955.jpg?cache=1702074292",
+   "title": "Jeremy hand drillin pitch one!",
+   "breadcrumb": "Washington > Central West Cascades Seattle > N Bend & Vicinity > Exit 34 Middle Fork Taylor River > Stegosaurus Butte > Rump > Goods > Dance of the Cedar ( 5.11a/b 6c 23 VIII- 23 E3 5c )",
+   "coordArea": "Goods",
+   "approx": false,
+   "lat": 47.53985,
+   "lng": -121.52493,
    "addedOn": "2026-11-09",
    "usedOn": []
   }
