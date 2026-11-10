@@ -9655,6 +9655,16 @@
    "lat": 47.61422,
    "lng": -120.71812,
    "name": null
+  },
+  "https://www.mountainproject.com/area/105883937/elk-slabs": {
+   "lat": 34.7172,
+   "lng": -98.7237,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/105980638/building-blocks": {
+   "lat": 42.08494,
+   "lng": -113.69766,
+   "name": null
   }
  },
  "rejected": {
@@ -9824,7 +9834,8 @@
   "106389053": "filtered: ice or snow (caption)",
   "118589348": "filtered: ice, mixed, or snow route (grade or area)",
   "108572646": "filtered: ice or snow (caption)",
-  "106094247": "filtered: ice or snow (caption)"
+  "106094247": "filtered: ice or snow (caption)",
+  "114384018": "filtered: looks like a map, topo, or drawing (caption)"
  },
  "photos": [
   {
@@ -41553,6 +41564,84 @@
    "approx": false,
    "lat": 47.61422,
    "lng": -120.71812,
+   "addedOn": "2026-11-10",
+   "usedOn": []
+  },
+  {
+   "id": "106971557",
+   "photoUrl": "https://www.mountainproject.com/photo/106971557/beckey-chouinard-south-howser-photo-by-mtn-proj-contributor-timmy-tormey",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/106971557_medium_1494155324.jpg?cache=1783455968",
+   "title": "Beckey-Chouinard, South Howser <br> Photo by Mtn. Proj. contributor Timmy! Tormey",
+   "breadcrumb": "International > N America > Canada > British Columbia > Columbia-Shushwap > Bugaboos > Howser Towers > S Howser Tower > Beckey-Chouinard ( 5.10 6b 20 VII- 19 E2 5b )",
+   "coordArea": "S Howser Tower",
+   "approx": false,
+   "lat": 50.7273,
+   "lng": -116.8086,
+   "addedOn": "2026-11-10",
+   "usedOn": []
+  },
+  {
+   "id": "107333383",
+   "photoUrl": "https://www.mountainproject.com/photo/107333383/hammer-dome-approach-beta",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/107333383_medium_1494182268.jpg?cache=1765499922",
+   "title": "Hammer Dome, approach beta",
+   "breadcrumb": "California > Lake Tahoe > Carson Pass Highway 88 > Calaveras Domes > Hammer Dome",
+   "coordArea": "Hammer Dome",
+   "approx": false,
+   "lat": 38.49188,
+   "lng": -120.22803,
+   "addedOn": "2026-11-10",
+   "usedOn": []
+  },
+  {
+   "id": "112838017",
+   "photoUrl": "https://www.mountainproject.com/photo/112838017/this-is-a-view-of-the-route-from-just-below-the-first-belay-stance-marked-is-p1-",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/112838017_medium_1494317939_topo.jpg?cache=1740495541",
+   "title": "-This is a view of the route from just below the first belay stance. <br> -Marked is P1 of a possible two if you continue up the crack and traverse to the anchor above Water Streak. <br> -The O=Belay position.  <br> -P1 is almost exactly the length of a 50m rope. Bring 2 to rap down",
+   "breadcrumb": "Oklahoma > Wichita Mountains Wildlife Refuge > Charon's Gardens > Elk Slabs > Great Expectations ( 5.5 4b 13 IV+ 11 MS 4a )",
+   "coordArea": "Elk Slabs",
+   "approx": false,
+   "lat": 34.7172,
+   "lng": -98.7237,
+   "addedOn": "2026-11-10",
+   "usedOn": []
+  },
+  {
+   "id": "114334028",
+   "photoUrl": "https://www.mountainproject.com/photo/114334028/alpenbock-loop-trail-network",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/114334028_medium_1525555725.jpg?cache=1713825611",
+   "title": "Alpenbock Loop Trail Network",
+   "breadcrumb": "Utah > Wasatch Range > Central Wasatch > Little Cottonwood Canyon",
+   "coordArea": "Little Cottonwood Canyon",
+   "approx": false,
+   "lat": 40.5727,
+   "lng": -111.77699,
+   "addedOn": "2026-11-10",
+   "usedOn": []
+  },
+  {
+   "id": "116147836",
+   "photoUrl": "https://www.mountainproject.com/photo/116147836/ian-finding-his-groove-after-a-tricky-start",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/116147836_medium_1543463517.jpg?cache=1774058548",
+   "title": "Ian finding his groove after a tricky start",
+   "breadcrumb": "Utah > Southeast Utah > Grand County > Potash Rd > Wall Street > She-la the Peeler ( 5.9 5c 17 VI 17 HVS 5a )",
+   "coordArea": "Wall Street",
+   "approx": false,
+   "lat": 38.54668,
+   "lng": -109.59959,
+   "addedOn": "2026-11-10",
+   "usedOn": []
+  },
+  {
+   "id": "116722444",
+   "photoUrl": "https://www.mountainproject.com/photo/116722444/building-blocks-from-the-turn-off-trail",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/116722444_medium_1555002907.jpg?cache=1780516156",
+   "title": "Building Blocks from the turn-off trail",
+   "breadcrumb": "Idaho > S Idaho > City of Rocks > Building Blocks",
+   "coordArea": "Building Blocks",
+   "approx": false,
+   "lat": 42.08494,
+   "lng": -113.69766,
    "addedOn": "2026-11-10",
    "usedOn": []
   }
