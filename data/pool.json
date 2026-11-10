@@ -9630,6 +9630,31 @@
    "lat": 44.41678,
    "lng": -103.88094,
    "name": null
+  },
+  "https://www.mountainproject.com/area/106202660/galaxy-area": {
+   "lat": 40.26544,
+   "lng": -111.61291,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/105797478/banana-cracks": {
+   "lat": 34.02539,
+   "lng": -116.17712,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/106239047/oyster-bar-area": {
+   "lat": 33.99034,
+   "lng": -116.14139,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/105734246/sunset-boulders": {
+   "lat": 38.42931,
+   "lng": -123.11572,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/110263707/drip-wall": {
+   "lat": 47.61422,
+   "lng": -120.71812,
+   "name": null
   }
  },
  "rejected": {
@@ -9798,7 +9823,8 @@
   "119966942": "filtered: ice, mixed, or snow route (grade or area)",
   "106389053": "filtered: ice or snow (caption)",
   "118589348": "filtered: ice, mixed, or snow route (grade or area)",
-  "108572646": "filtered: ice or snow (caption)"
+  "108572646": "filtered: ice or snow (caption)",
+  "106094247": "filtered: ice or snow (caption)"
  },
  "photos": [
   {
@@ -14196,7 +14222,9 @@
    "lat": 41.60657,
    "lng": -124.10478,
    "addedOn": "2026-11-01",
-   "usedOn": []
+   "usedOn": [
+    "2026-11-10"
+   ]
   },
   {
    "id": "204152305",
@@ -19076,7 +19104,9 @@
    "lat": 31.92476,
    "lng": -106.04707,
    "addedOn": "2026-11-03",
-   "usedOn": []
+   "usedOn": [
+    "2026-11-10"
+   ]
   },
   {
    "id": "111792783",
@@ -19938,7 +19968,9 @@
    "lat": 43.42792,
    "lng": -89.73578,
    "addedOn": "2026-11-03",
-   "usedOn": []
+   "usedOn": [
+    "2026-11-10"
+   ]
   },
   {
    "id": "109250598",
@@ -24110,7 +24142,9 @@
    "lat": 43.84016,
    "lng": -103.53587,
    "addedOn": "2026-11-05",
-   "usedOn": []
+   "usedOn": [
+    "2026-11-10"
+   ]
   },
   {
    "id": "107783393",
@@ -31790,7 +31824,9 @@
    "lat": 35.2496,
    "lng": -85.21801,
    "addedOn": "2026-11-07",
-   "usedOn": []
+   "usedOn": [
+    "2026-11-10"
+   ]
   },
   {
    "id": "107849151",
@@ -41426,6 +41462,97 @@
    "approx": false,
    "lat": 42.0778,
    "lng": -113.72398,
+   "addedOn": "2026-11-10",
+   "usedOn": []
+  },
+  {
+   "id": "106202708",
+   "photoUrl": "https://www.mountainproject.com/photo/106202708/1endor-wall-2apollo-wall-3milky-way-wall-4mission-control-block-5saturn-v-6tap-w",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/106202708_medium_1494087713.jpg?cache=1619132699",
+   "title": "1)Endor Wall <br> 2)Apollo Wall <br> 3)Milky Way Wall <br> 4)Mission Control Block <br> 5)Saturn V <br> 6)Tap Wall <br> <ul><li>Death Star is on the line right between 1 and 2</li><li>The left side of Endor (with the orange arch) is now called Tatooine</li></ul>",
+   "breadcrumb": "Utah > Wasatch Range > Southern Wasatch > Rock Canyon > Galaxy Area",
+   "coordArea": "Galaxy Area",
+   "approx": false,
+   "lat": 40.26544,
+   "lng": -111.61291,
+   "addedOn": "2026-11-10",
+   "usedOn": []
+  },
+  {
+   "id": "106225007",
+   "photoUrl": "https://www.mountainproject.com/photo/106225007/grassy-ledges-approach-to-wolfs-head-east-ridge",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/106225007_medium_1494089632.jpg?cache=1719019153",
+   "title": "Grassy ledges approach to Wolfs Head East Ridge",
+   "breadcrumb": "Wyoming > Wind River Range > Cirque Of The Towers > Wolfs Head > E Ridge ( 5.6 4c 14 V 12 S 4b )",
+   "coordArea": "Wolfs Head",
+   "approx": false,
+   "lat": 42.7802,
+   "lng": -109.233,
+   "addedOn": "2026-11-10",
+   "usedOn": []
+  },
+  {
+   "id": "106931953",
+   "photoUrl": "https://www.mountainproject.com/photo/106931953/left-banana-crack",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/106931953_medium_1494152126.jpg?cache=1787755608",
+   "title": "'Left Banana Crack'",
+   "breadcrumb": "California > Joshua Tree NP > Lost Horse Area > Lost Horse Roadside Crags > Banana Cracks",
+   "coordArea": "Banana Cracks",
+   "approx": false,
+   "lat": 34.02539,
+   "lng": -116.17712,
+   "addedOn": "2026-11-10",
+   "usedOn": []
+  },
+  {
+   "id": "108094133",
+   "photoUrl": "https://www.mountainproject.com/photo/108094133/bighorn-sheep-near-the-oyster-bar-joshua-tree-np",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/108094133_medium_1494262567.jpg?cache=1669136002",
+   "title": "Bighorn Sheep near the Oyster Bar, Joshua Tree NP",
+   "breadcrumb": "California > Joshua Tree NP > Central Joshua Tree > Sheep Pass Area > Oyster Bar Area",
+   "coordArea": "Oyster Bar Area",
+   "approx": false,
+   "lat": 33.99034,
+   "lng": -116.14139,
+   "addedOn": "2026-11-10",
+   "usedOn": []
+  },
+  {
+   "id": "110787492",
+   "photoUrl": "https://www.mountainproject.com/photo/110787492/a-panorama-of-the-main-climbing-area-sunset-face-on-the-left-pelican-arete-on-th",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/110787492_medium_1494354117.jpg?cache=1747763723",
+   "title": "A panorama of the main climbing area.  Sunset Face on the left, Pelican Arete on the right.",
+   "breadcrumb": "California > San Francisco Bay Area > Wine Countrynortheast Bay > Sonoma Coast SP > Goat Rock > Sunset Boulders",
+   "coordArea": "Sunset Boulders",
+   "approx": false,
+   "lat": 38.42931,
+   "lng": -123.11572,
+   "addedOn": "2026-11-10",
+   "usedOn": []
+  },
+  {
+   "id": "111288940",
+   "photoUrl": "https://www.mountainproject.com/photo/111288940/looking-down-the-80-offwidth-on-p8",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/111288940_medium_1494346892.jpg?cache=1778607541",
+   "title": "Looking down the 80' offwidth on P8.",
+   "breadcrumb": "California > Yosemite NP > Yosemite Valley > Valley N Side > B. El Capitan > 2. Southwest Face > Lurking Fear ( 5.7 5a 15 V+ 13 MVS 4b C2)",
+   "coordArea": "2. Southwest Face",
+   "approx": false,
+   "lat": 37.73051,
+   "lng": -119.63828,
+   "addedOn": "2026-11-10",
+   "usedOn": []
+  },
+  {
+   "id": "126117614",
+   "photoUrl": "https://www.mountainproject.com/photo/126117614/well-i-thought-id-put-these-pics-on-here-after-sitting-in-a-box-in-a-closet-for-",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/126117614_medium_1715120973.jpg?cache=1790790189",
+   "title": "Well I thought I'd put these pics on here after sitting in a box in a closet for over two decades. Even with the goofy sunglasses and hat ? windsock ?  Idk.      Photo credit Mike Massey",
+   "breadcrumb": "Washington > Central East Cascades Wenatchee Leavenworth > Leavenworth > Tumwater Canyon > Drip Wall > Rockarolla ( 5.13b 8a 29 IX+ 30 E7 6c )",
+   "coordArea": "Drip Wall",
+   "approx": false,
+   "lat": 47.61422,
+   "lng": -120.71812,
    "addedOn": "2026-11-10",
    "usedOn": []
   }

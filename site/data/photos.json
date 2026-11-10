@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-10T07:37:26+00:00",
+ "generated": "2026-11-10T14:47:51+00:00",
  "photos": [
   {
    "id": "105787726",
@@ -222,6 +222,17 @@
    "lng": -119.4577
   },
   {
+   "id": "105998775",
+   "photoUrl": "https://www.mountainproject.com/photo/105998775/joel-hagan-with-laura-watson-following",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/105998775_medium_1558389121.jpg?cache=1768600637",
+   "title": "Joel Hagan with Laura Watson following",
+   "breadcrumb": "S Dakota > Custer SP > Tenpinsswitchbacks > Tent Peg > Tent Peg ( 5.7 5a 15 V+ 13 MVS 4b )",
+   "coordArea": "Tent Peg",
+   "approx": false,
+   "lat": 43.84016,
+   "lng": -103.53587
+  },
+  {
    "id": "106012834",
    "photoUrl": "https://www.mountainproject.com/photo/106012834/time-to-retreat-dave-just-took-a-long-fall-and-pulled-the-pinhes-a-little-excite",
    "imageUrl": "https://mountainproject.com/assets/photos/climb/106012834_medium_1558391151.jpg?cache=1764543518",
@@ -363,6 +374,17 @@
    "approx": false,
    "lat": 38.54502,
    "lng": -109.65514
+  },
+  {
+   "id": "106081149",
+   "photoUrl": "https://www.mountainproject.com/photo/106081149/photo-dave-fiorucci-december-9-2007",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/106081149_medium_1558472378.jpg?cache=1790220689",
+   "title": "Photo: Dave Fiorucci. <br> December 9, 2007.",
+   "breadcrumb": "Colorado > Boulder > Flatirons > Central",
+   "coordArea": "Central",
+   "approx": false,
+   "lat": 39.9777,
+   "lng": -105.29
   },
   {
    "id": "106083505",
@@ -2125,6 +2147,17 @@
    "lng": -72.01403
   },
   {
+   "id": "108261473",
+   "photoUrl": "https://www.mountainproject.com/photo/108261473/nic-on-ballistic",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/108261473_medium_1494272629.jpg?cache=1701318150",
+   "title": "Nic on Ballistic",
+   "breadcrumb": "Wisconsin > Baraboo Range > Devil's Lake > Devils Lake Bouldering > W Bluff > W Bluff North > West Bluff North Lower Access > 2. Fat Raccoon > Ballistic > Ballistic ( V9 7C )",
+   "coordArea": "Ballistic",
+   "approx": false,
+   "lat": 43.42792,
+   "lng": -89.73578
+  },
+  {
    "id": "108266177",
    "photoUrl": "https://www.mountainproject.com/photo/108266177/triple-s",
    "imageUrl": "https://mountainproject.com/assets/photos/climb/108266177_medium_1494272939.jpg?cache=1607706405",
@@ -2818,6 +2851,17 @@
    "lng": -114.56526
   },
   {
+   "id": "110937790",
+   "photoUrl": "https://www.mountainproject.com/photo/110937790/city-camping-stoke",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/110937790_medium_1494358985.jpg?cache=1751465620",
+   "title": "City camping stoke",
+   "breadcrumb": "Idaho > S Idaho > City of Rocks",
+   "coordArea": "City of Rocks",
+   "approx": false,
+   "lat": 42.0778,
+   "lng": -113.72398
+  },
+  {
    "id": "111009240",
    "photoUrl": "https://www.mountainproject.com/photo/111009240/crack-on-the-left",
    "imageUrl": "https://mountainproject.com/assets/photos/climb/111009240_medium_1494337678_topo.jpg?cache=1701319052",
@@ -2895,6 +2939,17 @@
    "lng": -121.99833
   },
   {
+   "id": "111288940",
+   "photoUrl": "https://www.mountainproject.com/photo/111288940/looking-down-the-80-offwidth-on-p8",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/111288940_medium_1494346892.jpg?cache=1778607541",
+   "title": "Looking down the 80' offwidth on P8.",
+   "breadcrumb": "California > Yosemite NP > Yosemite Valley > Valley N Side > B. El Capitan > 2. Southwest Face > Lurking Fear ( 5.7 5a 15 V+ 13 MVS 4b C2)",
+   "coordArea": "2. Southwest Face",
+   "approx": false,
+   "lat": 37.73051,
+   "lng": -119.63828
+  },
+  {
    "id": "111326346",
    "photoUrl": "https://www.mountainproject.com/photo/111326346/setting-up-for-the-transition-onto-the-slab-face",
    "imageUrl": "https://mountainproject.com/assets/photos/climb/111326346_medium_1494348130.jpg?cache=1770484219",
@@ -2937,6 +2992,17 @@
    "approx": false,
    "lat": 42.67331,
    "lng": -113.00159
+  },
+  {
+   "id": "111459821",
+   "photoUrl": "https://www.mountainproject.com/photo/111459821/warming-up-on-the-front-side-some-mostly-forgotten-classics",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/111459821_medium_1494362921.jpg?cache=1701319245",
+   "title": "warming up on the front side, some mostly forgotten classics",
+   "breadcrumb": "Texas > Hueco Tanks > N Mountain > Hairy Boulder > shaved pits ( V2 5+ )",
+   "coordArea": "Hairy Boulder",
+   "approx": false,
+   "lat": 31.92476,
+   "lng": -106.04707
   },
   {
    "id": "111508699",
@@ -3047,6 +3113,17 @@
    "approx": false,
    "lat": 39.97621,
    "lng": -75.19266
+  },
+  {
+   "id": "111882095",
+   "photoUrl": "https://www.mountainproject.com/photo/111882095/scenic-view-at-sunset-from-the-top-of-the-abyss-boulder",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/111882095_medium_1494309400.jpg?cache=1774193906",
+   "title": "Scenic view at sunset from the top of the Abyss Boulder.",
+   "breadcrumb": "California > Northwest California > Promontory",
+   "coordArea": "Promontory",
+   "approx": false,
+   "lat": 41.60657,
+   "lng": -124.10478
   },
   {
    "id": "111889531",
@@ -5436,6 +5513,17 @@
    "lng": -113.17921
   },
   {
+   "id": "124733818",
+   "photoUrl": "https://www.mountainproject.com/photo/124733818/overview",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/124733818_medium_1691630060.jpg?cache=1786077292",
+   "title": "Overview",
+   "breadcrumb": "Tennessee > Stone Fort > Sternum Area > Chronic Boulders > V2 (Chronic Boulder)(… ( V2 5+ )",
+   "coordArea": "Chronic Boulders",
+   "approx": false,
+   "lat": 35.2496,
+   "lng": -85.21801
+  },
+  {
    "id": "124789412",
    "photoUrl": "https://www.mountainproject.com/photo/124789412/halloween-climbing-2022",
    "imageUrl": "https://mountainproject.com/assets/photos/climb/124789412_medium_1692514548.jpg?cache=1786077918",
@@ -5709,6 +5797,17 @@
    "approx": false,
    "lat": 47.70246,
    "lng": -116.9599
+  },
+  {
+   "id": "126117614",
+   "photoUrl": "https://www.mountainproject.com/photo/126117614/well-i-thought-id-put-these-pics-on-here-after-sitting-in-a-box-in-a-closet-for-",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/126117614_medium_1715120973.jpg?cache=1790790189",
+   "title": "Well I thought I'd put these pics on here after sitting in a box in a closet for over two decades. Even with the goofy sunglasses and hat ? windsock ?  Idk.      Photo credit Mike Massey",
+   "breadcrumb": "Washington > Central East Cascades Wenatchee Leavenworth > Leavenworth > Tumwater Canyon > Drip Wall > Rockarolla ( 5.13b 8a 29 IX+ 30 E7 6c )",
+   "coordArea": "Drip Wall",
+   "approx": false,
+   "lat": 47.61422,
+   "lng": -120.71812
   },
   {
    "id": "126200792",
