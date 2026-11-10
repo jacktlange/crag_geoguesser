@@ -9615,6 +9615,21 @@
    "lat": 49.0255,
    "lng": -121.5974,
    "name": null
+  },
+  "https://www.mountainproject.com/area/105957146/navajolands": {
+   "lat": 36.14052,
+   "lng": -110.41849,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/105744237/central": {
+   "lat": 39.9777,
+   "lng": -105.29,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/105714675/bridalveil-area": {
+   "lat": 44.41678,
+   "lng": -103.88094,
+   "name": null
   }
  },
  "rejected": {
@@ -41333,6 +41348,84 @@
    "approx": false,
    "lat": 49.0255,
    "lng": -121.5974,
+   "addedOn": "2026-11-10",
+   "usedOn": []
+  },
+  {
+   "id": "1202140",
+   "photoUrl": "https://www.mountainproject.com/photo/1202140/greg-pulls-through-the-first-big-move",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/1202140_medium_1557525445.jpg?cache=1775530754",
+   "title": "Greg pulls through the first big move.",
+   "breadcrumb": "Colorado > Golden > Clear Creek Canyon > Wall of Justice > Officer Friendly ( 5.11b/c 6c+ 23 VIII- 24 E4 6a )",
+   "coordArea": "Wall of Justice",
+   "approx": false,
+   "lat": 39.7374,
+   "lng": -105.3202,
+   "addedOn": "2026-11-10",
+   "usedOn": []
+  },
+  {
+   "id": "105964647",
+   "photoUrl": "https://www.mountainproject.com/photo/105964647/yei-bi-chei-towers-photo-todd-gordon",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/105964647_medium_1558384269.jpg?cache=1730391250",
+   "title": "Yei Bi Chei Towers. <br> Photo Todd Gordon.",
+   "breadcrumb": "Arizona > Northern Arizona > Navajolands",
+   "coordArea": "Navajolands",
+   "approx": false,
+   "lat": 36.14052,
+   "lng": -110.41849,
+   "addedOn": "2026-11-10",
+   "usedOn": []
+  },
+  {
+   "id": "106081149",
+   "photoUrl": "https://www.mountainproject.com/photo/106081149/photo-dave-fiorucci-december-9-2007",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/106081149_medium_1558472378.jpg?cache=1790220689",
+   "title": "Photo: Dave Fiorucci. <br> December 9, 2007.",
+   "breadcrumb": "Colorado > Boulder > Flatirons > Central",
+   "coordArea": "Central",
+   "approx": false,
+   "lat": 39.9777,
+   "lng": -105.29,
+   "addedOn": "2026-11-10",
+   "usedOn": []
+  },
+  {
+   "id": "107990807",
+   "photoUrl": "https://www.mountainproject.com/photo/107990807/bridalveil-falls-on-2213",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/107990807_medium_1494255763.jpg?cache=1788285366",
+   "title": "Bridalveil Falls On 2/2/13",
+   "breadcrumb": "S Dakota > Spearfish Canyon > Bridalveil Area",
+   "coordArea": "Bridalveil Area",
+   "approx": false,
+   "lat": 44.41678,
+   "lng": -103.88094,
+   "addedOn": "2026-11-10",
+   "usedOn": []
+  },
+  {
+   "id": "108956879",
+   "photoUrl": "https://www.mountainproject.com/photo/108956879/tvoyu-mat",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/108956879_medium_1494301487.jpg?cache=1780780557",
+   "title": "Tvoyu mat'!",
+   "breadcrumb": "Colorado > Boulder > Eldorado Canyon SP > Bastille > Bastille - W Face > Your Mother ( 5.12d 7c 28 IX 28 E6 6b )",
+   "coordArea": "Bastille - W Face",
+   "approx": false,
+   "lat": 39.9304,
+   "lng": -105.283,
+   "addedOn": "2026-11-10",
+   "usedOn": []
+  },
+  {
+   "id": "110937790",
+   "photoUrl": "https://www.mountainproject.com/photo/110937790/city-camping-stoke",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/110937790_medium_1494358985.jpg?cache=1751465620",
+   "title": "City camping stoke",
+   "breadcrumb": "Idaho > S Idaho > City of Rocks",
+   "coordArea": "City of Rocks",
+   "approx": false,
+   "lat": 42.0778,
+   "lng": -113.72398,
    "addedOn": "2026-11-10",
    "usedOn": []
   }
