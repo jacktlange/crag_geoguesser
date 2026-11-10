@@ -9260,6 +9260,26 @@
    "lat": 38.06305,
    "lng": -81.06778,
    "name": null
+  },
+  "https://www.mountainproject.com/area/105790237/icicle-creek": {
+   "lat": 47.5427,
+   "lng": -120.71059,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/106192269/battleship-boulder": {
+   "lat": 38.87481,
+   "lng": -106.95372,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/112015301/olmsted-crack-boulder": {
+   "lat": 37.81001,
+   "lng": -119.48606,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/114793284/west-face": {
+   "lat": 37.07266,
+   "lng": -118.96683,
+   "name": null
   }
  },
  "rejected": {
@@ -39589,6 +39609,84 @@
    "approx": false,
    "lat": 38.06305,
    "lng": -81.06778,
+   "addedOn": "2026-11-09",
+   "usedOn": []
+  },
+  {
+   "id": "105847971",
+   "photoUrl": "https://www.mountainproject.com/photo/105847971/mammoth-lakes-basin-from-the-base-of-crystal-crag-sierra-eastside",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/105847971_medium_1557863038.jpg?cache=1778279185",
+   "title": "Mammoth Lakes Basin from the base of Crystal Crag, Sierra Eastside",
+   "breadcrumb": "California > Eastern Sierra",
+   "coordArea": "Eastern Sierra",
+   "approx": false,
+   "lat": 37.33519,
+   "lng": -118.49894,
+   "addedOn": "2026-11-09",
+   "usedOn": []
+  },
+  {
+   "id": "105964809",
+   "photoUrl": "https://www.mountainproject.com/photo/105964809/swilliam-master-of-safety-russell-on-belay",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/105964809_medium_1558384304.jpg?cache=1697069114",
+   "title": "Swilliam \"master of safety\" Russell on belay.",
+   "breadcrumb": "Wisconsin > Baraboo Range > Devil's Lake > East Bluff 04 East Rampart > Pedestal Buttress > D.L.F.A ( 5.11 6c+ 23 VIII- 23 E4 5c )",
+   "coordArea": "Pedestal Buttress",
+   "approx": false,
+   "lat": 43.41359,
+   "lng": -89.71252,
+   "addedOn": "2026-11-09",
+   "usedOn": []
+  },
+  {
+   "id": "105997197",
+   "photoUrl": "https://www.mountainproject.com/photo/105997197/beautiful-view-from-the-pearly-gates",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/105997197_medium_1558388933.jpg?cache=1694751548",
+   "title": "Beautiful view from the Pearly Gates",
+   "breadcrumb": "Washington > Central East Cascades Wenatchee Leavenworth > Leavenworth > Icicle Creek",
+   "coordArea": "Icicle Creek",
+   "approx": false,
+   "lat": 47.5427,
+   "lng": -120.71059,
+   "addedOn": "2026-11-09",
+   "usedOn": []
+  },
+  {
+   "id": "106849037",
+   "photoUrl": "https://www.mountainproject.com/photo/106849037/lindsbo-crushing-the-traverse",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/106849037_medium_1494145416.jpg?cache=1727729713",
+   "title": "LindsBo crushing the traverse.",
+   "breadcrumb": "Colorado > Crested Butte > Skyland Boulders > Battleship Boulder > All Hands on Deck ( V4 6B )",
+   "coordArea": "Battleship Boulder",
+   "approx": false,
+   "lat": 38.87481,
+   "lng": -106.95372,
+   "addedOn": "2026-11-09",
+   "usedOn": []
+  },
+  {
+   "id": "108255042",
+   "photoUrl": "https://www.mountainproject.com/photo/108255042/enjoying-olmsted-crack-at-the-end-of-an-early-summer-day",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/108255042_medium_1494272185.jpg?cache=1750774064",
+   "title": "Enjoying Olmsted Crack at the end of an early summer day.",
+   "breadcrumb": "California > Yosemite NP > Tuolumne Meadows > Tuolumne Bouldering > Olmsted Point Boulders > Olmsted Crack Boulder",
+   "coordArea": "Olmsted Crack Boulder",
+   "approx": false,
+   "lat": 37.81001,
+   "lng": -119.48606,
+   "addedOn": "2026-11-09",
+   "usedOn": []
+  },
+  {
+   "id": "115405320",
+   "photoUrl": "https://www.mountainproject.com/photo/115405320/just-more-awesome-face-climbing-maybe-the-3rd-pitch",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/115405320_medium_1539109121.jpg?cache=1702073151",
+   "title": "just more awesome face climbing. maybe the 3rd pitch?",
+   "breadcrumb": "California > Southern Sierra Nevada Western Slope > Hwy 168Tollhouse Shaver Lake Courtright > Courtright Reservoir > Power Dome > W Face > Hannaramic ( 5.10b 6a+ 19 VII- 19 E2 5b )",
+   "coordArea": "W Face",
+   "approx": false,
+   "lat": 37.07266,
+   "lng": -118.96683,
    "addedOn": "2026-11-09",
    "usedOn": []
   }
