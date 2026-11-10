@@ -9990,6 +9990,21 @@
    "lat": 44.5569,
    "lng": -72.79421,
    "name": null
+  },
+  "https://www.mountainproject.com/area/105791999/pillow-wall": {
+   "lat": 35.13853,
+   "lng": -112.02498,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/105868819/eagle-point-buttress": {
+   "lat": 37.82621,
+   "lng": -83.5621,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/106995961/the-perimeter": {
+   "lat": 39.3136,
+   "lng": -111.1871,
+   "name": null
   }
  },
  "rejected": {
@@ -43276,6 +43291,84 @@
    "approx": false,
    "lat": 44.5569,
    "lng": -72.79421,
+   "addedOn": "2026-11-10",
+   "usedOn": []
+  },
+  {
+   "id": "1203348",
+   "photoUrl": "https://www.mountainproject.com/photo/1203348/josh-in-a-sea-of-granite-on-the-2nd-pitch-of-casual-route",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/1203348_medium_1557526535.jpg?cache=1738086990",
+   "title": "Josh in a Sea of Granite on the 2nd pitch of Casual Route",
+   "breadcrumb": "Colorado > Alpine Rock > RMNP - Rock > Long's Peak > Diamond > Casual Route ( 5.10a 6a 18 VI+ 18 E1 5a )",
+   "coordArea": "Diamond",
+   "approx": false,
+   "lat": 40.25617,
+   "lng": -105.61384,
+   "addedOn": "2026-11-10",
+   "usedOn": []
+  },
+  {
+   "id": "106271444",
+   "photoUrl": "https://www.mountainproject.com/photo/106271444/a-true-fixture-in-the-park-wwwearthworksimagerycom",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/106271444_medium_1494093240.jpg?cache=1752180998",
+   "title": "A true fixture in the Park. <br> www.EarthworksImagery.com",
+   "breadcrumb": "California > Joshua Tree NP",
+   "coordArea": "Joshua Tree NP",
+   "approx": false,
+   "lat": 34.0122,
+   "lng": -116.16795,
+   "addedOn": "2026-11-10",
+   "usedOn": []
+  },
+  {
+   "id": "106330797",
+   "photoUrl": "https://www.mountainproject.com/photo/106330797/another-historic-photo-thanks-to-jim-haisley-first-ascent-of-the-davidson-dihedr",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/106330797_medium_1494098404.jpg?cache=1778717387",
+   "title": "Another historic photo- thanks to Jim Haisley: first ascent of the Davidson Dihedral (yes- Paul Davidson leading).",
+   "breadcrumb": "Arizona > Northern Arizona > Sycamore Canyon > Paradise Forks > Pillow Wall",
+   "coordArea": "Pillow Wall",
+   "approx": false,
+   "lat": 35.13853,
+   "lng": -112.02498,
+   "addedOn": "2026-11-10",
+   "usedOn": []
+  },
+  {
+   "id": "111754566",
+   "photoUrl": "https://www.mountainproject.com/photo/111754566/the-final-crack-that-takes-you-to-the-top-of-the-final-pitch",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/111754566_medium_1494302942.jpg?cache=1794151971",
+   "title": "The final crack that takes you to the top of the final pitch.",
+   "breadcrumb": "Kentucky > Red River Gorge > Northern Gorge > Eagle Point Buttress > Foxfire ( 5.7 5a 15 V+ 13 MVS 4b R)",
+   "coordArea": "Eagle Point Buttress",
+   "approx": false,
+   "lat": 37.82621,
+   "lng": -83.5621,
+   "addedOn": "2026-11-10",
+   "usedOn": []
+  },
+  {
+   "id": "113376914",
+   "photoUrl": "https://www.mountainproject.com/photo/113376914/route-overlays-of-hitchhiker-and-passenger-updated",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/113376914_medium_1500879455.jpg?cache=1758917033",
+   "title": "Route Overlays of Hitchhiker and Passenger (updated).",
+   "breadcrumb": "Washington > Northwest Region > Hwy 20 And North Cascades National Park > N Cascades > Washington Pass > Liberty Bell Group > South Early Winters Spire > Passenger ( 5.11d 7a 24 VIII 25 E5 6a )",
+   "coordArea": "South Early Winters Spire",
+   "approx": false,
+   "lat": 48.51216,
+   "lng": -120.65513,
+   "addedOn": "2026-11-10",
+   "usedOn": []
+  },
+  {
+   "id": "116145270",
+   "photoUrl": "https://www.mountainproject.com/photo/116145270/wwwtylercaseyphotocom",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/116145270_medium_1543377367.jpg?cache=1712071911",
+   "title": "www.tylercaseyphoto.com",
+   "breadcrumb": "Utah > Central Utah > Joe's Valley > Right Fork > Perimeter > Hand of Doom ( V6 7A )",
+   "coordArea": "Perimeter",
+   "approx": false,
+   "lat": 39.3136,
+   "lng": -111.1871,
    "addedOn": "2026-11-10",
    "usedOn": []
   }
