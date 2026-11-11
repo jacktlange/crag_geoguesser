@@ -10430,6 +10430,21 @@
    "lat": 43.8868,
    "lng": -103.46618,
    "name": null
+  },
+  "https://www.mountainproject.com/area/106763808/moon-hill": {
+   "lat": 24.72787,
+   "lng": 110.46782,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/105720885/imaginary-voyage-formation": {
+   "lat": 34.02016,
+   "lng": -116.17995,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/105734105/main-rock": {
+   "lat": 37.88859,
+   "lng": -122.63268,
+   "name": null
   }
  },
  "rejected": {
@@ -45181,6 +45196,84 @@
    "lat": 43.8868,
    "lng": -103.46618,
    "addedOn": "2026-11-10",
+   "usedOn": []
+  },
+  {
+   "id": "106225176",
+   "photoUrl": "https://www.mountainproject.com/photo/106225176/north-face-pitches",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/106225176_medium_1494089640.jpg?cache=1755614812",
+   "title": "North Face pitches.",
+   "breadcrumb": "Colorado > Boulder > Flatirons > South > Maiden > N Face ( 5.6 4c 14 V 12 S 4b R)",
+   "coordArea": "Maiden",
+   "approx": false,
+   "lat": 39.95002,
+   "lng": -105.28719,
+   "addedOn": "2026-11-11",
+   "usedOn": []
+  },
+  {
+   "id": "106984026",
+   "photoUrl": "https://www.mountainproject.com/photo/106984026/moon-hill",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/106984026_medium_1494156319.jpg?cache=1762028348",
+   "title": "Moon Hill",
+   "breadcrumb": "International > Asia > China > Guangxi Province > YangShuo > Moon Hill",
+   "coordArea": "Moon Hill",
+   "approx": false,
+   "lat": 24.72787,
+   "lng": 110.46782,
+   "addedOn": "2026-11-11",
+   "usedOn": []
+  },
+  {
+   "id": "107521322",
+   "photoUrl": "https://www.mountainproject.com/photo/107521322/the-under-cling-step-across",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/107521322_medium_1494194929.jpg?cache=1790363354",
+   "title": "The under cling step across",
+   "breadcrumb": "California > Joshua Tree NP > Lost Horse Area > Lost Horse Rd Area > Imaginary Voyage Formation > Imaginary Voyage ( 5.10d 6b+ 21 VII+ 21 E3 5b )",
+   "coordArea": "Imaginary Voyage Formation",
+   "approx": false,
+   "lat": 34.02016,
+   "lng": -116.17995,
+   "addedOn": "2026-11-11",
+   "usedOn": []
+  },
+  {
+   "id": "113848577",
+   "photoUrl": "https://www.mountainproject.com/photo/113848577/november-2017-sunset",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/113848577_medium_1511235225.jpg?cache=1745253002",
+   "title": "November 2017, sunset",
+   "breadcrumb": "California > San Francisco Bay Area > Marinnorthwest Bay Area > Mickey's Beach > Main Rock > Sex Porpoises ( 5.12c 7b+ 27 IX- 27 E6 6b )",
+   "coordArea": "Main Rock",
+   "approx": false,
+   "lat": 37.88859,
+   "lng": -122.63268,
+   "addedOn": "2026-11-11",
+   "usedOn": []
+  },
+  {
+   "id": "118839904",
+   "photoUrl": "https://www.mountainproject.com/photo/118839904/overview-of-the-area-labeled-with-feature-names-either-given-or-previously-ident",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/118839904_medium_1588867366.jpg?cache=1764734863",
+   "title": "Overview of the area labeled with feature names either given or previously identifed.",
+   "breadcrumb": "Nevada > Western Nevada > Wild Granites",
+   "coordArea": "Wild Granites",
+   "approx": false,
+   "lat": 39.07203,
+   "lng": -117.21454,
+   "addedOn": "2026-11-11",
+   "usedOn": []
+  },
+  {
+   "id": "119147655",
+   "photoUrl": "https://www.mountainproject.com/photo/119147655/a-photo-route-overlay-sykes-sickle-and-the-barb",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/119147655_medium_1593745839.jpg?cache=1786659898",
+   "title": "A photo route overlay Sykes' Sickle and The Barb.",
+   "breadcrumb": "Colorado > Alpine Rock > RMNP - Rock > Glacier Gorge > Spearhead > Sykes' Sickle ( 5.9+ 5c 17 VI 17 E1 5a )",
+   "coordArea": "Spearhead",
+   "approx": false,
+   "lat": 40.2567,
+   "lng": -105.63834,
+   "addedOn": "2026-11-11",
    "usedOn": []
   }
  ],
