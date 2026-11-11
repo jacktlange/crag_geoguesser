@@ -10445,6 +10445,36 @@
    "lat": 37.88859,
    "lng": -122.63268,
    "name": null
+  },
+  "https://www.mountainproject.com/area/105717036/the-cirque-of-the-climbables": {
+   "lat": 38.52926,
+   "lng": -109.59424,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/105862805/cardinal-pinnacle": {
+   "lat": 37.22797,
+   "lng": -118.59626,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/106621163/orkney-islands-and-the-old-man-of-hoy": {
+   "lat": 58.86179,
+   "lng": -3.27644,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/105909091/north-face": {
+   "lat": 41.61618,
+   "lng": -124.11507,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/108207543/hammer-dome": {
+   "lat": 37.87999,
+   "lng": -119.43805,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/106069570/puff-boulder": {
+   "lat": 41.60645,
+   "lng": -124.10501,
+   "name": null
   }
  },
  "rejected": {
@@ -15790,7 +15820,9 @@
    "lat": 35.46017,
    "lng": -82.30684,
    "addedOn": "2026-11-01",
-   "usedOn": []
+   "usedOn": [
+    "2026-11-11"
+   ]
   },
   {
    "id": "204152286",
@@ -16689,7 +16721,9 @@
    "lat": 31.7862,
    "lng": -110.40666,
    "addedOn": "2026-11-02",
-   "usedOn": []
+   "usedOn": [
+    "2026-11-11"
+   ]
   },
   {
    "id": "2200246",
@@ -21224,7 +21258,9 @@
    "lat": 43.02609,
    "lng": -90.10216,
    "addedOn": "2026-11-03",
-   "usedOn": []
+   "usedOn": [
+    "2026-11-11"
+   ]
   },
   {
    "id": "109561792",
@@ -22032,7 +22068,9 @@
    "lat": 37.51096,
    "lng": -118.57058,
    "addedOn": "2026-11-04",
-   "usedOn": []
+   "usedOn": [
+    "2026-11-11"
+   ]
   },
   {
    "id": "107146676",
@@ -32034,7 +32072,9 @@
    "lat": 48.64784,
    "lng": -119.44072,
    "addedOn": "2026-11-07",
-   "usedOn": []
+   "usedOn": [
+    "2026-11-11"
+   ]
   },
   {
    "id": "106041901",
@@ -45273,6 +45313,110 @@
    "approx": false,
    "lat": 40.2567,
    "lng": -105.63834,
+   "addedOn": "2026-11-11",
+   "usedOn": []
+  },
+  {
+   "id": "1205625",
+   "photoUrl": "https://www.mountainproject.com/photo/1205625/rodney-yee-would-be-jealous-of-this-location",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/1205625_medium_1557848733.jpg?cache=1765573790",
+   "title": "Rodney Yee would be [jealous] of this location.",
+   "breadcrumb": "Colorado > Estes Park Valley > Big Thompson Canyon > Monastery > Vestibule > Stolen Land ( 5.11c 6c+ 24 VIII- 24 E4 6a )",
+   "coordArea": "Vestibule",
+   "approx": false,
+   "lat": 40.45334,
+   "lng": -105.36914,
+   "addedOn": "2026-11-11",
+   "usedOn": []
+  },
+  {
+   "id": "105922436",
+   "photoUrl": "https://www.mountainproject.com/photo/105922436/the-moment-of-truth",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/105922436_medium_1557943143.jpg?cache=1778472205",
+   "title": "the moment of truth...",
+   "breadcrumb": "Utah > Southeast Utah > Grand County > Kane Springs Canyon > Cirque of the Climbables",
+   "coordArea": "Cirque of the Climbables",
+   "approx": false,
+   "lat": 38.52926,
+   "lng": -109.59424,
+   "addedOn": "2026-11-11",
+   "usedOn": []
+  },
+  {
+   "id": "105942439",
+   "photoUrl": "https://www.mountainproject.com/photo/105942439/west-face",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/105942439_medium_1557952654.jpg?cache=1748673718",
+   "title": "'West Face'",
+   "breadcrumb": "California > Eastern Sierra > Bishop Area > Cardinal Pinnacle > W Face ( 5.10a 6a 18 VI+ 18 E1 5a )",
+   "coordArea": "Cardinal Pinnacle",
+   "approx": false,
+   "lat": 37.22797,
+   "lng": -118.59626,
+   "addedOn": "2026-11-11",
+   "usedOn": []
+  },
+  {
+   "id": "106621236",
+   "photoUrl": "https://www.mountainproject.com/photo/106621236/andy-ross-at-rackwick-bay-beach-just-below-the-botheyabout-an-hours-walk-from-he",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/106621236_medium_1494126175.jpg?cache=1785968109",
+   "title": "Andy Ross at Rackwick Bay beach just below the bothey,about an hours walk from here to the Old Man..",
+   "breadcrumb": "International > Europe > United Kingdom > Scotland > Orkney Islands And The Old Man Of Hoy > Old Man of Hoy ( 5.10a 6a 18 VI+ 18 E1 5a )",
+   "coordArea": "Orkney Islands And The Old Man Of Hoy",
+   "approx": false,
+   "lat": 58.86179,
+   "lng": -3.27644,
+   "addedOn": "2026-11-11",
+   "usedOn": []
+  },
+  {
+   "id": "106775708",
+   "photoUrl": "https://www.mountainproject.com/photo/106775708/giant-rock-photo-by-blitzo",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/106775708_medium_1494139653.jpg?cache=1776457265",
+   "title": "Giant Rock. <br> Photo by Blitzo.",
+   "breadcrumb": "California > High Desert > Landers Area > Spy Mtn Area > Giant Rock > Giant Rock Bouldering",
+   "coordArea": "Giant Rock Bouldering",
+   "approx": false,
+   "lat": 34.3328,
+   "lng": -116.38871,
+   "addedOn": "2026-11-11",
+   "usedOn": []
+  },
+  {
+   "id": "112451288",
+   "photoUrl": "https://www.mountainproject.com/photo/112451288/pelican39s-bvd39s",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/112451288_medium_1494305685.jpg?cache=1730852847",
+   "title": "Pelican&#39;s BVD&#39;s",
+   "breadcrumb": "California > Northwest California > Footsteps Rock > N Rock > N Face > Pelican's BVD's ( 5.11b 6c 23 VIII- 23 E3 5c )",
+   "coordArea": "N Face",
+   "approx": false,
+   "lat": 41.61618,
+   "lng": -124.11507,
+   "addedOn": "2026-11-11",
+   "usedOn": []
+  },
+  {
+   "id": "117533460",
+   "photoUrl": "https://www.mountainproject.com/photo/117533460/early-ascent-of-shadow-of-doubt",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/117533460_medium_1564683369.jpg?cache=1697754510",
+   "title": "Early ascent of Shadow of Doubt",
+   "breadcrumb": "California > Yosemite NP > Tuolumne Meadows > DAFF Area > Hammer Dome > Shadow of Doubt ( 5.10c 6b 20 VII 20 E2 5b PG13)",
+   "coordArea": "Hammer Dome",
+   "approx": false,
+   "lat": 37.87999,
+   "lng": -119.43805,
+   "addedOn": "2026-11-11",
+   "usedOn": []
+  },
+  {
+   "id": "119079107",
+   "photoUrl": "https://www.mountainproject.com/photo/119079107/ethan-working-out-the-sequences-on-an-early-attempt",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/119079107_medium_1592712535.jpg?cache=1657297330",
+   "title": "Ethan working out the sequences on an early attempt.",
+   "breadcrumb": "California > Northwest California > Promontory > Puff Boulder > Pile Driver ( 5.14c 8c+ 34 XI- 35 E9 7b )",
+   "coordArea": "Puff Boulder",
+   "approx": false,
+   "lat": 41.60645,
+   "lng": -124.10501,
    "addedOn": "2026-11-11",
    "usedOn": []
   }
