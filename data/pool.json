@@ -10475,6 +10475,26 @@
    "lat": 41.60645,
    "lng": -124.10501,
    "name": null
+  },
+  "https://www.mountainproject.com/area/105717143/broken-tooth": {
+   "lat": 38.10072,
+   "lng": -109.56618,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/105720977/jerrys-quarry": {
+   "lat": 33.95435,
+   "lng": -116.09234,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/105870687/au-five-and-dime-cliff": {
+   "lat": 37.72288,
+   "lng": -119.69922,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/107743423/mount-olympus": {
+   "lat": 47.80136,
+   "lng": -123.71086,
+   "name": null
   }
  },
  "rejected": {
@@ -45417,6 +45437,84 @@
    "approx": false,
    "lat": 41.60645,
    "lng": -124.10501,
+   "addedOn": "2026-11-11",
+   "usedOn": []
+  },
+  {
+   "id": "106077820",
+   "photoUrl": "https://www.mountainproject.com/photo/106077820/kyle-kubes-at-the-small-roof-on-pussy-wuss-crack",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/106077820_medium_1558471976.jpg?cache=1773712128",
+   "title": "Kyle Kubes at the small roof on \"Pussy Wuss Crack\"",
+   "breadcrumb": "Utah > Southeast Utah > San Juan County > Indian Creek > Broken Tooth > Incisor ( 5.11- 6c 22 VIII- 22 E3 5c )",
+   "coordArea": "Broken Tooth",
+   "approx": false,
+   "lat": 38.10072,
+   "lng": -109.56618,
+   "addedOn": "2026-11-11",
+   "usedOn": []
+  },
+  {
+   "id": "106202008",
+   "photoUrl": "https://www.mountainproject.com/photo/106202008/cameras-position-makes-it-look-steeper-than-it-is-45-degree-wall-and-75-ft-of-cl",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/106202008_medium_1494087667.jpg?cache=1736552656",
+   "title": "Cameras position makes it look steeper than it is.  45 degree wall and 75 ft. of climbing.  Photo Geir Hundal",
+   "breadcrumb": "Arizona > Southern Arizona > Mount Lemmon Santa Catalina Mountains > Mount Lemmon Catalina Highway > 8 - Summit Crags > Fortress > Orifice Wall > Eureka ( 5.13a 7c+ 29 IX+ 29 E6 6c )",
+   "coordArea": "Orifice Wall",
+   "approx": false,
+   "lat": 32.43251,
+   "lng": -110.79804,
+   "addedOn": "2026-11-11",
+   "usedOn": []
+  },
+  {
+   "id": "106391603",
+   "photoUrl": "https://www.mountainproject.com/photo/106391603/spot-the-line-equinox-512c-joshua-tree-np",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/106391603_medium_1494104417.jpg?cache=1753499896",
+   "title": "Spot the line - Equinox (5.12c), Joshua Tree NP",
+   "breadcrumb": "California > Joshua Tree NP > Queen Valley Area > Geology Tour Rd > Geology Tour Road West > Jerrys Quarry And Lost Pencil Areas > Jerry's Quarry > Equinox ( 5.12c 7b+ 27 IX- 27 E6 6b )",
+   "coordArea": "Jerry's Quarry",
+   "approx": false,
+   "lat": 33.95435,
+   "lng": -116.09234,
+   "addedOn": "2026-11-11",
+   "usedOn": []
+  },
+  {
+   "id": "109144881",
+   "photoUrl": "https://www.mountainproject.com/photo/109144881/a-portland-local-on-landing-a-monster-nathan-scherneck",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/109144881_medium_1494339894.jpg?cache=1739817687",
+   "title": "a Portland local on Landing a Monster (Nathan Scherneck?)",
+   "breadcrumb": "Oregon > Central Oregon > Trout Creek > Main Wall > Landing a Monster ( 5.10c 6b 20 VII 20 E2 5b )",
+   "coordArea": "Main Wall",
+   "approx": false,
+   "lat": 44.80197,
+   "lng": -121.10859,
+   "addedOn": "2026-11-11",
+   "usedOn": []
+  },
+  {
+   "id": "111828352",
+   "photoUrl": "https://www.mountainproject.com/photo/111828352/httpwwwclimbphotoscomblog201652five-and-dime-cliff",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/111828352_medium_1494306517.jpg?cache=1790972434",
+   "title": "http://www.climbphotos.com/blog/2016/5/2/five-and-dime-cliff",
+   "breadcrumb": "California > Yosemite NP > Yosemite Valley > Lower Merced River Canyon > Au Five And Dime Cliff > Five & Dime ( 5.10d 6b+ 21 VII+ 21 E3 5b )",
+   "coordArea": "Au Five And Dime Cliff",
+   "approx": false,
+   "lat": 37.72288,
+   "lng": -119.69922,
+   "addedOn": "2026-11-11",
+   "usedOn": []
+  },
+  {
+   "id": "112015624",
+   "photoUrl": "https://www.mountainproject.com/photo/112015624/crossing-the-blue-glacier-in-early-july-2015",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/112015624_medium_1494316450.jpg?cache=1702071899",
+   "title": "Crossing the Blue Glacier in early July, 2015",
+   "breadcrumb": "Washington > Olympics Pacific Coast > Olympic NP > Mt Olympus > N Ridge via Blue Glacier ( 5.3 3+ 10 III 9 VD 3a Mod. Snow)",
+   "coordArea": "Mt Olympus",
+   "approx": false,
+   "lat": 47.80136,
+   "lng": -123.71086,
    "addedOn": "2026-11-11",
    "usedOn": []
   }
