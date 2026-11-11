@@ -10005,6 +10005,31 @@
    "lat": 39.3136,
    "lng": -111.1871,
    "name": null
+  },
+  "https://www.mountainproject.com/area/105792281/robbins-boulder": {
+   "lat": 33.0056,
+   "lng": -116.96588,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/107361986/white-twin": {
+   "lat": 38.8783,
+   "lng": -104.88099,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/108397369/primitive-buttress": {
+   "lat": 27.02382,
+   "lng": 99.68178,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/106982788/mount-st-helens": {
+   "lat": 46.204,
+   "lng": -122.1916,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/116551843/mexican-blanco-boulder": {
+   "lat": 36.06735,
+   "lng": -104.36537,
+   "name": null
   }
  },
  "rejected": {
@@ -10184,7 +10209,9 @@
   "107435957": "filtered: ice, mixed, or snow route (grade or area)",
   "121467576": "filtered: ice, mixed, or snow route (grade or area)",
   "108930056": "filtered: ice, mixed, or snow route (grade or area)",
-  "125641307": "filtered: ice, mixed, or snow route (grade or area)"
+  "125641307": "filtered: ice, mixed, or snow route (grade or area)",
+  "111593120": "filtered: ice, mixed, or snow route (grade or area)",
+  "113559199": "filtered: ice or snow (caption)"
  },
  "photos": [
   {
@@ -43369,6 +43396,84 @@
    "approx": false,
    "lat": 39.3136,
    "lng": -111.1871,
+   "addedOn": "2026-11-10",
+   "usedOn": []
+  },
+  {
+   "id": "105937114",
+   "photoUrl": "https://www.mountainproject.com/photo/105937114/jvb-pumping-granite-on-robbins-crack",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/105937114_medium_1557951828.jpg?cache=1788557154",
+   "title": "jvb pumping granite on robbin's crack",
+   "breadcrumb": "California > San Diego County > N San Diego County > Mt Woodson > Robbins Boulder",
+   "coordArea": "Robbins Boulder",
+   "approx": false,
+   "lat": 33.0056,
+   "lng": -116.96588,
+   "addedOn": "2026-11-10",
+   "usedOn": []
+  },
+  {
+   "id": "106578494",
+   "photoUrl": "https://www.mountainproject.com/photo/106578494/pennie-schwalm",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/106578494_medium_1494122166.jpg?cache=1787868834",
+   "title": "Pennie Schwalm.",
+   "breadcrumb": "Colorado > Colorado Springs > Garden of the Gods > Twin Spires > White Twin > N Ridge ( 5.7+ 5a 15 V+ 13 MVS 4b R)",
+   "coordArea": "White Twin",
+   "approx": false,
+   "lat": 38.8783,
+   "lng": -104.88099,
+   "addedOn": "2026-11-10",
+   "usedOn": []
+  },
+  {
+   "id": "111115605",
+   "photoUrl": "https://www.mountainproject.com/photo/111115605/pilot-at-sunset",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/111115605_medium_1494340356.jpg?cache=1599671468",
+   "title": "Pilot at Sunset",
+   "breadcrumb": "N Carolina > 3. Piedmont Region > Pilot Mountain",
+   "coordArea": "Pilot Mountain",
+   "approx": false,
+   "lat": 36.3402,
+   "lng": -80.48078,
+   "addedOn": "2026-11-10",
+   "usedOn": []
+  },
+  {
+   "id": "114189095",
+   "photoUrl": "https://www.mountainproject.com/photo/114189095/totally-useless-but-really-fun-to-camp-on-that-one",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/114189095_medium_1521998787.jpg?cache=1755624816",
+   "title": "Totally useless, but really fun to camp on that one !",
+   "breadcrumb": "International > Asia > China > Yunnan Province > Lijiang Area > Liming (黎明) > Lisu Area > Primitive Buttress > Back to the Primitive ( 5.11b/c 6c+ 23 VIII- 24 E4 6a A0)",
+   "coordArea": "Primitive Buttress",
+   "approx": false,
+   "lat": 27.02382,
+   "lng": 99.68178,
+   "addedOn": "2026-11-10",
+   "usedOn": []
+  },
+  {
+   "id": "120730225",
+   "photoUrl": "https://www.mountainproject.com/photo/120730225/yes-thats-a-butt-no-we-dont-think-they-put-on-sunscreen",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/120730225_medium_1621360359.jpg?cache=1727494990",
+   "title": "Yes, that's a butt. No, we don't think they put on sunscreen.",
+   "breadcrumb": "Washington > South-W & Tacoma > Southwest Cascades > Mount St Helens National Volcanic Monument > Mt St Helens > Worm Flows (Easy Snow)",
+   "coordArea": "Mt St Helens",
+   "approx": false,
+   "lat": 46.204,
+   "lng": -122.1916,
+   "addedOn": "2026-11-10",
+   "usedOn": []
+  },
+  {
+   "id": "125617436",
+   "photoUrl": "https://www.mountainproject.com/photo/125617436/haley-on-bushkiller",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/125617436_medium_1706144153.jpg?cache=1786066345",
+   "title": "Haley on Bushkiller",
+   "breadcrumb": "New Mexico > New Mexico Other Northern Areas > Roy > Mills Canyon > Bench > Mexican Blanco Boulder > Bushkiller ( V1 5 )",
+   "coordArea": "Mexican Blanco Boulder",
+   "approx": false,
+   "lat": 36.06735,
+   "lng": -104.36537,
    "addedOn": "2026-11-10",
    "usedOn": []
   }
