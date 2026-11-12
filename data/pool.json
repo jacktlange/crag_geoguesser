@@ -11705,6 +11705,36 @@
    "lat": 62.95864,
    "lng": -150.69263,
    "name": null
+  },
+  "https://www.mountainproject.com/area/106321312/end-pinnacle": {
+   "lat": 31.92707,
+   "lng": -109.97864,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/105790307/lunch-rock": {
+   "lat": 32.8261,
+   "lng": -117.051,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/106213704/mt-hunter": {
+   "lat": 63.0649,
+   "lng": -151.17191,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/107022431/jabba": {
+   "lat": 34.56347,
+   "lng": -117.12042,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/109427610/solstice": {
+   "lat": 43.73145,
+   "lng": -113.08445,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/113705049/mineral-mountains": {
+   "lat": 38.38422,
+   "lng": -112.83319,
+   "name": null
   }
  },
  "rejected": {
@@ -50965,6 +50995,84 @@
    "approx": false,
    "lat": 62.95864,
    "lng": -150.69263,
+   "addedOn": "2026-11-12",
+   "usedOn": []
+  },
+  {
+   "id": "105904803",
+   "photoUrl": "https://www.mountainproject.com/photo/105904803/patrick-price-coming-up-the-face-on-pitch-3",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/105904803_medium_1557939984.jpg?cache=1783433054",
+   "title": "Patrick Price coming up the face on Pitch 3.",
+   "breadcrumb": "Arizona > Southern Arizona > Cochise Stronghold > E Stronghold > Rockfellow Group > End Pinnacle > Days of Future Passed ( 5.10b 6a+ 19 VII- 19 E2 5b PG13)",
+   "coordArea": "End Pinnacle",
+   "approx": false,
+   "lat": 31.92707,
+   "lng": -109.97864,
+   "addedOn": "2026-11-12",
+   "usedOn": []
+  },
+  {
+   "id": "106123347",
+   "photoUrl": "https://www.mountainproject.com/photo/106123347/much-hilarity-to-be-had-on-your-lead-circa-1977",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/106123347_medium_1558651224.jpg?cache=1755398881",
+   "title": "Much hilarity to be had on Your Lead, circa 1977",
+   "breadcrumb": "California > San Diego County > S San Diego County > Mission Gorge > Lunch Rock > Your Lead ( 5.9 5c 17 VI 17 HVS 5a )",
+   "coordArea": "Lunch Rock",
+   "approx": false,
+   "lat": 32.8261,
+   "lng": -117.051,
+   "addedOn": "2026-11-12",
+   "usedOn": []
+  },
+  {
+   "id": "110732487",
+   "photoUrl": "https://www.mountainproject.com/photo/110732487/jd-merritt-on-the-upper-headwall-of-the-french-route-httpsclimbingandjunkwordpre",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/110732487_medium_1494352596.jpg?cache=1778174403",
+   "title": "J.D. Merritt on the upper headwall of the French Route <br>  <br> https://climbingandjunk.wordpress.com/2015/07/10/mt-hunter-french-route/",
+   "breadcrumb": "Alaska > Interior Alaskaalaska Range > Denali NP > Mt Hunter",
+   "coordArea": "Mt Hunter",
+   "approx": false,
+   "lat": 63.0649,
+   "lng": -151.17191,
+   "addedOn": "2026-11-12",
+   "usedOn": []
+  },
+  {
+   "id": "111662896",
+   "photoUrl": "https://www.mountainproject.com/photo/111662896/leah-leading-up-hans-solo-very-happy-with-the-bolt-spacing",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/111662896_medium_1494298967.jpg?cache=1777417241",
+   "title": "Leah leading up Hans Solo.  Very happy with the bolt spacing!",
+   "breadcrumb": "California > High Desert > Apple Valley Area > Fairview Mountain > Tatooine > Jabba > Hans Solo ( 5.6 4c 14 V 12 S 4b )",
+   "coordArea": "Jabba",
+   "approx": false,
+   "lat": 34.56347,
+   "lng": -117.12042,
+   "addedOn": "2026-11-12",
+   "usedOn": []
+  },
+  {
+   "id": "116214499",
+   "photoUrl": "https://www.mountainproject.com/photo/116214499/solstice",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/116214499_medium_1545873514.jpg?cache=1753222167",
+   "title": "Solstice",
+   "breadcrumb": "Idaho > Central Idaho > Fins > Solstice > Solstice ( 5.12a/b 7b 26 VIII+ 26 E5 6a )",
+   "coordArea": "Solstice",
+   "approx": false,
+   "lat": 43.73145,
+   "lng": -113.08445,
+   "addedOn": "2026-11-12",
+   "usedOn": []
+  },
+  {
+   "id": "117622906",
+   "photoUrl": "https://www.mountainproject.com/photo/117622906/josh-richardson-standing-next-to-the-dopest-camp-spot-in-the-mms-never-never-lan",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/117622906_medium_1566346525.jpg?cache=1771916108",
+   "title": "Josh Richardson standing next to the dopest camp spot in the MM's. Never Never Land in the Back ground.",
+   "breadcrumb": "Utah > W Desert > Mineral Mountains",
+   "coordArea": "Mineral Mountains",
+   "approx": false,
+   "lat": 38.38422,
+   "lng": -112.83319,
    "addedOn": "2026-11-12",
    "usedOn": []
   }
