@@ -11295,6 +11295,21 @@
    "lat": 33.00759,
    "lng": -116.96769,
    "name": null
+  },
+  "https://www.mountainproject.com/area/107329551/cap-de-morgiou": {
+   "lat": 43.22101,
+   "lng": 5.53244,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/107362105/west-face": {
+   "lat": 38.88,
+   "lng": -104.88146,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/106632831/cracked-boulder": {
+   "lat": 34.45565,
+   "lng": -119.69649,
+   "name": null
   }
  },
  "rejected": {
@@ -49170,6 +49185,84 @@
    "approx": false,
    "lat": 33.00759,
    "lng": -116.96769,
+   "addedOn": "2026-11-12",
+   "usedOn": []
+  },
+  {
+   "id": "106184932",
+   "photoUrl": "https://www.mountainproject.com/photo/106184932/matthes-crest-from-the-north-taken-june-16-2008",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/106184932_medium_1494086263.jpg?cache=1779139270",
+   "title": "Matthes Crest from the north. Taken June 16, 2008.",
+   "breadcrumb": "California > Yosemite NP > Tuolumne Meadows > Cathedral Range > Matthes Crest",
+   "coordArea": "Matthes Crest",
+   "approx": false,
+   "lat": 37.8186,
+   "lng": -119.3992,
+   "addedOn": "2026-11-12",
+   "usedOn": []
+  },
+  {
+   "id": "106514704",
+   "photoUrl": "https://www.mountainproject.com/photo/106514704/last-pitch-on-the-nose-im-following-and-bares-is-jugging-up",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/106514704_medium_1494116172.jpg?cache=1745164256",
+   "title": "Last pitch on the nose. I'm following and bares is jugging up",
+   "breadcrumb": "California > Yosemite NP > Yosemite Valley > Valley N Side > B. El Capitan > 2. Southwest Face > Nose ( 5.9 5c 17 VI 17 HVS 5a C2)",
+   "coordArea": "2. Southwest Face",
+   "approx": false,
+   "lat": 37.73051,
+   "lng": -119.63828,
+   "addedOn": "2026-11-12",
+   "usedOn": []
+  },
+  {
+   "id": "107329569",
+   "photoUrl": "https://www.mountainproject.com/photo/107329569/cecile",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/107329569_medium_1494181948.jpg?cache=1754585571",
+   "title": "Cécile",
+   "breadcrumb": "International > Europe > France > Calanques > Calanque De Morgiou > Cap de Morgiou > Marie-Jacqueline ( 5.8+ 5b 16 VI- 15 HVS 4c )",
+   "coordArea": "Cap de Morgiou",
+   "approx": false,
+   "lat": 43.22101,
+   "lng": 5.53244,
+   "addedOn": "2026-11-12",
+   "usedOn": []
+  },
+  {
+   "id": "107910357",
+   "photoUrl": "https://www.mountainproject.com/photo/107910357/looking-down-from-the-top-of-our-first-pitch-i-think-we-were-supposed-to-exit-ri",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/107910357_medium_1494250064.jpg?cache=1745440882",
+   "title": "Looking down from the top of our first pitch.  I think we were supposed to exit right before here.",
+   "breadcrumb": "California > Sequoia Kings Canyon Np > Obelisk > W Face ( 5.7 5a 15 V+ 13 MVS 4b )",
+   "coordArea": "Obelisk",
+   "approx": false,
+   "lat": 36.9079,
+   "lng": -118.854,
+   "addedOn": "2026-11-12",
+   "usedOn": []
+  },
+  {
+   "id": "107919728",
+   "photoUrl": "https://www.mountainproject.com/photo/107919728/58-x-6-glue-ins",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/107919728_medium_1494250659.jpg?cache=1754508353",
+   "title": "5/8\" x 6\" glue-ins.",
+   "breadcrumb": "Colorado > Colorado Springs > Garden of the Gods > N Gateway Rock > W Face > Rainbow Bridge ( 5.11a 6c 22 VII+ 22 E3 5c )",
+   "coordArea": "W Face",
+   "approx": false,
+   "lat": 38.88,
+   "lng": -104.88146,
+   "addedOn": "2026-11-12",
+   "usedOn": []
+  },
+  {
+   "id": "108491642",
+   "photoUrl": "https://www.mountainproject.com/photo/108491642/me-at-sunset-not-long-before-the-3rd-ascent-this-was-probably-my-56th-attempt",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/108491642_medium_1494286284.jpg?cache=1725381155",
+   "title": "Me, at sunset, not long before the 3rd ascent. This was probably my 56th attempt.",
+   "breadcrumb": "California > Central Coast > Santa Barbara > Santa Barbara Bouldering > Skofield Park > Cracked Boulder > Verisimilitude ( V10 7C+ )",
+   "coordArea": "Cracked Boulder",
+   "approx": false,
+   "lat": 34.45565,
+   "lng": -119.69649,
    "addedOn": "2026-11-12",
    "usedOn": []
   }
