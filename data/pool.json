@@ -10835,6 +10835,36 @@
    "lat": 43.25185,
    "lng": -116.38206,
    "name": null
+  },
+  "https://www.mountainproject.com/area/106039311/first-creek-slabs": {
+   "lat": 36.07962,
+   "lng": -115.47926,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/106325278/the-kachina-spires": {
+   "lat": 38.54412,
+   "lng": -109.51655,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/106006698/darrington": {
+   "lat": 48.16136,
+   "lng": -121.63795,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/106483782/doupianifels": {
+   "lat": 39.7214,
+   "lng": 21.6192,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/105790635/index": {
+   "lat": 47.82481,
+   "lng": -121.56191,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/106616285/brown-wall-boulder": {
+   "lat": 37.33726,
+   "lng": -118.57588,
+   "name": null
   }
  },
  "rejected": {
@@ -47159,6 +47189,84 @@
    "approx": false,
    "lat": 41.567,
    "lng": -71.77975,
+   "addedOn": "2026-11-11",
+   "usedOn": []
+  },
+  {
+   "id": "106129435",
+   "photoUrl": "https://www.mountainproject.com/photo/106129435/the-second-rappel-off-the-first-creek-slabs-this-is-a-natural-formation-that-all",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/106129435_medium_1558652232.jpg?cache=1766893291",
+   "title": "The second rappel off the first creek slabs.  This is a natural formation that allows for a cool threaded rappel station. <br> Update 2023: this rap is no longer in use.",
+   "breadcrumb": "Nevada > Southern Nevada > Red Rocks > First Creek Canyon > First Creek Slabs",
+   "coordArea": "First Creek Slabs",
+   "approx": false,
+   "lat": 36.07962,
+   "lng": -115.47926,
+   "addedOn": "2026-11-11",
+   "usedOn": []
+  },
+  {
+   "id": "106325288",
+   "photoUrl": "https://www.mountainproject.com/photo/106325288/morning-light-on-the-south-and-north-towers",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/106325288_medium_1494097881.jpg?cache=1773713351",
+   "title": "Morning light on the South and North Towers.",
+   "breadcrumb": "Utah > Southeast Utah > Grand County > State Highway 313 > Hell Roaring Canyon > Kachina Spires",
+   "coordArea": "Kachina Spires",
+   "approx": false,
+   "lat": 38.54412,
+   "lng": -109.51655,
+   "addedOn": "2026-11-11",
+   "usedOn": []
+  },
+  {
+   "id": "106813261",
+   "photoUrl": "https://www.mountainproject.com/photo/106813261/close-up-of-exfoliation-dome-from-three-oclock-buttress",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/106813261_medium_1494142750.jpg?cache=1786290470",
+   "title": "Close up of Exfoliation Dome from Three O'Clock Buttress.",
+   "breadcrumb": "Washington > Northwest Region > Darrington And Mountain Loop Hwy > Darrington",
+   "coordArea": "Darrington",
+   "approx": false,
+   "lat": 48.16136,
+   "lng": -121.63795,
+   "addedOn": "2026-11-11",
+   "usedOn": []
+  },
+  {
+   "id": "107433014",
+   "photoUrl": "https://www.mountainproject.com/photo/107433014/monastery-with-doupianifels-sitting-stoicly-alone-on-the-right-side-the-white-sw",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/107433014_medium_1494188823.jpg?cache=1789941569",
+   "title": "Monastery with Doupianifels sitting stoicly alone on the right side.  The white swath is the classic Ostkante.",
+   "breadcrumb": "International > Europe > Greece > Meteora > Doupianifels",
+   "coordArea": "Doupianifels",
+   "approx": false,
+   "lat": 39.7214,
+   "lng": 21.6192,
+   "addedOn": "2026-11-11",
+   "usedOn": []
+  },
+  {
+   "id": "115422214",
+   "photoUrl": "https://www.mountainproject.com/photo/115422214/mt-index-through-the-fall-foliage-nothing-better-than-a-sunny-fall-day-at-index",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/115422214_medium_1539567320.jpg?cache=1732404832",
+   "title": "Mt. Index through the fall foliage. Nothing better than a sunny fall day at Index.",
+   "breadcrumb": "Washington > Central West Cascades Seattle > Skykomish Valley > Index",
+   "coordArea": "Index",
+   "approx": false,
+   "lat": 47.82481,
+   "lng": -121.56191,
+   "addedOn": "2026-11-11",
+   "usedOn": []
+  },
+  {
+   "id": "116741806",
+   "photoUrl": "https://www.mountainproject.com/photo/116741806/one-of-bishops-hardest-lines",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/116741806_medium_1555393932.jpg?cache=1773834918",
+   "title": "One of Bishop's hardest lines",
+   "breadcrumb": "California > Eastern Sierra > Bishop Area > Buttermilk Country > Beehive Area > Brown Wall Boulder > Swarm ( V14 8B+ )",
+   "coordArea": "Brown Wall Boulder",
+   "approx": false,
+   "lat": 37.33726,
+   "lng": -118.57588,
    "addedOn": "2026-11-11",
    "usedOn": []
   }
