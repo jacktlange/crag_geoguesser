@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-12T07:33:05+00:00",
+ "generated": "2026-11-12T15:04:51+00:00",
  "photos": [
   {
    "id": "105787726",
@@ -473,6 +473,17 @@
    "approx": false,
    "lat": 33.99445,
    "lng": -116.14002
+  },
+  {
+   "id": "106087852",
+   "photoUrl": "https://www.mountainproject.com/photo/106087852/ran-into-him-at-the-interface",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/106087852_medium_1558646149.jpg?cache=1772208866",
+   "title": "Ran into him at the Interface!",
+   "breadcrumb": "Colorado > Golden > North Table Mountaingolden Cliffs > Brown Cloud Rocks > Interface aka Slab Left ( 5.8 5b 16 VI- 15 HVS 4c )",
+   "coordArea": "Brown Cloud Rocks",
+   "approx": false,
+   "lat": 39.76831,
+   "lng": -105.21562
   },
   {
    "id": "106087898",
@@ -3082,6 +3093,17 @@
    "lng": -121.5974
   },
   {
+   "id": "110042083",
+   "photoUrl": "https://www.mountainproject.com/photo/110042083/mousie-adame",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/110042083_medium_1494368042.jpg?cache=1701318790",
+   "title": "Mousie Adame",
+   "breadcrumb": "Texas > Hueco Tanks > N Mountain > Stegasaur, The > Mousie Adame ( V7 7A+ )",
+   "coordArea": "Stegasaur, The",
+   "approx": false,
+   "lat": 31.9225,
+   "lng": -106.0445
+  },
+  {
    "id": "110076466",
    "photoUrl": "https://www.mountainproject.com/photo/110076466/pocket-puzzle",
    "imageUrl": "https://mountainproject.com/assets/photos/climb/110076466_medium_1494368738.jpg?cache=1701318797",
@@ -3742,6 +3764,17 @@
    "lng": -119.63828
   },
   {
+   "id": "112080908",
+   "photoUrl": "https://www.mountainproject.com/photo/112080908/approximate-route-showing-5-pitches-look-in-smith-guide-book-for-better-details",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/112080908_medium_1494320272.jpg?cache=1726414085",
+   "title": "Approximate route showing 5 pitches. Look in Smith guide book for better details.",
+   "breadcrumb": "Oregon > Central Oregon > Smith Rock > Kiss Of The Lepers Buttress > First Kiss ( 5.7 5a 15 V+ 13 MVS 4b )",
+   "coordArea": "Kiss Of The Lepers Buttress",
+   "approx": false,
+   "lat": 44.37209,
+   "lng": -121.14276
+  },
+  {
    "id": "112106567",
    "photoUrl": "https://www.mountainproject.com/photo/112106567/chris-powering-through-the-roof",
    "imageUrl": "https://mountainproject.com/assets/photos/climb/112106567_medium_1494321580.jpg?cache=1787665191",
@@ -4026,6 +4059,28 @@
    "approx": false,
    "lat": 38.24146,
    "lng": -80.84583
+  },
+  {
+   "id": "112877207",
+   "photoUrl": "https://www.mountainproject.com/photo/112877207/anthony-checking-out-the-finish-before-the-send",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/112877207_medium_1494026983.jpg?cache=1537472736",
+   "title": "Anthony checking out the finish before the send.",
+   "breadcrumb": "Rhode Island > Rocky Point > Shore Dinner Area > Yo Yo Boulder > Walk the Dog ( V2 5+ )",
+   "coordArea": "Yo Yo Boulder",
+   "approx": false,
+   "lat": 41.69241,
+   "lng": -71.40716
+  },
+  {
+   "id": "112919424",
+   "photoUrl": "https://www.mountainproject.com/photo/112919424/a-compilation-of-ryan-working-the-first-half-of-the-piano-traverse",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/112919424_medium_1495171892.jpg?cache=1794452181",
+   "title": "A compilation of Ryan working the first half of the Piano Traverse.",
+   "breadcrumb": "Colorado > Ft Collins > Horsetooth Reservoir > Piano Ridge > Piano Traverse ( V5- 6C )",
+   "coordArea": "Piano Ridge",
+   "approx": false,
+   "lat": 40.53517,
+   "lng": -105.14181
   },
   {
    "id": "113016587",
@@ -4325,6 +4380,17 @@
    "lng": -120.46228
   },
   {
+   "id": "114097723",
+   "photoUrl": "https://www.mountainproject.com/photo/114097723/hmmm",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/114097723_medium_1519019159.jpg?cache=1702072873",
+   "title": "hmmm",
+   "breadcrumb": "Oklahoma > Quartz Mountain > Snakes Head S Wall > L.S.A.T ( 5.11 6c+ 23 VIII- 23 E4 5c )",
+   "coordArea": "Snakes Head S Wall",
+   "approx": false,
+   "lat": 34.89826,
+   "lng": -99.33348
+  },
+  {
    "id": "114152204",
    "photoUrl": "https://www.mountainproject.com/photo/114152204/a-hard-clip-to-get",
    "imageUrl": "https://mountainproject.com/assets/photos/climb/114152204_medium_1520806311.jpg?cache=1702072898",
@@ -4521,6 +4587,17 @@
    "approx": false,
    "lat": 44.37746,
    "lng": -72.86114
+  },
+  {
+   "id": "116084876",
+   "photoUrl": "https://www.mountainproject.com/photo/116084876/dan-tring-just-above-the-crux",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/116084876_medium_1541969432.jpg?cache=1542058464",
+   "title": "Dan TRing just above the crux.",
+   "breadcrumb": "Connecticut > Western Coastal Slope > W Rock SP > S Buttress > Ball Field Slabs > W Rock Crack ( 5.11 6c+ 23 VIII- 23 E4 5c )",
+   "coordArea": "Ball Field Slabs",
+   "approx": false,
+   "lat": 41.3318,
+   "lng": -72.95987
   },
   {
    "id": "116085641",
@@ -5920,6 +5997,17 @@
    "lng": -80.84583
   },
   {
+   "id": "122622521",
+   "photoUrl": "https://www.mountainproject.com/photo/122622521/nahomi-cleaning-hook-me",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/122622521_medium_1656073632.jpg?cache=1656100384",
+   "title": "Nahomi cleaning \"Hook Me\"",
+   "breadcrumb": "Ohio > Northeast Ohio > City Of Cuyahoga Falls > High Bridge Glen Park > Hook Me ( 5.11+ 7a 24 VIII 24 E4 6a )",
+   "coordArea": "High Bridge Glen Park",
+   "approx": false,
+   "lat": 41.1298,
+   "lng": -81.4831
+  },
+  {
    "id": "122651008",
    "photoUrl": "https://www.mountainproject.com/photo/122651008/will-about-to-slap-the-top-lip-on-the-fa-right-foot-is-on-the-start-to-the-crimp",
    "imageUrl": "https://mountainproject.com/assets/photos/climb/122651008_medium_1656506763.jpg?cache=1656508959",
@@ -6798,6 +6886,17 @@
    "approx": false,
    "lat": 47.70246,
    "lng": -116.9599
+  },
+  {
+   "id": "126099464",
+   "photoUrl": "https://www.mountainproject.com/photo/126099464/new-belay-station-and-steps-at-griscone-installed-at-the-beginning-of-may-pretty",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/126099464_medium_1714863826.jpg?cache=1786058779",
+   "title": "New belay station and steps at Griscone installed at the beginning of May. Pretty cool looking!",
+   "breadcrumb": "Washington > Central West Cascades Seattle > N Bend & Vicinity > Exit 38 > Far Side > Gritscone",
+   "coordArea": "Gritscone",
+   "approx": false,
+   "lat": 47.43101,
+   "lng": -121.62697
   },
   {
    "id": "126117614",

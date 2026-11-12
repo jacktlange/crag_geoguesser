@@ -11265,6 +11265,36 @@
    "lat": 34.56506,
    "lng": -117.11882,
    "name": null
+  },
+  "https://www.mountainproject.com/area/118925740/jenga": {
+   "lat": 43.421,
+   "lng": -89.73774,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/105852647/kiss-of-the-lepers-buttress": {
+   "lat": 44.37209,
+   "lng": -121.14276,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/114446907/1-100-foot-slab": {
+   "lat": 43.95247,
+   "lng": -71.27295,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/112835917/orgasmo-boulder": {
+   "lat": 43.25814,
+   "lng": -116.39215,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/106422480/gritscone": {
+   "lat": 47.43101,
+   "lng": -121.62697,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/105792851/poison-oak-boulder-area": {
+   "lat": 33.00759,
+   "lng": -116.96769,
+   "name": null
   }
  },
  "rejected": {
@@ -11461,7 +11491,9 @@
   "113226741": "filtered: ice, mixed, or snow route (grade or area)",
   "112787793": "filtered: ice, mixed, or snow route (grade or area)",
   "110083995": "filtered: ice, mixed, or snow route (grade or area)",
-  "107400726": "filtered: ice or snow (caption)"
+  "107400726": "filtered: ice or snow (caption)",
+  "114396056": "filtered: looks like a map, topo, or drawing (caption)",
+  "118678349": "filtered: ice, mixed, or snow route (grade or area)"
  },
  "photos": [
   {
@@ -12199,7 +12231,9 @@
    "lat": 41.3318,
    "lng": -72.95987,
    "addedOn": "2026-10-31",
-   "usedOn": []
+   "usedOn": [
+    "2026-11-12"
+   ]
   },
   {
    "id": "202271108",
@@ -30464,7 +30498,9 @@
    "lat": 31.9225,
    "lng": -106.0445,
    "addedOn": "2026-11-06",
-   "usedOn": []
+   "usedOn": [
+    "2026-11-12"
+   ]
   },
   {
    "id": "127132957",
@@ -36714,7 +36750,9 @@
    "lat": 41.1298,
    "lng": -81.4831,
    "addedOn": "2026-11-08",
-   "usedOn": []
+   "usedOn": [
+    "2026-11-12"
+   ]
   },
   {
    "id": "125791613",
@@ -47192,7 +47230,9 @@
    "lat": 34.89826,
    "lng": -99.33348,
    "addedOn": "2026-11-11",
-   "usedOn": []
+   "usedOn": [
+    "2026-11-12"
+   ]
   },
   {
    "id": "201934628",
@@ -47296,7 +47336,9 @@
    "lat": 41.69241,
    "lng": -71.40716,
    "addedOn": "2026-11-11",
-   "usedOn": []
+   "usedOn": [
+    "2026-11-12"
+   ]
   },
   {
    "id": "110891679",
@@ -49050,6 +49092,84 @@
    "approx": false,
    "lat": 25.949,
    "lng": -100.477,
+   "addedOn": "2026-11-12",
+   "usedOn": []
+  },
+  {
+   "id": "106603496",
+   "photoUrl": "https://www.mountainproject.com/photo/106603496/remo-sticking-the-crux-back-in-the-summer-heat",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/106603496_medium_1494124395.jpg?cache=1650637647",
+   "title": "Remo sticking the crux back in the summer heat.",
+   "breadcrumb": "Wisconsin > Baraboo Range > Devil's Lake > Devils Lake Bouldering > W Bluff > W Bluff Central > Jenga > Jenga ( V6 7A )",
+   "coordArea": "Jenga",
+   "approx": false,
+   "lat": 43.421,
+   "lng": -89.73774,
+   "addedOn": "2026-11-12",
+   "usedOn": []
+  },
+  {
+   "id": "112080908",
+   "photoUrl": "https://www.mountainproject.com/photo/112080908/approximate-route-showing-5-pitches-look-in-smith-guide-book-for-better-details",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/112080908_medium_1494320272.jpg?cache=1726414085",
+   "title": "Approximate route showing 5 pitches. Look in Smith guide book for better details.",
+   "breadcrumb": "Oregon > Central Oregon > Smith Rock > Kiss Of The Lepers Buttress > First Kiss ( 5.7 5a 15 V+ 13 MVS 4b )",
+   "coordArea": "Kiss Of The Lepers Buttress",
+   "approx": false,
+   "lat": 44.37209,
+   "lng": -121.14276,
+   "addedOn": "2026-11-12",
+   "usedOn": []
+  },
+  {
+   "id": "114476551",
+   "photoUrl": "https://www.mountainproject.com/photo/114476551/brad-white-photo-of-100-ft-slab-and-the-3-routes-from-2011",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/114476551_medium_1528849418.jpg?cache=1710901335",
+   "title": "Brad White photo of \"100 ft slab\" and the 3 routes (from 2011)",
+   "breadcrumb": "New Hampshire > WM: Albany Area > Mt Chocorua All Summit Areas > 1. 100 foot Slab",
+   "coordArea": "1. 100 foot Slab",
+   "approx": false,
+   "lat": 43.95247,
+   "lng": -71.27295,
+   "addedOn": "2026-11-12",
+   "usedOn": []
+  },
+  {
+   "id": "123444241",
+   "photoUrl": "https://www.mountainproject.com/photo/123444241/troy-eyeing-the-jug-on-groove-right",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/123444241_medium_1668619954.jpg?cache=1775657118",
+   "title": "Troy eyeing the jug on Groove Right",
+   "breadcrumb": "Idaho > W Idaho > Swan Falls > Orgasmo Boulder > Groove Right ( V4 6B )",
+   "coordArea": "Orgasmo Boulder",
+   "approx": false,
+   "lat": 43.25814,
+   "lng": -116.39215,
+   "addedOn": "2026-11-12",
+   "usedOn": []
+  },
+  {
+   "id": "126099464",
+   "photoUrl": "https://www.mountainproject.com/photo/126099464/new-belay-station-and-steps-at-griscone-installed-at-the-beginning-of-may-pretty",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/126099464_medium_1714863826.jpg?cache=1786058779",
+   "title": "New belay station and steps at Griscone installed at the beginning of May. Pretty cool looking!",
+   "breadcrumb": "Washington > Central West Cascades Seattle > N Bend & Vicinity > Exit 38 > Far Side > Gritscone",
+   "coordArea": "Gritscone",
+   "approx": false,
+   "lat": 47.43101,
+   "lng": -121.62697,
+   "addedOn": "2026-11-12",
+   "usedOn": []
+  },
+  {
+   "id": "126447290",
+   "photoUrl": "https://www.mountainproject.com/photo/126447290/what-a-place-to-rest-and-enjoy-the-view-however-you-might-be-jolted-out-of-your-",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/126447290_medium_1719612957.jpg?cache=1786061647",
+   "title": "What a place to rest and enjoy the view. However, you might be jolted out of your daydreams by passersby who are wondering how you got up there.",
+   "breadcrumb": "California > San Diego County > N San Diego County > Mt Woodson > Poison Oak Boulder Area > Big Grunt ( 5.9+ 5c 17 VI 17 E1 5a )",
+   "coordArea": "Poison Oak Boulder Area",
+   "approx": false,
+   "lat": 33.00759,
+   "lng": -116.96769,
    "addedOn": "2026-11-12",
    "usedOn": []
   }
