@@ -11245,6 +11245,26 @@
    "lat": 34.94418,
    "lng": -101.65062,
    "name": null
+  },
+  "https://www.mountainproject.com/area/107905736/nicole-boulder": {
+   "lat": 33.99776,
+   "lng": -116.15363,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/105745852/piano-ridge": {
+   "lat": 40.53517,
+   "lng": -105.14181,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/105746125/sharksfin": {
+   "lat": 40.3056,
+   "lng": -105.5232,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/108189726/fairview-mountain": {
+   "lat": 34.56506,
+   "lng": -117.11882,
+   "name": null
   }
  },
  "rejected": {
@@ -11440,7 +11460,8 @@
   "123197661": "filtered: ice, mixed, or snow route (grade or area)",
   "113226741": "filtered: ice, mixed, or snow route (grade or area)",
   "112787793": "filtered: ice, mixed, or snow route (grade or area)",
-  "110083995": "filtered: ice, mixed, or snow route (grade or area)"
+  "110083995": "filtered: ice, mixed, or snow route (grade or area)",
+  "107400726": "filtered: ice or snow (caption)"
  },
  "photos": [
   {
@@ -48951,6 +48972,84 @@
    "approx": false,
    "lat": 34.94418,
    "lng": -101.65062,
+   "addedOn": "2026-11-12",
+   "usedOn": []
+  },
+  {
+   "id": "106087852",
+   "photoUrl": "https://www.mountainproject.com/photo/106087852/ran-into-him-at-the-interface",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/106087852_medium_1558646149.jpg?cache=1772208866",
+   "title": "Ran into him at the Interface!",
+   "breadcrumb": "Colorado > Golden > North Table Mountaingolden Cliffs > Brown Cloud Rocks > Interface aka Slab Left ( 5.8 5b 16 VI- 15 HVS 4c )",
+   "coordArea": "Brown Cloud Rocks",
+   "approx": false,
+   "lat": 39.76831,
+   "lng": -105.21562,
+   "addedOn": "2026-11-12",
+   "usedOn": []
+  },
+  {
+   "id": "107905745",
+   "photoUrl": "https://www.mountainproject.com/photo/107905745/amanda-working-the-nicole-overhang",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/107905745_medium_1494249634.jpg?cache=1741396911",
+   "title": "Amanda working the Nicole Overhang",
+   "breadcrumb": "California > Joshua Tree NP > Joshua Tree Bouldering > Central Joshua Tree Bouldering > Planet X Bouldering > Hang > Nicole Boulder > Nicole Overhang ( V6 7A )",
+   "coordArea": "Nicole Boulder",
+   "approx": false,
+   "lat": 33.99776,
+   "lng": -116.15363,
+   "addedOn": "2026-11-12",
+   "usedOn": []
+  },
+  {
+   "id": "112919424",
+   "photoUrl": "https://www.mountainproject.com/photo/112919424/a-compilation-of-ryan-working-the-first-half-of-the-piano-traverse",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/112919424_medium_1495171892.jpg?cache=1794452181",
+   "title": "A compilation of Ryan working the first half of the Piano Traverse.",
+   "breadcrumb": "Colorado > Ft Collins > Horsetooth Reservoir > Piano Ridge > Piano Traverse ( V5- 6C )",
+   "coordArea": "Piano Ridge",
+   "approx": false,
+   "lat": 40.53517,
+   "lng": -105.14181,
+   "addedOn": "2026-11-12",
+   "usedOn": []
+  },
+  {
+   "id": "114433518",
+   "photoUrl": "https://www.mountainproject.com/photo/114433518/ellen-brodrick-walking-with-the-pope-may-2018",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/114433518_medium_1527881353.jpg?cache=1696955782",
+   "title": "Ellen Brodrick, Walking With the Pope, May, 2018.",
+   "breadcrumb": "Colorado > Estes Park Valley > Co Hwy 7 Tributaries > Crags > Sharksfin > Walking with the Pope ( 5.10d 6b+ 21 VII+ 21 E3 5b )",
+   "coordArea": "Sharksfin",
+   "approx": false,
+   "lat": 40.3056,
+   "lng": -105.5232,
+   "addedOn": "2026-11-12",
+   "usedOn": []
+  },
+  {
+   "id": "116600070",
+   "photoUrl": "https://www.mountainproject.com/photo/116600070/heading-back-to-the-car-after-a-cold-day-at-fairview",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/116600070_medium_1552422348.jpg?cache=1665264252",
+   "title": "Heading back to the car after a cold day at Fairview.",
+   "breadcrumb": "California > High Desert > Apple Valley Area > Fairview Mountain",
+   "coordArea": "Fairview Mountain",
+   "approx": false,
+   "lat": 34.56506,
+   "lng": -117.11882,
+   "addedOn": "2026-11-12",
+   "usedOn": []
+  },
+  {
+   "id": "117558776",
+   "photoUrl": "https://www.mountainproject.com/photo/117558776/outrage-wall-at-sunset",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/117558776_medium_1565147821.jpg?cache=1789651991",
+   "title": "Outrage Wall at Sunset",
+   "breadcrumb": "International > N America > Mexico > Nuevo Leon > El Potrero Chico",
+   "coordArea": "El Potrero Chico",
+   "approx": false,
+   "lat": 25.949,
+   "lng": -100.477,
    "addedOn": "2026-11-12",
    "usedOn": []
   }
