@@ -11755,6 +11755,366 @@
    "lat": 36.03509,
    "lng": -115.46345,
    "name": null
+  },
+  "https://www.mountainproject.com/area/106005394/paynes-ford": {
+   "lat": -40.88371,
+   "lng": 172.81093,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/105840796/wild-iris": {
+   "lat": 42.5792,
+   "lng": -108.71795,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/107525168/no-fall-wall": {
+   "lat": 41.34407,
+   "lng": -73.40827,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/105745498/bauhaus-wall": {
+   "lat": 39.71552,
+   "lng": -107.69174,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/204220631/knucklehead-boulder": {
+   "lat": 37.53893,
+   "lng": -92.21428,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/202530624/abu-lasafa": {
+   "lat": 29.57749,
+   "lng": 35.48258,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/110912399/entry-boulder": {
+   "lat": 43.07593,
+   "lng": -72.73132,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/120173704/wintergreen": {
+   "lat": 41.36069,
+   "lng": -72.97509,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/106540578/fat-mans-squeeze": {
+   "lat": 41.349,
+   "lng": -72.5968,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/109545863/fb": {
+   "lat": 44.55534,
+   "lng": -72.79599,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/105720795/ebgb-block-area": {
+   "lat": 34.02443,
+   "lng": -116.1557,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/125713867/the-land-that-time-forgot": {
+   "lat": 34.01807,
+   "lng": -116.17425,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/121301042/bunny-slope": {
+   "lat": 35.30338,
+   "lng": -120.69593,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/107836833/petrified-turtle-buttress": {
+   "lat": 39.09367,
+   "lng": -110.71268,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/109796971/abyss-boulder": {
+   "lat": 41.60635,
+   "lng": -124.10481,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/105895647/windy-wall": {
+   "lat": 37.33438,
+   "lng": -118.57653,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/123691620/stubbe-rocks": {
+   "lat": 33.98751,
+   "lng": -116.17746,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/105803527/charlotte-dome": {
+   "lat": 36.78245,
+   "lng": -118.48013,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/105843687/flavin-haven": {
+   "lat": 37.52468,
+   "lng": -118.5742,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/119477471/longues-voies": {
+   "lat": 45.02369,
+   "lng": -71.89771,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/119646122/page-38-boulder": {
+   "lat": 44.5554,
+   "lng": -72.79609,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/203697754/porcupine-short-walls-middle": {
+   "lat": 41.70156,
+   "lng": -72.83545,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/118745222/trailside-boulder": {
+   "lat": 43.72952,
+   "lng": -72.99246,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/106660615/sw-face-right-monkey-business-wall": {
+   "lat": 34.0261,
+   "lng": -116.1507,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/204220561/hualapai-mountain": {
+   "lat": 35.06461,
+   "lng": -113.9159,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/111488785/moss-canyon": {
+   "lat": 37.19782,
+   "lng": -113.64241,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/105989775/narcissus-cave": {
+   "lat": 38.24193,
+   "lng": -80.84067,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/124445986/bcof-roof": {
+   "lat": 35.12899,
+   "lng": -111.6358,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/106586862/lower-tier": {
+   "lat": 41.75914,
+   "lng": -72.21292,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/113863313/evolution-boulder": {
+   "lat": 39.26853,
+   "lng": -121.02961,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/111241782/the-rock-canopy": {
+   "lat": 41.28451,
+   "lng": -72.72303,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/200681564/heavenly-resort-boulders": {
+   "lat": 38.94212,
+   "lng": -119.94187,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/106714272/diamond-ledge": {
+   "lat": 41.9511,
+   "lng": -72.846,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/125938321/west-side": {
+   "lat": 34.50644,
+   "lng": -117.04397,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/111770523/eco-terrorist-boulder": {
+   "lat": 37.22812,
+   "lng": -122.09662,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/119041231/right-vale": {
+   "lat": 43.2091,
+   "lng": -72.97397,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/106342186/west-wall-inner-janes-addiction-area": {
+   "lat": 34.00035,
+   "lng": -116.14728,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/107886514/lone-star-boulder": {
+   "lat": 34.4875,
+   "lng": -117.1332,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/107073964/groton-bluff-point": {
+   "lat": 41.31312,
+   "lng": -72.03491,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/105721343/the-vernulator": {
+   "lat": 34.0835,
+   "lng": -116.1406,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/120256728/eppulator-vicinity": {
+   "lat": 33.00589,
+   "lng": -116.96823,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/124913952/en-vin": {
+   "lat": 45.02302,
+   "lng": -71.89693,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/201611962/syncline": {
+   "lat": 53.16799,
+   "lng": -117.95214,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/105738158/saguaro-corners": {
+   "lat": 32.29998,
+   "lng": -110.70996,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/114207233/the-gumdrop": {
+   "lat": 36.58273,
+   "lng": -118.11376,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/106130280/happy-boulder": {
+   "lat": 37.41747,
+   "lng": -118.45136,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/106168090/echo-rock-south-face": {
+   "lat": 34.02465,
+   "lng": -116.15513,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/106644136/texas-canyon": {
+   "lat": 34.5136,
+   "lng": -118.40205,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/202593089/mini-munge": {
+   "lat": 36.5846,
+   "lng": -118.10611,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/107982540/the-rock-of-ages": {
+   "lat": 37.88057,
+   "lng": -121.98549,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/105720780/conans-corridor": {
+   "lat": 33.9952,
+   "lng": -116.0682,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/109775001/falcon-block": {
+   "lat": 39.05158,
+   "lng": -108.6059,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/116550852/split-dome-north-rock": {
+   "lat": 34.01005,
+   "lng": -116.05528,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/106183660/everything-and-nothing-boulder": {
+   "lat": 37.5899,
+   "lng": -118.6316,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/113782097/warm-up-area": {
+   "lat": 41.69892,
+   "lng": -72.83247,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/105928855/borsons-wall": {
+   "lat": 33.9829,
+   "lng": -117.3928,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/105746826/lone-eagle-peak": {
+   "lat": 40.0714,
+   "lng": -105.66,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/110492419/the-canyon-area": {
+   "lat": 34.46764,
+   "lng": -112.4375,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/106627764/test-site": {
+   "lat": 34.12537,
+   "lng": -118.92629,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/113691246/batcave": {
+   "lat": 41.7727,
+   "lng": -111.74733,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/105877799/a-frame-wall": {
+   "lat": 41.69035,
+   "lng": -72.83292,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/106832261/dyno-boulder": {
+   "lat": 33.81657,
+   "lng": -116.6482,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/121945392/bingham-falls": {
+   "lat": 44.50981,
+   "lng": -72.75906,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/127019754/pond-overlook": {
+   "lat": 41.64078,
+   "lng": -73.06778,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/108363113/bd-hand-out-cliff": {
+   "lat": 37.70164,
+   "lng": -119.72167,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/105896526/arizona-tower": {
+   "lat": 36.58784,
+   "lng": -118.1109,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/117856510/steve-miller-boulder": {
+   "lat": 44.55716,
+   "lng": -72.79385,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/106016294/century-lake-area": {
+   "lat": 34.0981,
+   "lng": -118.734,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/202540189/blank-boulder": {
+   "lat": 34.56492,
+   "lng": -117.11607,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/105903883/roof-area": {
+   "lat": 34.01681,
+   "lng": -117.41548,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/105862171/rode-hard-wall": {
+   "lat": 42.5845,
+   "lng": -108.73338,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/118777198/red-rocks-boulder": {
+   "lat": 44.44278,
+   "lng": -73.22808,
+   "name": null
   }
  },
  "rejected": {
@@ -11962,7 +12322,12 @@
   "110336419": "filtered: ice, mixed, or snow route (grade or area)",
   "123624546": "filtered: ice, mixed, or snow route (grade or area)",
   "107427585": "filtered: ice or snow (caption)",
-  "108697979": "filtered: ice, mixed, or snow route (grade or area)"
+  "108697979": "filtered: ice, mixed, or snow route (grade or area)",
+  "121035360": "filtered: looks like a map, topo, or drawing (caption)",
+  "108216679": "filtered: looks like a map, topo, or drawing (caption)",
+  "109480605": "filtered: ice, mixed, or snow route (grade or area)",
+  "111692992": "filtered: ice, mixed, or snow route (grade or area)",
+  "112485042": "filtered: ice, mixed, or snow route (grade or area)"
  },
  "photos": [
   {
@@ -51175,6 +51540,1306 @@
    "lng": -121.5859,
    "addedOn": "2026-11-12",
    "usedOn": []
+  },
+  {
+   "id": "106333064",
+   "photoUrl": "https://www.mountainproject.com/photo/106333064/nathan-bancroft-on-the-second-crux-of-event-horizon",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/106333064_medium_1494098725.jpg?cache=1701315595",
+   "title": "Nathan Bancroft on the second crux of Event Horizon",
+   "breadcrumb": "New Mexico > Albuquerque Area > Sandia Mountains West Side > Chimney Canyon > Clandestine Wall > Event Horizon ( 5.14- 8b+ 32 X+ 32 E8 7a )",
+   "coordArea": "Clandestine Wall",
+   "approx": false,
+   "lat": 35.21332,
+   "lng": -106.45246,
+   "addedOn": "2026-11-12",
+   "usedOn": []
+  },
+  {
+   "id": "106352366",
+   "photoUrl": "https://www.mountainproject.com/photo/106352366/no-description-necessary",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/106352366_medium_1494100696.jpg?cache=1793455568",
+   "title": "no description necessary",
+   "breadcrumb": "International > Oceania > New Zealand > S Island > Nelson-Tasman > Paynes Ford",
+   "coordArea": "Paynes Ford",
+   "approx": false,
+   "lat": -40.88371,
+   "lng": 172.81093,
+   "addedOn": "2026-11-12",
+   "usedOn": []
+  },
+  {
+   "id": "108117507",
+   "photoUrl": "https://www.mountainproject.com/photo/108117507/ancient-art",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/108117507_medium_1494263955.jpg?cache=1777987649",
+   "title": "Ancient Art",
+   "breadcrumb": "Utah > Southeast Utah > Grand County > Fisher Towers",
+   "coordArea": "Fisher Towers",
+   "approx": false,
+   "lat": 38.724,
+   "lng": -109.3083,
+   "addedOn": "2026-11-12",
+   "usedOn": []
+  },
+  {
+   "id": "111808327",
+   "photoUrl": "https://www.mountainproject.com/photo/111808327/classic-john-bachar-solo-photo-by-eden-anbar",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/111808327_medium_1494305312.jpg?cache=1702071735",
+   "title": "Classic John Bachar solo! Photo by Eden Anbar",
+   "breadcrumb": "California > Joshua Tree NP > Central Joshua Tree > Sheep Pass Area > Cap Rock Area > Top Hat Rock > Molar > Up 40 ( 5.11b 6c 23 VIII- 23 E3 5c R)",
+   "coordArea": "Molar",
+   "approx": false,
+   "lat": 33.98703,
+   "lng": -116.16402,
+   "addedOn": "2026-11-12",
+   "usedOn": []
+  },
+  {
+   "id": "111964960",
+   "photoUrl": "https://www.mountainproject.com/photo/111964960/johanna",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/111964960_medium_1494313954.jpg?cache=1702071863",
+   "title": "Johanna",
+   "breadcrumb": "New Hampshire > Cannon Cliff > Whitney Gilman Area > Whitney Gilman Ridge ( 5.7 5a 15 V+ 13 MVS 4b )",
+   "coordArea": "Whitney Gilman Area",
+   "approx": false,
+   "lat": 44.15597,
+   "lng": -71.68713,
+   "addedOn": "2026-11-12",
+   "usedOn": []
+  },
+  {
+   "id": "112422100",
+   "photoUrl": "https://www.mountainproject.com/photo/112422100/mittellegi-ridge",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/112422100_medium_1494303918.jpg?cache=1762472812",
+   "title": "Mittellegi Ridge",
+   "breadcrumb": "International > Europe > Switzerland > Berner Oberland > Eiger > Mittellegi Ridge 5b ( 5.7 5a 15 V+ 13 MVS 4b A0)",
+   "coordArea": "Eiger",
+   "approx": false,
+   "lat": 46.5777,
+   "lng": 8.0049,
+   "addedOn": "2026-11-12",
+   "usedOn": []
+  },
+  {
+   "id": "114948747",
+   "photoUrl": "https://www.mountainproject.com/photo/114948747/ultimate-bear-protection",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/114948747_medium_1534020666.jpg?cache=1786050997",
+   "title": "Ultimate bear protection",
+   "breadcrumb": "Wyoming > Lander Area > Wild Iris",
+   "coordArea": "Wild Iris",
+   "approx": false,
+   "lat": 42.5792,
+   "lng": -108.71795,
+   "addedOn": "2026-11-12",
+   "usedOn": []
+  },
+  {
+   "id": "107529068",
+   "photoUrl": "https://www.mountainproject.com/photo/107529068/emily-bolton-climbing",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/107529068_medium_1494195335.jpg?cache=1701317382",
+   "title": "Emily Bolton Climbing",
+   "breadcrumb": "Connecticut > CT Bouldering > Bald Rock Basin > Basin Area > E Side > No Fall Wall > Tom's Climb ( V0 4 )",
+   "coordArea": "No Fall Wall",
+   "approx": false,
+   "lat": 41.34407,
+   "lng": -73.40827,
+   "addedOn": "2026-11-12",
+   "usedOn": []
+  },
+  {
+   "id": "106607655",
+   "photoUrl": "https://www.mountainproject.com/photo/106607655/getting-to-2nd-hang",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/106607655_medium_1494124830.jpg?cache=1701316057",
+   "title": "getting to 2nd hang",
+   "breadcrumb": "New York > Gunks > Trapps > The Arrow Wall Cck > Amber Waves of Pain ( 5.10- 6a 18 VI+ 18 E1 5a )",
+   "coordArea": "The Arrow Wall Cck",
+   "approx": false,
+   "lat": 41.74396,
+   "lng": -74.17964,
+   "addedOn": "2026-11-12",
+   "usedOn": []
+  },
+  {
+   "id": "123408045",
+   "photoUrl": "https://www.mountainproject.com/photo/123408045/on-splitting-hairs",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/123408045_medium_1667969232.jpg?cache=1668397400",
+   "title": "On splitting hairs",
+   "breadcrumb": "Connecticut > CT Bouldering > Gay City Split Rock",
+   "coordArea": "Gay City Split Rock",
+   "approx": false,
+   "lat": 41.72353,
+   "lng": -72.44266,
+   "addedOn": "2026-11-12",
+   "usedOn": []
+  },
+  {
+   "id": "112041216",
+   "photoUrl": "https://www.mountainproject.com/photo/112041216/the-first-few-bolts",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/112041216_medium_1494317854.jpg?cache=1702071920",
+   "title": "The first few bolts.",
+   "breadcrumb": "Colorado > Rifle > Rifle Mtn Park > Bauhaus Wall > Brothers Carrutherzov ( 5.12c 7b+ 27 IX- 27 E6 6b )",
+   "coordArea": "Bauhaus Wall",
+   "approx": false,
+   "lat": 39.71552,
+   "lng": -107.69174,
+   "addedOn": "2026-11-12",
+   "usedOn": []
+  },
+  {
+   "id": "204221051",
+   "photoUrl": "https://www.mountainproject.com/photo/204221051/knucklehead",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/204221051_medium_1794544677.jpg?cache=1794544682",
+   "title": "Knucklehead",
+   "breadcrumb": "Missouri > Cm Paddy Creek Wilderness > Roubidoux Boulders > Knucklehead Boulder > Knucklehead ( V9-10 7C+ )",
+   "coordArea": "Knucklehead Boulder",
+   "approx": false,
+   "lat": 37.53893,
+   "lng": -92.21428,
+   "addedOn": "2026-11-12",
+   "usedOn": []
+  },
+  {
+   "id": "124875472",
+   "photoUrl": "https://www.mountainproject.com/photo/124875472/janine-halfway-up-mata-hari",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/124875472_medium_1693846298.jpg?cache=1786078767",
+   "title": "Janine halfway up Mata Hari.",
+   "breadcrumb": "Vermont > Northern Vermont > Bolton Area > Thieves' Wall > Mata Hari ( 5.7 5a 15 V+ 13 MVS 4b )",
+   "coordArea": "Thieves' Wall",
+   "approx": false,
+   "lat": 44.35893,
+   "lng": -72.86972,
+   "addedOn": "2026-11-12",
+   "usedOn": []
+  },
+  {
+   "id": "204220145",
+   "photoUrl": "https://www.mountainproject.com/photo/204220145/siq",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/204220145_medium_1794533735.jpg?cache=1794533740",
+   "title": "Siq",
+   "breadcrumb": "International > Asia > Jordan > Wadi Rum > Barrah > Abu Lasafa",
+   "coordArea": "Abu Lasafa",
+   "approx": false,
+   "lat": 29.57749,
+   "lng": 35.48258,
+   "addedOn": "2026-11-12",
+   "usedOn": []
+  },
+  {
+   "id": "119038443",
+   "photoUrl": "https://www.mountainproject.com/photo/119038443/jaidon-lalor-reaching-for-the-final-move-of-jump-start",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/119038443_medium_1592157428.jpg?cache=1784944977",
+   "title": "Jaidon Lalor reaching for the final move of 'Jump Start'",
+   "breadcrumb": "Vermont > Southern Vermont > Jamaica > Jamaica Ball Field > Jamaica Boulders > Entry Boulder",
+   "coordArea": "Entry Boulder",
+   "approx": false,
+   "lat": 43.07593,
+   "lng": -72.73132,
+   "addedOn": "2026-11-12",
+   "usedOn": []
+  },
+  {
+   "id": "108180639",
+   "photoUrl": "https://www.mountainproject.com/photo/108180639/blooming-joshua-tree",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/108180639_medium_1494267717.jpg?cache=1701318077",
+   "title": "Blooming Joshua Tree.",
+   "breadcrumb": "California > Joshua Tree NP",
+   "coordArea": "Joshua Tree NP",
+   "approx": false,
+   "lat": 34.0122,
+   "lng": -116.16795,
+   "addedOn": "2026-11-12",
+   "usedOn": []
+  },
+  {
+   "id": "200351718",
+   "photoUrl": "https://www.mountainproject.com/photo/200351718/dale-leading-succubus-10172004",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/200351718_medium_1736014590.jpg?cache=1786033688",
+   "title": "Dale leading Succubus. 10/17/2004.",
+   "breadcrumb": "Arizona > Central Arizona > *Phoenix Areas > McDowell Mountains > Tom's Thumb > Succubus ( 5.10 6b 20 VII- 19 E2 5b )",
+   "coordArea": "Tom's Thumb",
+   "approx": false,
+   "lat": 33.68174,
+   "lng": -111.81143,
+   "addedOn": "2026-11-12",
+   "usedOn": []
+  },
+  {
+   "id": "122342217",
+   "photoUrl": "https://www.mountainproject.com/photo/122342217/sunset-on-the-ridge",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/122342217_medium_1651649752.jpg?cache=1652122388",
+   "title": "Sunset on the ridge",
+   "breadcrumb": "Connecticut > CT Bouldering > W Rock SP > Wintergreen",
+   "coordArea": "Wintergreen",
+   "approx": false,
+   "lat": 41.36069,
+   "lng": -72.97509,
+   "addedOn": "2026-11-12",
+   "usedOn": []
+  },
+  {
+   "id": "106696728",
+   "photoUrl": "https://www.mountainproject.com/photo/106696728/the-red-line-out-the-cave",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/106696728_medium_1494133036.jpg?cache=1701316218",
+   "title": "The red line out the cave.",
+   "breadcrumb": "Connecticut > CT Bouldering > Killingworth > Fat Man's Squeeze > Cavity ( V4 6B )",
+   "coordArea": "Fat Man's Squeeze",
+   "approx": false,
+   "lat": 41.349,
+   "lng": -72.5968,
+   "addedOn": "2026-11-12",
+   "usedOn": []
+  },
+  {
+   "id": "110074183",
+   "photoUrl": "https://www.mountainproject.com/photo/110074183/scott-bennett-midway-through-the-bombay-chimney-on-the-naked-edge-during-a-speed",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/110074183_medium_1494368687.jpg?cache=1786663328",
+   "title": "Scott Bennett midway through the Bombay Chimney on The Naked Edge during a speed record attempt practice run. 4 days after this photo was taken, Scott and partner Brad Gobright set the current (as of 1/2015) speed record at 24m57s.",
+   "breadcrumb": "Colorado > Boulder > Eldorado Canyon SP > Redgarden Wall > Redgarden Tower Two > Naked Edge ( 5.11b 6c 23 VIII- 23 E3 5c )",
+   "coordArea": "Redgarden Tower Two",
+   "approx": false,
+   "lat": 39.9312,
+   "lng": -105.28518,
+   "addedOn": "2026-11-12",
+   "usedOn": []
+  },
+  {
+   "id": "204220025",
+   "photoUrl": "https://www.mountainproject.com/photo/204220025/the-king-of-all-tufas",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/204220025_medium_1794532368.jpg?cache=1794532371",
+   "title": "The king of all tufas",
+   "breadcrumb": "Arizona > Central Arizona > Homestead > Tufa City > Tufa Yard Dash ( 5.11c 6c+ 24 VIII- 24 E4 6a )",
+   "coordArea": "Tufa City",
+   "approx": false,
+   "lat": 33.17567,
+   "lng": -110.78048,
+   "addedOn": "2026-11-12",
+   "usedOn": []
+  },
+  {
+   "id": "117914902",
+   "photoUrl": "https://www.mountainproject.com/photo/117914902/chloe-sticking-the-right-hand-hold",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/117914902_medium_1571542500.jpg?cache=1702073489",
+   "title": "Chloe sticking the right hand hold!",
+   "breadcrumb": "Vermont > Northern Vermont > Smugglers' Notch > Smugglers Notch Bouldering > Top Of The Notch Boulders > B.F.B. > May it Be ( V10-11 8A )",
+   "coordArea": "B.F.B.",
+   "approx": false,
+   "lat": 44.55534,
+   "lng": -72.79599,
+   "addedOn": "2026-11-12",
+   "usedOn": []
+  },
+  {
+   "id": "107394820",
+   "photoUrl": "https://www.mountainproject.com/photo/107394820/the-fun-is-just-beginning",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/107394820_medium_1494186187.jpg?cache=1599849248",
+   "title": "The fun is just beginning",
+   "breadcrumb": "California > Joshua Tree NP > Central Joshua Tree > Echo Rock Area > Echo Rock > EBGB Block Area > Fast Lane ( 5.11a 6c 22 VII+ 22 E3 5c )",
+   "coordArea": "EBGB Block Area",
+   "approx": false,
+   "lat": 34.02443,
+   "lng": -116.1557,
+   "addedOn": "2026-11-12",
+   "usedOn": []
+  },
+  {
+   "id": "203883876",
+   "photoUrl": "https://www.mountainproject.com/photo/203883876/the-breadloaves-in-the-distance-joshua-tree-np",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/203883876_medium_1790282800.jpg?cache=1790282806",
+   "title": "The Breadloaves in the distance, Joshua Tree NP",
+   "breadcrumb": "California > Joshua Tree NP > Hidden Valley Area > Real Hidden Valley > Real Hidden Valley West > Land that Time Forgot",
+   "coordArea": "Land that Time Forgot",
+   "approx": false,
+   "lat": 34.01807,
+   "lng": -116.17425,
+   "addedOn": "2026-11-12",
+   "usedOn": []
+  },
+  {
+   "id": "122751569",
+   "photoUrl": "https://www.mountainproject.com/photo/122751569/dueling-top-ropes-linneas-left-sparkle-pony-right",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/122751569_medium_1658079132.jpg?cache=1773686308",
+   "title": "Dueling top ropes. Linnea's - Left, Sparkle Pony - Right.",
+   "breadcrumb": "California > Central Coast > San Luis Obispo > Bishop Peak > Bunny Slope > Sparkle Pony ( 5.7 5a 15 V+ 13 MVS 4b )",
+   "coordArea": "Bunny Slope",
+   "approx": false,
+   "lat": 35.30338,
+   "lng": -120.69593,
+   "addedOn": "2026-11-12",
+   "usedOn": []
+  },
+  {
+   "id": "107836848",
+   "photoUrl": "https://www.mountainproject.com/photo/107836848/dave-shaw-following-on-the-first-ascent",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/107836848_medium_1494214585.jpg?cache=1764114145",
+   "title": "Dave Shaw following on the first ascent.",
+   "breadcrumb": "Utah > S Central Utah > San Rafael Swell > San Rafael Swell North > San Rafael Canyon Aka Little Grand Canyon > Petrified Turtle Buttress > Cougar Katie ( 5.8 5b 16 VI- 15 HVS 4c )",
+   "coordArea": "Petrified Turtle Buttress",
+   "approx": false,
+   "lat": 39.09367,
+   "lng": -110.71268,
+   "addedOn": "2026-11-12",
+   "usedOn": []
+  },
+  {
+   "id": "201430657",
+   "photoUrl": "https://www.mountainproject.com/photo/201430657/crab-walk-crux",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/201430657_medium_1754149477.jpg?cache=1785989563",
+   "title": "Crab walk crux!",
+   "breadcrumb": "California > Northwest California > Promontory > Abyss Boulder > Crabwalk ( 5.11 6c+ 23 VIII- 23 E4 5c )",
+   "coordArea": "Abyss Boulder",
+   "approx": false,
+   "lat": 41.60635,
+   "lng": -124.10481,
+   "addedOn": "2026-11-12",
+   "usedOn": []
+  },
+  {
+   "id": "106052643",
+   "photoUrl": "https://www.mountainproject.com/photo/106052643/ian-nielsen-near-the-top-of-scoot-58",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/106052643_medium_1558468201.jpg?cache=1719024923",
+   "title": "Ian Nielsen near the top of 'Scoot' 5.8",
+   "breadcrumb": "California > Eastern Sierra > Bishop Area > Buttermilk Country > Buttermilk Crags > Windy Wall > Scoot ( 5.8- 5b 16 VI- 14 VS 4c )",
+   "coordArea": "Windy Wall",
+   "approx": false,
+   "lat": 37.33438,
+   "lng": -118.57653,
+   "addedOn": "2026-11-12",
+   "usedOn": []
+  },
+  {
+   "id": "123718678",
+   "photoUrl": "https://www.mountainproject.com/photo/123718678/aubrey-adams-on-milky-way",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/123718678_medium_1675477768.jpg?cache=1786085008",
+   "title": "Aubrey Adams on Milky Way.",
+   "breadcrumb": "California > Joshua Tree NP > Central Joshua Tree > Sheep Pass Area > Cap Rock Area > Stubbe Rocks > Milky Way ( 5.10a 6a 18 VI+ 18 E1 5a )",
+   "coordArea": "Stubbe Rocks",
+   "approx": false,
+   "lat": 33.98751,
+   "lng": -116.17746,
+   "addedOn": "2026-11-12",
+   "usedOn": []
+  },
+  {
+   "id": "203554231",
+   "photoUrl": "https://www.mountainproject.com/photo/203554231/easily-one-of-the-best-long-sub-510-routes-anywhere",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/203554231_medium_1785279403.jpg?cache=1785374425",
+   "title": "Easily one of the best long sub 5.10 routes anywhere",
+   "breadcrumb": "California > High Sierra > 12 Kearsarge Pass To Cedar Grove > Charlotte Dome > S Face ( 5.8 5b 16 VI- 15 HVS 4c )",
+   "coordArea": "Charlotte Dome",
+   "approx": false,
+   "lat": 36.78245,
+   "lng": -118.48013,
+   "addedOn": "2026-11-12",
+   "usedOn": []
+  },
+  {
+   "id": "114112924",
+   "photoUrl": "https://www.mountainproject.com/photo/114112924/gc-on-caldera",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/114112924_medium_1519609275.jpg?cache=1702072883",
+   "title": "G.C. on Caldera",
+   "breadcrumb": "California > Eastern Sierra > Bishop Area > Owens River Gorge > Upper Gorge > Flavin Haven > Caldera ( 5.11c 6c+ 24 VIII- 24 E4 6a )",
+   "coordArea": "Flavin Haven",
+   "approx": false,
+   "lat": 37.52468,
+   "lng": -118.5742,
+   "addedOn": "2026-11-12",
+   "usedOn": []
+  },
+  {
+   "id": "204219678",
+   "photoUrl": "https://www.mountainproject.com/photo/204219678/le-bas-de-timber",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/204219678_medium_1794529565.jpg?cache=1794529572",
+   "title": "Le bas de Timber",
+   "breadcrumb": "International > N America > Canada > Quebec > Cantons De Lest > Mont Pinacle > l. Longues voies > L'enchaînement des 8 ( 5.8+ 5b 16 VI- 15 HVS 4c )",
+   "coordArea": "l. Longues voies",
+   "approx": false,
+   "lat": 45.02369,
+   "lng": -71.89771,
+   "addedOn": "2026-11-12",
+   "usedOn": []
+  },
+  {
+   "id": "119646183",
+   "photoUrl": "https://www.mountainproject.com/photo/119646183/the-sweet-and-steep-overhang",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/119646183_medium_1601334119.jpg?cache=1702073887",
+   "title": "The sweet and steep overhang.",
+   "breadcrumb": "Vermont > Northern Vermont > Smugglers' Notch > Smugglers Notch Bouldering > Top Of The Notch Boulders > Page 38 Boulder",
+   "coordArea": "Page 38 Boulder",
+   "approx": false,
+   "lat": 44.5554,
+   "lng": -72.79609,
+   "addedOn": "2026-11-12",
+   "usedOn": []
+  },
+  {
+   "id": "203697775",
+   "photoUrl": "https://www.mountainproject.com/photo/203697775/block-magic",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/203697775_medium_1787609821_topo.jpg?cache=1788201045",
+   "title": "Block Magic",
+   "breadcrumb": "Connecticut > CT Bouldering > Rattlesnake Mountain > Porcupine Wall Bouldering > Porcupine Short Walls Middle > Block Magic ( V5-6 6C+ )",
+   "coordArea": "Porcupine Short Walls Middle",
+   "approx": false,
+   "lat": 41.70156,
+   "lng": -72.83545,
+   "addedOn": "2026-11-12",
+   "usedOn": []
+  },
+  {
+   "id": "118750079",
+   "photoUrl": "https://www.mountainproject.com/photo/118750079/trailside-boulder-view-from-the-trail",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/118750079_medium_1586562424.jpg?cache=1702073660",
+   "title": "Trailside Boulder, view from the trail",
+   "breadcrumb": "Vermont > 2. Central Vermont > Chaffee Falls > Trailside Boulder",
+   "coordArea": "Trailside Boulder",
+   "approx": false,
+   "lat": 43.72952,
+   "lng": -72.99246,
+   "addedOn": "2026-11-12",
+   "usedOn": []
+  },
+  {
+   "id": "203259858",
+   "photoUrl": "https://www.mountainproject.com/photo/203259858/elias-with-the-impressive-send-in-less-than-ideal-conditions-ig-shootingtheschis",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/203259858_medium_1782679072.jpg?cache=1793582060",
+   "title": "Elias with the impressive send in less than ideal conditions. <br> IG: shootingtheschist",
+   "breadcrumb": "Vermont > Northern Vermont > Bolton Area > Bolton Dome > 09. Dometop > Air Force One ( 5.12c 7b+ 27 IX- 27 E6 6b PG13)",
+   "coordArea": "09. Dometop",
+   "approx": false,
+   "lat": 44.37058,
+   "lng": -72.85755,
+   "addedOn": "2026-11-12",
+   "usedOn": []
+  },
+  {
+   "id": "203528986",
+   "photoUrl": "https://www.mountainproject.com/photo/203528986/sw-face-right-monkey-business-wall-joshua-tree-np",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/203528986_medium_1784939395.jpg?cache=1784939400",
+   "title": "SW Face Right (Monkey Business Wall), Joshua Tree NP",
+   "breadcrumb": "California > Joshua Tree NP > Central Joshua Tree > Echo Rock Area > Little Hunk > Little Hunk Sw Face > Sw Face Right Monkey Business Wall",
+   "coordArea": "Sw Face Right Monkey Business Wall",
+   "approx": false,
+   "lat": 34.0261,
+   "lng": -116.1507,
+   "addedOn": "2026-11-12",
+   "usedOn": []
+  },
+  {
+   "id": "204220634",
+   "photoUrl": "https://www.mountainproject.com/photo/204220634/rest-day-hand-jams-southeast-face",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/204220634_medium_1794538780_topo.jpg?cache=1794539791",
+   "title": "Rest Day Hand Jams (Southeast Face)",
+   "breadcrumb": "Arizona > Northern Arizona > Kingman Area > Hualapai Mountains > Hualapai Mountain > Rest Day Hand Jams (S… ( 5.5 4b 13 IV+ 11 MS 4a )",
+   "coordArea": "Hualapai Mountain",
+   "approx": false,
+   "lat": 35.06461,
+   "lng": -113.9159,
+   "addedOn": "2026-11-12",
+   "usedOn": []
+  },
+  {
+   "id": "120767724",
+   "photoUrl": "https://www.mountainproject.com/photo/120767724/scrambles",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/120767724_medium_1621976482.jpg?cache=1622042802",
+   "title": "Scrambles!",
+   "breadcrumb": "Utah > Southwest Utah > Saint George > Snow Canyon SP > Island In The Sky > Moss Canyon > Island in the Sky Tra… ( 5.3 3+ 10 III 9 VD 3a )",
+   "coordArea": "Moss Canyon",
+   "approx": false,
+   "lat": 37.19782,
+   "lng": -113.64241,
+   "addedOn": "2026-11-12",
+   "usedOn": []
+  },
+  {
+   "id": "111231609",
+   "photoUrl": "https://www.mountainproject.com/photo/111231609/summit-of-the-corkscrew",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/111231609_medium_1494343655.jpg?cache=1794030098",
+   "title": "Summit of the corkscrew",
+   "breadcrumb": "Utah > Southeast Utah > Grand County > Fisher Towers > Ancient Art > Stolen Chimney ( 5.10 6b 20 VII- 19 E2 5b A0)",
+   "coordArea": "Ancient Art",
+   "approx": false,
+   "lat": 38.72161,
+   "lng": -109.30434,
+   "addedOn": "2026-11-12",
+   "usedOn": []
+  },
+  {
+   "id": "204220945",
+   "photoUrl": "https://www.mountainproject.com/photo/204220945/hokey-pokey-58-72022",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/204220945_medium_1794542331.jpg?cache=1794542337",
+   "title": "Hokey Pokey (5.8) 7/2022",
+   "breadcrumb": "W Virginia > The New River Gorge Region > Summersville Gauley River Area > Summersville Lake Main > Narcissus Cave > Hokey Pokey ( 5.8 5b 16 VI- 15 HVS 4c )",
+   "coordArea": "Narcissus Cave",
+   "approx": false,
+   "lat": 38.24193,
+   "lng": -80.84067,
+   "addedOn": "2026-11-12",
+   "usedOn": []
+  },
+  {
+   "id": "204220703",
+   "photoUrl": "https://www.mountainproject.com/photo/204220703/hualapai-mountain",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/204220703_medium_1794539443.jpg?cache=1794539449",
+   "title": "Hualapai Mountain",
+   "breadcrumb": "Arizona > Northern Arizona > Kingman Area > Hualapai Mountains > Hualapai Mountain",
+   "coordArea": "Hualapai Mountain",
+   "approx": false,
+   "lat": 35.06461,
+   "lng": -113.9159,
+   "addedOn": "2026-11-12",
+   "usedOn": []
+  },
+  {
+   "id": "204221043",
+   "photoUrl": "https://www.mountainproject.com/photo/204221043/holding-the-swing",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/204221043_medium_1794544524.jpg?cache=1794544526",
+   "title": "Holding the swing!",
+   "breadcrumb": "Arizona > Northern Arizona > Northern Az Bouldering > Flagstaff Bouldering > Lake Mary Areas > BCOF Roof > Trygondastardly ( V8 7B PG13)",
+   "coordArea": "BCOF Roof",
+   "approx": false,
+   "lat": 35.12899,
+   "lng": -111.6358,
+   "addedOn": "2026-11-12",
+   "usedOn": []
+  },
+  {
+   "id": "204220014",
+   "photoUrl": "https://www.mountainproject.com/photo/204220014/this-tufa-is-insane",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/204220014_medium_1794532315.jpg?cache=1794532319",
+   "title": "This tufa is insane!!",
+   "breadcrumb": "Arizona > Central Arizona > Homestead > Tufa City > Tufa Yard Dash ( 5.11c 6c+ 24 VIII- 24 E4 6a )",
+   "coordArea": "Tufa City",
+   "approx": false,
+   "lat": 33.17567,
+   "lng": -110.78048,
+   "addedOn": "2026-11-12",
+   "usedOn": []
+  },
+  {
+   "id": "108180717",
+   "photoUrl": "https://www.mountainproject.com/photo/108180717/view-of-ryan-mountain-and-saddle-rocks-from-sheep-pass",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/108180717_medium_1494267724.jpg?cache=1701318077",
+   "title": "View of Ryan Mountain and Saddle Rocks from Sheep Pass.",
+   "breadcrumb": "California > Joshua Tree NP",
+   "coordArea": "Joshua Tree NP",
+   "approx": false,
+   "lat": 34.0122,
+   "lng": -116.16795,
+   "addedOn": "2026-11-12",
+   "usedOn": []
+  },
+  {
+   "id": "203950270",
+   "photoUrl": "https://www.mountainproject.com/photo/203950270/kev-on-p2-traverse-over-towards-the-lovely-exposed-arete-100326-photo-taken-by-m",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/203950270_medium_1791147054.jpg?cache=1791297038",
+   "title": "Kev on p2 traverse over towards the lovely exposed arete 10/03/26 -photo taken by me",
+   "breadcrumb": "Vermont > Northern Vermont > Marshfield Ledge > Main Cliff > Just for Goobs ( 5.8 5b 16 VI- 15 HVS 4c PG13)",
+   "coordArea": "Main Cliff",
+   "approx": false,
+   "lat": 44.32767,
+   "lng": -72.31295,
+   "addedOn": "2026-11-12",
+   "usedOn": []
+  },
+  {
+   "id": "127014196",
+   "photoUrl": "https://www.mountainproject.com/photo/127014196/victoria-following-lunge",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/127014196_medium_1728007792.jpg?cache=1786056029",
+   "title": "Victoria following Lunge",
+   "breadcrumb": "Connecticut > Eastern Highlands > Wolf Rock > Lower Tier > Lunge ( 5.3 3+ 10 III 9 VD 3a )",
+   "coordArea": "Lower Tier",
+   "approx": false,
+   "lat": 41.75914,
+   "lng": -72.21292,
+   "addedOn": "2026-11-12",
+   "usedOn": []
+  },
+  {
+   "id": "200369370",
+   "photoUrl": "https://www.mountainproject.com/photo/200369370/walking-up-to-the-evolution-boulder",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/200369370_medium_1736432957.jpg?cache=1736530624",
+   "title": "Walking up to the Evolution Boulder",
+   "breadcrumb": "California > Lake Tahoe > I-80 Corridor > Auburn And Grass Valley > Hirschman's Pond > Evolution Boulder > Evolution Face ( V4 6B )",
+   "coordArea": "Evolution Boulder",
+   "approx": false,
+   "lat": 39.26853,
+   "lng": -121.02961,
+   "addedOn": "2026-11-12",
+   "usedOn": []
+  },
+  {
+   "id": "111241785",
+   "photoUrl": "https://www.mountainproject.com/photo/111241785/the-cave",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/111241785_medium_1494345463.jpg?cache=1701319131",
+   "title": "The cave.",
+   "breadcrumb": "Connecticut > CT Bouldering > Westwoods Cockaponset State Forest > Rock Canopy",
+   "coordArea": "Rock Canopy",
+   "approx": false,
+   "lat": 41.28451,
+   "lng": -72.72303,
+   "addedOn": "2026-11-12",
+   "usedOn": []
+  },
+  {
+   "id": "200681648",
+   "photoUrl": "https://www.mountainproject.com/photo/200681648/tm-for-scale",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/200681648_medium_1743180883.jpg?cache=1785998881",
+   "title": "TM for Scale",
+   "breadcrumb": "California > Lake Tahoe > S Shore > Heavenly Resort Boulders > I Kneed a Hand Sandwich ( V2 5+ )",
+   "coordArea": "Heavenly Resort Boulders",
+   "approx": false,
+   "lat": 38.94212,
+   "lng": -119.94187,
+   "addedOn": "2026-11-12",
+   "usedOn": []
+  },
+  {
+   "id": "110958383",
+   "photoUrl": "https://www.mountainproject.com/photo/110958383/me-on-pronghorn",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/110958383_medium_1494359576.jpg?cache=1701319034",
+   "title": "Me on Pronghorn.",
+   "breadcrumb": "Connecticut > Western Highlands > Diamond Ledge > Pronghorn ( 5.11a 6c 22 VII+ 22 E3 5c R)",
+   "coordArea": "Diamond Ledge",
+   "approx": false,
+   "lat": 41.9511,
+   "lng": -72.846,
+   "addedOn": "2026-11-12",
+   "usedOn": []
+  },
+  {
+   "id": "125891726",
+   "photoUrl": "https://www.mountainproject.com/photo/125891726/cole-having-fun-in-the-sun-old-chicago",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/125891726_medium_1711841342.jpg?cache=1731423115",
+   "title": "Cole having fun in the sun, Old Chicago",
+   "breadcrumb": "California > High Desert > Apple Valley Area > Fairview Valley East > Old Chicago > W Side",
+   "coordArea": "W Side",
+   "approx": false,
+   "lat": 34.50644,
+   "lng": -117.04397,
+   "addedOn": "2026-11-12",
+   "usedOn": []
+  },
+  {
+   "id": "127410256",
+   "photoUrl": "https://www.mountainproject.com/photo/127410256/me-sticking-the-match-pic-by-dan-earhart",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/127410256_medium_1733099378.jpg?cache=1786042237",
+   "title": "Me sticking the match, pic by Dan Earhart",
+   "breadcrumb": "California > San Francisco Bay Area > S Bay Area > Castle Rock And Sanborn Area > Castle And Sanborn Area Bouldering > Castle Rock Loop > Eco Terrorist Boulder > Eco Terrorist ( V10 7C+ )",
+   "coordArea": "Eco Terrorist Boulder",
+   "approx": false,
+   "lat": 37.22812,
+   "lng": -122.09662,
+   "addedOn": "2026-11-12",
+   "usedOn": []
+  },
+  {
+   "id": "119042247",
+   "photoUrl": "https://www.mountainproject.com/photo/119042247/balance-rock",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/119042247_medium_1592181139.jpg?cache=1702073761",
+   "title": "Balance Rock",
+   "breadcrumb": "Vermont > Southern Vermont > Bromley Forest > Right Vale",
+   "coordArea": "Right Vale",
+   "approx": false,
+   "lat": 43.2091,
+   "lng": -72.97397,
+   "addedOn": "2026-11-12",
+   "usedOn": []
+  },
+  {
+   "id": "108085572",
+   "photoUrl": "https://www.mountainproject.com/photo/108085572/janes-addiction-wall-joshua-tree-np",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/108085572_medium_1494261942.jpg?cache=1599849283",
+   "title": "Jane's Addiction Wall, Joshua Tree NP",
+   "breadcrumb": "California > Joshua Tree NP > Central Joshua Tree > Sheep Pass Area > Hall Of Horrors Area > Hall of Horrors > West Wall Inner Janes Addiction Area",
+   "coordArea": "West Wall Inner Janes Addiction Area",
+   "approx": false,
+   "lat": 34.00035,
+   "lng": -116.14728,
+   "addedOn": "2026-11-12",
+   "usedOn": []
+  },
+  {
+   "id": "107920126",
+   "photoUrl": "https://www.mountainproject.com/photo/107920126/the-lie-down-on-cjs-comet",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/107920126_medium_1494250681.jpg?cache=1585504676",
+   "title": "The Lie down on C&Js Comet",
+   "breadcrumb": "California > High Desert > Apple Valley Area > Horsemen's Center > BMX Crags > Bmx Area Bouldering > Lone Star Boulder > C&J's Comet ( V2 5+ )",
+   "coordArea": "Lone Star Boulder",
+   "approx": false,
+   "lat": 34.4875,
+   "lng": -117.1332,
+   "addedOn": "2026-11-12",
+   "usedOn": []
+  },
+  {
+   "id": "121530903",
+   "photoUrl": "https://www.mountainproject.com/photo/121530903/swinging-out-to-set-the-thank-god-heel-hook-on-the-sound-of-silence",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/121530903_medium_1635176589.jpg?cache=1635342053",
+   "title": "Swinging out to set the \"thank god\" heel hook on The Sound of Silence",
+   "breadcrumb": "Connecticut > CT Bouldering > Groton Bluff Point > Sound of Silence ( V7 7A+ )",
+   "coordArea": "Groton Bluff Point",
+   "approx": false,
+   "lat": 41.31312,
+   "lng": -72.03491,
+   "addedOn": "2026-11-12",
+   "usedOn": []
+  },
+  {
+   "id": "3200513",
+   "photoUrl": "https://www.mountainproject.com/photo/3200513/unprotected-510-moves-off-the-ground-to-start",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/3200513_medium_1557852619.jpg?cache=1701314590",
+   "title": "Unprotected 5.10 moves off the ground to start.",
+   "breadcrumb": "California > Joshua Tree NP > Indian Cove > Rattlesnake Canyon > Vernulator > Fully Fledged ( 5.10- 6a 18 VI+ 18 E1 5a )",
+   "coordArea": "Vernulator",
+   "approx": false,
+   "lat": 34.0835,
+   "lng": -116.1406,
+   "addedOn": "2026-11-12",
+   "usedOn": []
+  },
+  {
+   "id": "122833515",
+   "photoUrl": "https://www.mountainproject.com/photo/122833515/moving-up-the-arete",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/122833515_medium_1659464975.jpg?cache=1666139218",
+   "title": "Moving up the arete",
+   "breadcrumb": "California > San Diego County > N San Diego County > Mt Woodson > Jaws Boulder Area > Eppulator Vicinity > Fake Eppulator Arete ( V5 6C )",
+   "coordArea": "Eppulator Vicinity",
+   "approx": false,
+   "lat": 33.00589,
+   "lng": -116.96823,
+   "addedOn": "2026-11-12",
+   "usedOn": []
+  },
+  {
+   "id": "107305141",
+   "photoUrl": "https://www.mountainproject.com/photo/107305141/valhalla-kernvilleca-theres-climbs-that-start-out-of-the-pool",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/107305141_medium_1494180181.jpg?cache=1740202031",
+   "title": "valhalla-kernville,ca theres climbs that start out of the pool",
+   "breadcrumb": "California",
+   "coordArea": "California",
+   "approx": false,
+   "lat": 37.74358,
+   "lng": -119.58098,
+   "addedOn": "2026-11-12",
+   "usedOn": []
+  },
+  {
+   "id": "204219701",
+   "photoUrl": "https://www.mountainproject.com/photo/204219701/encore-jarek-dans-la-premiere-longueur",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/204219701_medium_1794529730.jpg?cache=1794529757",
+   "title": "Encore Jarek dans la première longueur",
+   "breadcrumb": "International > N America > Canada > Quebec > Cantons De Lest > Mont Pinacle > d. En Vin > La Réforme ( 5.12- 7a+ 25 VIII+ 25 E5 6a )",
+   "coordArea": "d. En Vin",
+   "approx": false,
+   "lat": 45.02302,
+   "lng": -71.89693,
+   "addedOn": "2026-11-12",
+   "usedOn": []
+  },
+  {
+   "id": "204220654",
+   "photoUrl": "https://www.mountainproject.com/photo/204220654/nearing-the-top-rest-day-hand-jams",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/204220654_medium_1794539015.jpg?cache=1794539018",
+   "title": "Nearing the top. Rest day hand jams!",
+   "breadcrumb": "Arizona > Northern Arizona > Kingman Area > Hualapai Mountains > Hualapai Mountain > Rest Day Hand Jams (S… ( 5.5 4b 13 IV+ 11 MS 4a )",
+   "coordArea": "Hualapai Mountain",
+   "approx": false,
+   "lat": 35.06461,
+   "lng": -113.9159,
+   "addedOn": "2026-11-12",
+   "usedOn": []
+  },
+  {
+   "id": "201612537",
+   "photoUrl": "https://www.mountainproject.com/photo/201612537/topping-out-on-the-second-buttress",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/201612537_medium_1756753435.jpg?cache=1756812482",
+   "title": "Topping out on the Second Buttress",
+   "breadcrumb": "International > N America > Canada > Alberta > Jasper NP > Syncline",
+   "coordArea": "Syncline",
+   "approx": false,
+   "lat": 53.16799,
+   "lng": -117.95214,
+   "addedOn": "2026-11-12",
+   "usedOn": []
+  },
+  {
+   "id": "112488957",
+   "photoUrl": "https://www.mountainproject.com/photo/112488957/traversing-left-pc-todd-bukowski",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/112488957_medium_1494308181.jpg?cache=1702072283",
+   "title": "traversing left <br> pc: Todd Bukowski",
+   "breadcrumb": "Arizona > Southern Arizona > La Milagrosa Canyon > Saguaro Corners > Ringtail ( 5.11b 6c 23 VIII- 23 E3 5c PG13)",
+   "coordArea": "Saguaro Corners",
+   "approx": false,
+   "lat": 32.29998,
+   "lng": -110.70996,
+   "addedOn": "2026-11-12",
+   "usedOn": []
+  },
+  {
+   "id": "125306406",
+   "photoUrl": "https://www.mountainproject.com/photo/125306406/left-climb-is-tastes-like-purple-chocolate-coated-on-the-right-in-red",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/125306406_medium_1699721655.jpg?cache=1786062887",
+   "title": "Left climb is \"Tastes like Purple\"  \"Chocolate coated\" on the right in red",
+   "breadcrumb": "California > Eastern Sierra > Lone Pine Area > Alabama Hills > Alabama Hills South > Candy Store > Gumdrop > Tastes like purple ( 5.9 5c 17 VI 17 HVS 5a )",
+   "coordArea": "Gumdrop",
+   "approx": false,
+   "lat": 36.58273,
+   "lng": -118.11376,
+   "addedOn": "2026-11-12",
+   "usedOn": []
+  },
+  {
+   "id": "123817337",
+   "photoUrl": "https://www.mountainproject.com/photo/123817337/looking-up-at-a-john-and-matt-on-the-traverse",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/123817337_medium_1677563397.jpg?cache=1786086050",
+   "title": "Looking up at a John and Matt on the traverse",
+   "breadcrumb": "California > Eastern Sierra > Bishop Area > Pine Creek Canyon > Scheelite Canyon Pratts Crack Gully > Blindspot Buttress > Blindspot ( 5.11 6c+ 23 VIII- 23 E4 5c )",
+   "coordArea": "Blindspot Buttress",
+   "approx": false,
+   "lat": 37.38572,
+   "lng": -118.67932,
+   "addedOn": "2026-11-12",
+   "usedOn": []
+  },
+  {
+   "id": "109971118",
+   "photoUrl": "https://www.mountainproject.com/photo/109971118/launch",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/109971118_medium_1494366597.jpg?cache=1701318776",
+   "title": "Launch",
+   "breadcrumb": "California > Eastern Sierra > Bishop Area > Volcanic Tablelands Happysad Boulders > Happy Boulders > Central Happiness Area > Happy Boulder > Prozac ( V9 7C )",
+   "coordArea": "Happy Boulder",
+   "approx": false,
+   "lat": 37.41747,
+   "lng": -118.45136,
+   "addedOn": "2026-11-12",
+   "usedOn": []
+  },
+  {
+   "id": "120163001",
+   "photoUrl": "https://www.mountainproject.com/photo/120163001/popes-crack",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/120163001_medium_1610007143.jpg?cache=1610040812",
+   "title": "Pope's Crack",
+   "breadcrumb": "California > Joshua Tree NP > Central Joshua Tree > Echo Rock Area > Echo Rock > Echo Rock - S Face > Pope's Crack ( 5.9 5c 17 VI 17 HVS 5a )",
+   "coordArea": "Echo Rock - S Face",
+   "approx": false,
+   "lat": 34.02465,
+   "lng": -116.15513,
+   "addedOn": "2026-11-12",
+   "usedOn": []
+  },
+  {
+   "id": "110195143",
+   "photoUrl": "https://www.mountainproject.com/photo/110195143/frequent-rains-bring-slopes-covered-with-spring-flowers-to-texas-canyon",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/110195143_medium_1494367881.jpg?cache=1720725779",
+   "title": "Frequent rains bring slopes covered with spring flowers to Texas Canyon.",
+   "breadcrumb": "California > Los Angeles Basin > Angeles National Forest > Texas Canyon",
+   "coordArea": "Texas Canyon",
+   "approx": false,
+   "lat": 34.5136,
+   "lng": -118.40205,
+   "addedOn": "2026-11-12",
+   "usedOn": []
+  },
+  {
+   "id": "202593321",
+   "photoUrl": "https://www.mountainproject.com/photo/202593321/radical-left",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/202593321_medium_1773712444_topo.jpg?cache=1785961558",
+   "title": "Radical Left",
+   "breadcrumb": "California > Eastern Sierra > Lone Pine Area > Alabama Hills > Alabama Hills South > Beyond the Gate > Mini Munge > Radical Left ( 5.7 5a 15 V+ 13 MVS 4b )",
+   "coordArea": "Mini Munge",
+   "approx": false,
+   "lat": 36.5846,
+   "lng": -118.10611,
+   "addedOn": "2026-11-12",
+   "usedOn": []
+  },
+  {
+   "id": "121136787",
+   "photoUrl": "https://www.mountainproject.com/photo/121136787/shirley-sending-the-first-pitch-looking-back-from-the-cave",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/121136787_medium_1628561521.jpg?cache=1702074096",
+   "title": "Shirley sending the first pitch. Looking back from the cave.",
+   "breadcrumb": "California > San Francisco Bay Area > E Bay Area > Mt Diablo SP > Pine Canyon > Rock of Ages > Cave Route ( 5.8- 5b 16 VI- 14 VS 4c )",
+   "coordArea": "Rock of Ages",
+   "approx": false,
+   "lat": 37.88057,
+   "lng": -121.98549,
+   "addedOn": "2026-11-12",
+   "usedOn": []
+  },
+  {
+   "id": "105904378",
+   "photoUrl": "https://www.mountainproject.com/photo/105904378/a-view-of-j-tree-from-the-top-of-conans-corridor",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/105904378_medium_1557939887.jpg?cache=1745638014",
+   "title": "A view of J-tree from the top of Conan's Corridor.",
+   "breadcrumb": "California > Joshua Tree NP > Pinto Basin > Jumbo Rock Area > Jumbo Rock West > Conan's Corridor",
+   "coordArea": "Conan's Corridor",
+   "approx": false,
+   "lat": 33.9952,
+   "lng": -116.0682,
+   "addedOn": "2026-11-12",
+   "usedOn": []
+  },
+  {
+   "id": "123315703",
+   "photoUrl": "https://www.mountainproject.com/photo/123315703/jasper-sticking-the-crux-move",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/123315703_medium_1666623401.jpg?cache=1767201105",
+   "title": "Jasper sticking the crux move!",
+   "breadcrumb": "Vermont > Northern Vermont > Bolton Area > 82 Crag > 82 Steep Wall > Little Red Hen ( 5.12c 7b+ 27 IX- 27 E6 6b )",
+   "coordArea": "82 Steep Wall",
+   "approx": false,
+   "lat": 44.37792,
+   "lng": -72.85986,
+   "addedOn": "2026-11-12",
+   "usedOn": []
+  },
+  {
+   "id": "204221298",
+   "photoUrl": "https://www.mountainproject.com/photo/204221298/another-angle",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/204221298_medium_1794549377.jpg?cache=1794549379",
+   "title": "Another angle.",
+   "breadcrumb": "Colorado > Grand Junction Area > Dynamite Shacks > Main Area > Falcon Block > Jump to Lightspeed ( V5 6C )",
+   "coordArea": "Falcon Block",
+   "approx": false,
+   "lat": 39.05158,
+   "lng": -108.6059,
+   "addedOn": "2026-11-12",
+   "usedOn": []
+  },
+  {
+   "id": "106709434",
+   "photoUrl": "https://www.mountainproject.com/photo/106709434/gynogroove-photo-by-blitzo",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/106709434_medium_1494134153.jpg?cache=1701316241",
+   "title": "\"Gynogroove\". <br> Photo by Blitzo.",
+   "breadcrumb": "California > Joshua Tree NP > Pinto Basin > Split Rocks > Split Rocks East > Split Dome > Split Dome North Rock > Gynogroove ( 5.6 4c 14 V 12 S 4b PG13)",
+   "coordArea": "Split Dome North Rock",
+   "approx": false,
+   "lat": 34.01005,
+   "lng": -116.05528,
+   "addedOn": "2026-11-12",
+   "usedOn": []
+  },
+  {
+   "id": "106183675",
+   "photoUrl": "https://www.mountainproject.com/photo/106183675/mike-pulling-hard-on-the-pockets-of-everything-and-nothing-v5",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/106183675_medium_1494086168.jpg?cache=1701315351",
+   "title": "Mike pulling hard on the pockets of Everything and Nothing, V5",
+   "breadcrumb": "California > Eastern Sierra > Mammoth Lakes Area > Sherwin Plateau > Pocketopia > Central Maximum Joy Area > Everything And Nothing Boulder > Everything & Nothing ( V5 6C PG13)",
+   "coordArea": "Everything And Nothing Boulder",
+   "approx": false,
+   "lat": 37.5899,
+   "lng": -118.6316,
+   "addedOn": "2026-11-12",
+   "usedOn": []
+  },
+  {
+   "id": "127038429",
+   "photoUrl": "https://www.mountainproject.com/photo/127038429/go-left-or-right",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/127038429_medium_1728261112.jpg?cache=1787879685",
+   "title": "Go left or right.",
+   "breadcrumb": "Connecticut > CT Bouldering > Rattlesnake Mountain > Will Warren's Den > Warm-up Area > Slabs ( V-easy 3 )",
+   "coordArea": "Warm-up Area",
+   "approx": false,
+   "lat": 41.69892,
+   "lng": -72.83247,
+   "addedOn": "2026-11-12",
+   "usedOn": []
+  },
+  {
+   "id": "106337537",
+   "photoUrl": "https://www.mountainproject.com/photo/106337537/pulling-around-the-overhang",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/106337537_medium_1494099271.jpg?cache=1613496497",
+   "title": "Pulling around the overhang.",
+   "breadcrumb": "California > Inland Empire > Riverside Area > Mt Rubidoux > Borson's Area > Borson's Wall > Problem C ( V0- 4- )",
+   "coordArea": "Borson's Wall",
+   "approx": false,
+   "lat": 33.9829,
+   "lng": -117.3928,
+   "addedOn": "2026-11-12",
+   "usedOn": []
+  },
+  {
+   "id": "1200924",
+   "photoUrl": "https://www.mountainproject.com/photo/1200924/this-is-an-undoctored-photo-of-lone-eagle-from-mirror-lake-the-original-slide-lo",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/1200924_medium_1557524610.jpg?cache=1786372312",
+   "title": "This is an undoctored photo of Lone Eagle from Mirror Lake.  The original slide looks just like this, except for one important change.",
+   "breadcrumb": "Colorado > Alpine Rock > Indian Peaks > Lone Eagle Peak > N Face ( 5.7 5a 15 V+ 13 MVS 4b )",
+   "coordArea": "Lone Eagle Peak",
+   "approx": false,
+   "lat": 40.0714,
+   "lng": -105.66,
+   "addedOn": "2026-11-12",
+   "usedOn": []
+  },
+  {
+   "id": "204220317",
+   "photoUrl": "https://www.mountainproject.com/photo/204220317/getting-ready-to-pull-into-the-mantle-crux",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/204220317_medium_1794535133.jpg?cache=1794535135",
+   "title": "Getting ready to pull into the mantle crux.",
+   "breadcrumb": "Arizona > Central Arizona > *Prescott Area > Prescott Bouldering > Senators Highway Areas Groom Creek > Groom Creek > Main Boulders > Canyon Area > Monster ( V8 7B )",
+   "coordArea": "Canyon Area",
+   "approx": false,
+   "lat": 34.46764,
+   "lng": -112.4375,
+   "addedOn": "2026-11-12",
+   "usedOn": []
+  },
+  {
+   "id": "106678299",
+   "photoUrl": "https://www.mountainproject.com/photo/106678299/mary-lohrman-enjoying-the-steep-features-of-intellitoys-in-the-test-site-at-echo",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/106678299_medium_1494131373.jpg?cache=1722963267",
+   "title": "Mary Lohrman enjoying the steep features of \"Intellitoys,\" in the Test Site, at Echo Cliffs.",
+   "breadcrumb": "California > Los Angeles Basin > Santa Monica Mountains > Echo Cliffs > Test Site",
+   "coordArea": "Test Site",
+   "approx": false,
+   "lat": 34.12537,
+   "lng": -118.92629,
+   "addedOn": "2026-11-12",
+   "usedOn": []
+  },
+  {
+   "id": "113695596",
+   "photoUrl": "https://www.mountainproject.com/photo/113695596/bat-cave",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/113695596_medium_1507772612.jpg?cache=1702072674",
+   "title": "bat cave",
+   "breadcrumb": "Utah > Wasatch Range > Northern Wasatch > Cache Valley > Green Canyon > Green Canyon Bouldering > Cave > Batcave",
+   "coordArea": "Batcave",
+   "approx": false,
+   "lat": 41.7727,
+   "lng": -111.74733,
+   "addedOn": "2026-11-12",
+   "usedOn": []
+  },
+  {
+   "id": "124761951",
+   "photoUrl": "https://www.mountainproject.com/photo/124761951/at-the-dead-tree",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/124761951_medium_1692049794.jpg?cache=1786077597",
+   "title": "At the Dead Tree",
+   "breadcrumb": "Connecticut > Central Valley > Pinnacle Rock > 3. A-Frame Wall > Double Crutch ( 5.3 3+ 10 III 9 VD 3a )",
+   "coordArea": "3. A-Frame Wall",
+   "approx": false,
+   "lat": 41.69035,
+   "lng": -72.83292,
+   "addedOn": "2026-11-12",
+   "usedOn": []
+  },
+  {
+   "id": "111841300",
+   "photoUrl": "https://www.mountainproject.com/photo/111841300/will-on-the-outcast",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/111841300_medium_1494307336.jpg?cache=1702071764",
+   "title": "Will on The Outcast",
+   "breadcrumb": "California > San Jacinto Mountains > Tramway > Shangri-La Valley > Beach > Dyno Boulder > Outcast (aka Don's Dyno) ( V5 6C )",
+   "coordArea": "Dyno Boulder",
+   "approx": false,
+   "lat": 33.81657,
+   "lng": -116.6482,
+   "addedOn": "2026-11-12",
+   "usedOn": []
+  },
+  {
+   "id": "121945475",
+   "photoUrl": "https://www.mountainproject.com/photo/121945475/the-riverside-boulder",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/121945475_medium_1644198472.jpg?cache=1644198475",
+   "title": "The riverside boulder.",
+   "breadcrumb": "Vermont > Northern Vermont > Smugglers' Notch > Smugglers Notch Bouldering > Bingham Falls",
+   "coordArea": "Bingham Falls",
+   "approx": false,
+   "lat": 44.50981,
+   "lng": -72.75906,
+   "addedOn": "2026-11-12",
+   "usedOn": []
+  },
+  {
+   "id": "127020016",
+   "photoUrl": "https://www.mountainproject.com/photo/127020016/sorry-mate-neat-crib",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/127020016_medium_1728101412.jpg?cache=1786056074",
+   "title": "Sorry mate. Neat crib",
+   "breadcrumb": "Connecticut > CT Bouldering > Mattatuck State Forest Bouldering > East Of Naugatuck River > Pond Overlook > Stins Crib ( V2 5+ )",
+   "coordArea": "Pond Overlook",
+   "approx": false,
+   "lat": 41.64078,
+   "lng": -73.06778,
+   "addedOn": "2026-11-12",
+   "usedOn": []
+  },
+  {
+   "id": "107029884",
+   "photoUrl": "https://www.mountainproject.com/photo/107029884/view-east-from-picket-creek-lake-across-kern-canyon-toward-the-whitney-range",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/107029884_medium_1494160337.jpg?cache=1756241326",
+   "title": "View east from Picket Creek Lake across Kern Canyon toward the Whitney range.",
+   "breadcrumb": "California > High Sierra",
+   "coordArea": "High Sierra",
+   "approx": false,
+   "lat": 37.27549,
+   "lng": -118.6765,
+   "addedOn": "2026-11-12",
+   "usedOn": []
+  },
+  {
+   "id": "108363140",
+   "photoUrl": "https://www.mountainproject.com/photo/108363140/fa",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/108363140_medium_1494278762.jpg?cache=1574805300",
+   "title": "FA",
+   "breadcrumb": "California > Yosemite NP > Yosemite Valley > Lower Merced River Canyon > Bd. Hand Out Cliff > Hand Out ( 5.10+ 6b+ 21 VII+ 20 E3 5b )",
+   "coordArea": "Bd. Hand Out Cliff",
+   "approx": false,
+   "lat": 37.70164,
+   "lng": -119.72167,
+   "addedOn": "2026-11-12",
+   "usedOn": []
+  },
+  {
+   "id": "124856172",
+   "photoUrl": "https://www.mountainproject.com/photo/124856172/cowboy-climbing",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/124856172_medium_1693671348.jpg?cache=1786078652",
+   "title": "Cowboy climbing",
+   "breadcrumb": "California > Eastern Sierra > Lone Pine Area > Alabama Hills > Alabama Hills South > Arizona Tower",
+   "coordArea": "Arizona Tower",
+   "approx": false,
+   "lat": 36.58784,
+   "lng": -118.1109,
+   "addedOn": "2026-11-12",
+   "usedOn": []
+  },
+  {
+   "id": "126858409",
+   "photoUrl": "https://www.mountainproject.com/photo/126858409/yann",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/126858409_medium_1725802428.jpg?cache=1786054631",
+   "title": "yann",
+   "breadcrumb": "Vermont > Northern Vermont > Bolton Area > Bolton Dome > 06. Main Wall > Two Tom Turf ( 5.11d 7a 24 VIII 25 E5 6a )",
+   "coordArea": "06. Main Wall",
+   "approx": false,
+   "lat": 44.37063,
+   "lng": -72.85791,
+   "addedOn": "2026-11-12",
+   "usedOn": []
+  },
+  {
+   "id": "126991857",
+   "photoUrl": "https://www.mountainproject.com/photo/126991857/on-the-sharp-end-entering-the-final-handfinger-crack-photo-by-chris-granata",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/126991857_medium_1727655215.jpg?cache=1786055804",
+   "title": "On the sharp end entering the final hand/finger crack--photo by Chris Granata",
+   "breadcrumb": "Connecticut > Central Valley > Ragged Mountain > Main Cliff > Vanishing Point ( 5.10- 6a 18 VI+ 18 E1 5a )",
+   "coordArea": "Main Cliff",
+   "approx": false,
+   "lat": 41.6175,
+   "lng": -72.82342,
+   "addedOn": "2026-11-12",
+   "usedOn": []
+  },
+  {
+   "id": "119646530",
+   "photoUrl": "https://www.mountainproject.com/photo/119646530/the-starting-holds",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/119646530_medium_1601337217.jpg?cache=1702073887",
+   "title": "The starting holds.",
+   "breadcrumb": "Vermont > Northern Vermont > Smugglers' Notch > Smugglers Notch Bouldering > Boulders Behind The Main Parking Lotvisitor Center > Steve Miller Boulder > Jet Airliner ( V7 7A+ PG13)",
+   "coordArea": "Steve Miller Boulder",
+   "approx": false,
+   "lat": 44.55716,
+   "lng": -72.79385,
+   "addedOn": "2026-11-12",
+   "usedOn": []
+  },
+  {
+   "id": "106379680",
+   "photoUrl": "https://www.mountainproject.com/photo/106379680/the-dam",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/106379680_medium_1494103269.jpg?cache=1719054222",
+   "title": "the dam",
+   "breadcrumb": "California > Los Angeles Basin > Santa Monica Mountains > Malibu Creek SP > Century Lake Area",
+   "coordArea": "Century Lake Area",
+   "approx": false,
+   "lat": 34.0981,
+   "lng": -118.734,
+   "addedOn": "2026-11-12",
+   "usedOn": []
+  },
+  {
+   "id": "202556443",
+   "photoUrl": "https://www.mountainproject.com/photo/202556443/proper-landing",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/202556443_medium_1773079794.jpg?cache=1785959401",
+   "title": "Proper landing",
+   "breadcrumb": "California > High Desert > Apple Valley Area > Fairview Mountain > Fairview Mountain Bouldering > Foreplay Bouldering > Blank Boulder > Blank Stare ( V1-2 5 )",
+   "coordArea": "Blank Boulder",
+   "approx": false,
+   "lat": 34.56492,
+   "lng": -117.11607,
+   "addedOn": "2026-11-12",
+   "usedOn": []
+  },
+  {
+   "id": "111879204",
+   "photoUrl": "https://www.mountainproject.com/photo/111879204/nostalgia-511c-riverside-quarry",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/111879204_medium_1494309253.jpg?cache=1613496079",
+   "title": "Nostalgia (5.11c), Riverside Quarry",
+   "breadcrumb": "California > Inland Empire > Riverside Area > Riverside Quarry > (d) Roof Area > Nostalgia [CLOSED] ( 5.11c 6c+ 24 VIII- 24 E4 6a )",
+   "coordArea": "(d) Roof Area",
+   "approx": false,
+   "lat": 34.01681,
+   "lng": -117.41548,
+   "addedOn": "2026-11-12",
+   "usedOn": []
+  },
+  {
+   "id": "106544718",
+   "photoUrl": "https://www.mountainproject.com/photo/106544718/the-excellent-pocketed-headwall",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/106544718_medium_1494119011.jpg?cache=1701315953",
+   "title": "The excellent pocketed headwall.",
+   "breadcrumb": "Wyoming > Lander Area > Wild Iris > Main Wall > F. Rode Hard Wall > Buckskin Billy ( 5.10a 6a 18 VI+ 18 E1 5a )",
+   "coordArea": "F. Rode Hard Wall",
+   "approx": false,
+   "lat": 42.5845,
+   "lng": -108.73338,
+   "addedOn": "2026-11-12",
+   "usedOn": []
+  },
+  {
+   "id": "202667031",
+   "photoUrl": "https://www.mountainproject.com/photo/202667031/moving-right",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/202667031_medium_1774747124.jpg?cache=1785963841",
+   "title": "Moving right",
+   "breadcrumb": "Connecticut > CT Bouldering > Groton Bluff Point > Snowy Owl ( V6 7A )",
+   "coordArea": "Groton Bluff Point",
+   "approx": false,
+   "lat": 41.31312,
+   "lng": -72.03491,
+   "addedOn": "2026-11-12",
+   "usedOn": []
+  },
+  {
+   "id": "204221280",
+   "photoUrl": "https://www.mountainproject.com/photo/204221280/start-the-same-as-the-millenium-falcon-v1-and-dyno-from-the-marked-holds-to-the-",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/204221280_medium_1794548737.jpg?cache=1794549090",
+   "title": "Start the same as The Millenium Falcon (V1 ) and dyno from the marked holds to the marked jug/horn. Once you stick it mantle to the top.",
+   "breadcrumb": "Colorado > Grand Junction Area > Dynamite Shacks > Main Area > Falcon Block > Jump to Lightspeed ( V5 6C )",
+   "coordArea": "Falcon Block",
+   "approx": false,
+   "lat": 39.05158,
+   "lng": -108.6059,
+   "addedOn": "2026-11-12",
+   "usedOn": []
+  },
+  {
+   "id": "200786277",
+   "photoUrl": "https://www.mountainproject.com/photo/200786277/the-climb",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/200786277_medium_1744766954_topo.jpg?cache=1746292698",
+   "title": "The climb",
+   "breadcrumb": "Vermont > Northern Vermont > Vermonts Lonely Rocks Northern > Red Rocks Boulder > Caterpillar Arete ( V0 4 PG13)",
+   "coordArea": "Red Rocks Boulder",
+   "approx": false,
+   "lat": 44.44278,
+   "lng": -73.22808,
+   "addedOn": "2026-11-12",
+   "usedOn": []
+  },
+  {
+   "id": "107907716",
+   "photoUrl": "https://www.mountainproject.com/photo/107907716/jackie-trejo-nearing-the-top-of-the-highball",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/107907716_medium_1494249786.jpg?cache=1701317800",
+   "title": "Jackie Trejo nearing the top of the highball.",
+   "breadcrumb": "California > Eastern Sierra > Bishop Area > Volcanic Tablelands Happysad Boulders > Happy Boulders > Serengeti Area > Serengeti Boulder > You're a Disc Jockey:… ( V0+ 4+ )",
+   "coordArea": "Serengeti Boulder",
+   "approx": false,
+   "lat": 37.41844,
+   "lng": -118.45269,
+   "addedOn": "2026-11-12",
+   "usedOn": []
   }
  ],
  "failures": {
@@ -51283,7 +52948,10 @@
   "106553439": 1,
   "107671176": 1,
   "106617208": 1,
-  "106128832": 1
+  "106128832": 1,
+  "106637958": 1,
+  "106668765": 1,
+  "107061381": 1
  },
  "regions": {
   "105708961": {
