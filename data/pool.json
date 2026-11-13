@@ -12140,6 +12140,21 @@
    "lat": 37.06561,
    "lng": -113.63056,
    "name": null
+  },
+  "https://www.mountainproject.com/area/105862901/schultzs-ridge": {
+   "lat": 37.72843,
+   "lng": -119.62458,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/105862954/pywiack-dome": {
+   "lat": 37.8453,
+   "lng": -119.444,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/105825725/santa-monica-mountains": {
+   "lat": 34.08303,
+   "lng": -118.78588,
+   "name": null
   }
  },
  "rejected": {
@@ -52965,6 +52980,84 @@
    "approx": false,
    "lat": 36.13128,
    "lng": -115.42451,
+   "addedOn": "2026-11-13",
+   "usedOn": []
+  },
+  {
+   "id": "105882935",
+   "photoUrl": "https://www.mountainproject.com/photo/105882935/desert-chicory-photo-by-blitzo",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/105882935_medium_1557937157.jpg?cache=1758668455",
+   "title": "Desert Chicory. <br> Photo by Blitzo.",
+   "breadcrumb": "California > High Desert",
+   "coordArea": "High Desert",
+   "approx": false,
+   "lat": 34.6663,
+   "lng": -116.97839,
+   "addedOn": "2026-11-13",
+   "usedOn": []
+  },
+  {
+   "id": "106016218",
+   "photoUrl": "https://www.mountainproject.com/photo/106016218/a-good-view-of-p2-climb-solid-on-this-one-and-yer-ready-fer-the-valley",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/106016218_medium_1558391662.jpg?cache=1733867540",
+   "title": "A good view of P.2. climb Solid on this one and yer ready fer the valley.",
+   "breadcrumb": "California > Tahquitz Suicide Rocks > Tahquitz Rock > (g) W Face > West Face Right Side > Coffin Nail ( 5.8 5b 16 VI- 15 HVS 4c )",
+   "coordArea": "West Face Right Side",
+   "approx": false,
+   "lat": 33.75985,
+   "lng": -116.68542,
+   "addedOn": "2026-11-13",
+   "usedOn": []
+  },
+  {
+   "id": "107157174",
+   "photoUrl": "https://www.mountainproject.com/photo/107157174/leading-up-p1-of-the-moratorium-thanks-to-david-w-for-the-photo",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/107157174_medium_1494169989.jpg?cache=1701316927",
+   "title": "Leading up P1 of the Moratorium.  Thanks to David W. for the photo.",
+   "breadcrumb": "California > Yosemite NP > Yosemite Valley > Valley N Side > El Cap Picnic Area Eagle Creek > 1. Schultz's Ridge > Moratorium ( 5.11b 6c 23 VIII- 23 E3 5c )",
+   "coordArea": "1. Schultz's Ridge",
+   "approx": false,
+   "lat": 37.72843,
+   "lng": -119.62458,
+   "addedOn": "2026-11-13",
+   "usedOn": []
+  },
+  {
+   "id": "107860214",
+   "photoUrl": "https://www.mountainproject.com/photo/107860214/dykey",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/107860214_medium_1494216017.jpg?cache=1701317748",
+   "title": "dykey",
+   "breadcrumb": "California > Yosemite NP > Tuolumne Meadows > Pywiack Dome > Dike Route ( 5.9 5c 17 VI 17 HVS 5a R)",
+   "coordArea": "Pywiack Dome",
+   "approx": false,
+   "lat": 37.8453,
+   "lng": -119.444,
+   "addedOn": "2026-11-13",
+   "usedOn": []
+  },
+  {
+   "id": "108162245",
+   "photoUrl": "https://www.mountainproject.com/photo/108162245/california-quail-callipepla-californica",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/108162245_medium_1494266734.jpg?cache=1746187542",
+   "title": "California Quail (Callipepla californica)",
+   "breadcrumb": "California > Los Angeles Basin > Santa Monica Mountains",
+   "coordArea": "Santa Monica Mountains",
+   "approx": false,
+   "lat": 34.08303,
+   "lng": -118.78588,
+   "addedOn": "2026-11-13",
+   "usedOn": []
+  },
+  {
+   "id": "115145626",
+   "photoUrl": "https://www.mountainproject.com/photo/115145626/gunsight-to-south-peak-direct",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/115145626_medium_1535650630.jpg?cache=1770470992",
+   "title": "Gunsight to South Peak Direct",
+   "breadcrumb": "W Virginia > Seneca Rocks > S Peak - W Face > South Peak West Face Main Area > Gunsight to S Peak Di… ( 5.4 4a 12 IV 10 VD 3c )",
+   "coordArea": "South Peak West Face Main Area",
+   "approx": false,
+   "lat": 38.83453,
+   "lng": -79.36677,
    "addedOn": "2026-11-13",
    "usedOn": []
   }
