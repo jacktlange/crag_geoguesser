@@ -11735,6 +11735,26 @@
    "lat": 38.38422,
    "lng": -112.83319,
    "name": null
+  },
+  "https://www.mountainproject.com/area/110665654/angler-boulder": {
+   "lat": 37.73647,
+   "lng": -119.57372,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/105872225/new-hampshire": {
+   "lat": 43.58038,
+   "lng": -71.71878,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/106047544/waterfall-dome": {
+   "lat": 31.92894,
+   "lng": -109.97457,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/116681308/north-face": {
+   "lat": 36.03509,
+   "lng": -115.46345,
+   "name": null
   }
  },
  "rejected": {
@@ -11940,7 +11960,9 @@
   "112354826": "filtered: ice, mixed, or snow route (grade or area)",
   "202450138": "filtered: ice or snow (caption)",
   "110336419": "filtered: ice, mixed, or snow route (grade or area)",
-  "123624546": "filtered: ice, mixed, or snow route (grade or area)"
+  "123624546": "filtered: ice, mixed, or snow route (grade or area)",
+  "107427585": "filtered: ice or snow (caption)",
+  "108697979": "filtered: ice, mixed, or snow route (grade or area)"
  },
  "photos": [
   {
@@ -51073,6 +51095,84 @@
    "approx": false,
    "lat": 38.38422,
    "lng": -112.83319,
+   "addedOn": "2026-11-12",
+   "usedOn": []
+  },
+  {
+   "id": "109044743",
+   "photoUrl": "https://www.mountainproject.com/photo/109044743/working-hard",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/109044743_medium_1494337265.jpg?cache=1701318503",
+   "title": "\"working hard\"",
+   "breadcrumb": "California > Yosemite NP > Yosemite Valley > Yosemite Valley Bouldering > Curry Village > Angler Boulder > Angler ( V3+ 6A+ )",
+   "coordArea": "Angler Boulder",
+   "approx": false,
+   "lat": 37.73647,
+   "lng": -119.57372,
+   "addedOn": "2026-11-12",
+   "usedOn": []
+  },
+  {
+   "id": "109232188",
+   "photoUrl": "https://www.mountainproject.com/photo/109232188/cannon-mtncliff-and-mt-lincoln",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/109232188_medium_1494342450.jpg?cache=1701318564",
+   "title": "Cannon Mtn/Cliff and Mt. Lincoln",
+   "breadcrumb": "New Hampshire",
+   "coordArea": "New Hampshire",
+   "approx": false,
+   "lat": 43.58038,
+   "lng": -71.71878,
+   "addedOn": "2026-11-12",
+   "usedOn": []
+  },
+  {
+   "id": "114065500",
+   "photoUrl": "https://www.mountainproject.com/photo/114065500/waterfall-dome-with-the-stain-on-far-left-of-dome",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/114065500_medium_1517786862_topo.jpg?cache=1763387661",
+   "title": "Waterfall dome with the stain on far left of dome",
+   "breadcrumb": "Arizona > Southern Arizona > Cochise Stronghold > E Stronghold > Waterfall Dome > Stain ( 5.2 3 8 II 8 D 2c R)",
+   "coordArea": "Waterfall Dome",
+   "approx": false,
+   "lat": 31.92894,
+   "lng": -109.97457,
+   "addedOn": "2026-11-12",
+   "usedOn": []
+  },
+  {
+   "id": "114188952",
+   "photoUrl": "https://www.mountainproject.com/photo/114188952/lea-on-the-last-pitch",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/114188952_medium_1521995997.jpg?cache=1778858285",
+   "title": "Léa on the last pitch",
+   "breadcrumb": "Nevada > Southern Nevada > Red Rocks > Black Velvet Canyon > Whiskey Peak > N Face > Our Father ( 5.10c/d 6b+ 21 VII+ 21 E3 5b R)",
+   "coordArea": "N Face",
+   "approx": false,
+   "lat": 36.03509,
+   "lng": -115.46345,
+   "addedOn": "2026-11-12",
+   "usedOn": []
+  },
+  {
+   "id": "114612721",
+   "photoUrl": "https://www.mountainproject.com/photo/114612721/ryan-on-p5",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/114612721_medium_1532155941.jpg?cache=1702073076",
+   "title": "Ryan on P5",
+   "breadcrumb": "Washington > Central West Cascades Seattle > Skykomish Valley > Index > Lookout Point Area > Lookout Point > (a) W Side > (E) The Velvet > And Say ( 5.11 6c+ 23 VIII- 23 E4 5c )",
+   "coordArea": "(E) The Velvet",
+   "approx": false,
+   "lat": 47.82514,
+   "lng": -121.55905,
+   "addedOn": "2026-11-12",
+   "usedOn": []
+  },
+  {
+   "id": "126569737",
+   "photoUrl": "https://www.mountainproject.com/photo/126569737/showcasing-style-and-grace-befitting-a-princess",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/126569737_medium_1721414186.jpg?cache=1786051908",
+   "title": "Showcasing style and grace befitting a princess",
+   "breadcrumb": "Washington > Central West Cascades Seattle > N Bend & Vicinity > Exit 34 Middle Fork Taylor River > Bessemer Mountain > N Bessemer Creek > Helm's Deep > Shih Tzu Jiu-Jitsu 3:… ( 5.12c 7b+ 27 IX- 27 E6 6b )",
+   "coordArea": "Helm's Deep",
+   "approx": false,
+   "lat": 47.54696,
+   "lng": -121.5859,
    "addedOn": "2026-11-12",
    "usedOn": []
   }
