@@ -12115,6 +12115,31 @@
    "lat": 44.44278,
    "lng": -73.22808,
    "name": null
+  },
+  "https://www.mountainproject.com/area/106280596/cheselenflue": {
+   "lat": 46.7886,
+   "lng": 8.2583,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/105914886/thunderbolt-peak": {
+   "lat": 37.098,
+   "lng": -118.5176,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/106790753/legacy-of-the-kid-boulder": {
+   "lat": 37.31173,
+   "lng": -107.88551,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/106939096/blue-crystal-buttress": {
+   "lat": 36.09417,
+   "lng": -84.7036,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/106322240/tee-pee-boulder": {
+   "lat": 37.06561,
+   "lng": -113.63056,
+   "name": null
   }
  },
  "rejected": {
@@ -12327,7 +12352,8 @@
   "108216679": "filtered: looks like a map, topo, or drawing (caption)",
   "109480605": "filtered: ice, mixed, or snow route (grade or area)",
   "111692992": "filtered: ice, mixed, or snow route (grade or area)",
-  "112485042": "filtered: ice, mixed, or snow route (grade or area)"
+  "112485042": "filtered: ice, mixed, or snow route (grade or area)",
+  "111332983": "filtered: ice, mixed, or snow route (grade or area)"
  },
  "photos": [
   {
@@ -26029,7 +26055,9 @@
    "lat": 34.2997,
    "lng": -111.3571,
    "addedOn": "2026-11-05",
-   "usedOn": []
+   "usedOn": [
+    "2026-11-13"
+   ]
   },
   {
    "id": "106096992",
@@ -31438,7 +31466,9 @@
    "lat": 37.83768,
    "lng": -83.64701,
    "addedOn": "2026-11-06",
-   "usedOn": []
+   "usedOn": [
+    "2026-11-13"
+   ]
   },
   {
    "id": "105954480",
@@ -35060,7 +35090,9 @@
    "lat": 40.5746,
    "lng": -111.7574,
    "addedOn": "2026-11-07",
-   "usedOn": []
+   "usedOn": [
+    "2026-11-13"
+   ]
   },
   {
    "id": "202662015",
@@ -45360,7 +45392,9 @@
    "lat": 40.5686,
    "lng": -105.077,
    "addedOn": "2026-11-10",
-   "usedOn": []
+   "usedOn": [
+    "2026-11-13"
+   ]
   },
   {
    "id": "108121393",
@@ -47713,7 +47747,9 @@
    "lat": 42.0778,
    "lng": -113.72398,
    "addedOn": "2026-11-11",
-   "usedOn": []
+   "usedOn": [
+    "2026-11-13"
+   ]
   },
   {
    "id": "106931622",
@@ -52839,6 +52875,97 @@
    "lat": 37.41844,
    "lng": -118.45269,
    "addedOn": "2026-11-12",
+   "usedOn": []
+  },
+  {
+   "id": "106281039",
+   "photoUrl": "https://www.mountainproject.com/photo/106281039/abseiling-this-shot-is-from-the-anchor-at-the-end-of-pitch-three-and-gives-a-nic",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/106281039_medium_1494094070.jpg?cache=1769198467",
+   "title": "Abseiling - this shot is from the anchor at the end of pitch three, and gives a nice perspective on the steepness and exposure of that pitch.",
+   "breadcrumb": "International > Europe > Switzerland > Central Switzerland > Melchtal > Cheselenflue > Die Maenner von Memme… ( 5.12a 7a+ 25 VIII+ 25 E5 6a )",
+   "coordArea": "Cheselenflue",
+   "approx": false,
+   "lat": 46.7886,
+   "lng": 8.2583,
+   "addedOn": "2026-11-13",
+   "usedOn": []
+  },
+  {
+   "id": "106513838",
+   "photoUrl": "https://www.mountainproject.com/photo/106513838/dave-leading-the-milk-bottle-on-starlight",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/106513838_medium_1494116101.jpg?cache=1702433150",
+   "title": "Dave, leading the \"Milk Bottle\" on Starlight.",
+   "breadcrumb": "California > High Sierra > 09 Palisades Surrounding Peaks > Thunderbolt Peak > Thunderbolt to Sill T… ( 5.9 5c 17 VI 17 HVS 5a Easy Snow)",
+   "coordArea": "Thunderbolt Peak",
+   "approx": false,
+   "lat": 37.098,
+   "lng": -118.5176,
+   "addedOn": "2026-11-13",
+   "usedOn": []
+  },
+  {
+   "id": "107945809",
+   "photoUrl": "https://www.mountainproject.com/photo/107945809/old-but-still-the-way-the-opening-moves-of-t2-in-75-my-partner-ken-decker-leadin",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/107945809_medium_1494252506.jpg?cache=1778862573",
+   "title": "Old, but still the way. The opening moves of T2 in '75. <br>  <br> My partner, Ken Decker, leading with Steve Mammon spotting.",
+   "breadcrumb": "Colorado > Boulder > Eldorado Canyon SP > Redgarden Wall > Redgarden Tower Two > T2 ( 5.11a 6c 22 VII+ 22 E3 5c R)",
+   "coordArea": "Redgarden Tower Two",
+   "approx": false,
+   "lat": 39.9312,
+   "lng": -105.28518,
+   "addedOn": "2026-11-13",
+   "usedOn": []
+  },
+  {
+   "id": "111696816",
+   "photoUrl": "https://www.mountainproject.com/photo/111696816/jamie-on-the-start-of-nipple-ripper-traverse-on-the-legacy-of-the-kid-boulder",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/111696816_medium_1494300427.jpg?cache=1744055828",
+   "title": "Jamie on the start of Nipple Ripper Traverse on the Legacy of the Kid Boulder.",
+   "breadcrumb": "Colorado > Durango > Sailing Hawks > Legacy Of The Kid Boulder > Nipple Ripper Traverse ( V5 6C )",
+   "coordArea": "Legacy Of The Kid Boulder",
+   "approx": false,
+   "lat": 37.31173,
+   "lng": -107.88551,
+   "addedOn": "2026-11-13",
+   "usedOn": []
+  },
+  {
+   "id": "111943126",
+   "photoUrl": "https://www.mountainproject.com/photo/111943126/anonymous",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/111943126_medium_1494312723.jpg?cache=1762206611",
+   "title": "<br>",
+   "breadcrumb": "Tennessee > Obed & Clear Creek > N Clear Creek > Blue Crystal Buttress > Bare Knuckle Ninja ( 5.12a 7a+ 25 VIII+ 25 E5 6a )",
+   "coordArea": "Blue Crystal Buttress",
+   "approx": false,
+   "lat": 36.09417,
+   "lng": -84.7036,
+   "addedOn": "2026-11-13",
+   "usedOn": []
+  },
+  {
+   "id": "112482118",
+   "photoUrl": "https://www.mountainproject.com/photo/112482118/teepee-area-beta-photo-with-ripler-teepee-device-ignitor-backhoe",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/112482118_medium_1494307770.jpg?cache=1708472130",
+   "title": "Teepee Area Beta Photo with: Ripler, Teepee, Device Ignitor, Backhoe",
+   "breadcrumb": "Utah > Southwest Utah > Saint George > Moe's Valley > Tee Pee Area > Tee Pee Boulder",
+   "coordArea": "Tee Pee Boulder",
+   "approx": false,
+   "lat": 37.06561,
+   "lng": -113.63056,
+   "addedOn": "2026-11-13",
+   "usedOn": []
+  },
+  {
+   "id": "118323779",
+   "photoUrl": "https://www.mountainproject.com/photo/118323779/sunrise-on-the-hike-to-solar-slab",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/118323779_medium_1581201767.jpg?cache=1774479932",
+   "title": "Sunrise on the hike to Solar Slab",
+   "breadcrumb": "Nevada > Southern Nevada > Red Rocks",
+   "coordArea": "Red Rocks",
+   "approx": false,
+   "lat": 36.13128,
+   "lng": -115.42451,
+   "addedOn": "2026-11-13",
    "usedOn": []
   }
  ],
