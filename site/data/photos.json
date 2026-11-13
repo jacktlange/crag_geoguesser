@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-13T14:29:31+00:00",
+ "generated": "2026-11-13T19:59:45+00:00",
  "photos": [
   {
    "id": "105787726",
@@ -332,6 +332,17 @@
    "lng": -104.71507
   },
   {
+   "id": "106016218",
+   "photoUrl": "https://www.mountainproject.com/photo/106016218/a-good-view-of-p2-climb-solid-on-this-one-and-yer-ready-fer-the-valley",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/106016218_medium_1558391662.jpg?cache=1733867540",
+   "title": "A good view of P.2. climb Solid on this one and yer ready fer the valley.",
+   "breadcrumb": "California > Tahquitz Suicide Rocks > Tahquitz Rock > (g) W Face > West Face Right Side > Coffin Nail ( 5.8 5b 16 VI- 15 HVS 4c )",
+   "coordArea": "West Face Right Side",
+   "approx": false,
+   "lat": 33.75985,
+   "lng": -116.68542
+  },
+  {
    "id": "106018944",
    "photoUrl": "https://www.mountainproject.com/photo/106018944/midway-through-the-crux-roof-on-plaid-to-the-bone-510d",
    "imageUrl": "https://mountainproject.com/assets/photos/climb/106018944_medium_1558391980.jpg?cache=1598409908",
@@ -563,6 +574,17 @@
    "lng": -110.80253
   },
   {
+   "id": "106132343",
+   "photoUrl": "https://www.mountainproject.com/photo/106132343/brit-corridor-photo-by-blitzo",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/106132343_medium_1558652757.jpg?cache=1701315267",
+   "title": "Brit Corridor. <br> Photo by Blitzo.",
+   "breadcrumb": "California > Joshua Tree NP > Pinto Basin > Split Rocks > Split Rocks West > Screamer Rocks > Brit Corridor",
+   "coordArea": "Brit Corridor",
+   "approx": false,
+   "lat": 34.0077,
+   "lng": -116.0586
+  },
+  {
    "id": "106134556",
    "photoUrl": "https://www.mountainproject.com/photo/106134556/john-porensky-at-the-birthday-boulders",
    "imageUrl": "https://mountainproject.com/assets/photos/climb/106134556_medium_1558653042.jpg?cache=1774469077",
@@ -671,6 +693,17 @@
    "approx": false,
    "lat": 36.11237,
    "lng": -115.48908
+  },
+  {
+   "id": "106200256",
+   "photoUrl": "https://www.mountainproject.com/photo/106200256/4-cam-on-reeds-direct",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/106200256_medium_1494087562.jpg?cache=1727208368",
+   "title": "#4 cam on Reeds direct",
+   "breadcrumb": "California > Yosemite NP > Yosemite Valley > Lower Merced River Canyon > At Reeds Pinnacle Area > Reed's Pinnacle > Reed's Pinnacle-Direc… ( 5.10a 6a 18 VI+ 18 E1 5a )",
+   "coordArea": "Reed's Pinnacle",
+   "approx": false,
+   "lat": 37.72439,
+   "lng": -119.70063
   },
   {
    "id": "106202008",
@@ -1113,6 +1146,17 @@
    "lng": -115.47571
   },
   {
+   "id": "106408221",
+   "photoUrl": "https://www.mountainproject.com/photo/106408221/oak-tree-groove",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/106408221_medium_1494106079.jpg?cache=1701315733",
+   "title": "Oak Tree Groove.",
+   "breadcrumb": "Wisconsin > South > Governor Dodge SP > Old Orchard Pass > Oak Tree Boulder > Oak Tree Groove ( V0 4 )",
+   "coordArea": "Oak Tree Boulder",
+   "approx": false,
+   "lat": 43.03597,
+   "lng": -90.08297
+  },
+  {
    "id": "106417893",
    "photoUrl": "https://www.mountainproject.com/photo/106417893/jointed-venture",
    "imageUrl": "https://mountainproject.com/assets/photos/climb/106417893_medium_1494106914.jpg?cache=1687408908",
@@ -1254,6 +1298,17 @@
    "approx": false,
    "lat": 42.52941,
    "lng": -107.51337
+  },
+  {
+   "id": "106490467",
+   "photoUrl": "https://www.mountainproject.com/photo/106490467/nic-fries-setting-up-the-hanging-belay-at-the-end-of-pitch-1-taken-from-the-star",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/106490467_medium_1494113790.jpg?cache=1701315867",
+   "title": "Nic Fries setting up the hanging belay at the end of pitch 1, taken from the starting terrace.",
+   "breadcrumb": "New York > Gunks > Trapps > The Arrow Wall Cck > Traverse of the Clods ( 5.9 5c 17 VI 17 HVS 5a PG13)",
+   "coordArea": "The Arrow Wall Cck",
+   "approx": false,
+   "lat": 41.74396,
+   "lng": -74.17964
   },
   {
    "id": "106511350",
@@ -1762,6 +1817,17 @@
    "lng": -149.24908
   },
   {
+   "id": "106933764",
+   "photoUrl": "https://www.mountainproject.com/photo/106933764/brad-sticking-the-swing-in-style-just-under-halfway-on-our-65-hour-run-note-my-b",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/106933764_medium_1494152238.jpg?cache=1779815711",
+   "title": "Brad sticking the Swing in style, just under halfway on our 6.5 hour run. Note my belay position, perfectly set-up for the \"Double-Swing\". <br>  <br> Brad has cleaned all of his gear off the Boot Flake, so once he's established on Eagle Ledge, he puts me on belay and I swing on over to join him. Mega stoke every time you stick the swing and here the Monkeys hooting in the Valley below. <br>  <br> Tom Evans Photo.",
+   "breadcrumb": "California > Yosemite NP > Yosemite Valley > Valley N Side > B. El Capitan > 2. Southwest Face > Nose ( 5.9 5c 17 VI 17 HVS 5a C2)",
+   "coordArea": "2. Southwest Face",
+   "approx": false,
+   "lat": 37.73051,
+   "lng": -119.63828
+  },
+  {
    "id": "106940611",
    "photoUrl": "https://www.mountainproject.com/photo/106940611/eric-singleton-sticking-the-crux-on-waste-not-want-not-photo-by-dom-smith",
    "imageUrl": "https://mountainproject.com/assets/photos/climb/106940611_medium_1494152787.jpg?cache=1756574659",
@@ -1848,6 +1914,17 @@
    "approx": false,
    "lat": 39.6531,
    "lng": -105.1878
+  },
+  {
+   "id": "106988592",
+   "photoUrl": "https://www.mountainproject.com/photo/106988592/this-just-in",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/106988592_medium_1494156654.jpg?cache=1789956673",
+   "title": "This Just In!",
+   "breadcrumb": "Arizona > Southern Arizona > Mount Lemmon Santa Catalina Mountains > Mount Lemmon Catalina Highway > 1 - Lower Highway > Prison Camp Gordon Hirabayashi Area > Jailhouse Rock",
+   "coordArea": "Jailhouse Rock",
+   "approx": false,
+   "lat": 32.33325,
+   "lng": -110.72501
   },
   {
    "id": "106998949",
@@ -2035,6 +2112,17 @@
    "approx": false,
    "lat": 38.6588,
    "lng": -109.3691
+  },
+  {
+   "id": "107284976",
+   "photoUrl": "https://www.mountainproject.com/photo/107284976/iron-cross-crack",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/107284976_medium_1494178761.jpg?cache=1701317084",
+   "title": "iron cross crack",
+   "breadcrumb": "Rhode Island > Lincoln Woods > Warm Up Area Aka The Tomato Overhangs > Iron Cross Boulder > Iron Cross Crack ( V0-1 4+ )",
+   "coordArea": "Iron Cross Boulder",
+   "approx": false,
+   "lat": 41.89772,
+   "lng": -71.43411
   },
   {
    "id": "107292797",
@@ -2741,6 +2829,17 @@
    "lng": -72.01403
   },
   {
+   "id": "108222777",
+   "photoUrl": "https://www.mountainproject.com/photo/108222777/the-limestone-band-of-the-second-pitch-is-stunning-in-lends-itself-nicely-to-pho",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/108222777_medium_1494270326.jpg?cache=1772737510",
+   "title": "The limestone band of the second pitch is stunning in lends itself nicely to photos. Photo credit- Tim Glasby",
+   "breadcrumb": "Arizona > Northern Arizona > Sedona Area > W Sedona > Dry Creek Rd Area > Fin > Mars Attacks ( 5.9 5c 17 VI 17 HVS 5a PG13)",
+   "coordArea": "Fin",
+   "approx": false,
+   "lat": 34.90455,
+   "lng": -111.80682
+  },
+  {
    "id": "108261473",
    "photoUrl": "https://www.mountainproject.com/photo/108261473/nic-on-ballistic",
    "imageUrl": "https://mountainproject.com/assets/photos/climb/108261473_medium_1494272629.jpg?cache=1701318150",
@@ -2851,6 +2950,17 @@
    "lng": -116.71303
   },
   {
+   "id": "108391800",
+   "photoUrl": "https://www.mountainproject.com/photo/108391800/looking-up-from-belay-1",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/108391800_medium_1494280574.jpg?cache=1701318250",
+   "title": "Looking up from belay 1",
+   "breadcrumb": "California > Tahquitz Suicide Rocks > Tahquitz Rock > (h) Open Book Area > Open Book ( 5.9 5c 17 VI 17 HVS 5a )",
+   "coordArea": "(h) Open Book Area",
+   "approx": false,
+   "lat": 33.75946,
+   "lng": -116.68508
+  },
+  {
    "id": "108410673",
    "photoUrl": "https://www.mountainproject.com/photo/108410673/owl-creek-pass",
    "imageUrl": "https://mountainproject.com/assets/photos/climb/108410673_medium_1494281654.jpg?cache=1747242834",
@@ -2904,6 +3014,17 @@
    "approx": false,
    "lat": 37.51096,
    "lng": -118.57058
+  },
+  {
+   "id": "108461092",
+   "photoUrl": "https://www.mountainproject.com/photo/108461092/tim-and-rich-at-low-tide-crack-not-po-cliff",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/108461092_medium_1494284156.jpg?cache=1701318294",
+   "title": "Tim and Rich at Low Tide Crack, not P.O. Cliff!",
+   "breadcrumb": "California > Northwest California > Sue-meg SP > Pacific Ocean Cliff",
+   "coordArea": "Pacific Ocean Cliff",
+   "approx": false,
+   "lat": 41.1384,
+   "lng": -124.1562
   },
   {
    "id": "108463252",
@@ -2992,6 +3113,28 @@
    "approx": false,
    "lat": 38.94542,
    "lng": -108.48152
+  },
+  {
+   "id": "108763254",
+   "photoUrl": "https://www.mountainproject.com/photo/108763254/evan-moving-into-the-hueco-photo-by-chris-johnson",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/108763254_medium_1494295497.jpg?cache=1701318415",
+   "title": "Evan moving into the hueco, photo by Chris Johnson",
+   "breadcrumb": "Rhode Island > Lincoln Woods > Horse Cave > Back in the Saddle ( V6 7A )",
+   "coordArea": "Horse Cave",
+   "approx": false,
+   "lat": 41.89941,
+   "lng": -71.43849
+  },
+  {
+   "id": "108784342",
+   "photoUrl": "https://www.mountainproject.com/photo/108784342/nice-evening-at-the-little-flatiron",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/108784342_medium_1494296207.jpg?cache=1606572763",
+   "title": "Nice evening at the Little Flatiron",
+   "breadcrumb": "Wisconsin > Baraboo Range > Devil's Lake > Devils Lake Bouldering > E Bluff > E Bluff S Face > East Of Ccc Guillotine Ridge > 4. Flatiron > Flatiron ( V4 6B )",
+   "coordArea": "4. Flatiron",
+   "approx": false,
+   "lat": 43.41338,
+   "lng": -89.71207
   },
   {
    "id": "108802092",
@@ -3267,6 +3410,17 @@
    "approx": false,
    "lat": 44.06342,
    "lng": -71.16578
+  },
+  {
+   "id": "109625035",
+   "photoUrl": "https://www.mountainproject.com/photo/109625035/getting-ready-for-the-final-crux",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/109625035_medium_1494358341.jpg?cache=1701318689",
+   "title": "Getting ready for the final crux.",
+   "breadcrumb": "New York > Gunks > Trapps > The Arrow Wall Cck > Supper's Ready ( 5.12a 7a+ 25 VIII+ 25 E5 6a )",
+   "coordArea": "The Arrow Wall Cck",
+   "approx": false,
+   "lat": 41.74396,
+   "lng": -74.17964
   },
   {
    "id": "109662861",
@@ -4490,6 +4644,17 @@
    "lng": -109.59959
   },
   {
+   "id": "113523575",
+   "photoUrl": "https://www.mountainproject.com/photo/113523575/split-rock-from-the-north",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/113523575_medium_1504074408.jpg?cache=1762448980",
+   "title": "Split Rock from the North",
+   "breadcrumb": "California > Northwest California > Cold Springs",
+   "coordArea": "Cold Springs",
+   "approx": false,
+   "lat": 40.83243,
+   "lng": -123.71708
+  },
+  {
    "id": "113557516",
    "photoUrl": "https://www.mountainproject.com/photo/113557516/pretty-little-route",
    "imageUrl": "https://mountainproject.com/assets/photos/climb/113557516_medium_1504722337.jpg?cache=1702072616",
@@ -4686,6 +4851,17 @@
    "approx": false,
    "lat": 35.4555,
    "lng": -82.22473
+  },
+  {
+   "id": "114030776",
+   "photoUrl": "https://www.mountainproject.com/photo/114030776/towards-the-crux",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/114030776_medium_1516603161.jpg?cache=1702072825",
+   "title": "Towards the crux.",
+   "breadcrumb": "California > Eastern Sierra > Bishop Area > Owens River Gorge > Central Gorge > Player's Club > That's a Cold Shut, D… ( 5.10c 6b 20 VII 20 E2 5b )",
+   "coordArea": "Player's Club",
+   "approx": false,
+   "lat": 37.51271,
+   "lng": -118.57042
   },
   {
    "id": "114034342",
@@ -5117,6 +5293,28 @@
    "lng": -85.63084
   },
   {
+   "id": "116809347",
+   "photoUrl": "https://www.mountainproject.com/photo/116809347/populace-wall-population-me",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/116809347_medium_1556638842.jpg?cache=1793549867",
+   "title": "Populace Wall - Population: me!",
+   "breadcrumb": "Idaho > W Idaho > Black Cliffs > Populace Wall",
+   "coordArea": "Populace Wall",
+   "approx": false,
+   "lat": 43.53639,
+   "lng": -116.08633
+  },
+  {
+   "id": "116955780",
+   "photoUrl": "https://www.mountainproject.com/photo/116955780/midway-on-the-upper-section",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/116955780_medium_1557527437.jpg?cache=1650311015",
+   "title": "Midway on the upper section.",
+   "breadcrumb": "Colorado > Golden > Clear Creek Canyon > Oz > Permit This ( 5.10a 6a 18 VI+ 18 E1 5a )",
+   "coordArea": "Oz",
+   "approx": false,
+   "lat": 39.7422,
+   "lng": -105.40942
+  },
+  {
    "id": "116999026",
    "photoUrl": "https://www.mountainproject.com/photo/116999026/climber-on-biception-photo-poached-from-at-happycatclimbing-jeff-b-on-instagram-",
    "imageUrl": "https://mountainproject.com/assets/photos/climb/116999026_medium_1558369811.jpg?cache=1789999078",
@@ -5282,6 +5480,17 @@
    "lng": -106.67446
   },
   {
+   "id": "117655814",
+   "photoUrl": "https://www.mountainproject.com/photo/117655814/entrance-slab-in-the-summer",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/117655814_medium_1566953741.jpg?cache=1702073428",
+   "title": "Entrance Slab in the summer.",
+   "breadcrumb": "Wisconsin > Baraboo Range > Devil's Lake > Devils Lake Bouldering > Burma Rd > Entrance Slab ( V0 4 )",
+   "coordArea": "Burma Rd",
+   "approx": false,
+   "lat": 43.4,
+   "lng": -89.74329
+  },
+  {
    "id": "117659239",
    "photoUrl": "https://www.mountainproject.com/photo/117659239/first-lead",
    "imageUrl": "https://mountainproject.com/assets/photos/climb/117659239_medium_1567037849.jpg?cache=1614478402",
@@ -5335,6 +5544,17 @@
    "approx": false,
    "lat": 34.23121,
    "lng": -116.96144
+  },
+  {
+   "id": "117913762",
+   "photoUrl": "https://www.mountainproject.com/photo/117913762/maidens-rest-mid-problem",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/117913762_medium_1571533564.jpg?cache=1574207495",
+   "title": "Maiden's Rest mid problem",
+   "breadcrumb": "Rhode Island > Lincoln Woods > Egg Swamp > Maiden’s Rest ( V4 6B PG13)",
+   "coordArea": "Egg Swamp",
+   "approx": false,
+   "lat": 41.90238,
+   "lng": -71.43479
   },
   {
    "id": "117969127",
@@ -6072,6 +6292,17 @@
    "approx": false,
    "lat": 39.9307,
    "lng": -105.283
+  },
+  {
+   "id": "120544168",
+   "photoUrl": "https://www.mountainproject.com/photo/120544168/dan-cruising-up-the-classic-lincoln-woods-highball-eating-pasta",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/120544168_medium_1618359828.jpg?cache=1702074031",
+   "title": "Dan cruising up the  classic Lincoln woods highball 'eating pasta'.",
+   "breadcrumb": "Rhode Island > Lincoln Woods > Tomato Boulders > Tomato Boulder > Eating Paste ( V0 4 )",
+   "coordArea": "Tomato Boulder",
+   "approx": false,
+   "lat": 41.8981,
+   "lng": -71.433
   },
   {
    "id": "120546062",
@@ -7141,6 +7372,17 @@
    "lng": -76.61651
   },
   {
+   "id": "125249040",
+   "photoUrl": "https://www.mountainproject.com/photo/125249040/dyno",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/125249040_medium_1698928278.jpg?cache=1786082014",
+   "title": "Dyno",
+   "breadcrumb": "Illinois > Holy Boulders And Surrounding > House Boulders > H. State Property > B. Camaro > Corvette Dyno ( V5 6C )",
+   "coordArea": "B. Camaro",
+   "approx": false,
+   "lat": 37.61131,
+   "lng": -89.40706
+  },
+  {
    "id": "125282275",
    "photoUrl": "https://www.mountainproject.com/photo/125282275/nick-on-the-top-of-the-burnt-penis",
    "imageUrl": "https://mountainproject.com/assets/photos/climb/125282275_medium_1699295773.jpg?cache=1702009076",
@@ -7438,6 +7680,17 @@
    "lng": -116.97583
   },
   {
+   "id": "126269139",
+   "photoUrl": "https://www.mountainproject.com/photo/126269139/jonathan-workin-gear-before-getting-worked-on-that-rail-soooooooo-pumpy",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/126269139_medium_1717183856.jpg?cache=1717240021",
+   "title": "Jonathan workin gear before getting worked on that rail. Soooooooo pumpy",
+   "breadcrumb": "New York > Adirondacks > Lake George Region > Shelving Rock > Neanderthal Cave > Protruding Forehead ( 5.10d 6b+ 21 VII+ 21 E3 5b )",
+   "coordArea": "Neanderthal Cave",
+   "approx": false,
+   "lat": 43.55944,
+   "lng": -73.60333
+  },
+  {
    "id": "126350468",
    "photoUrl": "https://www.mountainproject.com/photo/126350468/the-climb",
    "imageUrl": "https://mountainproject.com/assets/photos/climb/126350468_medium_1718226593.jpg?cache=1786060865",
@@ -7658,6 +7911,28 @@
    "lng": -122.02143
   },
   {
+   "id": "127393301",
+   "photoUrl": "https://www.mountainproject.com/photo/127393301/cassidy-on-the-fa",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/127393301_medium_1732860568.jpg?cache=1786042128",
+   "title": "Cassidy on the FA.",
+   "breadcrumb": "Wyoming > Lander Area > Sinks Canyon > Granite > Joint > Mr. Big Shot > Golden Hour ( 5.9 5c 17 VI 17 HVS 5a )",
+   "coordArea": "Mr. Big Shot",
+   "approx": false,
+   "lat": 42.72911,
+   "lng": -108.86364
+  },
+  {
+   "id": "200228010",
+   "photoUrl": "https://www.mountainproject.com/photo/200228010/the-daveo",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/200228010_medium_1733236246.jpg?cache=1786042323",
+   "title": "The Daveo",
+   "breadcrumb": "Rhode Island > Handy Pond Preserve > Trophy Buck Boulder > Daveo ( V3 6A )",
+   "coordArea": "Trophy Buck Boulder",
+   "approx": false,
+   "lat": 41.95242,
+   "lng": -71.47822
+  },
+  {
    "id": "200237199",
    "photoUrl": "https://www.mountainproject.com/photo/200237199/colin-on-his-route",
    "imageUrl": "https://mountainproject.com/assets/photos/climb/200237199_medium_1733507597.jpg?cache=1786042448",
@@ -7777,6 +8052,17 @@
    "approx": false,
    "lat": 40.17848,
    "lng": -82.30024
+  },
+  {
+   "id": "200800080",
+   "photoUrl": "https://www.mountainproject.com/photo/200800080/knock-three-times-56",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/200800080_medium_1744991261_topo.jpg?cache=1786000009",
+   "title": "\"Knock Three Times\", 5.6",
+   "breadcrumb": "Colorado > S Platte > Wonderland > Wonderland (Roped) > Castle View Crags Roped > Wild Thing Wall > Knock Three Times ( 5.6 4c 14 V 12 S 4b )",
+   "coordArea": "Wild Thing Wall",
+   "approx": false,
+   "lat": 39.36986,
+   "lng": -105.39418
   },
   {
    "id": "200872170",
@@ -9385,6 +9671,17 @@
    "lng": -80.84067
   },
   {
+   "id": "204221042",
+   "photoUrl": "https://www.mountainproject.com/photo/204221042/build-a-catchers-mit-to-keep-you-from-falling-over-the-edge",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/204221042_medium_1794544448.jpg?cache=1794544480",
+   "title": "Build a catchers mit to keep you from falling over the edge",
+   "breadcrumb": "Arizona > Northern Arizona > Northern Az Bouldering > Flagstaff Bouldering > Lake Mary Areas > BCOF Roof > Trygondastardly ( V8 7B PG13)",
+   "coordArea": "BCOF Roof",
+   "approx": false,
+   "lat": 35.12899,
+   "lng": -111.6358
+  },
+  {
    "id": "204221051",
    "photoUrl": "https://www.mountainproject.com/photo/204221051/knucklehead",
    "imageUrl": "https://mountainproject.com/assets/photos/climb/204221051_medium_1794544677.jpg?cache=1794544682",
@@ -9394,6 +9691,17 @@
    "approx": false,
    "lat": 37.53893,
    "lng": -92.21428
+  },
+  {
+   "id": "204222331",
+   "photoUrl": "https://www.mountainproject.com/photo/204222331/balanced-rock-below-echo-rocks-south-face-joshua-tree-np",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/204222331_medium_1794592239.jpg?cache=1794592244",
+   "title": "Balanced rock below Echo Rock's south face, Joshua Tree NP",
+   "breadcrumb": "California > Joshua Tree NP > Central Joshua Tree > Echo Rock Area > Echo Rock > Echo Rock - S Face",
+   "coordArea": "Echo Rock - S Face",
+   "approx": false,
+   "lat": 34.02465,
+   "lng": -116.15513
   },
   {
    "id": "3200486",
@@ -9416,6 +9724,17 @@
    "approx": false,
    "lat": 36.14947,
    "lng": -115.42673
+  },
+  {
+   "id": "6200160",
+   "photoUrl": "https://www.mountainproject.com/photo/6200160/clipping-the-bolt-for-the-crux-roof-on-putrefaction-511a",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/6200160_medium_1557854212.jpg?cache=1748661735",
+   "title": "Clipping the bolt for the crux roof on \"Putrefaction\" (5.11a).",
+   "breadcrumb": "California > San Francisco Bay Area > S Bay Area > Castle Rock And Sanborn Area > Falls Area > Waterfall Cliff > Putrefaction ( 5.11a 6c 22 VII+ 22 E3 5c )",
+   "coordArea": "Waterfall Cliff",
+   "approx": false,
+   "lat": 37.2265,
+   "lng": -122.1053
   },
   {
    "id": "6200261",
