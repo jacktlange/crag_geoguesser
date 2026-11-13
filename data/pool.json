@@ -12500,6 +12500,31 @@
    "lat": 43.9891,
    "lng": -71.50109,
    "name": null
+  },
+  "https://www.mountainproject.com/area/109589564/west-wall": {
+   "lat": 35.04787,
+   "lng": -112.02366,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/114107836/mustang-wall": {
+   "lat": 36.04497,
+   "lng": -115.46271,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/108046609/ground-up-wall": {
+   "lat": 40.25086,
+   "lng": -75.82354,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/105794072/rockfellow-dome": {
+   "lat": 31.92692,
+   "lng": -109.97782,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/117626161/truck-town": {
+   "lat": 47.42933,
+   "lng": -121.62299,
+   "name": null
   }
  },
  "rejected": {
@@ -54709,6 +54734,84 @@
    "approx": false,
    "lat": 43.9891,
    "lng": -71.50109,
+   "addedOn": "2026-11-13",
+   "usedOn": []
+  },
+  {
+   "id": "109589704",
+   "photoUrl": "https://www.mountainproject.com/photo/109589704/the-kraken-photo-wwwblakemccordphotocom",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/109589704_medium_1494357401.jpg?cache=1737725901",
+   "title": "The Kraken <br>  <br> Photo : www.blakemccordphoto.com",
+   "breadcrumb": "Arizona > Northern Arizona > Sycamore Canyon > Whitetail Canyon > W Wall > Kraken ( 5.12 7b+ 27 VIII+ 26 E6 6b )",
+   "coordArea": "W Wall",
+   "approx": false,
+   "lat": 35.04787,
+   "lng": -112.02366,
+   "addedOn": "2026-11-13",
+   "usedOn": []
+  },
+  {
+   "id": "112101742",
+   "photoUrl": "https://www.mountainproject.com/photo/112101742/approach-for-mustang-cracks",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/112101742_medium_1494321381.jpg?cache=1702071974",
+   "title": "Approach for Mustang Cracks",
+   "breadcrumb": "Nevada > Southern Nevada > Red Rocks > Black Velvet Canyon > Mustang Wall > Mustang Cracks ( 5.10d 6b+ 21 VII+ 21 E3 5b )",
+   "coordArea": "Mustang Wall",
+   "approx": false,
+   "lat": 36.04497,
+   "lng": -115.46271,
+   "addedOn": "2026-11-13",
+   "usedOn": []
+  },
+  {
+   "id": "118000589",
+   "photoUrl": "https://www.mountainproject.com/photo/118000589/battling-t-rex",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/118000589_medium_1573063245_topo.jpg?cache=1758592361",
+   "title": "Battling T-Rex",
+   "breadcrumb": "Pennsylvania > Southeastern Lowlands > Birdsboro Quarry > l. Ground Up Wall > Battling T-Rex ( 5.10b 6a+ 19 VII- 19 E2 5b )",
+   "coordArea": "l. Ground Up Wall",
+   "approx": false,
+   "lat": 40.25086,
+   "lng": -75.82354,
+   "addedOn": "2026-11-13",
+   "usedOn": []
+  },
+  {
+   "id": "119664415",
+   "photoUrl": "https://www.mountainproject.com/photo/119664415/rockfellows-at-night",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/119664415_medium_1601687820.jpg?cache=1661638778",
+   "title": "Rockfellows at Night",
+   "breadcrumb": "Arizona > Southern Arizona > Cochise Stronghold > E Stronghold > Rockfellow Group > Rockfellow Dome",
+   "coordArea": "Rockfellow Dome",
+   "approx": false,
+   "lat": 31.92692,
+   "lng": -109.97782,
+   "addedOn": "2026-11-13",
+   "usedOn": []
+  },
+  {
+   "id": "124196308",
+   "photoUrl": "https://www.mountainproject.com/photo/124196308/photo-on-left-is-after-the-block-came-loose-photo-on-the-right-is-before",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/124196308_medium_1684015610.jpg?cache=1748467995",
+   "title": "Photo on left is after the block came loose. Photo on the right is before.",
+   "breadcrumb": "Utah > Wasatch Range > Central Wasatch > Big Cottonwood Canyon > Storm Mountain Picnic Area > Storm Mtn Island > Goodro's Wall ( 5.10c 6b 20 VII 20 E2 5b )",
+   "coordArea": "Storm Mtn Island",
+   "approx": false,
+   "lat": 40.6239,
+   "lng": -111.7446,
+   "addedOn": "2026-11-13",
+   "usedOn": []
+  },
+  {
+   "id": "125248096",
+   "photoUrl": "https://www.mountainproject.com/photo/125248096/crux-is-in-between-the-first-two-pieces",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/125248096_medium_1698888661.jpg?cache=1786082007",
+   "title": "Crux is in-between the first two pieces.",
+   "breadcrumb": "Washington > Central West Cascades Seattle > N Bend & Vicinity > Exit 38 > Far Side > Truck Town > Erie Moment ( 5.7+ 5a 15 V+ 13 MVS 4b )",
+   "coordArea": "Truck Town",
+   "approx": false,
+   "lat": 47.42933,
+   "lng": -121.62299,
    "addedOn": "2026-11-13",
    "usedOn": []
   }
