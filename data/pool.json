@@ -12915,6 +12915,31 @@
    "lat": 37.3847,
    "lng": -118.67808,
    "name": null
+  },
+  "https://www.mountainproject.com/area/118180327/on-the-eve": {
+   "lat": 43.41867,
+   "lng": -89.72621,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/120382214/east-wall": {
+   "lat": 39.36947,
+   "lng": -119.69488,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/120282507/americana-exotica": {
+   "lat": 36.16615,
+   "lng": -115.41593,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/106009463/eichorn-pinnacle": {
+   "lat": 37.84763,
+   "lng": -119.40724,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/116725283/powerline-point": {
+   "lat": 38.76723,
+   "lng": -109.30763,
+   "name": null
   }
  },
  "rejected": {
@@ -13137,7 +13162,9 @@
   "200445514": "filtered: ice or snow (caption)",
   "105802761": "filtered: ice, mixed, or snow route (grade or area)",
   "202509981": "filtered: ice, mixed, or snow route (grade or area)",
-  "200299770": "filtered: ice, mixed, or snow route (grade or area)"
+  "200299770": "filtered: ice, mixed, or snow route (grade or area)",
+  "119159121": "filtered: looks like a map, topo, or drawing (caption)",
+  "126278458": "filtered: ice or snow (caption)"
  },
  "photos": [
   {
@@ -56775,6 +56802,84 @@
    "approx": false,
    "lat": 37.3847,
    "lng": -118.67808,
+   "addedOn": "2026-11-14",
+   "usedOn": []
+  },
+  {
+   "id": "107021471",
+   "photoUrl": "https://www.mountainproject.com/photo/107021471/glacier-national-park",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/107021471_medium_1494159636.jpg?cache=1706730014",
+   "title": "Glacier National Park.",
+   "breadcrumb": "Montana",
+   "coordArea": "Montana",
+   "approx": false,
+   "lat": 46.43212,
+   "lng": -112.83959,
+   "addedOn": "2026-11-14",
+   "usedOn": []
+  },
+  {
+   "id": "113325112",
+   "photoUrl": "https://www.mountainproject.com/photo/113325112/on-the-eve",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/113325112_medium_1500003357.jpg?cache=1605620305",
+   "title": "On The Eve",
+   "breadcrumb": "Wisconsin > Baraboo Range > Devil's Lake > Devils Lake Bouldering > E Bluff > E Bluff South > 13. Mirror Talus > On the Eve > On The Eve ( V1 5 )",
+   "coordArea": "On the Eve",
+   "approx": false,
+   "lat": 43.41867,
+   "lng": -89.72621,
+   "addedOn": "2026-11-14",
+   "usedOn": []
+  },
+  {
+   "id": "120175414",
+   "photoUrl": "https://www.mountainproject.com/photo/120175414/owl-rocks-east-face-night-flight-in-green-drive-by-hooting-in-gray-fledge-your-b",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/120175414_medium_1612674442_topo.jpg?cache=1776623248",
+   "title": "Owl Rock's East face: Night Flight in green; Drive By Hooting in gray; Fledge Your Bet in blue; and Too Hoot to Handle in yellow. Closed projects in red. As of 5/22/21 the 2 routes on the right are open: Owlometric Equation and Owlgebraic Formula",
+   "breadcrumb": "Nevada > Western Nevada > Reno Area > Owl Rock > 1. E Wall > Too Hoot To Handle ( 5.9 5c 17 VI 17 HVS 5a )",
+   "coordArea": "1. E Wall",
+   "approx": false,
+   "lat": 39.36947,
+   "lng": -119.69488,
+   "addedOn": "2026-11-14",
+   "usedOn": []
+  },
+  {
+   "id": "123878094",
+   "photoUrl": "https://www.mountainproject.com/photo/123878094/sticking-the-final-move",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/123878094_medium_1678980064.jpg?cache=1786086749",
+   "title": "Sticking the final move",
+   "breadcrumb": "Nevada > Southern Nevada > Red Rock Boulders > Calico Basin Boulders > Gateway Canyon > Swirly Cliff Boulders > Americana Exotica > Americana Exotica ( V10 7C+ )",
+   "coordArea": "Americana Exotica",
+   "approx": false,
+   "lat": 36.16615,
+   "lng": -115.41593,
+   "addedOn": "2026-11-14",
+   "usedOn": []
+  },
+  {
+   "id": "125208628",
+   "photoUrl": "https://www.mountainproject.com/photo/125208628/climbing-amidst-the-wildfire-smoke-in-july-2018",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/125208628_medium_1698299917.jpg?cache=1791685503",
+   "title": "Climbing amidst the wildfire smoke in July 2018",
+   "breadcrumb": "California > Yosemite NP > Tuolumne Meadows > Cathedral Range > Eichorn Pinnacle > E Face, Center Crack ( 5.11b 6c 23 VIII- 23 E3 5c )",
+   "coordArea": "Eichorn Pinnacle",
+   "approx": false,
+   "lat": 37.84763,
+   "lng": -119.40724,
+   "addedOn": "2026-11-14",
+   "usedOn": []
+  },
+  {
+   "id": "200285913",
+   "photoUrl": "https://www.mountainproject.com/photo/200285913/taking-in-the-awesomeness",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/200285913_medium_1734549907.jpg?cache=1786043029",
+   "title": "Taking in the awesomeness",
+   "breadcrumb": "Utah > Southeast Utah > Grand County > River Rd > Powerline Point > Supreme Manliness ( 5.13- 7c+ 29 IX+ 29 E7 6c )",
+   "coordArea": "Powerline Point",
+   "approx": false,
+   "lat": 38.76723,
+   "lng": -109.30763,
    "addedOn": "2026-11-14",
    "usedOn": []
   }
