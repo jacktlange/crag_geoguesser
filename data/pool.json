@@ -12870,6 +12870,26 @@
    "lat": 42.49079,
    "lng": -70.98626,
    "name": null
+  },
+  "https://www.mountainproject.com/area/105862607/echo-canyon": {
+   "lat": 35.20212,
+   "lng": -106.44666,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/105716778/potash-road": {
+   "lat": 38.5751,
+   "lng": -109.5858,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/111852442/bbc-boulder": {
+   "lat": 39.98899,
+   "lng": -105.29117,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/108131202/the-country": {
+   "lat": 47.81962,
+   "lng": -121.5692,
+   "name": null
   }
  },
  "rejected": {
@@ -56539,6 +56559,84 @@
    "lat": 42.49079,
    "lng": -70.98626,
    "addedOn": "2026-11-13",
+   "usedOn": []
+  },
+  {
+   "id": "106520560",
+   "photoUrl": "https://www.mountainproject.com/photo/106520560/the-west-side-of-echo-canyon-featuring-the-ramp-a-and-606-on-the-rudder-b-as-see",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/106520560_medium_1494116687.jpg?cache=1701315916",
+   "title": "The west side of Echo Canyon, featuring the Ramp (A) and 606 on the Rudder (B), as seen from the top of Bush Shark. The unknown climbers are on Big T.",
+   "breadcrumb": "New Mexico > Albuquerque Area > Sandia Mountains West Side > Echo Canyon",
+   "coordArea": "Echo Canyon",
+   "approx": false,
+   "lat": 35.20212,
+   "lng": -106.44666,
+   "addedOn": "2026-11-14",
+   "usedOn": []
+  },
+  {
+   "id": "107148396",
+   "photoUrl": "https://www.mountainproject.com/photo/107148396/picture-taken-from-la-posada-camping-lodging-of-potrero-chico",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/107148396_medium_1494169477.jpg?cache=1760735433",
+   "title": "Picture taken from La Posada Camping-Lodging of Potrero Chico",
+   "breadcrumb": "International > N America > Mexico > Nuevo Leon > El Potrero Chico",
+   "coordArea": "El Potrero Chico",
+   "approx": false,
+   "lat": 25.949,
+   "lng": -100.477,
+   "addedOn": "2026-11-14",
+   "usedOn": []
+  },
+  {
+   "id": "108761483",
+   "photoUrl": "https://www.mountainproject.com/photo/108761483/corona-arch",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/108761483_medium_1494295463.jpg?cache=1761940819",
+   "title": "Corona Arch",
+   "breadcrumb": "Utah > Southeast Utah > Potash Rd",
+   "coordArea": "Potash Rd",
+   "approx": false,
+   "lat": 38.5751,
+   "lng": -109.5858,
+   "addedOn": "2026-11-14",
+   "usedOn": []
+  },
+  {
+   "id": "111580232",
+   "photoUrl": "https://www.mountainproject.com/photo/111580232/sweetness",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/111580232_medium_1494295817.jpg?cache=1733665728",
+   "title": "Sweetness!",
+   "breadcrumb": "Colorado > Boulder > Flatirons > North > Satellite Boulders > BBC Boulder > Turning Point ( V8 7B )",
+   "coordArea": "BBC Boulder",
+   "approx": false,
+   "lat": 39.98899,
+   "lng": -105.29117,
+   "addedOn": "2026-11-14",
+   "usedOn": []
+  },
+  {
+   "id": "116110801",
+   "photoUrl": "https://www.mountainproject.com/photo/116110801/holdin-on-tight",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/116110801_medium_1542602647.jpg?cache=1662149603",
+   "title": "Holdin’ on tight!",
+   "breadcrumb": "Washington > Central West Cascades Seattle > Skykomish Valley > Index > Country Area > Country > Indextasy ( 5.12 7b+ 27 VIII+ 26 E6 6b )",
+   "coordArea": "Country",
+   "approx": false,
+   "lat": 47.81962,
+   "lng": -121.5692,
+   "addedOn": "2026-11-14",
+   "usedOn": []
+  },
+  {
+   "id": "117293887",
+   "photoUrl": "https://www.mountainproject.com/photo/117293887/unknown-climber-on-tr",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/117293887_medium_1562035311.jpg?cache=1658849266",
+   "title": "Unknown climber on TR",
+   "breadcrumb": "New Hampshire > Rumney > Venus Wall > Mowgli Grape ( 5.3 3+ 10 III 9 VD 3a )",
+   "coordArea": "Venus Wall",
+   "approx": false,
+   "lat": 43.80188,
+   "lng": -71.8375,
+   "addedOn": "2026-11-14",
    "usedOn": []
   }
  ],
