@@ -13290,6 +13290,21 @@
    "lat": 39.6368,
    "lng": -79.81334,
    "name": null
+  },
+  "https://www.mountainproject.com/area/105867829/rumney": {
+   "lat": 43.8021,
+   "lng": -71.8367,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/106014400/mount-san-antonio-mt-baldy": {
+   "lat": 34.28891,
+   "lng": -117.64673,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/106293949/the-gobot-boulder": {
+   "lat": 40.30492,
+   "lng": -105.66025,
+   "name": null
   }
  },
  "rejected": {
@@ -58532,6 +58547,84 @@
    "approx": false,
    "lat": 39.6368,
    "lng": -79.81334,
+   "addedOn": "2026-11-14",
+   "usedOn": []
+  },
+  {
+   "id": "106423122",
+   "photoUrl": "https://www.mountainproject.com/photo/106423122/randy-on-oz-photo-travis-hibbard",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/106423122_medium_1494107400.jpg?cache=1764656903",
+   "title": "Randy on OZ <br>  <br> Photo: Travis Hibbard",
+   "breadcrumb": "Minnesota > N Shore Rock > Tettegouche Sp North Shore > Palisade Head > Oz - (AKA The Rd To E… ( 5.12b 7b 26 VIII+ 26 E5 6b )",
+   "coordArea": "Palisade Head",
+   "approx": false,
+   "lat": 47.32016,
+   "lng": -91.21086,
+   "addedOn": "2026-11-14",
+   "usedOn": []
+  },
+  {
+   "id": "106998352",
+   "photoUrl": "https://www.mountainproject.com/photo/106998352/time-wave-zero-taken-from-the-back-of-the-potrero-follow-the-yellow-brick-road",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/106998352_medium_1494157452.jpg?cache=1784053443",
+   "title": "Time Wave Zero taken from the back of the Potrero.  Follow the yellow brick road.",
+   "breadcrumb": "International > N America > Mexico > Nuevo Leon > El Potrero Chico > Timewave Buttress > Time Wave Zero ( 5.12a 7a+ 25 VIII+ 25 E5 6a )",
+   "coordArea": "Timewave Buttress",
+   "approx": false,
+   "lat": 25.9474,
+   "lng": -100.47958,
+   "addedOn": "2026-11-14",
+   "usedOn": []
+  },
+  {
+   "id": "108255564",
+   "photoUrl": "https://www.mountainproject.com/photo/108255564/a-common-sight-at-rumney-beautiful-sunsets",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/108255564_medium_1494272242.jpg?cache=1701318145",
+   "title": "A common sight at Rumney. Beautiful sunsets.",
+   "breadcrumb": "New Hampshire > Rumney",
+   "coordArea": "Rumney",
+   "approx": false,
+   "lat": 43.8021,
+   "lng": -71.8367,
+   "addedOn": "2026-11-14",
+   "usedOn": []
+  },
+  {
+   "id": "108262339",
+   "photoUrl": "https://www.mountainproject.com/photo/108262339/here-ya-go-taco-sauce-is-the-super-steep-one-out-of-view-to-the-left-up-the-tria",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/108262339_medium_1494272719.jpg?cache=1683244062",
+   "title": "Here ya go. Taco Sauce is the super steep one out of view to the left up the triangle buttress.",
+   "breadcrumb": "California > Los Angeles Basin > Angeles National Forest > Mt Baldy Rd > Mount San Antonio Mt Baldy > Baldy Bowl (Mod. Snow)",
+   "coordArea": "Mount San Antonio Mt Baldy",
+   "approx": false,
+   "lat": 34.28891,
+   "lng": -117.64673,
+   "addedOn": "2026-11-14",
+   "usedOn": []
+  },
+  {
+   "id": "110867278",
+   "photoUrl": "https://www.mountainproject.com/photo/110867278/jack-getting-lost-at-sea",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/110867278_medium_1494356297.jpg?cache=1735402890",
+   "title": "Jack getting lost at sea!",
+   "breadcrumb": "California > Southern Sierra Nevada Western Slope > Southern Sierra The Needles Kern River Domelands Etc > Needles > Sorcerer > Lost at Sea ( 5.10d 6b+ 21 VII+ 21 E3 5b )",
+   "coordArea": "Sorcerer",
+   "approx": false,
+   "lat": 36.10745,
+   "lng": -118.48148,
+   "addedOn": "2026-11-14",
+   "usedOn": []
+  },
+  {
+   "id": "110931144",
+   "photoUrl": "https://www.mountainproject.com/photo/110931144/crazy-beautiful-area-photo-ian-cotter-brown",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/110931144_medium_1494358704.jpg?cache=1742480461",
+   "title": "Crazy beautiful area.   <br>  <br> Photo: Ian Cotter Brown.",
+   "breadcrumb": "Colorado > Alpine Rock > RMNP - Rock > Rmnp Bouldering Areas > Chaos Canyon Bouldering > Lower Chaos Canyon > Gobot Boulder > Autobot ( V5 6C )",
+   "coordArea": "Gobot Boulder",
+   "approx": false,
+   "lat": 40.30492,
+   "lng": -105.66025,
    "addedOn": "2026-11-14",
    "usedOn": []
   }
