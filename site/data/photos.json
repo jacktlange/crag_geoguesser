@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-14T06:51:28+00:00",
+ "generated": "2026-11-14T13:25:38+00:00",
  "photos": [
   {
    "id": "105787726",
@@ -1421,6 +1421,17 @@
    "lng": -85.03099
   },
   {
+   "id": "106520560",
+   "photoUrl": "https://www.mountainproject.com/photo/106520560/the-west-side-of-echo-canyon-featuring-the-ramp-a-and-606-on-the-rudder-b-as-see",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/106520560_medium_1494116687.jpg?cache=1701315916",
+   "title": "The west side of Echo Canyon, featuring the Ramp (A) and 606 on the Rudder (B), as seen from the top of Bush Shark. The unknown climbers are on Big T.",
+   "breadcrumb": "New Mexico > Albuquerque Area > Sandia Mountains West Side > Echo Canyon",
+   "coordArea": "Echo Canyon",
+   "approx": false,
+   "lat": 35.20212,
+   "lng": -106.44666
+  },
+  {
    "id": "106522634",
    "photoUrl": "https://www.mountainproject.com/photo/106522634/the-blasted-rock-in-the-boxcar-area-1-drifters-escape-v2-2-blasted-rock-crack-v0",
    "imageUrl": "https://mountainproject.com/assets/photos/climb/106522634_medium_1494116844.jpg?cache=1701315919",
@@ -1705,6 +1716,17 @@
    "approx": false,
    "lat": 32.32056,
    "lng": -110.70186
+  },
+  {
+   "id": "106705032",
+   "photoUrl": "https://www.mountainproject.com/photo/106705032/adrian-on-inner-peace",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/106705032_medium_1494133727.jpg?cache=1701316233",
+   "title": "Adrian on Inner Peace.",
+   "breadcrumb": "Colorado > Estes Park Valley > Big Thompson Canyon > Monastery > Vestibule > Inner Peace ( 5.10b 6a+ 19 VII- 19 E2 5b )",
+   "coordArea": "Vestibule",
+   "approx": false,
+   "lat": 40.45334,
+   "lng": -105.36914
   },
   {
    "id": "106705275",
@@ -3390,6 +3412,17 @@
    "lng": -111.19312
   },
   {
+   "id": "109262309",
+   "photoUrl": "https://www.mountainproject.com/photo/109262309/pitch-1-of-crimson-gem",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/109262309_medium_1494343417.jpg?cache=1771481224",
+   "title": "Pitch 1 of Crimson Gem",
+   "breadcrumb": "California > High Sierra > 02 The Sawtooth Ridge > Juggernaut > Crimson Gem ( 5.10b 6a+ 19 VII- 19 E2 5b )",
+   "coordArea": "Juggernaut",
+   "approx": false,
+   "lat": 38.10079,
+   "lng": -119.45213
+  },
+  {
    "id": "109273851",
    "photoUrl": "https://www.mountainproject.com/photo/109273851/jenn-on-the-gill-crack",
    "imageUrl": "https://mountainproject.com/assets/photos/climb/109273851_medium_1494343716.jpg?cache=1758245743",
@@ -4303,6 +4336,17 @@
    "lng": -104.04447
   },
   {
+   "id": "111973122",
+   "photoUrl": "https://www.mountainproject.com/photo/111973122/roaches-pitchoff-adk",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/111973122_medium_1494314312.jpg?cache=1777253165",
+   "title": "Roaches, Pitchoff, ADK.",
+   "breadcrumb": "New York > Adirondacks > Keene Region > Pitchoff Chimney Cliff > Roaches on the Wall ( 5.10 6b 20 VII- 19 E2 5b )",
+   "coordArea": "Pitchoff Chimney Cliff",
+   "approx": false,
+   "lat": 44.23598,
+   "lng": -73.86449
+  },
+  {
    "id": "111976872",
    "photoUrl": "https://www.mountainproject.com/photo/111976872/susan-pulling-the-crux",
    "imageUrl": "https://mountainproject.com/assets/photos/climb/111976872_medium_1494314465.jpg?cache=1741715181",
@@ -5139,6 +5183,17 @@
    "lng": -76.79329
   },
   {
+   "id": "114435092",
+   "photoUrl": "https://www.mountainproject.com/photo/114435092/jim-mcdaniel-styling-through-the-crux",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/114435092_medium_1527919326.jpg?cache=1702073025",
+   "title": "Jim McDaniel styling through the crux",
+   "breadcrumb": "California > San Bernardino Mountains > Big Bear Lake Area > Big Bear North > Big Bear City Area > Holcomb Valley Pinnacles > Pinnacles North > Voodoo Garden > Peyronie's Wall > By Hook or Crook ( 5.11b/c 6c+ 23 VIII- 24 E4 6a )",
+   "coordArea": "Peyronie's Wall",
+   "approx": false,
+   "lat": 34.31375,
+   "lng": -116.87922
+  },
+  {
    "id": "114516922",
    "photoUrl": "https://www.mountainproject.com/photo/114516922/the-big-throw-on-carbondale-short-bus-photo-by-sam-crossley",
    "imageUrl": "https://mountainproject.com/assets/photos/climb/114516922_medium_1529874035.jpg?cache=1788380764",
@@ -5315,6 +5370,17 @@
    "lng": -118.5776
   },
   {
+   "id": "116110801",
+   "photoUrl": "https://www.mountainproject.com/photo/116110801/holdin-on-tight",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/116110801_medium_1542602647.jpg?cache=1662149603",
+   "title": "Holdin’ on tight!",
+   "breadcrumb": "Washington > Central West Cascades Seattle > Skykomish Valley > Index > Country Area > Country > Indextasy ( 5.12 7b+ 27 VIII+ 26 E6 6b )",
+   "coordArea": "Country",
+   "approx": false,
+   "lat": 47.81962,
+   "lng": -121.5692
+  },
+  {
    "id": "116131239",
    "photoUrl": "https://www.mountainproject.com/photo/116131239/thanksgiving-cliff-from-the-parking-area-monastery-crags",
    "imageUrl": "https://mountainproject.com/assets/photos/climb/116131239_medium_1543096745.jpg?cache=1702073194",
@@ -5458,6 +5524,17 @@
    "lng": -85.21807
   },
   {
+   "id": "116725029",
+   "photoUrl": "https://www.mountainproject.com/photo/116725029/the-tower-of-n00b-30-pitches-5-areas-7-hours-250-bolts",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/116725029_medium_1555079110.jpg?cache=1709522378",
+   "title": "The Tower of N00b: 30 pitches, 5 areas, 7 hours, 250+ bolts.",
+   "breadcrumb": "California > Eastern Sierra > Bishop Area > Owens River Gorge",
+   "coordArea": "Owens River Gorge",
+   "approx": false,
+   "lat": 37.51191,
+   "lng": -118.57091
+  },
+  {
    "id": "116783277",
    "photoUrl": "https://www.mountainproject.com/photo/116783277/crossing-through-the-boulder-problem-after-the-rest",
    "imageUrl": "https://mountainproject.com/assets/photos/climb/116783277_medium_1556209413.jpg?cache=1740286156",
@@ -5599,6 +5676,17 @@
    "approx": false,
    "lat": 43.8807,
    "lng": -103.4619
+  },
+  {
+   "id": "117293887",
+   "photoUrl": "https://www.mountainproject.com/photo/117293887/unknown-climber-on-tr",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/117293887_medium_1562035311.jpg?cache=1658849266",
+   "title": "Unknown climber on TR",
+   "breadcrumb": "New Hampshire > Rumney > Venus Wall > Mowgli Grape ( 5.3 3+ 10 III 9 VD 3a )",
+   "coordArea": "Venus Wall",
+   "approx": false,
+   "lat": 43.80188,
+   "lng": -71.8375
   },
   {
    "id": "117510215",
@@ -6545,6 +6633,17 @@
    "approx": false,
    "lat": 39.93429,
    "lng": -105.28837
+  },
+  {
+   "id": "120611334",
+   "photoUrl": "https://www.mountainproject.com/photo/120611334/the-knob",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/120611334_medium_1619420088.jpg?cache=1714759530",
+   "title": "\"The Knob\"",
+   "breadcrumb": "Texas > Austin Area > Champion Park > Knob",
+   "coordArea": "Knob",
+   "approx": false,
+   "lat": 30.50991,
+   "lng": -97.75737
   },
   {
    "id": "120617679",

@@ -12890,6 +12890,31 @@
    "lat": 47.81962,
    "lng": -121.5692,
    "name": null
+  },
+  "https://www.mountainproject.com/area/105807704/redgarden-lumpe-to-the-top": {
+   "lat": 39.93228,
+   "lng": -105.28671,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/107418508/supa-coola-area-millipede-boulder": {
+   "lat": 33.92053,
+   "lng": -86.30898,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/107977810/staunton-rocks": {
+   "lat": 39.5165,
+   "lng": -105.3978,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/109262091/the-juggernaut": {
+   "lat": 38.10079,
+   "lng": -119.45213,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/115356844/little-pinnacle-aka-mini-buttress": {
+   "lat": 37.3847,
+   "lng": -118.67808,
+   "name": null
   }
  },
  "rejected": {
@@ -16427,7 +16452,9 @@
    "lat": 37.51191,
    "lng": -118.57091,
    "addedOn": "2026-10-31",
-   "usedOn": []
+   "usedOn": [
+    "2026-11-14"
+   ]
   },
   {
    "id": "117723805",
@@ -21590,7 +21617,9 @@
    "lat": 30.50991,
    "lng": -97.75737,
    "addedOn": "2026-11-03",
-   "usedOn": []
+   "usedOn": [
+    "2026-11-14"
+   ]
   },
   {
    "id": "204159494",
@@ -41133,7 +41162,9 @@
    "lat": 34.31375,
    "lng": -116.87922,
    "addedOn": "2026-11-08",
-   "usedOn": []
+   "usedOn": [
+    "2026-11-14"
+   ]
   },
   {
    "id": "113953907",
@@ -41679,7 +41710,9 @@
    "lat": 44.23598,
    "lng": -73.86449,
    "addedOn": "2026-11-08",
-   "usedOn": []
+   "usedOn": [
+    "2026-11-14"
+   ]
   },
   {
    "id": "204192043",
@@ -45501,7 +45534,9 @@
    "lat": 40.45334,
    "lng": -105.36914,
    "addedOn": "2026-11-10",
-   "usedOn": []
+   "usedOn": [
+    "2026-11-14"
+   ]
   },
   {
    "id": "106165221",
@@ -56636,6 +56671,110 @@
    "approx": false,
    "lat": 43.80188,
    "lng": -71.8375,
+   "addedOn": "2026-11-14",
+   "usedOn": []
+  },
+  {
+   "id": "1200875",
+   "photoUrl": "https://www.mountainproject.com/photo/1200875/mark-spieker-follows-the-rebuffats-arete-at-the-top-of-the-green-spur-photo-by-t",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/1200875_medium_1557524570.jpg?cache=1770931240",
+   "title": "Mark Spieker Follows the Rebuffat's arete at the top of The Green Spur. <br>  <br> Photo by Tony Bubb.",
+   "breadcrumb": "Colorado > Boulder > Eldorado Canyon SP > Redgarden Wall > Redgarden Lumpe To The Top > Green Spur ( 5.9+ 5c 17 VI 17 E1 5a )",
+   "coordArea": "Redgarden Lumpe To The Top",
+   "approx": false,
+   "lat": 39.93228,
+   "lng": -105.28671,
+   "addedOn": "2026-11-14",
+   "usedOn": []
+  },
+  {
+   "id": "106274228",
+   "photoUrl": "https://www.mountainproject.com/photo/106274228/doni-almost-there",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/106274228_medium_1494093467.jpg?cache=1741636376",
+   "title": "Doni almost there",
+   "breadcrumb": "Alabama > Horse Pens 40 > Supa Coola Area Millipede Boulder",
+   "coordArea": "Supa Coola Area Millipede Boulder",
+   "approx": false,
+   "lat": 33.92053,
+   "lng": -86.30898,
+   "addedOn": "2026-11-14",
+   "usedOn": []
+  },
+  {
+   "id": "107971706",
+   "photoUrl": "https://www.mountainproject.com/photo/107971706/unknown-guy-on-the-third-no-shoes",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/107971706_medium_1494254418.jpg?cache=1787903902",
+   "title": "Unknown guy on The Third (no shoes!).",
+   "breadcrumb": "Colorado > Boulder > Flatirons > North > Third Flatiron > E Face (Standard) ( 5.4 4a 12 IV 10 VD 3c )",
+   "coordArea": "Third Flatiron",
+   "approx": false,
+   "lat": 39.9874,
+   "lng": -105.29196,
+   "addedOn": "2026-11-14",
+   "usedOn": []
+  },
+  {
+   "id": "107977921",
+   "photoUrl": "https://www.mountainproject.com/photo/107977921/staunton-rocks",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/107977921_medium_1494254825.jpg?cache=1709176371",
+   "title": "Staunton Rocks.",
+   "breadcrumb": "Colorado > S Platte > Staunton SP > Staunton Rocks",
+   "coordArea": "Staunton Rocks",
+   "approx": false,
+   "lat": 39.5165,
+   "lng": -105.3978,
+   "addedOn": "2026-11-14",
+   "usedOn": []
+  },
+  {
+   "id": "108101638",
+   "photoUrl": "https://www.mountainproject.com/photo/108101638/the-descent-from-black-velvet-peak",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/108101638_medium_1494263041.jpg?cache=1727196445",
+   "title": "The descent from Black Velvet Peak",
+   "breadcrumb": "Nevada > Southern Nevada > Red Rocks > Black Velvet Canyon > Black Velvet Wall > Epinephrine ( 5.9 5c 17 VI 17 HVS 5a )",
+   "coordArea": "Black Velvet Wall",
+   "approx": false,
+   "lat": 36.03518,
+   "lng": -115.46652,
+   "addedOn": "2026-11-14",
+   "usedOn": []
+  },
+  {
+   "id": "109262309",
+   "photoUrl": "https://www.mountainproject.com/photo/109262309/pitch-1-of-crimson-gem",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/109262309_medium_1494343417.jpg?cache=1771481224",
+   "title": "Pitch 1 of Crimson Gem",
+   "breadcrumb": "California > High Sierra > 02 The Sawtooth Ridge > Juggernaut > Crimson Gem ( 5.10b 6a+ 19 VII- 19 E2 5b )",
+   "coordArea": "Juggernaut",
+   "approx": false,
+   "lat": 38.10079,
+   "lng": -119.45213,
+   "addedOn": "2026-11-14",
+   "usedOn": []
+  },
+  {
+   "id": "121525622",
+   "photoUrl": "https://www.mountainproject.com/photo/121525622/mo-finger-crack-photo-by-jack-cramer",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/121525622_medium_1635117373.jpg?cache=1789079446",
+   "title": "Mo finger crack. Photo by Jack Cramer",
+   "breadcrumb": "California > Yosemite NP > Yosemite Valley > Lower Merced River Canyon > Ba. The Rostrum > Alien Finish ( 5.12b 7b 26 VIII+ 26 E5 6b )",
+   "coordArea": "Ba. The Rostrum",
+   "approx": false,
+   "lat": 37.71848,
+   "lng": -119.70799,
+   "addedOn": "2026-11-14",
+   "usedOn": []
+  },
+  {
+   "id": "201479469",
+   "photoUrl": "https://www.mountainproject.com/photo/201479469/patrick-and-dustin-on-the-fa",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/201479469_medium_1754837941.jpg?cache=1785989966",
+   "title": "Patrick and Dustin on the FA",
+   "breadcrumb": "California > Eastern Sierra > Bishop Area > Pine Creek Canyon > Scheelite Canyon Pratts Crack Gully > Little Pinnacle Aka Mini Buttress > Hazy Jane ( 5.12d 7c 28 IX 28 E6 6b )",
+   "coordArea": "Little Pinnacle Aka Mini Buttress",
+   "approx": false,
+   "lat": 37.3847,
+   "lng": -118.67808,
    "addedOn": "2026-11-14",
    "usedOn": []
   }
