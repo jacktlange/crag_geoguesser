@@ -12525,6 +12525,21 @@
    "lat": 47.42933,
    "lng": -121.62299,
    "name": null
+  },
+  "https://www.mountainproject.com/area/109057316/lower-tokopah-dome": {
+   "lat": 36.62316,
+   "lng": -118.6992,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/105797955/turkey-tail": {
+   "lat": 39.11911,
+   "lng": -105.23949,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/105790243/san-diego-county": {
+   "lat": 32.7009,
+   "lng": -117.17988,
+   "name": null
   }
  },
  "rejected": {
@@ -54812,6 +54827,84 @@
    "approx": false,
    "lat": 47.42933,
    "lng": -121.62299,
+   "addedOn": "2026-11-13",
+   "usedOn": []
+  },
+  {
+   "id": "106046369",
+   "photoUrl": "https://www.mountainproject.com/photo/106046369/the-tree-ledge-of-upper-refuse",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/106046369_medium_1558467051.jpg?cache=1727721248",
+   "title": "The tree ledge of Upper Refuse.",
+   "breadcrumb": "New Hampshire > Cathedral Ledge > Barber Wall > Upper Refuse ( 5.5 4b 13 IV+ 11 MS 4a )",
+   "coordArea": "Barber Wall",
+   "approx": false,
+   "lat": 44.0622,
+   "lng": -71.16582,
+   "addedOn": "2026-11-13",
+   "usedOn": []
+  },
+  {
+   "id": "106248775",
+   "photoUrl": "https://www.mountainproject.com/photo/106248775/rainbow",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/106248775_medium_1494091382.jpg?cache=1701315453",
+   "title": "Rainbow.",
+   "breadcrumb": "International > S America > Peru > Cordillera Blanca",
+   "coordArea": "Cordillera Blanca",
+   "approx": false,
+   "lat": -9.35156,
+   "lng": -77.40971,
+   "addedOn": "2026-11-13",
+   "usedOn": []
+  },
+  {
+   "id": "108417524",
+   "photoUrl": "https://www.mountainproject.com/photo/108417524/jon",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/108417524_medium_1494282110.jpg?cache=1701318270",
+   "title": "Jon",
+   "breadcrumb": "California > Central Coast > Hwy 33/Ojai > Hwy 33Ojai Bouldering > Pine Mountain > Enlightenment Ridge > Gardez l'eau ( V5 6C )",
+   "coordArea": "Enlightenment Ridge",
+   "approx": false,
+   "lat": 34.63555,
+   "lng": -119.31105,
+   "addedOn": "2026-11-13",
+   "usedOn": []
+  },
+  {
+   "id": "109060271",
+   "photoUrl": "https://www.mountainproject.com/photo/109060271/knobs-in-the-end-of-pitch-4-fifth-pitch-goes-up-the-right-side-of-the-water-groo",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/109060271_medium_1494337746.jpg?cache=1792993357",
+   "title": "Knobs in the end of pitch 4. Fifth pitch goes up the right side of the water groove above. Beautiful 5.5-5.8 knobs and chicken heads.",
+   "breadcrumb": "California > Sequoia Kings Canyon Np > Tokopah Valley > Lower Tokopah Dome > Tokopah Reality ( 5.11- 6c 22 VIII- 22 E3 5c )",
+   "coordArea": "Lower Tokopah Dome",
+   "approx": false,
+   "lat": 36.62316,
+   "lng": -118.6992,
+   "addedOn": "2026-11-13",
+   "usedOn": []
+  },
+  {
+   "id": "109610450",
+   "photoUrl": "https://www.mountainproject.com/photo/109610450/climber-jason-antin-belayer-trask-bradbury-photo-tim-banfield-my-first-day-at-tu",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/109610450_medium_1494357927.jpg?cache=1701318684",
+   "title": "Climber: Jason Antin. <br> Belayer: Trask Bradbury. <br> Photo: Tim Banfield. <br>  <br> My first day @ Turkey Rocks, and it was a memorable one!",
+   "breadcrumb": "Colorado > S Platte > Turkey Rocks > Turkey Tail > Quiver & Quill ( 5.10+ 6b+ 21 VII+ 20 E3 5b )",
+   "coordArea": "Turkey Tail",
+   "approx": false,
+   "lat": 39.11911,
+   "lng": -105.23949,
+   "addedOn": "2026-11-13",
+   "usedOn": []
+  },
+  {
+   "id": "111033767",
+   "photoUrl": "https://www.mountainproject.com/photo/111033767/san-diego",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/111033767_medium_1494338248.jpg?cache=1728407284",
+   "title": "San Diego!",
+   "breadcrumb": "California > San Diego County",
+   "coordArea": "San Diego County",
+   "approx": false,
+   "lat": 32.7009,
+   "lng": -117.17988,
    "addedOn": "2026-11-13",
    "usedOn": []
   }
