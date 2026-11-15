@@ -14055,6 +14055,31 @@
    "lat": 40.14827,
    "lng": -79.462,
    "name": null
+  },
+  "https://www.mountainproject.com/area/105801420/boulder": {
+   "lat": 40.01787,
+   "lng": -105.27996,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/111394466/fern-gulley": {
+   "lat": 35.87561,
+   "lng": -93.12678,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/106098051/joshua-tree-bouldering": {
+   "lat": 34.01565,
+   "lng": -116.16298,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/109611348/gods-and-monsters-wall": {
+   "lat": 45.40796,
+   "lng": -121.56799,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/109318878/the-mill": {
+   "lat": 40.1927,
+   "lng": -121.72595,
+   "name": null
   }
  },
  "rejected": {
@@ -14301,7 +14326,8 @@
   "107936816": "filtered: ice or snow (caption)",
   "105976289": "filtered: ice, mixed, or snow route (grade or area)",
   "200436590": "filtered: ice, mixed, or snow route (grade or area)",
-  "202312438": "filtered: ice or snow (caption)"
+  "202312438": "filtered: ice or snow (caption)",
+  "107505403": "filtered: looks like a map, topo, or drawing (caption)"
  },
  "photos": [
   {
@@ -62074,6 +62100,84 @@
    "lat": 40.14827,
    "lng": -79.462,
    "addedOn": "2026-11-14",
+   "usedOn": []
+  },
+  {
+   "id": "105801427",
+   "photoUrl": "https://www.mountainproject.com/photo/105801427/flatirons-behind-boulder",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/105801427_medium_1557857383.jpg?cache=1701611393",
+   "title": "Flatirons behind Boulder.",
+   "breadcrumb": "Colorado > Boulder",
+   "coordArea": "Boulder",
+   "approx": false,
+   "lat": 40.01787,
+   "lng": -105.27996,
+   "addedOn": "2026-11-15",
+   "usedOn": []
+  },
+  {
+   "id": "111711350",
+   "photoUrl": "https://www.mountainproject.com/photo/111711350/chad-on-the-leftovers",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/111711350_medium_1494301070.jpg?cache=1702071672",
+   "title": "Chad on The Leftovers",
+   "breadcrumb": "Arkansas > North Central Arkansas > Cowell/Deer Area > Cowell > Invasion Area > Fern Gulley > Leftovers ( 5.12a 7a+ 25 VIII+ 25 E5 6a )",
+   "coordArea": "Fern Gulley",
+   "approx": false,
+   "lat": 35.87561,
+   "lng": -93.12678,
+   "addedOn": "2026-11-15",
+   "usedOn": []
+  },
+  {
+   "id": "112238101",
+   "photoUrl": "https://www.mountainproject.com/photo/112238101/having-fun-with-40-mile-an-hour-winds-on-the-top-of-castleton",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/112238101_medium_1494328065.jpg?cache=1773712522",
+   "title": "Having fun with 40+ mile an hour winds on the top of Castleton",
+   "breadcrumb": "Utah > Southeast Utah > Grand County > Castle Valley > Castleton Tower > N Chimney ( 5.9 5c 17 VI 17 HVS 5a )",
+   "coordArea": "Castleton Tower",
+   "approx": false,
+   "lat": 38.651,
+   "lng": -109.3678,
+   "addedOn": "2026-11-15",
+   "usedOn": []
+  },
+  {
+   "id": "114285847",
+   "photoUrl": "https://www.mountainproject.com/photo/114285847/blitzo-working-a-tricky-mantle-in-wonderland",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/114285847_medium_1524435425.jpg?cache=1741299415",
+   "title": "Blitzo working a tricky mantle in Wonderland.",
+   "breadcrumb": "California > Joshua Tree NP > Joshua Tree Bouldering",
+   "coordArea": "Joshua Tree Bouldering",
+   "approx": false,
+   "lat": 34.01565,
+   "lng": -116.16298,
+   "addedOn": "2026-11-15",
+   "usedOn": []
+  },
+  {
+   "id": "118788175",
+   "photoUrl": "https://www.mountainproject.com/photo/118788175/chai-crushing-it",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/118788175_medium_1587658925.jpg?cache=1658421517",
+   "title": "Chai crushing it",
+   "breadcrumb": "Oregon > Mt Hood National Forest > Klinger Spring > Gods And Monsters Wall > Nosferatu ( 5.9 5c 17 VI 17 HVS 5a )",
+   "coordArea": "Gods And Monsters Wall",
+   "approx": false,
+   "lat": 45.40796,
+   "lng": -121.56799,
+   "addedOn": "2026-11-15",
+   "usedOn": []
+  },
+  {
+   "id": "119923055",
+   "photoUrl": "https://www.mountainproject.com/photo/119923055/photo-cred-nate-sheffield",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/119923055_medium_1605491922.jpg?cache=1702073931",
+   "title": "photo cred: Nate Sheffield",
+   "breadcrumb": "California > Northeast California > Lost Sierra > Mill",
+   "coordArea": "Mill",
+   "approx": false,
+   "lat": 40.1927,
+   "lng": -121.72595,
+   "addedOn": "2026-11-15",
    "usedOn": []
   }
  ],
