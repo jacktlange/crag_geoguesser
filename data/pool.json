@@ -14080,6 +14080,36 @@
    "lat": 40.1927,
    "lng": -121.72595,
    "name": null
+  },
+  "https://www.mountainproject.com/area/105738155/main-wall": {
+   "lat": 32.29825,
+   "lng": -110.71317,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/105847200/the-sheriffs-badge": {
+   "lat": 49.6885,
+   "lng": -123.13937,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/110464547/central-wonderland": {
+   "lat": 34.04779,
+   "lng": -116.14372,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/105745633/monitor-rock": {
+   "lat": 39.0726,
+   "lng": -106.4513,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/105739635/morning-glory-spire": {
+   "lat": 42.08282,
+   "lng": -113.72147,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/106647705/hueco-boulder": {
+   "lat": 38.8899,
+   "lng": -108.5112,
+   "name": null
   }
  },
  "rejected": {
@@ -22573,7 +22603,9 @@
    "lat": 40.56299,
    "lng": -111.76907,
    "addedOn": "2026-11-03",
-   "usedOn": []
+   "usedOn": [
+    "2026-11-15"
+   ]
   },
   {
    "id": "108314852",
@@ -38502,7 +38534,9 @@
    "lat": 35.2948,
    "lng": -82.78817,
    "addedOn": "2026-11-07",
-   "usedOn": []
+   "usedOn": [
+    "2026-11-15"
+   ]
   },
   {
    "id": "124760906",
@@ -45034,7 +45068,9 @@
    "lat": 47.82262,
    "lng": -121.55947,
    "addedOn": "2026-11-10",
-   "usedOn": []
+   "usedOn": [
+    "2026-11-15"
+   ]
   },
   {
    "id": "204202168",
@@ -45255,7 +45291,9 @@
    "lat": 34.0122,
    "lng": -116.16795,
    "addedOn": "2026-11-10",
-   "usedOn": []
+   "usedOn": [
+    "2026-11-15"
+   ]
   },
   {
    "id": "120431464",
@@ -60735,7 +60773,9 @@
    "lat": 34.02783,
    "lng": -116.14452,
    "addedOn": "2026-11-14",
-   "usedOn": []
+   "usedOn": [
+    "2026-11-15"
+   ]
   },
   {
    "id": "106623448",
@@ -62177,6 +62217,110 @@
    "approx": false,
    "lat": 40.1927,
    "lng": -121.72595,
+   "addedOn": "2026-11-15",
+   "usedOn": []
+  },
+  {
+   "id": "106365282",
+   "photoUrl": "https://www.mountainproject.com/photo/106365282/moss-and-stream-detail-ishinca-valley",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/106365282_medium_1494102060.jpg?cache=1773265206",
+   "title": "Moss and stream detail, Ishinca Valley",
+   "breadcrumb": "International > S America > Peru > Cordillera Blanca",
+   "coordArea": "Cordillera Blanca",
+   "approx": false,
+   "lat": -9.35156,
+   "lng": -77.40971,
+   "addedOn": "2026-11-15",
+   "usedOn": []
+  },
+  {
+   "id": "106426578",
+   "photoUrl": "https://www.mountainproject.com/photo/106426578/eric-ruljancich-working-for-the-red-point",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/106426578_medium_1494107594.jpg?cache=1768915279",
+   "title": "Eric Ruljancich working for the red point.",
+   "breadcrumb": "Arizona > Southern Arizona > La Milagrosa Canyon > Main Wall > Wizard ( 5.12a 7a+ 25 VIII+ 25 E5 6a )",
+   "coordArea": "Main Wall",
+   "approx": false,
+   "lat": 32.29825,
+   "lng": -110.71317,
+   "addedOn": "2026-11-15",
+   "usedOn": []
+  },
+  {
+   "id": "106860372",
+   "photoUrl": "https://www.mountainproject.com/photo/106860372/classic",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/106860372_medium_1494146383.jpg?cache=1775603978",
+   "title": "Classic!",
+   "breadcrumb": "International > N America > Canada > British Columbia > Squamish > Stawamus Chief > Sheriff's Badge > Daily Planet ( 5.12a 7a+ 25 VIII+ 25 E5 6a )",
+   "coordArea": "Sheriff's Badge",
+   "approx": false,
+   "lat": 49.6885,
+   "lng": -123.13937,
+   "addedOn": "2026-11-15",
+   "usedOn": []
+  },
+  {
+   "id": "107057630",
+   "photoUrl": "https://www.mountainproject.com/photo/107057630/murf-and-epi-on-the-manly-dike",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/107057630_medium_1494162547.jpg?cache=1782316404",
+   "title": "Murf and Epi on the Manly Dike.",
+   "breadcrumb": "California > Joshua Tree NP > Wonderland Of Rocks > Wonderland South > Central Wonderland",
+   "coordArea": "Central Wonderland",
+   "approx": false,
+   "lat": 34.04779,
+   "lng": -116.14372,
+   "addedOn": "2026-11-15",
+   "usedOn": []
+  },
+  {
+   "id": "108520181",
+   "photoUrl": "https://www.mountainproject.com/photo/108520181/monitor",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/108520181_medium_1494287312_topo.jpg?cache=1750734963",
+   "title": "Monitor.",
+   "breadcrumb": "Colorado > Independence Pass > Monitor Rock",
+   "coordArea": "Monitor Rock",
+   "approx": false,
+   "lat": 39.0726,
+   "lng": -106.4513,
+   "addedOn": "2026-11-15",
+   "usedOn": []
+  },
+  {
+   "id": "110717303",
+   "photoUrl": "https://www.mountainproject.com/photo/110717303/skyline",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/110717303_medium_1494352263.jpg?cache=1776137613",
+   "title": "Skyline",
+   "breadcrumb": "Idaho > S Idaho > City of Rocks > Morning Glory Spire > Skyline ( 5.8 5b 16 VI- 15 HVS 4c )",
+   "coordArea": "Morning Glory Spire",
+   "approx": false,
+   "lat": 42.08282,
+   "lng": -113.72147,
+   "addedOn": "2026-11-15",
+   "usedOn": []
+  },
+  {
+   "id": "113236410",
+   "photoUrl": "https://www.mountainproject.com/photo/113236410/pitch-12-after-rockfall-starting-off-the-bolt-ladder-this-is-a-mix-of-pins-and-b",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/113236410_medium_1498841919.jpg?cache=1702072509",
+   "title": "(Pitch 12 after Rockfall.) Starting off the bolt ladder. This is a mix of pins and bolts.",
+   "breadcrumb": "California > Yosemite NP > Yosemite Valley > Valley S Side > D. Half Dome > 1. Northwest Face > Regular Northwest Fac… ( 5.9 5c 17 VI 17 HVS 5a C1)",
+   "coordArea": "1. Northwest Face",
+   "approx": false,
+   "lat": 37.74685,
+   "lng": -119.5336,
+   "addedOn": "2026-11-15",
+   "usedOn": []
+  },
+  {
+   "id": "126495651",
+   "photoUrl": "https://www.mountainproject.com/photo/126495651/fun-heel-hook-rail-action",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/126495651_medium_1720242574.jpg?cache=1786062002",
+   "title": "Fun heel hook rail action",
+   "breadcrumb": "Colorado > Grand Junction Area > Unaweep Canyon > Nine Mile Hill > Nine Mile Bouldering > Mecca Boulder Area > Mecca Area > Hueco Boulder > Hueco Problem ( V4 6B )",
+   "coordArea": "Hueco Boulder",
+   "approx": false,
+   "lat": 38.8899,
+   "lng": -108.5112,
    "addedOn": "2026-11-15",
    "usedOn": []
   }
