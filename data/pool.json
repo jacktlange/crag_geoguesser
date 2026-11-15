@@ -14465,6 +14465,26 @@
    "lat": 40.18656,
    "lng": -105.35468,
    "name": null
+  },
+  "https://www.mountainproject.com/area/105833395/half-dome": {
+   "lat": 37.74594,
+   "lng": -119.53304,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/105744310/rifle-mountain-park": {
+   "lat": 39.7159,
+   "lng": -107.6912,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/106152801/lake-arrowhead-pinnacles": {
+   "lat": 34.3067,
+   "lng": -117.2281,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/123995524/boneyard": {
+   "lat": 39.7384,
+   "lng": -105.38903,
+   "name": null
   }
  },
  "rejected": {
@@ -14729,7 +14749,8 @@
   "126001751": "filtered: ice, mixed, or snow route (grade or area)",
   "112786772": "filtered: ice or snow (caption)",
   "108487731": "filtered: ice or snow (caption)",
-  "120652239": "filtered: ice, mixed, or snow route (grade or area)"
+  "120652239": "filtered: ice, mixed, or snow route (grade or area)",
+  "106450301": "filtered: ice or snow (caption)"
  },
  "photos": [
   {
@@ -64071,6 +64092,84 @@
    "approx": false,
    "lat": 40.18656,
    "lng": -105.35468,
+   "addedOn": "2026-11-15",
+   "usedOn": []
+  },
+  {
+   "id": "106335851",
+   "photoUrl": "https://www.mountainproject.com/photo/106335851/the-n-arete-lit-from-the-west",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/106335851_medium_1494099077.jpg?cache=1760326030",
+   "title": "The N Arete lit from the west.",
+   "breadcrumb": "California > High Sierra > 06 Little Lakes Valley Mono Recesses > Bear Creek Spire > N Arete ( 5.8 5b 16 VI- 15 HVS 4c )",
+   "coordArea": "Bear Creek Spire",
+   "approx": false,
+   "lat": 37.3681,
+   "lng": -118.767,
+   "addedOn": "2026-11-15",
+   "usedOn": []
+  },
+  {
+   "id": "106586931",
+   "photoUrl": "https://www.mountainproject.com/photo/106586931/half-dome-late-in-the-day",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/106586931_medium_1494122794.jpg?cache=1732071590",
+   "title": "Half Dome late in the day",
+   "breadcrumb": "California > Yosemite NP > Yosemite Valley > Valley S Side > D. Half Dome",
+   "coordArea": "D. Half Dome",
+   "approx": false,
+   "lat": 37.74594,
+   "lng": -119.53304,
+   "addedOn": "2026-11-15",
+   "usedOn": []
+  },
+  {
+   "id": "106930345",
+   "photoUrl": "https://www.mountainproject.com/photo/106930345/jag-sets-sail-on-the-voyage-of-the-damned",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/106930345_medium_1494151903.jpg?cache=1701316582",
+   "title": "JAG sets sail on \"The Voyage of the Damned\"",
+   "breadcrumb": "Pennsylvania > Northeast Ridges And Valleys > Delaware Water Gap Pa > Mt Minsi > Land Of The Giants > Voyage of the Damned ( 5.11a 6c 22 VII+ 22 E3 5c PG13)",
+   "coordArea": "Land Of The Giants",
+   "approx": false,
+   "lat": 40.96313,
+   "lng": -75.12387,
+   "addedOn": "2026-11-15",
+   "usedOn": []
+  },
+  {
+   "id": "108291939",
+   "photoUrl": "https://www.mountainproject.com/photo/108291939/rifle-in-october-feline-parking-lot",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/108291939_medium_1494274284.jpg?cache=1775358728",
+   "title": "Rifle in October / Feline parking lot.",
+   "breadcrumb": "Colorado > Rifle > Rifle Mtn Park",
+   "coordArea": "Rifle Mtn Park",
+   "approx": false,
+   "lat": 39.7159,
+   "lng": -107.6912,
+   "addedOn": "2026-11-15",
+   "usedOn": []
+  },
+  {
+   "id": "118176021",
+   "photoUrl": "https://www.mountainproject.com/photo/118176021/an-unexpected-find-at-the-pinnacles",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/118176021_medium_1577157463.jpg?cache=1775752840",
+   "title": "An unexpected find at the Pinnacles.",
+   "breadcrumb": "California > San Bernardino Mountains > Lake Arrowhead Area > Lake Arrowhead Pinnacles",
+   "coordArea": "Lake Arrowhead Pinnacles",
+   "approx": false,
+   "lat": 34.3067,
+   "lng": -117.2281,
+   "addedOn": "2026-11-15",
+   "usedOn": []
+  },
+  {
+   "id": "124002191",
+   "photoUrl": "https://www.mountainproject.com/photo/124002191/dyno-piece-holding-the-swing",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/124002191_medium_1681152949.jpg?cache=1786087825",
+   "title": "Dyno Piece holding the swing!",
+   "breadcrumb": "Colorado > Golden > Clear Creek Canyon > Clear Creek Canyon Bouldering > Boneyard",
+   "coordArea": "Boneyard",
+   "approx": false,
+   "lat": 39.7384,
+   "lng": -105.38903,
    "addedOn": "2026-11-15",
    "usedOn": []
   }
