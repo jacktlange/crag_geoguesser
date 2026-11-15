@@ -13670,6 +13670,26 @@
    "lat": 37.19743,
    "lng": -113.64353,
    "name": null
+  },
+  "https://www.mountainproject.com/area/106355563/iron-resolution-block": {
+   "lat": 34.02783,
+   "lng": -116.14452,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/105745049/combat-rock": {
+   "lat": 40.44204,
+   "lng": -105.34428,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/107104792/galaxy-buttress": {
+   "lat": 49.924,
+   "lng": -123.1675,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/114014010/gridwall": {
+   "lat": 40.45145,
+   "lng": -111.67624,
+   "name": null
   }
  },
  "rejected": {
@@ -13906,7 +13926,8 @@
   "204228356": "filtered: ice or snow (caption)",
   "202380347": "filtered: ice, mixed, or snow route (grade or area)",
   "123714857": "filtered: ice, mixed, or snow route (grade or area)",
-  "204228372": "filtered: ice, mixed, or snow route (grade or area)"
+  "204228372": "filtered: ice, mixed, or snow route (grade or area)",
+  "112129646": "filtered: looks like a map, topo, or drawing (caption)"
  },
  "photos": [
   {
@@ -60300,6 +60321,84 @@
    "approx": false,
    "lat": 37.19743,
    "lng": -113.64353,
+   "addedOn": "2026-11-14",
+   "usedOn": []
+  },
+  {
+   "id": "106110780",
+   "photoUrl": "https://www.mountainproject.com/photo/106110780/rob-doing-his-best-in-chuck-taylors",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/106110780_medium_1558649337.jpg?cache=1755182743",
+   "title": "Rob doing his best in Chuck Taylors.",
+   "breadcrumb": "California > Joshua Tree NP > Joshua Tree Bouldering > Central Joshua Tree Bouldering > Barker Dam Bouldering > Gunsmoke Area > Iron Resolution Block > Iron Resolution ( V12+ 8A+ )",
+   "coordArea": "Iron Resolution Block",
+   "approx": false,
+   "lat": 34.02783,
+   "lng": -116.14452,
+   "addedOn": "2026-11-14",
+   "usedOn": []
+  },
+  {
+   "id": "106623448",
+   "photoUrl": "https://www.mountainproject.com/photo/106623448/end-pinnacle-and-rock-climber-unknown",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/106623448_medium_1494126369.jpg?cache=1752769307",
+   "title": "End Pinnacle and rock. Climber unknown.",
+   "breadcrumb": "Arizona > Southern Arizona > Cochise Stronghold > E Stronghold > Rockfellow Group",
+   "coordArea": "Rockfellow Group",
+   "approx": false,
+   "lat": 31.92708,
+   "lng": -109.97765,
+   "addedOn": "2026-11-14",
+   "usedOn": []
+  },
+  {
+   "id": "106675872",
+   "photoUrl": "https://www.mountainproject.com/photo/106675872/routes-from-l-r-1wonderin-where-the-lions-are-9-2rambo-santa-7-3old-bolt-route-7",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/106675872_medium_1494131165.jpg?cache=1749316587",
+   "title": "Routes From L-R: <br> 1;Wonderin' where the Lions Are 9+ <br> 2;Rambo Santa 7 <br> 3;Old Bolt Route 7R <br> 4;Tree Roof 8 <br> 5;Pearl Harbor 10d <br> 6;Eight Clicks...10c <br> 7;Ain't Nobody Here...11d <br> 8;Across Enemy Lines 12a <br> 9;Diagonal 9 <br> 10;Battle of Evermore 10b <br> 11;Blood for Oil 12a <br> 12;Stronghold 9 <br> 13;Front Lines 10a <br> 14;Lizzard Warrior 10d <br> 15;Camouflage 9- <br> 16;G.I. Joe Does...9+ <br> 17;Nuclear Polka 10a <br> 18;Monkey Lust 9",
+   "breadcrumb": "Colorado > Estes Park Valley > Big Thompson Canyon > Combat Rock",
+   "coordArea": "Combat Rock",
+   "approx": false,
+   "lat": 40.44204,
+   "lng": -105.34428,
+   "addedOn": "2026-11-14",
+   "usedOn": []
+  },
+  {
+   "id": "111029898",
+   "photoUrl": "https://www.mountainproject.com/photo/111029898/lauren-following-the-beautiful-2nd-pitch",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/111029898_medium_1494338156.jpg?cache=1765240529",
+   "title": "Lauren following the beautiful 2nd pitch.",
+   "breadcrumb": "International > N America > Canada > British Columbia > Sea To Sky Squamish To Whistler > Cheakamus Canyon > Gorge > Galaxy Buttress > Star Chek ( 5.8+ 5b 16 VI- 15 HVS 4c )",
+   "coordArea": "Galaxy Buttress",
+   "approx": false,
+   "lat": 49.924,
+   "lng": -123.1675,
+   "addedOn": "2026-11-14",
+   "usedOn": []
+  },
+  {
+   "id": "117574245",
+   "photoUrl": "https://www.mountainproject.com/photo/117574245/commemorative-tee-shirt",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/117574245_medium_1565487318.jpg?cache=1778294885",
+   "title": "commemorative tee shirt",
+   "breadcrumb": "Washington > South-W & Tacoma > Columbia Gorge > Tower Rock > Rapunzel's Back in Rehab ( 5.7+ 5a 15 V+ 13 MVS 4b C1)",
+   "coordArea": "Tower Rock",
+   "approx": false,
+   "lat": 46.43292,
+   "lng": -121.87069,
+   "addedOn": "2026-11-14",
+   "usedOn": []
+  },
+  {
+   "id": "120285092",
+   "photoUrl": "https://www.mountainproject.com/photo/120285092/doas",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/120285092_medium_1613062767.jpg?cache=1787006513",
+   "title": "D.O.A.S.",
+   "breadcrumb": "Utah > Wasatch Range > Southern Wasatch > American Fork Canyon > Billboard Trail > Billboard > Gridwall > Death of a Sailsman ( 5.12a 7a+ 25 VIII+ 25 E5 6a )",
+   "coordArea": "Gridwall",
+   "approx": false,
+   "lat": 40.45145,
+   "lng": -111.67624,
    "addedOn": "2026-11-14",
    "usedOn": []
   }
