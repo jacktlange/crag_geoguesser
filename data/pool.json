@@ -14835,6 +14835,21 @@
    "lat": 36.96376,
    "lng": -92.94017,
    "name": null
+  },
+  "https://www.mountainproject.com/area/106382313/lake-powell": {
+   "lat": 36.9934,
+   "lng": -111.4894,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/105746080/ships-prow": {
+   "lat": 40.2543,
+   "lng": -105.605,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/105856690/sector-dor-et-bleu": {
+   "lat": 44.14699,
+   "lng": -107.25785,
+   "name": null
   }
  },
  "rejected": {
@@ -15108,7 +15123,8 @@
   "204243692": "filtered: ice, mixed, or snow route (grade or area)",
   "105973166": "filtered: ice or snow (caption)",
   "200579328": "filtered: ice, mixed, or snow route (grade or area)",
-  "204241852": "filtered: ice, mixed, or snow route (grade or area)"
+  "204241852": "filtered: ice, mixed, or snow route (grade or area)",
+  "106650085": "filtered: looks like a map, topo, or drawing (caption)"
  },
  "photos": [
   {
@@ -65907,6 +65923,84 @@
    "lat": 36.96376,
    "lng": -92.94017,
    "addedOn": "2026-11-15",
+   "usedOn": []
+  },
+  {
+   "id": "106317936",
+   "photoUrl": "https://www.mountainproject.com/photo/106317936/586",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/106317936_medium_1494097156.jpg?cache=1787810045",
+   "title": "5/86",
+   "breadcrumb": "Arizona > Northern Arizona > Sycamore Canyon > Paradise Forks > Davidson Wall > Paradise Lost ( 5.12- 7a+ 25 VIII+ 25 E5 6a PG13)",
+   "coordArea": "Davidson Wall",
+   "approx": false,
+   "lat": 35.1388,
+   "lng": -112.02461,
+   "addedOn": "2026-11-16",
+   "usedOn": []
+  },
+  {
+   "id": "106459779",
+   "photoUrl": "https://www.mountainproject.com/photo/106459779/float-trip-on-the-dirty-devil-photo-by-randall-weekley",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/106459779_medium_1494110722.jpg?cache=1743706849",
+   "title": "Float trip on the Dirty Devil. <br> Photo by Randall Weekley",
+   "breadcrumb": "Utah > S Central Utah > Glen Canyon > Lake Powell",
+   "coordArea": "Lake Powell",
+   "approx": false,
+   "lat": 36.9934,
+   "lng": -111.4894,
+   "addedOn": "2026-11-16",
+   "usedOn": []
+  },
+  {
+   "id": "117314174",
+   "photoUrl": "https://www.mountainproject.com/photo/117314174/noah-just-after-his-send-thats-a-lot-of-air",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/117314174_medium_1562431369.jpg?cache=1760478137",
+   "title": "Noah just after his send! That's a lot of air!",
+   "breadcrumb": "Colorado > Alpine Rock > RMNP - Rock > Long's Peak > Ship's Prow > Bologna Pony ( 5.12+ 7c 28 IX 27 E6 6b )",
+   "coordArea": "Ship's Prow",
+   "approx": false,
+   "lat": 40.2543,
+   "lng": -105.605,
+   "addedOn": "2026-11-16",
+   "usedOn": []
+  },
+  {
+   "id": "118910270",
+   "photoUrl": "https://www.mountainproject.com/photo/118910270/the-rap",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/118910270_medium_1590168264.jpg?cache=1773711420",
+   "title": "The  rap",
+   "breadcrumb": "Utah > Southeast Utah > San Juan County > 191 South > Looking Glass Rock",
+   "coordArea": "Looking Glass Rock",
+   "approx": false,
+   "lat": 38.2754,
+   "lng": -109.4052,
+   "addedOn": "2026-11-16",
+   "usedOn": []
+  },
+  {
+   "id": "124586640",
+   "photoUrl": "https://www.mountainproject.com/photo/124586640/fan-trying-hard-on-galactic-emperor-photo-by-fallon-rowe-at-fallonclimbs",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/124586640_medium_1689364081.jpg?cache=1786075927",
+   "title": "Fan trying hard on Galactic Emperor. Photo by Fallon Rowe @fallonclimbs",
+   "breadcrumb": "Wyoming > Ten Sleep Canyon > French Cattle Ranch > Sector Dor Et Bleu > Galactic Emperor ( 5.14a 8b+ 32 X+ 32 E8 7a )",
+   "coordArea": "Sector Dor Et Bleu",
+   "approx": false,
+   "lat": 44.14699,
+   "lng": -107.25785,
+   "addedOn": "2026-11-16",
+   "usedOn": []
+  },
+  {
+   "id": "126570296",
+   "photoUrl": "https://www.mountainproject.com/photo/126570296/fan-yang-on-the-4th-ascent-of-stage-fright-512c-x",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/126570296_medium_1721421056.jpg?cache=1786051912",
+   "title": "Fan Yang on the 4th ascent of Stage Fright 5.12c X",
+   "breadcrumb": "New Hampshire > Cathedral Ledge > Airation Buttress > Stage Fright ( 5.12+ 7c 28 IX 27 E6 6b R)",
+   "coordArea": "Airation Buttress",
+   "approx": false,
+   "lat": 44.06337,
+   "lng": -71.16628,
+   "addedOn": "2026-11-16",
    "usedOn": []
   }
  ],
