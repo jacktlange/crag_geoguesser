@@ -14850,6 +14850,26 @@
    "lat": 44.14699,
    "lng": -107.25785,
    "name": null
+  },
+  "https://www.mountainproject.com/area/105720789/indian-palisades-corridor": {
+   "lat": 34.09365,
+   "lng": -116.15436,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/105803216/solar-cave": {
+   "lat": 35.8057,
+   "lng": -106.14076,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/105843578/gorgeous-towers": {
+   "lat": 37.52313,
+   "lng": -118.57433,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/107555961/the-hand": {
+   "lat": 36.46877,
+   "lng": -121.19522,
+   "name": null
   }
  },
  "rejected": {
@@ -15124,7 +15144,9 @@
   "105973166": "filtered: ice or snow (caption)",
   "200579328": "filtered: ice, mixed, or snow route (grade or area)",
   "204241852": "filtered: ice, mixed, or snow route (grade or area)",
-  "106650085": "filtered: looks like a map, topo, or drawing (caption)"
+  "106650085": "filtered: looks like a map, topo, or drawing (caption)",
+  "119089904": "filtered: looks like a map, topo, or drawing (caption)",
+  "120346038": "filtered: ice, mixed, or snow route (grade or area)"
  },
  "photos": [
   {
@@ -21997,7 +22019,9 @@
    "lat": 40.26656,
    "lng": -111.62635,
    "addedOn": "2026-11-02",
-   "usedOn": []
+   "usedOn": [
+    "2026-11-16"
+   ]
   },
   {
    "id": "120124667",
@@ -39979,7 +40003,9 @@
    "lat": 42.673,
    "lng": -113.00156,
    "addedOn": "2026-11-08",
-   "usedOn": []
+   "usedOn": [
+    "2026-11-16"
+   ]
   },
   {
    "id": "106440964",
@@ -45315,7 +45341,9 @@
    "lat": 37.3074,
    "lng": -113.11118,
    "addedOn": "2026-11-09",
-   "usedOn": []
+   "usedOn": [
+    "2026-11-16"
+   ]
   },
   {
    "id": "124504554",
@@ -55898,7 +55926,9 @@
    "lat": 33.00766,
    "lng": -116.96946,
    "addedOn": "2026-11-13",
-   "usedOn": []
+   "usedOn": [
+    "2026-11-16"
+   ]
   },
   {
    "id": "127393301",
@@ -65637,7 +65667,9 @@
    "lat": 39.9307,
    "lng": -105.283,
    "addedOn": "2026-11-15",
-   "usedOn": []
+   "usedOn": [
+    "2026-11-16"
+   ]
   },
   {
    "id": "107160003",
@@ -66000,6 +66032,71 @@
    "approx": false,
    "lat": 44.06337,
    "lng": -71.16628,
+   "addedOn": "2026-11-16",
+   "usedOn": []
+  },
+  {
+   "id": "3201086",
+   "photoUrl": "https://www.mountainproject.com/photo/3201086/fred-beckey-still-leading-at-age-80",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/3201086_medium_1557853060.jpg?cache=1774471782",
+   "title": "Fred Beckey, still leading at age 80+!",
+   "breadcrumb": "California > Joshua Tree NP > Indian Cove > Indian Cove Campground > Indian Cove Cg East > Indian Palisades Corridor > Willit Slab ( 5.6 4c 14 V 12 S 4b )",
+   "coordArea": "Indian Palisades Corridor",
+   "approx": false,
+   "lat": 34.09365,
+   "lng": -116.15436,
+   "addedOn": "2026-11-16",
+   "usedOn": []
+  },
+  {
+   "id": "106742251",
+   "photoUrl": "https://www.mountainproject.com/photo/106742251/james-working-through-the-difficult-moves-of-mastodont",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/106742251_medium_1494137080.jpg?cache=1754014521",
+   "title": "James working through the difficult moves of Mastodont.",
+   "breadcrumb": "New Mexico > Santa Fe Area > Diablo Canyon > Solar Cave > Mastodont ( 5.13b 8a 29 IX+ 30 E7 6c )",
+   "coordArea": "Solar Cave",
+   "approx": false,
+   "lat": 35.8057,
+   "lng": -106.14076,
+   "addedOn": "2026-11-16",
+   "usedOn": []
+  },
+  {
+   "id": "114962922",
+   "photoUrl": "https://www.mountainproject.com/photo/114962922/mark-whtion-and-peter-cole-at-the-top-of-musembeah-in-august-1979",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/114962922_medium_1534335667.jpg?cache=1784211327",
+   "title": "Mark Whtion and Peter Cole at the top of Musembeah in August 1979",
+   "breadcrumb": "Wyoming > Wind River Range > Baptiste Lake > Musembeah Peak > W Buttress ( 5.9 5c 17 VI 17 HVS 5a )",
+   "coordArea": "Musembeah Peak",
+   "approx": false,
+   "lat": 42.86573,
+   "lng": -109.29769,
+   "addedOn": "2026-11-16",
+   "usedOn": []
+  },
+  {
+   "id": "116809654",
+   "photoUrl": "https://www.mountainproject.com/photo/116809654/arete-climbs-are-fun",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/116809654_medium_1556643934.jpg?cache=1748221939",
+   "title": "Arete climbs are FUN.",
+   "breadcrumb": "California > Eastern Sierra > Bishop Area > Owens River Gorge > Upper Gorge > Gorgeous Towers > Gorgeous ( 5.10b 6a+ 19 VII- 19 E2 5b )",
+   "coordArea": "Gorgeous Towers",
+   "approx": false,
+   "lat": 37.52313,
+   "lng": -118.57433,
+   "addedOn": "2026-11-16",
+   "usedOn": []
+  },
+  {
+   "id": "120072084",
+   "photoUrl": "https://www.mountainproject.com/photo/120072084/ancient-soft-iron-piton-removed-from-under-the-knob-on-which-you-stand-at-the-to",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/120072084_medium_1608016734.jpg?cache=1756688519",
+   "title": "Ancient soft iron piton removed from under the knob on which you stand at the top of the first pitch of the Wilt's, Salathe and Burnette routes.",
+   "breadcrumb": "California > Central Coast > Pinnacles NP > E Side > Hand",
+   "coordArea": "Hand",
+   "approx": false,
+   "lat": 36.46877,
+   "lng": -121.19522,
    "addedOn": "2026-11-16",
    "usedOn": []
   }

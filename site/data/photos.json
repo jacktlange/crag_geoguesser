@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-16T06:57:02+00:00",
+ "generated": "2026-11-16T15:36:11+00:00",
  "photos": [
   {
    "id": "105787726",
@@ -2002,6 +2002,17 @@
    "approx": false,
    "lat": 36.3916,
    "lng": -81.0473
+  },
+  {
+   "id": "106742251",
+   "photoUrl": "https://www.mountainproject.com/photo/106742251/james-working-through-the-difficult-moves-of-mastodont",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/106742251_medium_1494137080.jpg?cache=1754014521",
+   "title": "James working through the difficult moves of Mastodont.",
+   "breadcrumb": "New Mexico > Santa Fe Area > Diablo Canyon > Solar Cave > Mastodont ( 5.13b 8a 29 IX+ 30 E7 6c )",
+   "coordArea": "Solar Cave",
+   "approx": false,
+   "lat": 35.8057,
+   "lng": -106.14076
   },
   {
    "id": "106743474",
@@ -4347,6 +4358,17 @@
    "lng": -111.06756
   },
   {
+   "id": "110163716",
+   "photoUrl": "https://www.mountainproject.com/photo/110163716/james-leavy-getting-the-send-rock-canyon-classic",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/110163716_medium_1494370633.jpg?cache=1753723787",
+   "title": "James Leavy getting the send. Rock Canyon classic.",
+   "breadcrumb": "Utah > Wasatch Range > Southern Wasatch > Rock Canyon > Super Bowl Wall > Simple Simon ( 5.11b 6c 23 VIII- 23 E3 5c )",
+   "coordArea": "Super Bowl Wall",
+   "approx": false,
+   "lat": 40.26656,
+   "lng": -111.62635
+  },
+  {
    "id": "110186375",
    "photoUrl": "https://www.mountainproject.com/photo/110186375/de-on-the-fa-during-the-acid-traverse-photo-de-collection",
    "imageUrl": "https://mountainproject.com/assets/photos/climb/110186375_medium_1494367687.jpg?cache=1767063699",
@@ -4840,6 +4862,17 @@
    "approx": false,
    "lat": 41.90507,
    "lng": -71.43868
+  },
+  {
+   "id": "111432025",
+   "photoUrl": "https://www.mountainproject.com/photo/111432025/visiting-czech-climber-on-pink-slip-58-mar-2014",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/111432025_medium_1494362225.jpg?cache=1701319234",
+   "title": "Visiting Czech climber on Pink Slip, 5.8 (Mar 2014)",
+   "breadcrumb": "Idaho > E Idaho > Massacre Rocks > Closed To Climbing Owl Cove Area > Closed To Climbing Clingclang Wall > CLOSED TO CLIMBING Pi… ( 5.8 5b 16 VI- 15 HVS 4c )",
+   "coordArea": "Closed To Climbing Clingclang Wall",
+   "approx": false,
+   "lat": 42.673,
+   "lng": -113.00156
   },
   {
    "id": "111432157",
@@ -6316,6 +6349,17 @@
    "lng": -121.5692
   },
   {
+   "id": "116127112",
+   "photoUrl": "https://www.mountainproject.com/photo/116127112/top-of-starface-had-the-hardest-time-finding-it-using-those-2-boulders-as-landma",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/116127112_medium_1543005065.jpg?cache=1702073193",
+   "title": "Top of Starface. Had the hardest time finding it.  Using those 2 boulders as landmarks in the future will help.",
+   "breadcrumb": "California > San Diego County > N San Diego County > Mt Woodson > Cave Area > Left Side Of The Road > Starface ( 5.11a 6c 22 VII+ 22 E3 5c )",
+   "coordArea": "Left Side Of The Road",
+   "approx": false,
+   "lat": 33.00766,
+   "lng": -116.96946
+  },
+  {
    "id": "116131239",
    "photoUrl": "https://www.mountainproject.com/photo/116131239/thanksgiving-cliff-from-the-parking-area-monastery-crags",
    "imageUrl": "https://mountainproject.com/assets/photos/climb/116131239_medium_1543096745.jpg?cache=1702073194",
@@ -6646,6 +6690,17 @@
    "lng": -71.8375
   },
   {
+   "id": "117314174",
+   "photoUrl": "https://www.mountainproject.com/photo/117314174/noah-just-after-his-send-thats-a-lot-of-air",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/117314174_medium_1562431369.jpg?cache=1760478137",
+   "title": "Noah just after his send! That's a lot of air!",
+   "breadcrumb": "Colorado > Alpine Rock > RMNP - Rock > Long's Peak > Ship's Prow > Bologna Pony ( 5.12+ 7c 28 IX 27 E6 6b )",
+   "coordArea": "Ship's Prow",
+   "approx": false,
+   "lat": 40.2543,
+   "lng": -105.605
+  },
+  {
    "id": "117510215",
    "photoUrl": "https://www.mountainproject.com/photo/117510215/the-traverse",
    "imageUrl": "https://mountainproject.com/assets/photos/climb/117510215_medium_1564264665.jpg?cache=1725399941",
@@ -6952,6 +7007,17 @@
    "approx": false,
    "lat": 41.64647,
    "lng": -73.09082
+  },
+  {
+   "id": "118681104",
+   "photoUrl": "https://www.mountainproject.com/photo/118681104/the-bastille-crack-route-traced",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/118681104_medium_1584847971.jpg?cache=1794460612",
+   "title": "The Bastille Crack, route traced....",
+   "breadcrumb": "Colorado > Boulder > Eldorado Canyon SP > Bastille > Bastille - N Face > Bastille Crack ( 5.7 5a 15 V+ 13 MVS 4b )",
+   "coordArea": "Bastille - N Face",
+   "approx": false,
+   "lat": 39.9307,
+   "lng": -105.283
   },
   {
    "id": "118732014",
@@ -11112,6 +11178,17 @@
    "lng": -81.90373
   },
   {
+   "id": "204199671",
+   "photoUrl": "https://www.mountainproject.com/photo/204199671/the-walls-from-above",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/204199671_medium_1794255352.jpg?cache=1794255357",
+   "title": "The walls from above",
+   "breadcrumb": "Utah > Southwest Utah > Saint George > Lambs Knoll > Zodiac Pillar",
+   "coordArea": "Zodiac Pillar",
+   "approx": false,
+   "lat": 37.3074,
+   "lng": -113.11118
+  },
+  {
    "id": "204199719",
    "photoUrl": "https://www.mountainproject.com/photo/204199719/climber-on-pitch-5-of-exsqueeze-me",
    "imageUrl": "https://mountainproject.com/assets/photos/climb/204199719_medium_1794255619.jpg?cache=1794255626",
@@ -11781,6 +11858,17 @@
    "approx": false,
    "lat": 34.0935,
    "lng": -116.1561
+  },
+  {
+   "id": "3201086",
+   "photoUrl": "https://www.mountainproject.com/photo/3201086/fred-beckey-still-leading-at-age-80",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/3201086_medium_1557853060.jpg?cache=1774471782",
+   "title": "Fred Beckey, still leading at age 80+!",
+   "breadcrumb": "California > Joshua Tree NP > Indian Cove > Indian Cove Campground > Indian Cove Cg East > Indian Palisades Corridor > Willit Slab ( 5.6 4c 14 V 12 S 4b )",
+   "coordArea": "Indian Palisades Corridor",
+   "approx": false,
+   "lat": 34.09365,
+   "lng": -116.15436
   },
   {
    "id": "5200236",
