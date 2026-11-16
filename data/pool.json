@@ -14485,6 +14485,31 @@
    "lat": 39.7384,
    "lng": -105.38903,
    "name": null
+  },
+  "https://www.mountainproject.com/area/105827053/sinks-canyon": {
+   "lat": 42.73907,
+   "lng": -108.83038,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/106435372/east-of-trail-boulders": {
+   "lat": 43.42252,
+   "lng": -89.72392,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/105916424/the-red-monster": {
+   "lat": 40.72623,
+   "lng": -111.85767,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/105973061/menses-prow": {
+   "lat": 38.6199,
+   "lng": -105.2371,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/105809689/the-pawn": {
+   "lat": 40.5807,
+   "lng": -111.75203,
+   "name": null
   }
  },
  "rejected": {
@@ -64170,6 +64195,84 @@
    "approx": false,
    "lat": 39.7384,
    "lng": -105.38903,
+   "addedOn": "2026-11-15",
+   "usedOn": []
+  },
+  {
+   "id": "105872166",
+   "photoUrl": "https://www.mountainproject.com/photo/105872166/the-popo-agie-in-fall",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/105872166_medium_1557935839.jpg?cache=1785754999",
+   "title": "The Popo Agie in fall.",
+   "breadcrumb": "Wyoming > Lander Area > Sinks Canyon",
+   "coordArea": "Sinks Canyon",
+   "approx": false,
+   "lat": 42.73907,
+   "lng": -108.83038,
+   "addedOn": "2026-11-15",
+   "usedOn": []
+  },
+  {
+   "id": "106435385",
+   "photoUrl": "https://www.mountainproject.com/photo/106435385/slope-of-dadaism",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/106435385_medium_1494108370.jpg?cache=1776618862",
+   "title": "Slope of Dadaism.",
+   "breadcrumb": "Wisconsin > Baraboo Range > Devil's Lake > Devils Lake Bouldering > E Bluff > E Bluff North > 6. Monolith Ridge > East Of Trail Boulders > Slope of Dadaism ( V3 6A )",
+   "coordArea": "East Of Trail Boulders",
+   "approx": false,
+   "lat": 43.42252,
+   "lng": -89.72392,
+   "addedOn": "2026-11-15",
+   "usedOn": []
+  },
+  {
+   "id": "106724091",
+   "photoUrl": "https://www.mountainproject.com/photo/106724091/tony-with-the-rack",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/106724091_medium_1494135365.jpg?cache=1701316266",
+   "title": "Tony with the rack.",
+   "breadcrumb": "Colorado > Alpine Rock > Mt Blue Sky Formerly Mt Evans > Black Wall > Rd Warrior ( 5.10+ 6b+ 21 VII+ 20 E3 5b )",
+   "coordArea": "Black Wall",
+   "approx": false,
+   "lat": 39.6064,
+   "lng": -105.65409,
+   "addedOn": "2026-11-15",
+   "usedOn": []
+  },
+  {
+   "id": "107983379",
+   "photoUrl": "https://www.mountainproject.com/photo/107983379/ben-riley-climbing-ju-ibex-ut-photo-cred-heidi-michelle-designs",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/107983379_medium_1494255153.jpg?cache=1765219854",
+   "title": "Ben Riley climbing 'Ju' Ibex, UT <br> Photo Cred: Heidi Michelle Designs",
+   "breadcrumb": "Utah > W Desert > Confusion Range > Ibex > Bouldering > Red Monster Area > Red Monster > Ju ( V7 7A+ )",
+   "coordArea": "Red Monster",
+   "approx": false,
+   "lat": 40.72623,
+   "lng": -111.85767,
+   "addedOn": "2026-11-15",
+   "usedOn": []
+  },
+  {
+   "id": "113655888",
+   "photoUrl": "https://www.mountainproject.com/photo/113655888/derick-finding-rests-where-he-can-halfway-up-no-passion-for-fashion",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/113655888_medium_1506966711.jpg?cache=1702072659",
+   "title": "Derick finding rests where he can, halfway up No Passion for Fashion.",
+   "breadcrumb": "Colorado > Canon City > Shelf Rd > Gallery > Menses Prow > No Passion for Fashion ( 5.11b/c 6c+ 23 VIII- 24 E4 6a )",
+   "coordArea": "Menses Prow",
+   "approx": false,
+   "lat": 38.6199,
+   "lng": -105.2371,
+   "addedOn": "2026-11-15",
+   "usedOn": []
+  },
+  {
+   "id": "119868540",
+   "photoUrl": "https://www.mountainproject.com/photo/119868540/flip-aiding-the-big-roofs",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/119868540_medium_1604637941.jpg?cache=1756161305",
+   "title": "Flip aiding the big roofs",
+   "breadcrumb": "Utah > Wasatch Range > Central Wasatch > Little Cottonwood Canyon > Pawn > Direct S Face ( 5.9+ 5c 17 VI 17 E1 5a C1)",
+   "coordArea": "Pawn",
+   "approx": false,
+   "lat": 40.5807,
+   "lng": -111.75203,
    "addedOn": "2026-11-15",
    "usedOn": []
   }
