@@ -14870,6 +14870,16 @@
    "lat": 36.46877,
    "lng": -121.19522,
    "name": null
+  },
+  "https://www.mountainproject.com/area/107256601/grand-sentinel": {
+   "lat": 51.34366,
+   "lng": -116.2314,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/118194726/siri": {
+   "lat": 35.01655,
+   "lng": -85.33515,
+   "name": null
   }
  },
  "rejected": {
@@ -15146,7 +15156,8 @@
   "204241852": "filtered: ice, mixed, or snow route (grade or area)",
   "106650085": "filtered: looks like a map, topo, or drawing (caption)",
   "119089904": "filtered: looks like a map, topo, or drawing (caption)",
-  "120346038": "filtered: ice, mixed, or snow route (grade or area)"
+  "120346038": "filtered: ice, mixed, or snow route (grade or area)",
+  "113690598": "filtered: looks like a map, topo, or drawing (caption)"
  },
  "photos": [
   {
@@ -66097,6 +66108,84 @@
    "approx": false,
    "lat": 36.46877,
    "lng": -121.19522,
+   "addedOn": "2026-11-16",
+   "usedOn": []
+  },
+  {
+   "id": "105907907",
+   "photoUrl": "https://www.mountainproject.com/photo/105907907/composite-shot-of-the-p2-traverse",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/105907907_medium_1557940520.jpg?cache=1793374770",
+   "title": "Composite shot of the P2 traverse.",
+   "breadcrumb": "New York > Gunks > Near Trapps > Beginning Of Cliff To Gelsa > Layback ( 5.5 4b 13 IV+ 11 MS 4a )",
+   "coordArea": "Beginning Of Cliff To Gelsa",
+   "approx": false,
+   "lat": 41.73517,
+   "lng": -74.19463,
+   "addedOn": "2026-11-16",
+   "usedOn": []
+  },
+  {
+   "id": "105938840",
+   "photoUrl": "https://www.mountainproject.com/photo/105938840/joes-chickenhead-anchor",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/105938840_medium_1557952132.jpg?cache=1771557710",
+   "title": "Joe's chickenhead anchor",
+   "breadcrumb": "Arizona > Southern Arizona > Cochise Stronghold > E Stronghold > Cochise Dome Whats My Line Dome > What's My Line? ( 5.6 4c 14 V 12 S 4b A0 R)",
+   "coordArea": "Cochise Dome Whats My Line Dome",
+   "approx": false,
+   "lat": 31.929,
+   "lng": -109.98167,
+   "addedOn": "2026-11-16",
+   "usedOn": []
+  },
+  {
+   "id": "111259065",
+   "photoUrl": "https://www.mountainproject.com/photo/111259065/looking-into-cascade-canyon-from-the-top-of-no-perches",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/111259065_medium_1494345997.jpg?cache=1701319139",
+   "title": "Looking into Cascade Canyon from the top of No Perches",
+   "breadcrumb": "Wyoming > Grand Teton NP > Cascade Canyon > No Perches Necessary ( 5.9 5c 17 VI 17 HVS 5a )",
+   "coordArea": "Cascade Canyon",
+   "approx": false,
+   "lat": 43.76279,
+   "lng": -110.746,
+   "addedOn": "2026-11-16",
+   "usedOn": []
+  },
+  {
+   "id": "113436101",
+   "photoUrl": "https://www.mountainproject.com/photo/113436101/view-from-the-pass-sentinel-middle-left",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/113436101_medium_1502054563.jpg?cache=1762383825",
+   "title": "View from the pass, Sentinel middle-left.",
+   "breadcrumb": "International > N America > Canada > Alberta > Banff NP > Sentinel Pass > Grand Sentinel > S Face ( 5.8 5b 16 VI- 15 HVS 4c )",
+   "coordArea": "Grand Sentinel",
+   "approx": false,
+   "lat": 51.34366,
+   "lng": -116.2314,
+   "addedOn": "2026-11-16",
+   "usedOn": []
+  },
+  {
+   "id": "113738440",
+   "photoUrl": "https://www.mountainproject.com/photo/113738440/nice-fall-time",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/113738440_medium_1508706166.jpg?cache=1785525661",
+   "title": "nice fall time",
+   "breadcrumb": "California > Eastern Sierra > Bishop Area > Cardinal Pinnacle > W Face ( 5.10a 6a 18 VI+ 18 E1 5a )",
+   "coordArea": "Cardinal Pinnacle",
+   "approx": false,
+   "lat": 37.22797,
+   "lng": -118.59626,
+   "addedOn": "2026-11-16",
+   "usedOn": []
+  },
+  {
+   "id": "119676953",
+   "photoUrl": "https://www.mountainproject.com/photo/119676953/slopey-start-on-clever-knee-low",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/119676953_medium_1601844671.jpg?cache=1674007841",
+   "title": "Slopey start on Clever Knee Low",
+   "breadcrumb": "Tennessee > The Boulders On Old Wauhatchie Pike > Siri > Clever Knee Low ( V4 6B )",
+   "coordArea": "Siri",
+   "approx": false,
+   "lat": 35.01655,
+   "lng": -85.33515,
    "addedOn": "2026-11-16",
    "usedOn": []
   }
