@@ -15575,6 +15575,21 @@
    "lat": 39.2453,
    "lng": -120.20289,
    "name": null
+  },
+  "https://www.mountainproject.com/area/108255973/tin-can-rock": {
+   "lat": 61.82023,
+   "lng": -149.25947,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/105827056/addiction": {
+   "lat": 42.74091,
+   "lng": -108.83616,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/105720738/echo-cove-east-side": {
+   "lat": 34.02521,
+   "lng": -116.15706,
+   "name": null
   }
  },
  "rejected": {
@@ -15876,7 +15891,8 @@
   "203009793": "filtered: looks like a map, topo, or drawing (caption)",
   "200641062": "filtered: ice, mixed, or snow route (grade or area)",
   "114194167": "filtered: ice, mixed, or snow route (grade or area)",
-  "126395846": "filtered: ice, mixed, or snow route (grade or area)"
+  "126395846": "filtered: ice, mixed, or snow route (grade or area)",
+  "105804063": "filtered: looks like a map, topo, or drawing (caption)"
  },
  "photos": [
   {
@@ -18305,7 +18321,9 @@
    "lat": 37.45423,
    "lng": -119.53808,
    "addedOn": "2026-10-31",
-   "usedOn": []
+   "usedOn": [
+    "2026-11-17"
+   ]
   },
   {
    "id": "105887398",
@@ -31934,7 +31952,9 @@
    "lat": 42.57179,
    "lng": -71.56863,
    "addedOn": "2026-11-06",
-   "usedOn": []
+   "usedOn": [
+    "2026-11-17"
+   ]
   },
   {
    "id": "117300621",
@@ -32235,7 +32255,9 @@
    "lat": 47.68817,
    "lng": -117.32759,
    "addedOn": "2026-11-06",
-   "usedOn": []
+   "usedOn": [
+    "2026-11-17"
+   ]
   },
   {
    "id": "117989656",
@@ -39002,7 +39024,9 @@
    "lat": 37.73967,
    "lng": -119.57294,
    "addedOn": "2026-11-07",
-   "usedOn": []
+   "usedOn": [
+    "2026-11-17"
+   ]
   },
   {
    "id": "111849922",
@@ -54277,7 +54301,9 @@
    "lat": 35.40685,
    "lng": -85.40924,
    "addedOn": "2026-11-12",
-   "usedOn": []
+   "usedOn": [
+    "2026-11-17"
+   ]
   },
   {
    "id": "109357535",
@@ -69648,6 +69674,58 @@
    "approx": false,
    "lat": 35.8786,
    "lng": -93.121,
+   "addedOn": "2026-11-17",
+   "usedOn": []
+  },
+  {
+   "id": "108226975",
+   "photoUrl": "https://www.mountainproject.com/photo/108226975/looking-south-toward-the-needles-from-the-summit-of-vestal",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/108226975_medium_1494270513.jpg?cache=1701318119",
+   "title": "Looking south toward the Needles from the summit of Vestal ....",
+   "breadcrumb": "Colorado > Alpine Rock > San Juans > Grenadiers > Vestal Peak > Wham Ridge ( 5.4 4a 12 IV 10 VD 3c R)",
+   "coordArea": "Vestal Peak",
+   "approx": false,
+   "lat": 37.6894,
+   "lng": -107.602,
+   "addedOn": "2026-11-17",
+   "usedOn": []
+  },
+  {
+   "id": "108268876",
+   "photoUrl": "https://www.mountainproject.com/photo/108268876/eliza-works-up-the-route-on-tr",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/108268876_medium_1494273034.jpg?cache=1735154149",
+   "title": "Eliza works up the route on TR.",
+   "breadcrumb": "Alaska > S Central Alaska > Hatcher Pass > Archangel Valley Sport And Traditional Climbing > Fairangel Gap And Valley > Tin Can Rock > African Dreams ( 5.10b/c 6b 20 VII 20 E2 5b )",
+   "coordArea": "Tin Can Rock",
+   "approx": false,
+   "lat": 61.82023,
+   "lng": -149.25947,
+   "addedOn": "2026-11-17",
+   "usedOn": []
+  },
+  {
+   "id": "112836609",
+   "photoUrl": "https://www.mountainproject.com/photo/112836609/a-gyps-goes-sport-climbing",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/112836609_medium_1494317831.jpg?cache=1711577848",
+   "title": "A gyps goes sport climbing",
+   "breadcrumb": "Wyoming > Lander Area > Sinks Canyon > Addiction > Rd to Dushanbe ( 5.12a/b 7b 26 VIII+ 26 E5 6a )",
+   "coordArea": "Addiction",
+   "approx": false,
+   "lat": 42.74091,
+   "lng": -108.83616,
+   "addedOn": "2026-11-17",
+   "usedOn": []
+  },
+  {
+   "id": "201101679",
+   "photoUrl": "https://www.mountainproject.com/photo/201101679/pais-negotiating-the-pro-might-have-been-the-last-day-of-that-season",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/201101679_medium_1749139508.jpg?cache=1786002663",
+   "title": "Pais negotiating the pro.  Might have been the last day of that season.",
+   "breadcrumb": "California > Joshua Tree NP > Central Joshua Tree > Echo Rock Area > Echo Cove > Echo Cove - E Side > Effigy Too ( 5.10a/b 6a+ 19 VI+ 19 E2 5b R)",
+   "coordArea": "Echo Cove - E Side",
+   "approx": false,
+   "lat": 34.02521,
+   "lng": -116.15706,
    "addedOn": "2026-11-17",
    "usedOn": []
   }
