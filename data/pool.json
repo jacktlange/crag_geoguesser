@@ -15555,6 +15555,26 @@
    "lat": 37.66872,
    "lng": -83.70389,
    "name": null
+  },
+  "https://www.mountainproject.com/area/105892652/the-fortress": {
+   "lat": 34.58355,
+   "lng": -119.26301,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/105720837/tumbling-rainbow-formation": {
+   "lat": 34.01232,
+   "lng": -116.17133,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/105827664/the-bridge": {
+   "lat": 42.47099,
+   "lng": -106.79643,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/117889549/center-cave": {
+   "lat": 39.2453,
+   "lng": -120.20289,
+   "name": null
   }
  },
  "rejected": {
@@ -15854,7 +15874,9 @@
   "111713070": "filtered: looks like a map, topo, or drawing (caption)",
   "105953328": "filtered: ice or snow (caption)",
   "203009793": "filtered: looks like a map, topo, or drawing (caption)",
-  "200641062": "filtered: ice, mixed, or snow route (grade or area)"
+  "200641062": "filtered: ice, mixed, or snow route (grade or area)",
+  "114194167": "filtered: ice, mixed, or snow route (grade or area)",
+  "126395846": "filtered: ice, mixed, or snow route (grade or area)"
  },
  "photos": [
   {
@@ -69561,6 +69583,71 @@
    "approx": false,
    "lat": 37.68062,
    "lng": -83.66133,
+   "addedOn": "2026-11-17",
+   "usedOn": []
+  },
+  {
+   "id": "106395428",
+   "photoUrl": "https://www.mountainproject.com/photo/106395428/imprint-of-brittle-stars-found-on-a-rock-in-the-central-gully-of-the-fortress-40",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/106395428_medium_1494104828.jpg?cache=1756428337",
+   "title": "Imprint of Brittle Stars, found on a rock in the Central Gully of the Fortress (4,000 feet above sea level!)",
+   "breadcrumb": "California > Central Coast > Hwy 33/Ojai > Fortress",
+   "coordArea": "Fortress",
+   "approx": false,
+   "lat": 34.58355,
+   "lng": -119.26301,
+   "addedOn": "2026-11-17",
+   "usedOn": []
+  },
+  {
+   "id": "106791855",
+   "photoUrl": "https://www.mountainproject.com/photo/106791855/52810",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/106791855_medium_1494140834.jpg?cache=1726937806",
+   "title": "5/28/10",
+   "breadcrumb": "California > Joshua Tree NP > Hidden Valley Area > Real Hidden Valley > Tumbling Rainbow Formation",
+   "coordArea": "Tumbling Rainbow Formation",
+   "approx": false,
+   "lat": 34.01232,
+   "lng": -116.17133,
+   "addedOn": "2026-11-17",
+   "usedOn": []
+  },
+  {
+   "id": "106847037",
+   "photoUrl": "https://www.mountainproject.com/photo/106847037/diggin-in-all-time-loser",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/106847037_medium_1494145274.jpg?cache=1764001617",
+   "title": "Diggin in : All time loser",
+   "breadcrumb": "Wyoming > Fremont Canyon > Bridge > All Time Loser ( 5.11 6c+ 23 VIII- 23 E4 5c )",
+   "coordArea": "Bridge",
+   "approx": false,
+   "lat": 42.47099,
+   "lng": -106.79643,
+   "addedOn": "2026-11-17",
+   "usedOn": []
+  },
+  {
+   "id": "111976569",
+   "photoUrl": "https://www.mountainproject.com/photo/111976569/yusuke-komai-on-the-crux-move-before-sending-totally-chawsome",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/111976569_medium_1494314446.jpg?cache=1726593020",
+   "title": "Yusuke Komai on the crux move before sending \"Totally Chawsome\".",
+   "breadcrumb": "California > Lake Tahoe > Truckee River Canyon > Big Chief Area > Center Cave > Totally Chossome ( 5.12b 7b 26 VIII+ 26 E5 6b )",
+   "coordArea": "Center Cave",
+   "approx": false,
+   "lat": 39.2453,
+   "lng": -120.20289,
+   "addedOn": "2026-11-17",
+   "usedOn": []
+  },
+  {
+   "id": "112551472",
+   "photoUrl": "https://www.mountainproject.com/photo/112551472/rhyan-on-le-beak",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/112551472_medium_1494312362.jpg?cache=1702072338",
+   "title": "Rhyan on Le Beak",
+   "breadcrumb": "Arkansas > North Central Arkansas > Cowell/Deer Area > Cowell > Font Red > Le Beak ( V4 6B )",
+   "coordArea": "Font Red",
+   "approx": false,
+   "lat": 35.8786,
+   "lng": -93.121,
    "addedOn": "2026-11-17",
    "usedOn": []
   }
