@@ -15170,6 +15170,31 @@
    "lat": 47.54482,
    "lng": -120.74356,
    "name": null
+  },
+  "https://www.mountainproject.com/area/105793884/sphinx-rock-area-aka-the-cliff-hanger": {
+   "lat": 34.22709,
+   "lng": -117.25445,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/105842906/campground-wall": {
+   "lat": 49.67754,
+   "lng": -123.15329,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/115004406/north-face": {
+   "lat": 36.12126,
+   "lng": -115.49023,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/105994274/chippewa-creek": {
+   "lat": 41.32048,
+   "lng": -81.6182,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/107590276/parking-lot-rock-northeast": {
+   "lat": 42.08386,
+   "lng": -113.72246,
+   "name": null
   }
  },
  "rejected": {
@@ -15461,7 +15486,8 @@
   "125565353": "filtered: ice, mixed, or snow route (grade or area)",
   "125474919": "filtered: ice, mixed, or snow route (grade or area)",
   "121954752": "filtered: ice or snow (caption)",
-  "203237007": "filtered: ice, mixed, or snow route (grade or area)"
+  "203237007": "filtered: ice, mixed, or snow route (grade or area)",
+  "106588812": "filtered: ice, mixed, or snow route (grade or area)"
  },
  "photos": [
   {
@@ -67790,6 +67816,84 @@
    "approx": false,
    "lat": 47.54482,
    "lng": -120.74356,
+   "addedOn": "2026-11-16",
+   "usedOn": []
+  },
+  {
+   "id": "107559823",
+   "photoUrl": "https://www.mountainproject.com/photo/107559823/chris-near-the-top-of-the-second-pitch",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/107559823_medium_1494197155.jpg?cache=1701317415",
+   "title": "Chris near the top of the second pitch.",
+   "breadcrumb": "Nevada > Southern Nevada > Red Rocks > Mt Wilson > Aeolian Wall > Cactus Connection ( 5.11b 6c 23 VIII- 23 E3 5c )",
+   "coordArea": "Aeolian Wall",
+   "approx": false,
+   "lat": 36.09485,
+   "lng": -115.48188,
+   "addedOn": "2026-11-16",
+   "usedOn": []
+  },
+  {
+   "id": "108567669",
+   "photoUrl": "https://www.mountainproject.com/photo/108567669/too-much-fun-at-sphinx-rock",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/108567669_medium_1494289079.jpg?cache=1781295115",
+   "title": "Too much fun at Sphinx Rock",
+   "breadcrumb": "California > San Bernardino Mountains > Lake Arrowhead Area > Sphinx Rock Area Aka The Cliff Hanger",
+   "coordArea": "Sphinx Rock Area Aka The Cliff Hanger",
+   "approx": false,
+   "lat": 34.22709,
+   "lng": -117.25445,
+   "addedOn": "2026-11-16",
+   "usedOn": []
+  },
+  {
+   "id": "111379002",
+   "photoUrl": "https://www.mountainproject.com/photo/111379002/near-the-top-of-a-pitch-in-time",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/111379002_medium_1494349650.jpg?cache=1749074520",
+   "title": "Near the top of a pitch in time",
+   "breadcrumb": "International > N America > Canada > British Columbia > Squamish > Stawamus Chief > Bulletheads > Campground Wall > A Pitch In Time ( 5.10b 6a+ 19 VII- 19 E2 5b )",
+   "coordArea": "Campground Wall",
+   "approx": false,
+   "lat": 49.67754,
+   "lng": -123.15329,
+   "addedOn": "2026-11-16",
+   "usedOn": []
+  },
+  {
+   "id": "117778498",
+   "photoUrl": "https://www.mountainproject.com/photo/117778498/pitch-3",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/117778498_medium_1569202663.jpg?cache=1735586551",
+   "title": "Pitch 3",
+   "breadcrumb": "Nevada > Southern Nevada > Red Rocks > Pine Creek Canyon > Magic Mountain > N Face > Chocolate Flakes ( 5.10+ 6b+ 21 VII+ 20 E3 5b )",
+   "coordArea": "N Face",
+   "approx": false,
+   "lat": 36.12126,
+   "lng": -115.49023,
+   "addedOn": "2026-11-16",
+   "usedOn": []
+  },
+  {
+   "id": "118689529",
+   "photoUrl": "https://www.mountainproject.com/photo/118689529/chippewa-creek-overview",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/118689529_medium_1585010711.jpg?cache=1724360009",
+   "title": "Chippewa Creek Overview",
+   "breadcrumb": "Ohio > Northeast Ohio > Chippewa Creek",
+   "coordArea": "Chippewa Creek",
+   "approx": false,
+   "lat": 41.32048,
+   "lng": -81.6182,
+   "addedOn": "2026-11-16",
+   "usedOn": []
+  },
+  {
+   "id": "124476028",
+   "photoUrl": "https://www.mountainproject.com/photo/124476028/taking-the-whip",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/124476028_medium_1687743283.jpg?cache=1786074907",
+   "title": "taking the whip",
+   "breadcrumb": "Idaho > S Idaho > City of Rocks > Parking Lot Rock > Parking Lot Rock Northeast > Cairo ( 5.11a 6c 22 VII+ 22 E3 5c )",
+   "coordArea": "Parking Lot Rock Northeast",
+   "approx": false,
+   "lat": 42.08386,
+   "lng": -113.72246,
    "addedOn": "2026-11-16",
    "usedOn": []
   }
