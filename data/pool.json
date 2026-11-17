@@ -15890,6 +15890,31 @@
    "lat": 40.0035,
    "lng": -105.3964,
    "name": null
+  },
+  "https://www.mountainproject.com/area/105734297/chew-tooth": {
+   "lat": 37.22672,
+   "lng": -122.09952,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/105808555/anduriel-tower": {
+   "lat": 32.36788,
+   "lng": -110.71276,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/106848932/presten": {
+   "lat": 68.1815,
+   "lng": 14.21888,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/106997567/mt-temple": {
+   "lat": 51.3512,
+   "lng": -116.2058,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/108151880/prohibition-wall": {
+   "lat": 35.86324,
+   "lng": -92.90375,
+   "name": null
   }
  },
  "rejected": {
@@ -71335,6 +71360,84 @@
    "approx": false,
    "lat": 38.57701,
    "lng": -107.73207,
+   "addedOn": "2026-11-17",
+   "usedOn": []
+  },
+  {
+   "id": "106069859",
+   "photoUrl": "https://www.mountainproject.com/photo/106069859/3-beautiful-alpine-walls-cracks-and-corners-everywhere",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/106069859_medium_1558470779.jpg?cache=1761161256",
+   "title": "3 beautiful alpine walls.  Cracks and corners everywhere.",
+   "breadcrumb": "California > High Sierra",
+   "coordArea": "High Sierra",
+   "approx": false,
+   "lat": 37.27549,
+   "lng": -118.6765,
+   "addedOn": "2026-11-17",
+   "usedOn": []
+  },
+  {
+   "id": "107889612",
+   "photoUrl": "https://www.mountainproject.com/photo/107889612/chew-tooth",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/107889612_medium_1494248680.jpg?cache=1747453795",
+   "title": "Chew Tooth",
+   "breadcrumb": "California > San Francisco Bay Area > S Bay Area > Castle Rock And Sanborn Area > Western Addition Area > Chew Tooth",
+   "coordArea": "Chew Tooth",
+   "approx": false,
+   "lat": 37.22672,
+   "lng": -122.09952,
+   "addedOn": "2026-11-17",
+   "usedOn": []
+  },
+  {
+   "id": "108595163",
+   "photoUrl": "https://www.mountainproject.com/photo/108595163/elisa-nubsi-phillips-climbing-birthday-girl-on-her-birthday-birthday-baloon-phot",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/108595163_medium_1494290028.jpg?cache=1784910956",
+   "title": "Elisa \"Nubsi\" Phillips climbing \"Birthday Girl\" on her birthday.  Birthday baloon & Photo provided by Anya Sobolevs'ka.",
+   "breadcrumb": "Arizona > Southern Arizona > Mount Lemmon Santa Catalina Mountains > Mount Lemmon Catalina Highway > 3 Windy Point East > Anduriel Tower > Birthday Girl ( 5.10 6b 20 VII- 19 E2 5b )",
+   "coordArea": "Anduriel Tower",
+   "approx": false,
+   "lat": 32.36788,
+   "lng": -110.71276,
+   "addedOn": "2026-11-17",
+   "usedOn": []
+  },
+  {
+   "id": "113220642",
+   "photoUrl": "https://www.mountainproject.com/photo/113220642/route-goes-up-the-right-skyline-magical",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/113220642_medium_1498524558.jpg?cache=1742871918",
+   "title": "route goes up the right skyline.  magical.",
+   "breadcrumb": "International > Europe > Norway > Lofoten > Presten > Vestpillaren Direct ( 5.10+ 6b+ 21 VII+ 20 E3 5b )",
+   "coordArea": "Presten",
+   "approx": false,
+   "lat": 68.1815,
+   "lng": 14.21888,
+   "addedOn": "2026-11-17",
+   "usedOn": []
+  },
+  {
+   "id": "117956807",
+   "photoUrl": "https://www.mountainproject.com/photo/117956807/amazing-mud-clast-fossils-to-be-found-high-on-the-route",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/117956807_medium_1572221537.jpg?cache=1792165250",
+   "title": "Amazing mud clast fossils to be found high on the route!",
+   "breadcrumb": "International > N America > Canada > Alberta > Banff NP > Valley Of The Ten Peaks > Mt Temple > Squashed Bones ( 5.8 5b 16 VI- 15 HVS 4c )",
+   "coordArea": "Mt Temple",
+   "approx": false,
+   "lat": 51.3512,
+   "lng": -116.2058,
+   "addedOn": "2026-11-17",
+   "usedOn": []
+  },
+  {
+   "id": "118726015",
+   "photoUrl": "https://www.mountainproject.com/photo/118726015/thomas-jammin-it-up",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/118726015_medium_1585951136.jpg?cache=1702073651",
+   "title": "Thomas jammin' it up",
+   "breadcrumb": "Arkansas > North Central Arkansas > Richland Creek Area > Prohibition > Prohibition Wall > Prohibition ( 5.12a 7a+ 25 VIII+ 25 E5 6a )",
+   "coordArea": "Prohibition Wall",
+   "approx": false,
+   "lat": 35.86324,
+   "lng": -92.90375,
    "addedOn": "2026-11-17",
    "usedOn": []
   }
