@@ -16590,6 +16590,21 @@
    "lat": 48.3097,
    "lng": -92.486,
    "name": null
+  },
+  "https://www.mountainproject.com/area/105739527/the-egg": {
+   "lat": 40.57405,
+   "lng": -111.76875,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/105744879/the-headstone": {
+   "lat": 39.2575,
+   "lng": -105.0991,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/109056973/bubbs-creek-wall": {
+   "lat": 36.77106,
+   "lng": -118.47295,
+   "name": null
   }
  },
  "rejected": {
@@ -74968,6 +74983,84 @@
    "approx": false,
    "lat": 47.3529,
    "lng": -88.3349,
+   "addedOn": "2026-11-18",
+   "usedOn": []
+  },
+  {
+   "id": "9302590",
+   "photoUrl": "https://www.mountainproject.com/photo/9302590/1-leggo-my-eggo-2-variety-delight-3-just-say-no-to-crack-4-huevos-rancheros-5-lo",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/9302590_medium_1557855506.jpg?cache=1755448582",
+   "title": "1) Leggo My Eggo  2) Variety Delight  3) Just Say No to Crack  4) Huevos Rancheros  5) Lowe Blowe  6) Jesus or Jeopardy  7) Groovin'",
+   "breadcrumb": "Utah > Wasatch Range > Central Wasatch > Little Cottonwood Canyon > Egg > Groovin' ( 5.8+ 5b 16 VI- 15 HVS 4c )",
+   "coordArea": "Egg",
+   "approx": false,
+   "lat": 40.57405,
+   "lng": -111.76875,
+   "addedOn": "2026-11-18",
+   "usedOn": []
+  },
+  {
+   "id": "106961817",
+   "photoUrl": "https://www.mountainproject.com/photo/106961817/big-cams-for-the-big-crack-photo-credit-eric-bissell",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/106961817_medium_1494154453.jpg?cache=1740509934",
+   "title": "Big cams for the big crack! <br>  <br> Photo credit: Eric Bissell",
+   "breadcrumb": "California > Yosemite NP > Yosemite Valley > Valley N Side > Royal Arches Area > Royal Arches Boulder Cracks > Space Invaders ( 5.12a 7a+ 25 VIII+ 25 E5 6a )",
+   "coordArea": "Royal Arches Boulder Cracks",
+   "approx": false,
+   "lat": 37.74499,
+   "lng": -119.56484,
+   "addedOn": "2026-11-18",
+   "usedOn": []
+  },
+  {
+   "id": "110620687",
+   "photoUrl": "https://www.mountainproject.com/photo/110620687/lauren-on-p2",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/110620687_medium_1494341549.jpg?cache=1762559207",
+   "title": "Lauren on P2.",
+   "breadcrumb": "Colorado > S Platte > Devil's Head > Headstone > Topaz ( 5.10c 6b 20 VII 20 E2 5b )",
+   "coordArea": "Headstone",
+   "approx": false,
+   "lat": 39.2575,
+   "lng": -105.0991,
+   "addedOn": "2026-11-18",
+   "usedOn": []
+  },
+  {
+   "id": "110779164",
+   "photoUrl": "https://www.mountainproject.com/photo/110779164/brian-begins-to-follow-the-9th-pitch-the-key-to-the-empire-upper-section-of-the-",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/110779164_medium_1494353907.jpg?cache=1789930210",
+   "title": "Brian begins to follow the 9th pitch - the key to the empire. Upper section of the 5.12a variation to the 8th pitch is seen below, a beautiful corner.",
+   "breadcrumb": "California > High Sierra > 12 Kearsarge Pass To Cedar Grove > Bubbs Creek Wall > Emperor ( 5.12a 7a+ 25 VIII+ 25 E5 6a PG13)",
+   "coordArea": "Bubbs Creek Wall",
+   "approx": false,
+   "lat": 36.77106,
+   "lng": -118.47295,
+   "addedOn": "2026-11-18",
+   "usedOn": []
+  },
+  {
+   "id": "114053155",
+   "photoUrl": "https://www.mountainproject.com/photo/114053155/view-from-chains-of-idol-point-arete",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/114053155_medium_1517323916.jpg?cache=1702072836",
+   "title": "View from chains of Idol Point Arete.",
+   "breadcrumb": "W Virginia > The New River Gorge Region > New River Gorge Proper > Endless Wall > D) Idol Point > Idol Point Arête ( 5.12a 7a+ 25 VIII+ 25 E5 6a )",
+   "coordArea": "D) Idol Point",
+   "approx": false,
+   "lat": 38.05435,
+   "lng": -81.06164,
+   "addedOn": "2026-11-18",
+   "usedOn": []
+  },
+  {
+   "id": "118698393",
+   "photoUrl": "https://www.mountainproject.com/photo/118698393/lovely-sunset-colors-and-silhouette-while-descending-the-great-plumbers-crack-bo",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/118698393_medium_1585241583.jpg?cache=1702073640",
+   "title": "Lovely sunset colors and silhouette while descending the great Plumber's Crack boulder.",
+   "breadcrumb": "Nevada > Southern Nevada > Red Rock Boulders > Calico Basin Boulders > Kraft Boulders > Main Area > Split Boulder > Plumber's Crack ( 5.9 5c 17 VI 17 HVS 5a V2 5+ R)",
+   "coordArea": "Split Boulder",
+   "approx": false,
+   "lat": 36.15993,
+   "lng": -115.41713,
    "addedOn": "2026-11-18",
    "usedOn": []
   }
