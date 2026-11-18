@@ -15915,6 +15915,26 @@
    "lat": 35.86324,
    "lng": -92.90375,
    "name": null
+  },
+  "https://www.mountainproject.com/area/118353421/west-face-of-the-lamb": {
+   "lat": 37.86932,
+   "lng": -119.42588,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/106002993/ortega-falls": {
+   "lat": 33.62581,
+   "lng": -117.42639,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/105861915/south-peak-west-face": {
+   "lat": 38.83453,
+   "lng": -79.36677,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/105717146/eastern-reef-area-aka-the-sandstone-alps": {
+   "lat": 38.88347,
+   "lng": -110.45548,
+   "name": null
   }
  },
  "rejected": {
@@ -71438,6 +71458,84 @@
    "approx": false,
    "lat": 35.86324,
    "lng": -92.90375,
+   "addedOn": "2026-11-17",
+   "usedOn": []
+  },
+  {
+   "id": "105879621",
+   "photoUrl": "https://www.mountainproject.com/photo/105879621/larissa-phillips-on-the-spearhead-approach",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/105879621_medium_1557936689.jpg?cache=1717009890",
+   "title": "Larissa Phillips on the Spearhead approach.",
+   "breadcrumb": "Colorado > Alpine Rock > RMNP - Rock > Glacier Gorge > Spearhead",
+   "coordArea": "Spearhead",
+   "approx": false,
+   "lat": 40.2567,
+   "lng": -105.63834,
+   "addedOn": "2026-11-17",
+   "usedOn": []
+  },
+  {
+   "id": "106067274",
+   "photoUrl": "https://www.mountainproject.com/photo/106067274/jerrys-quarry",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/106067274_medium_1558470308.jpg?cache=1753499858",
+   "title": "Jerry's Quarry",
+   "breadcrumb": "California > Joshua Tree NP > Queen Valley Area > Geology Tour Road Closed Due To Road Damage > Geology Tour Road West > Jerrys Quarry And Lost Pencil Areas > Jerry's Quarry",
+   "coordArea": "Jerry's Quarry",
+   "approx": false,
+   "lat": 33.95435,
+   "lng": -116.09234,
+   "addedOn": "2026-11-17",
+   "usedOn": []
+  },
+  {
+   "id": "106215371",
+   "photoUrl": "https://www.mountainproject.com/photo/106215371/on-the-lamb",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/106215371_medium_1494088768.jpg?cache=1746545827",
+   "title": "On The Lamb.",
+   "breadcrumb": "California > Yosemite NP > Tuolumne Meadows > Lamb Dome > W Face of the Lamb > On the Lamb ( 5.9 5c 17 VI 17 HVS 5a )",
+   "coordArea": "W Face of the Lamb",
+   "approx": false,
+   "lat": 37.86932,
+   "lng": -119.42588,
+   "addedOn": "2026-11-17",
+   "usedOn": []
+  },
+  {
+   "id": "106571418",
+   "photoUrl": "https://www.mountainproject.com/photo/106571418/a-view-of-the-falls-and-the-pool-beneath-its-only-like-this-during-late-winter-a",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/106571418_medium_1494121428.jpg?cache=1701315997",
+   "title": "A view of the falls and the pool beneath.  It's only like this during late winter and spring.",
+   "breadcrumb": "California > Los Angeles Basin > Santa Ana Mountains > Ortega Falls",
+   "coordArea": "Ortega Falls",
+   "approx": false,
+   "lat": 33.62581,
+   "lng": -117.42639,
+   "addedOn": "2026-11-17",
+   "usedOn": []
+  },
+  {
+   "id": "107304254",
+   "photoUrl": "https://www.mountainproject.com/photo/107304254/not-my-image-selected-routes-on-the-south-peak-west-face",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/107304254_medium_1494180124.jpg?cache=1727320703",
+   "title": "(Not my image) <br> Selected routes on the South Peak - West Face.",
+   "breadcrumb": "W Virginia > Seneca Rocks > S Peak - W Face",
+   "coordArea": "S Peak - W Face",
+   "approx": false,
+   "lat": 38.83453,
+   "lng": -79.36677,
+   "addedOn": "2026-11-17",
+   "usedOn": []
+  },
+  {
+   "id": "107566358",
+   "photoUrl": "https://www.mountainproject.com/photo/107566358/geology-of-san-rafael-swell-image-credit-kelsey-michael-r-hiking-and-exploring-u",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/107566358_medium_1494197607.jpg?cache=1780936719",
+   "title": "Geology of San Rafael Swell. image credit: Kelsey, Michael R. Hiking and Exploring Utah's San Rafael Swell. 3rd ed. Provo: Kelsey Publishing, 1999. 202. Print.",
+   "breadcrumb": "Utah > S Central Utah > San Rafael Swell > San Rafael Swell South > Eastern Reef Area Aka The Sandstone Alps",
+   "coordArea": "Eastern Reef Area Aka The Sandstone Alps",
+   "approx": false,
+   "lat": 38.88347,
+   "lng": -110.45548,
    "addedOn": "2026-11-17",
    "usedOn": []
   }
