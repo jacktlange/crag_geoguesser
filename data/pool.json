@@ -16275,6 +16275,26 @@
    "lat": 34.07458,
    "lng": -116.1576,
    "name": null
+  },
+  "https://www.mountainproject.com/area/105875159/lembert-dome": {
+   "lat": 37.88196,
+   "lng": -119.34713,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/107088646/las-vegas-el-porvenir": {
+   "lat": 35.7135,
+   "lng": -105.41617,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/107275347/the-sleeping-lady": {
+   "lat": 47.54155,
+   "lng": -120.72659,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/121305104/smithbrook": {
+   "lat": 47.79588,
+   "lng": -121.06316,
+   "name": null
   }
  },
  "rejected": {
@@ -19236,7 +19256,7 @@
   {
    "id": "204137636",
    "photoUrl": "https://www.mountainproject.com/photo/204137636/the-view",
-   "imageUrl": "https://mountainproject.com/assets/photos/climb/204137636_medium_1793464318.jpg?cache=1793464323",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/204137636_medium_1793464318.jpg?cache=1794165196",
    "title": "the view",
    "breadcrumb": "International > Europe > Spain > Catalonia > Tarragona > Margalef > Can Regino > Ajo esport ( 5.10b 6a+ 19 VII- 19 E2 5b )",
    "coordArea": "Can Regino",
@@ -19244,7 +19264,9 @@
    "lat": 41.29333,
    "lng": 0.77984,
    "addedOn": "2026-10-31",
-   "usedOn": []
+   "usedOn": [
+    "2026-11-18"
+   ]
   },
   {
    "id": "106018944",
@@ -23337,7 +23359,9 @@
    "lat": 39.65544,
    "lng": -78.78978,
    "addedOn": "2026-11-02",
-   "usedOn": []
+   "usedOn": [
+    "2026-11-18"
+   ]
   },
   {
    "id": "105818268",
@@ -29119,7 +29143,9 @@
    "lat": 37.96856,
    "lng": -90.53194,
    "addedOn": "2026-11-04",
-   "usedOn": []
+   "usedOn": [
+    "2026-11-18"
+   ]
   },
   {
    "id": "117760350",
@@ -40937,7 +40963,9 @@
    "lat": 35.15026,
    "lng": -83.0564,
    "addedOn": "2026-11-07",
-   "usedOn": []
+   "usedOn": [
+    "2026-11-18"
+   ]
   },
   {
    "id": "107199098",
@@ -69309,7 +69337,9 @@
    "lat": 39.9789,
    "lng": -105.2922,
    "addedOn": "2026-11-17",
-   "usedOn": []
+   "usedOn": [
+    "2026-11-18"
+   ]
   },
   {
    "id": "110936459",
@@ -73247,6 +73277,97 @@
    "approx": false,
    "lat": 41.74421,
    "lng": -74.179,
+   "addedOn": "2026-11-18",
+   "usedOn": []
+  },
+  {
+   "id": "105927760",
+   "photoUrl": "https://www.mountainproject.com/photo/105927760/lembert-dome-photo-by-blitzo",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/105927760_medium_1557950463.jpg?cache=1779647368",
+   "title": "Lembert Dome. <br> Photo by Blitzo.",
+   "breadcrumb": "California > Yosemite NP > Tuolumne Meadows > Lembert Dome",
+   "coordArea": "Lembert Dome",
+   "approx": false,
+   "lat": 37.88196,
+   "lng": -119.34713,
+   "addedOn": "2026-11-18",
+   "usedOn": []
+  },
+  {
+   "id": "106846960",
+   "photoUrl": "https://www.mountainproject.com/photo/106846960/enjoying-the-58-finish-to-p1-of-safari-jive-photo-by-adam-johnson",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/106846960_medium_1494145271.jpg?cache=1778858233",
+   "title": "Enjoying the 5.8 finish to P1 of Safari Jive.  Photo by Adam Johnson",
+   "breadcrumb": "N Carolina > Southern Mountains Region > Looking Glass Rock > N Side > Safari Jive ( 5.11c 6c+ 24 VIII- 24 E4 6a )",
+   "coordArea": "N Side",
+   "approx": false,
+   "lat": 35.30546,
+   "lng": -82.79093,
+   "addedOn": "2026-11-18",
+   "usedOn": []
+  },
+  {
+   "id": "107088673",
+   "photoUrl": "https://www.mountainproject.com/photo/107088673/el-porvenir-and-hermits-peak",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/107088673_medium_1494165066.jpg?cache=1750705199",
+   "title": "El Porvenir and Hermits Peak",
+   "breadcrumb": "New Mexico > New Mexico Other Northern Areas > Las Vegas / El Porvenir",
+   "coordArea": "Las Vegas / El Porvenir",
+   "approx": false,
+   "lat": 35.7135,
+   "lng": -105.41617,
+   "addedOn": "2026-11-18",
+   "usedOn": []
+  },
+  {
+   "id": "110080628",
+   "photoUrl": "https://www.mountainproject.com/photo/110080628/the-sleeping-lady-leavenworth",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/110080628_medium_1494368819.jpg?cache=1737155677",
+   "title": "The Sleeping Lady, Leavenworth",
+   "breadcrumb": "Washington > Central East Cascades Wenatchee Leavenworth > Leavenworth > Icicle Creek > Bouldering In Icicle Creek > Sleeping Lady Boulders > Sleeping Lady > Sleeping Lady ( V1 5 X)",
+   "coordArea": "Sleeping Lady",
+   "approx": false,
+   "lat": 47.54155,
+   "lng": -120.72659,
+   "addedOn": "2026-11-18",
+   "usedOn": []
+  },
+  {
+   "id": "111869872",
+   "photoUrl": "https://www.mountainproject.com/photo/111869872/aaron-livingston-reaching-for-the-lip-of-separate-reality",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/111869872_medium_1494308792.jpg?cache=1794449978",
+   "title": "Aaron Livingston reaching for the lip of Separate Reality",
+   "breadcrumb": "California > Yosemite NP > Yosemite Valley > Lower Merced River Canyon > Ak Wildcat Falls Above The Cookie > Separate Reality ( 5.12a 7a+ 25 VIII+ 25 E5 6a )",
+   "coordArea": "Ak Wildcat Falls Above The Cookie",
+   "approx": false,
+   "lat": 37.7202,
+   "lng": -119.71946,
+   "addedOn": "2026-11-18",
+   "usedOn": []
+  },
+  {
+   "id": "114389480",
+   "photoUrl": "https://www.mountainproject.com/photo/114389480/isaac-ripping-up",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/114389480_medium_1526879090.jpg?cache=1793369107",
+   "title": "Isaac ripping up",
+   "breadcrumb": "Nevada > Southern Nevada > Red Rock Boulders > Calico Basin Boulders > Kraft Boulders > Main Area > Split Boulder > Plumber's Crack ( 5.9 5c 17 VI 17 HVS 5a V2 5+ R)",
+   "coordArea": "Split Boulder",
+   "approx": false,
+   "lat": 36.15993,
+   "lng": -115.41713,
+   "addedOn": "2026-11-18",
+   "usedOn": []
+  },
+  {
+   "id": "121383762",
+   "photoUrl": "https://www.mountainproject.com/photo/121383762/jake-manages-his-fear-before-sticking-the-crux-on-the-first-ascent-of-the-rorsch",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/121383762_medium_1632943546.jpg?cache=1745504989",
+   "title": "Jake manages his fear before sticking the crux on the first ascent of The Rorschach Test",
+   "breadcrumb": "Washington > Central East Cascades Wenatchee Leavenworth > Smithbrook",
+   "coordArea": "Smithbrook",
+   "approx": false,
+   "lat": 47.79588,
+   "lng": -121.06316,
    "addedOn": "2026-11-18",
    "usedOn": []
   }
