@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-18T15:32:58+00:00",
+ "generated": "2026-11-18T20:50:07+00:00",
  "photos": [
   {
    "id": "105787726",
@@ -44,6 +44,17 @@
    "approx": false,
    "lat": 41.15478,
    "lng": -105.37467
+  },
+  {
+   "id": "105816441",
+   "photoUrl": "https://www.mountainproject.com/photo/105816441/a-tight-shot-of-the-cam-while-he-was-hanging-on-it-ive-seen-shakier-placements-b",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/105816441_medium_1557859245.jpg?cache=1767903431",
+   "title": "A tight shot of the cam while he was hanging on it.  I've seen shakier placements, but never a shakier placement that actually held a fall.  After lowering and traversing back to the belay, Jeff gave the rope a flick and the cam popped out and slid down the rope into his hand.  No cleaning necessary.  Very efficient of him.",
+   "breadcrumb": "New York > Gunks > Near Trapps > Beginning Of Cliff To Gelsa > Disney Point ( 5.10+ 6b+ 21 VII+ 20 E3 5b )",
+   "coordArea": "Beginning Of Cliff To Gelsa",
+   "approx": false,
+   "lat": 41.73517,
+   "lng": -74.19463
   },
   {
    "id": "105818268",
@@ -143,6 +154,17 @@
    "approx": false,
    "lat": 37.72439,
    "lng": -119.70063
+  },
+  {
+   "id": "105867950",
+   "photoUrl": "https://www.mountainproject.com/photo/105867950/sam-approaching-the-business-on-big-baby",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/105867950_medium_1557935365.jpg?cache=1794496407",
+   "title": "Sam approaching the business on Big Baby",
+   "breadcrumb": "Utah > Southeast Utah > San Juan County > Indian Creek > Battle Of The Bulge Buttress > Big Baby ( 5.11 6c+ 23 VIII- 23 E4 5c )",
+   "coordArea": "Battle Of The Bulge Buttress",
+   "approx": false,
+   "lat": 38.03837,
+   "lng": -109.54917
   },
   {
    "id": "105872762",
@@ -2972,6 +2994,28 @@
    "lng": -89.73602
   },
   {
+   "id": "107257552",
+   "photoUrl": "https://www.mountainproject.com/photo/107257552/tree-frog-for-the-send",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/107257552_medium_1494176855.jpg?cache=1701317049",
+   "title": "Tree Frog for the send.",
+   "breadcrumb": "Minnesota > Closed Swedes Forest Boulders > Skink Boulders > Skinks Palace Boulder > Skinks Crack ( V3 6A )",
+   "coordArea": "Skinks Palace Boulder",
+   "approx": false,
+   "lat": 44.6879,
+   "lng": -95.3654
+  },
+  {
+   "id": "107271167",
+   "photoUrl": "https://www.mountainproject.com/photo/107271167/iceberg-near-prusik-pass",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/107271167_medium_1494177823.jpg?cache=1654518378",
+   "title": "Iceberg near Prusik Pass",
+   "breadcrumb": "Washington > Central East Cascades Wenatchee Leavenworth > Leavenworth > Icicle Creek",
+   "coordArea": "Icicle Creek",
+   "approx": false,
+   "lat": 47.5427,
+   "lng": -120.71059
+  },
+  {
    "id": "107274726",
    "photoUrl": "https://www.mountainproject.com/photo/107274726/todd-helgeson-on-sweet-tooth",
    "imageUrl": "https://mountainproject.com/assets/photos/climb/107274726_medium_1494178078.jpg?cache=1742008066",
@@ -3962,6 +4006,17 @@
    "lng": -110.74968
   },
   {
+   "id": "108295354",
+   "photoUrl": "https://www.mountainproject.com/photo/108295354/the-route-ascends-the-obvious-arete-highlighted-by-sun-and-shadow-that-leads-to-",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/108295354_medium_1494274544.jpg?cache=1630468721",
+   "title": "The route ascends the obvious arete, highlighted by sun and shadow, that leads to a point just right of the summit.",
+   "breadcrumb": "Colorado > Alpine Rock > RMNP - Rock > Glacier Gorge > Chiefshead > Chiefshead S Face > S Spur ( 5.7 5a 15 V+ 13 MVS 4b )",
+   "coordArea": "Chiefshead S Face",
+   "approx": false,
+   "lat": 40.24484,
+   "lng": -105.64353
+  },
+  {
    "id": "108295885",
    "photoUrl": "https://www.mountainproject.com/photo/108295885/end-of-pitch-4",
    "imageUrl": "https://mountainproject.com/assets/photos/climb/108295885_medium_1494274576.jpg?cache=1702071355",
@@ -4655,6 +4710,17 @@
    "lng": -78.78978
   },
   {
+   "id": "109638433",
+   "photoUrl": "https://www.mountainproject.com/photo/109638433/dobbe-going-big",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/109638433_medium_1494358651.jpg?cache=1701318693",
+   "title": "Dobbe going big.",
+   "breadcrumb": "Minnesota > Sandstone > Eldon > Best Boulder in Minne… ( V5 6C )",
+   "coordArea": "Eldon",
+   "approx": false,
+   "lat": 46.13257,
+   "lng": -92.85603
+  },
+  {
    "id": "109662861",
    "photoUrl": "https://www.mountainproject.com/photo/109662861/tony-b-at-the-steep-crux-of-junior-achievements-p1-just-above-the-4-cam-placemen",
    "imageUrl": "https://mountainproject.com/assets/photos/climb/109662861_medium_1494359412.jpg?cache=1701318700",
@@ -5084,6 +5150,17 @@
    "lng": -123.72434
   },
   {
+   "id": "110719830",
+   "photoUrl": "https://www.mountainproject.com/photo/110719830/the-line",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/110719830_medium_1494352342.jpg?cache=1701318960",
+   "title": "the line",
+   "breadcrumb": "California > Northwest California > Promontory > Puff Boulder > Clicking Barnacles ( 5.9- 5c 17 VI 16 HVS 4c PG13)",
+   "coordArea": "Puff Boulder",
+   "approx": false,
+   "lat": 41.60645,
+   "lng": -124.10501
+  },
+  {
    "id": "110742379",
    "photoUrl": "https://www.mountainproject.com/photo/110742379/route-overlay-truckn-drive",
    "imageUrl": "https://mountainproject.com/assets/photos/climb/110742379_medium_1494352780.jpg?cache=1751508100",
@@ -5478,6 +5555,17 @@
    "approx": false,
    "lat": 41.8981,
    "lng": -71.433
+  },
+  {
+   "id": "111601021",
+   "photoUrl": "https://www.mountainproject.com/photo/111601021/chris-leading-through-a-tricky-corner-on-the-chris-wex-don-traverse",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/111601021_medium_1494296578.jpg?cache=1597345681",
+   "title": "Chris leading through a tricky corner on the Chris Wex Don Traverse.",
+   "breadcrumb": "Maryland > Carderock > Hades Heights > Chris Wex Don Traverse ( 5.7+ 5a 15 V+ 13 MVS 4b R)",
+   "coordArea": "Hades Heights",
+   "approx": false,
+   "lat": 38.97534,
+   "lng": -77.20658
   },
   {
    "id": "111615176",
@@ -6292,6 +6380,17 @@
    "approx": false,
    "lat": 38.54668,
    "lng": -109.59959
+  },
+  {
+   "id": "113438194",
+   "photoUrl": "https://www.mountainproject.com/photo/113438194/steve-at-the-catwalk",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/113438194_medium_1502090132.jpg?cache=1761154971",
+   "title": "Steve at the catwalk",
+   "breadcrumb": "California > Northeast California > Mt Shasta Area > Mt Shasta > Casaval Ridge ( 4th 1 2 I 2 M 1b Mod. Snow)",
+   "coordArea": "Mt Shasta",
+   "approx": false,
+   "lat": 41.4092,
+   "lng": -122.1949
   },
   {
    "id": "113449741",
@@ -7161,6 +7260,17 @@
    "approx": false,
    "lat": 37.51191,
    "lng": -118.57091
+  },
+  {
+   "id": "116761171",
+   "photoUrl": "https://www.mountainproject.com/photo/116761171/shuteye-ridge",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/116761171_medium_1555817885.jpg?cache=1738464843",
+   "title": "Shuteye Ridge",
+   "breadcrumb": "California > Southern Sierra Nevada Western Slope > Hwy 41 Fresno Dome Shuteye Ridge > Shuteye Ridge",
+   "coordArea": "Shuteye Ridge",
+   "approx": false,
+   "lat": 37.35,
+   "lng": -119.42759
   },
   {
    "id": "116783277",
@@ -8505,6 +8615,17 @@
    "lng": -105.3222
   },
   {
+   "id": "120573749",
+   "photoUrl": "https://www.mountainproject.com/photo/120573749/you-did-it-party-time-note-dont-bring-fireworks-to-the-crag-or-you-might-start-a",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/120573749_medium_1618846736.jpg?cache=1618899043",
+   "title": "you did it! party time! <br> note: don't bring fireworks to the crag or you might start a fire!",
+   "breadcrumb": "Connecticut > CT Bouldering > Samp Mortar Mt Laurel > Samp Mortar > Highball Slab ( V0 4 R)",
+   "coordArea": "Samp Mortar",
+   "approx": false,
+   "lat": 41.18754,
+   "lng": -73.26312
+  },
+  {
    "id": "1205771",
    "photoUrl": "https://www.mountainproject.com/photo/1205771/john-on-the-59-fist-pitch-you-can-traverse-in-from-the-left-on-ledges-to-avoid-t",
    "imageUrl": "https://mountainproject.com/assets/photos/climb/1205771_medium_1557848882.jpg?cache=1759106599",
@@ -9737,6 +9858,17 @@
    "lng": -71.03906
   },
   {
+   "id": "124836278",
+   "photoUrl": "https://www.mountainproject.com/photo/124836278/entering-the-final-section-after-the-good-rest-the-crux-for-me-was-pulling-up-pa",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/124836278_medium_1693259150.jpg?cache=1786078419",
+   "title": "Entering the final section after the good rest. The crux for me was pulling up past this pinch to the next undercling, and clipping anchors required a left heel hook.",
+   "breadcrumb": "International > Europe > Montenegro > Bar > Stari Bar > Wild Fig ( 5.12c/d 7c 28 IX 28 E6 6b )",
+   "coordArea": "Stari Bar",
+   "approx": false,
+   "lat": 42.09957,
+   "lng": 19.14062
+  },
+  {
    "id": "124867705",
    "photoUrl": "https://www.mountainproject.com/photo/124867705/looking-down-the-pitch",
    "imageUrl": "https://mountainproject.com/assets/photos/climb/124867705_medium_1693772498.jpg?cache=1695071846",
@@ -9913,6 +10045,17 @@
    "lng": -85.21869
   },
   {
+   "id": "125328692",
+   "photoUrl": "https://www.mountainproject.com/photo/125328692/picture-of-dirty-crack",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/125328692_medium_1699901426.jpg?cache=1786063100",
+   "title": "Picture of dirty crack",
+   "breadcrumb": "Maryland > Northwest Branch > South Bank The Cracks > Dirty Crack ( 5.7 5a 15 V+ 13 MVS 4b )",
+   "coordArea": "South Bank The Cracks",
+   "approx": false,
+   "lat": 39.02888,
+   "lng": -77.0034
+  },
+  {
    "id": "125359702",
    "photoUrl": "https://www.mountainproject.com/photo/125359702/starting-on-fiction",
    "imageUrl": "https://mountainproject.com/assets/photos/climb/125359702_medium_1700415517.jpg?cache=1786063451",
@@ -9966,6 +10109,17 @@
    "approx": false,
    "lat": 37.06753,
    "lng": -113.63276
+  },
+  {
+   "id": "125453419",
+   "photoUrl": "https://www.mountainproject.com/photo/125453419/trying-to-hold-the-swing-on-the-last-hard-move-still-on-a-rope-fortunately",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/125453419_medium_1702134711.jpg?cache=1786064400",
+   "title": "Trying to hold the swing on the last hard move... still on a rope fortunately!",
+   "breadcrumb": "Maryland > Rachel Carson Conservation Park > Conservation Queen > Silent Spring (Project) ( V10-11 8A R)",
+   "coordArea": "Conservation Queen",
+   "approx": false,
+   "lat": 39.215,
+   "lng": -77.08488
   },
   {
    "id": "125460471",
@@ -11363,6 +11517,17 @@
    "approx": false,
    "lat": 38.24291,
    "lng": -80.8361
+  },
+  {
+   "id": "203561239",
+   "photoUrl": "https://www.mountainproject.com/photo/203561239/dead-cat-bounce",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/203561239_medium_1785436205.jpg?cache=1785945213",
+   "title": "Dead Cat Bounce",
+   "breadcrumb": "Washington > Central West Cascades Seattle > N Bend & Vicinity > Exit 32; Little Si > Bouldering At Little Si > Boulder Garden > Bikini Bottom Boulder > Dead Cat Bounce ( V3 6A )",
+   "coordArea": "Bikini Bottom Boulder",
+   "approx": false,
+   "lat": 47.48944,
+   "lng": -121.75195
   },
   {
    "id": "203587616",
@@ -13090,6 +13255,39 @@
    "approx": false,
    "lat": 37.68062,
    "lng": -83.66133
+  },
+  {
+   "id": "204254659",
+   "photoUrl": "https://www.mountainproject.com/photo/204254659/a-high-left-foot-at-about-the-halfway-mark-on-the-green-mile",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/204254659_medium_1794997625.jpg?cache=1794997627",
+   "title": "A high left foot at about the halfway mark on The Green Mile",
+   "breadcrumb": "California > Los Angeles Basin > Angeles National Forest > Texas Canyon > Egg > Green Mile ( 5.11a 6c 22 VII+ 22 E3 5c )",
+   "coordArea": "Egg",
+   "approx": false,
+   "lat": 34.51316,
+   "lng": -118.40187
+  },
+  {
+   "id": "204255400",
+   "photoUrl": "https://www.mountainproject.com/photo/204255400/start-holds",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/204255400_medium_1795023715.jpg?cache=1795023717",
+   "title": "Start holds!",
+   "breadcrumb": "New Hampshire > Rumney > Rumney Bouldering > Black Jack Boulders > Moat Boulders > Ricochet Boulder > Dripping With Alchemy ( V7+ 7A+ )",
+   "coordArea": "Ricochet Boulder",
+   "approx": false,
+   "lat": 43.80326,
+   "lng": -71.84283
+  },
+  {
+   "id": "204255484",
+   "photoUrl": "https://www.mountainproject.com/photo/204255484/electroshock-photo-by-tristan-blommer",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/204255484_medium_1795025154.jpg?cache=1795025160",
+   "title": "Electroshock, photo by Tristan Blommer",
+   "breadcrumb": "Colorado > Boulder > Flatirons > North > Skunk Canyon > Ridge 3 Aka Angels Way > Electroshock ( 5.10a 6a 18 VI+ 18 E1 5a )",
+   "coordArea": "Ridge 3 Aka Angels Way",
+   "approx": false,
+   "lat": 39.9789,
+   "lng": -105.2922
   },
   {
    "id": "3200486",
