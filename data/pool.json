@@ -16970,6 +16970,21 @@
    "lat": 43.8996,
    "lng": -103.4732,
    "name": null
+  },
+  "https://www.mountainproject.com/area/107095705/priest-draw-area": {
+   "lat": 35.0816,
+   "lng": -111.5995,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/105937674/monkey-bar-boulder": {
+   "lat": 36.16154,
+   "lng": -115.41099,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/105892232/lower-cathedral-spire": {
+   "lat": 37.7147,
+   "lng": -119.63078,
+   "name": null
   }
  },
  "rejected": {
@@ -76809,6 +76824,84 @@
    "approx": false,
    "lat": 43.8996,
    "lng": -103.4732,
+   "addedOn": "2026-11-19",
+   "usedOn": []
+  },
+  {
+   "id": "106540297",
+   "photoUrl": "https://www.mountainproject.com/photo/106540297/a-party-on-pitch-3-or-4-late-in-the-day",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/106540297_medium_1494118513.jpg?cache=1758922894",
+   "title": "A party on pitch 3 or 4, late in the day.",
+   "breadcrumb": "California > Yosemite NP > Tuolumne Meadows > DAFF Area > DAFF Dome > W Face > W Crack ( 5.9 5c 17 VI 17 HVS 5a )",
+   "coordArea": "W Face",
+   "approx": false,
+   "lat": 37.8795,
+   "lng": -119.41345,
+   "addedOn": "2026-11-19",
+   "usedOn": []
+  },
+  {
+   "id": "106541881",
+   "photoUrl": "https://www.mountainproject.com/photo/106541881/back-in-the-daywhen-the-rotten-log-was-in-place-on-the-traverse-11th-pitch-kevin",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/106541881_medium_1494118616.jpg?cache=1763525040",
+   "title": "Back in the day...when the \"rotten log\" was in place on the traverse 11th pitch. Kevin Sargent crawling across. Royal Arches",
+   "breadcrumb": "California > Yosemite NP > Yosemite Valley > Valley N Side > Royal Arches Area > Royal Arches > Central Royal Arches > Royal Arches (5.10- o… ( 5.10a 6a 18 VI+ 18 E1 5a A0)",
+   "coordArea": "Central Royal Arches",
+   "approx": false,
+   "lat": 37.74724,
+   "lng": -119.57128,
+   "addedOn": "2026-11-19",
+   "usedOn": []
+  },
+  {
+   "id": "107449986",
+   "photoUrl": "https://www.mountainproject.com/photo/107449986/from-the-convent-looking-north",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/107449986_medium_1494190102.jpg?cache=1778821859",
+   "title": "From the Convent, looking North",
+   "breadcrumb": "Utah > Southeast Utah > Grand County > Castle Valley",
+   "coordArea": "Castle Valley",
+   "approx": false,
+   "lat": 38.6836,
+   "lng": -109.4227,
+   "addedOn": "2026-11-19",
+   "usedOn": []
+  },
+  {
+   "id": "110350048",
+   "photoUrl": "https://www.mountainproject.com/photo/110350048/robert-drysdale-spotting-dave-gershwin-on-the-fa-of-down-with-the-bass-in-199119",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/110350048_medium_1494371595.jpg?cache=1788556675",
+   "title": "Robert Drysdale spotting Dave Gershwin on the FA of Down With The Bass in 1991/1992.",
+   "breadcrumb": "Arizona > Northern Arizona > Northern Az Bouldering > Flagstaff Bouldering > Priest Draw Area",
+   "coordArea": "Priest Draw Area",
+   "approx": false,
+   "lat": 35.0816,
+   "lng": -111.5995,
+   "addedOn": "2026-11-19",
+   "usedOn": []
+  },
+  {
+   "id": "116161823",
+   "photoUrl": "https://www.mountainproject.com/photo/116161823/long-exposure-photo-climbing-with-glowsticks-on-hands-and-feet",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/116161823_medium_1543967603.jpg?cache=1793292269",
+   "title": "Long exposure photo.  Climbing with glowsticks on hands and feet.",
+   "breadcrumb": "Nevada > Southern Nevada > Red Rock Boulders > Calico Basin Boulders > Kraft Boulders > E Cluster > Monkey Bar Boulder > Monkey Bars ( V2 5+ )",
+   "coordArea": "Monkey Bar Boulder",
+   "approx": false,
+   "lat": 36.16154,
+   "lng": -115.41099,
+   "addedOn": "2026-11-19",
+   "usedOn": []
+  },
+  {
+   "id": "117854177",
+   "photoUrl": "https://www.mountainproject.com/photo/117854177/the-starting-area-of-the-regular-route-on-lower-cathedral-spire-be-sure-to-keep-",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/117854177_medium_1570547160_topo.jpg?cache=1761682258",
+   "title": "the starting area of the regular route on lower cathedral spire. be sure to keep a keen eye out. can be hard to find. start going up the wide dirty cracks to the first belay station on top of the first two boulders that are on the other side of this tree",
+   "breadcrumb": "California > Yosemite NP > Yosemite Valley > Valley S Side > P. Cathedral Area > Lower Cathedral Spire > Regular Route ( 5.9 5c 17 VI 17 HVS 5a A0)",
+   "coordArea": "Lower Cathedral Spire",
+   "approx": false,
+   "lat": 37.7147,
+   "lng": -119.63078,
    "addedOn": "2026-11-19",
    "usedOn": []
   }
