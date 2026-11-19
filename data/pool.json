@@ -16985,6 +16985,11 @@
    "lat": 37.7147,
    "lng": -119.63078,
    "name": null
+  },
+  "https://www.mountainproject.com/area/111959961/the-mezzanines": {
+   "lat": 41.26348,
+   "lng": -111.93456,
+   "name": null
   }
  },
  "rejected": {
@@ -27030,7 +27035,9 @@
    "lat": 32.3511,
    "lng": -106.5701,
    "addedOn": "2026-11-03",
-   "usedOn": []
+   "usedOn": [
+    "2026-11-19"
+   ]
   },
   {
    "id": "106332824",
@@ -33209,7 +33216,9 @@
    "lat": 45.62763,
    "lng": -122.02195,
    "addedOn": "2026-11-06",
-   "usedOn": []
+   "usedOn": [
+    "2026-11-19"
+   ]
   },
   {
    "id": "122836671",
@@ -41388,7 +41397,9 @@
    "lat": 40.45334,
    "lng": -105.36914,
    "addedOn": "2026-11-07",
-   "usedOn": []
+   "usedOn": [
+    "2026-11-19"
+   ]
   },
   {
    "id": "114167415",
@@ -45322,7 +45333,9 @@
    "lat": 37.31697,
    "lng": -118.77074,
    "addedOn": "2026-11-08",
-   "usedOn": []
+   "usedOn": [
+    "2026-11-19"
+   ]
   },
   {
    "id": "126777391",
@@ -55053,7 +55066,9 @@
    "lat": 37.8186,
    "lng": -119.3992,
    "addedOn": "2026-11-12",
-   "usedOn": []
+   "usedOn": [
+    "2026-11-19"
+   ]
   },
   {
    "id": "106514704",
@@ -76902,6 +76917,110 @@
    "approx": false,
    "lat": 37.7147,
    "lng": -119.63078,
+   "addedOn": "2026-11-19",
+   "usedOn": []
+  },
+  {
+   "id": "105964692",
+   "photoUrl": "https://www.mountainproject.com/photo/105964692/the-cobra-photo-todd-gordon-collection",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/105964692_medium_1558384281.jpg?cache=1794671590",
+   "title": "The Cobra. <br> Photo: Todd Gordon Collection.",
+   "breadcrumb": "Utah > Southeast Utah > Grand County > Fisher Towers > Cobra",
+   "coordArea": "Cobra",
+   "approx": false,
+   "lat": 38.724,
+   "lng": -109.3083,
+   "addedOn": "2026-11-19",
+   "usedOn": []
+  },
+  {
+   "id": "106347374",
+   "photoUrl": "https://www.mountainproject.com/photo/106347374/rainbow-over-the-eastern-sierra-as-viewed-from-the-rim-of-the-upper-gorge",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/106347374_medium_1494100245.jpg?cache=1701315624",
+   "title": "Rainbow over the Eastern Sierra, as viewed from the rim of the Upper Gorge.",
+   "breadcrumb": "California > Eastern Sierra > Bishop Area > Owens River Gorge",
+   "coordArea": "Owens River Gorge",
+   "approx": false,
+   "lat": 37.51191,
+   "lng": -118.57091,
+   "addedOn": "2026-11-19",
+   "usedOn": []
+  },
+  {
+   "id": "111981792",
+   "photoUrl": "https://www.mountainproject.com/photo/111981792/overview-of-the-mezzanines-from-ogden-from-ben-lomond-high-school-to-be-exact-up",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/111981792_medium_1494314694.jpg?cache=1718117167",
+   "title": "Overview of The Mezzanines from Ogden (from Ben Lomond High School, to be exact). (Updated version.) <br>  <br> #1. The Nose <br> #2. Timex",
+   "breadcrumb": "Utah > Wasatch Range > Northern Wasatch > Ogden > Mezzanines",
+   "coordArea": "Mezzanines",
+   "approx": false,
+   "lat": 41.26348,
+   "lng": -111.93456,
+   "addedOn": "2026-11-19",
+   "usedOn": []
+  },
+  {
+   "id": "112821004",
+   "photoUrl": "https://www.mountainproject.com/photo/112821004/scooting-up-the-chimney-of-the-great-white-book",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/112821004_medium_1494316916.jpg?cache=1763791341",
+   "title": "Scooting up the chimney of The Great White Book",
+   "breadcrumb": "California > Yosemite NP > Tuolumne Meadows > Stately Pleasure Dome > Great White Book ( 5.6 4c 14 V 12 S 4b R)",
+   "coordArea": "Stately Pleasure Dome",
+   "approx": false,
+   "lat": 37.83546,
+   "lng": -119.4577,
+   "addedOn": "2026-11-19",
+   "usedOn": []
+  },
+  {
+   "id": "113547663",
+   "photoUrl": "https://www.mountainproject.com/photo/113547663/before-the-final-ridge-traverse-lots-of-ropes-crossing-on-a-crowded-day",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/113547663_medium_1504596740.jpg?cache=1702072612",
+   "title": "Before the final ridge traverse. Lots of ropes crossing on a crowded day!",
+   "breadcrumb": "California > High Sierra > 06 Little Lakes Valley Mono Recesses > Bear Creek Spire > Northeast Ridge ( Easy 5th 1+ 3 I 5 M 1c )",
+   "coordArea": "Bear Creek Spire",
+   "approx": false,
+   "lat": 37.3681,
+   "lng": -118.767,
+   "addedOn": "2026-11-19",
+   "usedOn": []
+  },
+  {
+   "id": "113949160",
+   "photoUrl": "https://www.mountainproject.com/photo/113949160/mt-katahdin-armadillo-area-armadillo-on-left-face-in-shade-flatiron-on-right-fac",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/113949160_medium_1513989706.jpg?cache=1722347146",
+   "title": "Mt Katahdin - Armadillo Area. Armadillo on left ( face in shade), Flatiron on right ( face in sun)",
+   "breadcrumb": "Maine",
+   "coordArea": "Maine",
+   "approx": false,
+   "lat": 45.1511,
+   "lng": -69.16988,
+   "addedOn": "2026-11-19",
+   "usedOn": []
+  },
+  {
+   "id": "114067229",
+   "photoUrl": "https://www.mountainproject.com/photo/114067229/trad-bob-aka-trav-bob-at-70-on-his-beloved-black-wall-traverse-february-4th-2018",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/114067229_medium_1517841135.jpg?cache=1789916251",
+   "title": "Trad Bob, a.k.a. Trav Bob at 70! on his beloved  <br> Black Wall traverse.  February 4th, 2018",
+   "breadcrumb": "California > Central Coast > Hwy 33/Ojai > Sespe Gorge Black Wall > Black Wall Traverse ( V2 5+ )",
+   "coordArea": "Sespe Gorge Black Wall",
+   "approx": false,
+   "lat": 34.5776,
+   "lng": -119.2579,
+   "addedOn": "2026-11-19",
+   "usedOn": []
+  },
+  {
+   "id": "119615440",
+   "photoUrl": "https://www.mountainproject.com/photo/119615440/cowells-classic-v3",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/119615440_medium_1600965982.jpg?cache=1767736264",
+   "title": "Cowell's classic V3",
+   "breadcrumb": "Arkansas > North Central Arkansas > Cowell/Deer Area > Cowell > Font Red > Rings of Uranus ( V3 6A )",
+   "coordArea": "Font Red",
+   "approx": false,
+   "lat": 35.8786,
+   "lng": -93.121,
    "addedOn": "2026-11-19",
    "usedOn": []
   }
