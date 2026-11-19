@@ -17355,6 +17355,31 @@
    "lat": 34.02551,
    "lng": -116.15531,
    "name": null
+  },
+  "https://www.mountainproject.com/area/106501631/castle-rock-spire": {
+   "lat": 36.50861,
+   "lng": -118.71848,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/105833490/middle-cathedral-rock": {
+   "lat": 37.7165,
+   "lng": -119.6363,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/112291160/lost-river-crags-whole-area": {
+   "lat": 44.03992,
+   "lng": -71.79171,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/108309680/scootch-boulder": {
+   "lat": 38.3936,
+   "lng": -121.9866,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/119221018/dolomite-tower": {
+   "lat": 47.77918,
+   "lng": -121.43599,
+   "name": null
   }
  },
  "rejected": {
@@ -78696,6 +78721,84 @@
    "approx": false,
    "lat": 34.02551,
    "lng": -116.15531,
+   "addedOn": "2026-11-19",
+   "usedOn": []
+  },
+  {
+   "id": "106739293",
+   "photoUrl": "https://www.mountainproject.com/photo/106739293/bill-on-the-summit",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/106739293_medium_1494136746.jpg?cache=1778174378",
+   "title": "Bill on the summit.",
+   "breadcrumb": "California > Sequoia Kings Canyon Np > Castle Rocks > Castle Rock Spire",
+   "coordArea": "Castle Rock Spire",
+   "approx": false,
+   "lat": 36.50861,
+   "lng": -118.71848,
+   "addedOn": "2026-11-19",
+   "usedOn": []
+  },
+  {
+   "id": "108012111",
+   "photoUrl": "https://www.mountainproject.com/photo/108012111/at-the-start-of-a-3-day-solo-ultralight-circumnavigation-of-the-evolution-peaks-",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/108012111_medium_1494257168.jpg?cache=1763257386",
+   "title": "At the start of a 3 day solo \"ultralight\" circumnavigation of the Evolution Peaks starting from South Lake.  No tent or stove.  No advance permit needed in 1985, either.",
+   "breadcrumb": "California > High Sierra",
+   "coordArea": "High Sierra",
+   "approx": false,
+   "lat": 37.27549,
+   "lng": -118.6765,
+   "addedOn": "2026-11-19",
+   "usedOn": []
+  },
+  {
+   "id": "109275457",
+   "photoUrl": "https://www.mountainproject.com/photo/109275457/route-lines-on-right-side-of-middle-cathedral",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/109275457_medium_1494345065.jpg?cache=1761284293",
+   "title": "Route lines on right side of Middle Cathedral",
+   "breadcrumb": "California > Yosemite NP > Yosemite Valley > Valley S Side > P. Cathedral Area > Middle Cathedral Rock > Father Time ( 5.13b 8a 29 IX+ 30 E7 6c PG13)",
+   "coordArea": "Middle Cathedral Rock",
+   "approx": false,
+   "lat": 37.7165,
+   "lng": -119.6363,
+   "addedOn": "2026-11-19",
+   "usedOn": []
+  },
+  {
+   "id": "113523226",
+   "photoUrl": "https://www.mountainproject.com/photo/113523226/chris-woodall-leading-p3-of-black-tourmaline-on-the-lower-patina-wall",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/113523226_medium_1504065517.jpg?cache=1765996942",
+   "title": "Chris Woodall leading P3 of Black Tourmaline on the lower Patina Wall.",
+   "breadcrumb": "New Hampshire > WM: Kinsman Notch > Lost River Crags Whole Area",
+   "coordArea": "Lost River Crags Whole Area",
+   "approx": false,
+   "lat": 44.03992,
+   "lng": -71.79171,
+   "addedOn": "2026-11-19",
+   "usedOn": []
+  },
+  {
+   "id": "120078612",
+   "photoUrl": "https://www.mountainproject.com/photo/120078612/sequence-markers-corresponding-to-the-original-guide-book-text",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/120078612_medium_1608191985.jpg?cache=1730906418",
+   "title": "Sequence markers corresponding to the original guide book text",
+   "breadcrumb": "California > San Francisco Bay Area > Wine Countrynortheast Bay > Nut Tree Boulders > Hillcrest Boulders > Scootch Boulder > Scotch Tape’ems ( V7 7A+ )",
+   "coordArea": "Scootch Boulder",
+   "approx": false,
+   "lat": 38.3936,
+   "lng": -121.9866,
+   "addedOn": "2026-11-19",
+   "usedOn": []
+  },
+  {
+   "id": "121150114",
+   "photoUrl": "https://www.mountainproject.com/photo/121150114/approach-overview",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/121150114_medium_1628894421.jpg?cache=1745534973",
+   "title": "Approach overview.",
+   "breadcrumb": "Washington > Central West Cascades Seattle > Skykomish Valley > Mt Baring > Dolomite Tower",
+   "coordArea": "Dolomite Tower",
+   "approx": false,
+   "lat": 47.77918,
+   "lng": -121.43599,
    "addedOn": "2026-11-19",
    "usedOn": []
   }
