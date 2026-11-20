@@ -17725,6 +17725,21 @@
    "lat": 47.43112,
    "lng": -121.61978,
    "name": null
+  },
+  "https://www.mountainproject.com/area/107340274/cannon-cliff": {
+   "lat": 44.159,
+   "lng": -71.6847,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/107856267/the-cakewalk-area": {
+   "lat": 44.08584,
+   "lng": -71.16759,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/105961459/the-umbrella-boulder": {
+   "lat": 43.80268,
+   "lng": -71.84233,
+   "name": null
   }
  },
  "rejected": {
@@ -18070,7 +18085,10 @@
   "107321077": "filtered: ice, mixed, or snow route (grade or area)",
   "108095400": "filtered: ice, mixed, or snow route (grade or area)",
   "120379803": "filtered: ice, mixed, or snow route (grade or area)",
-  "125594304": "filtered: ice, mixed, or snow route (grade or area)"
+  "125594304": "filtered: ice, mixed, or snow route (grade or area)",
+  "1205626": "filtered: ice or snow (caption)",
+  "107003125": "filtered: ice or snow (caption)",
+  "112358357": "filtered: ice, mixed, or snow route (grade or area)"
  },
  "photos": [
   {
@@ -18971,7 +18989,7 @@
   {
    "id": "107877319",
    "photoUrl": "https://www.mountainproject.com/photo/107877319/whose-home-is-this-photo-by-lucas-anaya",
-   "imageUrl": "https://mountainproject.com/assets/photos/climb/107877319_medium_1494247980.jpg?cache=1786013472",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/107877319_medium_1494247980.jpg?cache=1794795521",
    "title": "Whose home is this? <br>  <br> Photo by Lucas Anaya",
    "breadcrumb": "Arizona",
    "coordArea": "Arizona",
@@ -18979,7 +18997,9 @@
    "lat": 34.37969,
    "lng": -112.06098,
    "addedOn": "2026-10-31",
-   "usedOn": []
+   "usedOn": [
+    "2026-11-20"
+   ]
   },
   {
    "id": "107173424",
@@ -45384,7 +45404,9 @@
    "lat": 43.116,
    "lng": -71.17689,
    "addedOn": "2026-11-08",
-   "usedOn": []
+   "usedOn": [
+    "2026-11-20"
+   ]
   },
   {
    "id": "106188819",
@@ -46060,7 +46082,9 @@
    "lat": 59.31411,
    "lng": 18.04197,
    "addedOn": "2026-11-08",
-   "usedOn": []
+   "usedOn": [
+    "2026-11-20"
+   ]
   },
   {
    "id": "204190644",
@@ -55130,7 +55154,9 @@
    "lat": 43.4203,
    "lng": -89.73836,
    "addedOn": "2026-11-12",
-   "usedOn": []
+   "usedOn": [
+    "2026-11-20"
+   ]
   },
   {
    "id": "204215142",
@@ -58579,7 +58605,9 @@
    "lat": 34.01681,
    "lng": -117.41548,
    "addedOn": "2026-11-12",
-   "usedOn": []
+   "usedOn": [
+    "2026-11-20"
+   ]
   },
   {
    "id": "106544718",
@@ -80608,6 +80636,58 @@
    "approx": false,
    "lat": 47.43112,
    "lng": -121.61978,
+   "addedOn": "2026-11-20",
+   "usedOn": []
+  },
+  {
+   "id": "105931698",
+   "photoUrl": "https://www.mountainproject.com/photo/105931698/the-valley-winter-1975-photo-by-blitzo",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/105931698_medium_1557951073.jpg?cache=1788544090",
+   "title": "The Valley-Winter 1975. <br> Photo by Blitzo.",
+   "breadcrumb": "California > Yosemite NP > Yosemite Valley",
+   "coordArea": "Yosemite Valley",
+   "approx": false,
+   "lat": 37.72349,
+   "lng": -119.63452,
+   "addedOn": "2026-11-20",
+   "usedOn": []
+  },
+  {
+   "id": "106124232",
+   "photoUrl": "https://www.mountainproject.com/photo/106124232/a-shot-from-the-adjecent-peak-of-hay-stack",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/106124232_medium_1558651369.jpg?cache=1701315249",
+   "title": "a shot from the adjecent peak of hay stack",
+   "breadcrumb": "New Hampshire > Cannon Cliff",
+   "coordArea": "Cannon Cliff",
+   "approx": false,
+   "lat": 44.159,
+   "lng": -71.6847,
+   "addedOn": "2026-11-20",
+   "usedOn": []
+  },
+  {
+   "id": "110848379",
+   "photoUrl": "https://www.mountainproject.com/photo/110848379/travis-leading-pitch-two",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/110848379_medium_1494355744.jpg?cache=1728563937",
+   "title": "Travis leading pitch two",
+   "breadcrumb": "New Hampshire > WM: N Conway > Humphreys Ledge > The Cakewalk Area > Cakewalk ( 5.7 5a 15 V+ 13 MVS 4b )",
+   "coordArea": "The Cakewalk Area",
+   "approx": false,
+   "lat": 44.08584,
+   "lng": -71.16759,
+   "addedOn": "2026-11-20",
+   "usedOn": []
+  },
+  {
+   "id": "111761957",
+   "photoUrl": "https://www.mountainproject.com/photo/111761957/good-climbing-here",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/111761957_medium_1494303214.jpg?cache=1767632976",
+   "title": "good climbing here...",
+   "breadcrumb": "New Hampshire > Rumney > Rumney Bouldering > Black Jack Boulders > Umbrella Area > Umbrella Boulder",
+   "coordArea": "Umbrella Boulder",
+   "approx": false,
+   "lat": 43.80268,
+   "lng": -71.84233,
    "addedOn": "2026-11-20",
    "usedOn": []
   }
