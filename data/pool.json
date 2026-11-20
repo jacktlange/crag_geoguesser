@@ -17380,6 +17380,26 @@
    "lat": 47.77918,
    "lng": -121.43599,
    "name": null
+  },
+  "https://www.mountainproject.com/area/105717000/angels-landing": {
+   "lat": 37.2693,
+   "lng": -112.94804,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/111189530/walls-of-moria": {
+   "lat": 36.00196,
+   "lng": -93.29396,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/120010412/the-island-aka-left-side-of-cabin-wall": {
+   "lat": 38.68003,
+   "lng": -108.31657,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/105739422/kermits-wall": {
+   "lat": 40.5738,
+   "lng": -111.7549,
+   "name": null
   }
  },
  "rejected": {
@@ -78799,6 +78819,84 @@
    "approx": false,
    "lat": 47.77918,
    "lng": -121.43599,
+   "addedOn": "2026-11-19",
+   "usedOn": []
+  },
+  {
+   "id": "2200131",
+   "photoUrl": "https://www.mountainproject.com/photo/2200131/this-is-the-bolt-ladder-off-the-deck-i-believe-the-roof-isnt-shown-here-but-if-y",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/2200131_medium_1557851566.jpg?cache=1748742973",
+   "title": "This is the bolt ladder off the deck, I believe. The roof isn't shown here, but if you choose to bivy under the roof, watch out for the ants=( Long story.",
+   "breadcrumb": "Utah > Southwest Utah > Zion NP > Angel's Landing > Prodigal Sun ( 5.8 5b 16 VI- 15 HVS 4c C2)",
+   "coordArea": "Angel's Landing",
+   "approx": false,
+   "lat": 37.2693,
+   "lng": -112.94804,
+   "addedOn": "2026-11-19",
+   "usedOn": []
+  },
+  {
+   "id": "106095640",
+   "photoUrl": "https://www.mountainproject.com/photo/106095640/jer-collins-warming-up-on-hackberry-crack-horseshoe-canyon-ranch-ark",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/106095640_medium_1558647273.jpg?cache=1789570138",
+   "title": "Jer Collins warming up on Hackberry Crack, Horseshoe Canyon Ranch, Ark.",
+   "breadcrumb": "Arkansas > North Central Arkansas > Horseshoe Canyon Ranch > W Side > Walls Of Moria > Hackberry Crack ( 5.9 5c 17 VI 17 HVS 5a )",
+   "coordArea": "Walls Of Moria",
+   "approx": false,
+   "lat": 36.00196,
+   "lng": -93.29396,
+   "addedOn": "2026-11-19",
+   "usedOn": []
+  },
+  {
+   "id": "106354199",
+   "photoUrl": "https://www.mountainproject.com/photo/106354199/classic-corners-on-the-3rd-pitch",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/106354199_medium_1494100923.jpg?cache=1701315637",
+   "title": "Classic corners on the 3rd pitch.",
+   "breadcrumb": "California > High Sierra > 02 The Sawtooth Ridge > Incredible Hulk > Positive Vibrations ( 5.11a 6c 22 VII+ 22 E3 5c )",
+   "coordArea": "Incredible Hulk",
+   "approx": false,
+   "lat": 38.12188,
+   "lng": -119.41522,
+   "addedOn": "2026-11-19",
+   "usedOn": []
+  },
+  {
+   "id": "109101367",
+   "photoUrl": "https://www.mountainproject.com/photo/109101367/modern-times",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/109101367_medium_1494338777.jpg?cache=1791767898",
+   "title": "Modern Times",
+   "breadcrumb": "New York > Gunks > Trapps > The Arrow Wall Cck > Modern Times ( 5.8+ 5b 16 VI- 15 HVS 4c )",
+   "coordArea": "The Arrow Wall Cck",
+   "approx": false,
+   "lat": 41.74396,
+   "lng": -74.17964,
+   "addedOn": "2026-11-19",
+   "usedOn": []
+  },
+  {
+   "id": "110465462",
+   "photoUrl": "https://www.mountainproject.com/photo/110465462/shawn-wright-leading-the-awesome-willys-hand-jive",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/110465462_medium_1494351229.jpg?cache=1741734296",
+   "title": "Shawn Wright leading the awesome Willy's Hand Jive.",
+   "breadcrumb": "Colorado > Grand Junction Area > Escalante Canyon > The Island Aka Left Side Of Cabin Wall > Willy's Hand Jive ( 5.10 6b 20 VII- 19 E2 5b )",
+   "coordArea": "The Island Aka Left Side Of Cabin Wall",
+   "approx": false,
+   "lat": 38.68003,
+   "lng": -108.31657,
+   "addedOn": "2026-11-19",
+   "usedOn": []
+  },
+  {
+   "id": "113764225",
+   "photoUrl": "https://www.mountainproject.com/photo/113764225/view-from-across-the-river-unknown-climber",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/113764225_medium_1509306643.jpg?cache=1757388840",
+   "title": "View from across the river. Unknown climber.",
+   "breadcrumb": "Utah > Wasatch Range > Central Wasatch > Little Cottonwood Canyon > Kermits Wall > Cranial Prophylactic ( 5.8 5b 16 VI- 15 HVS 4c )",
+   "coordArea": "Kermits Wall",
+   "approx": false,
+   "lat": 40.5738,
+   "lng": -111.7549,
    "addedOn": "2026-11-19",
    "usedOn": []
   }
