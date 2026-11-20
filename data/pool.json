@@ -17710,6 +17710,21 @@
    "lat": 36.1615,
    "lng": -86.62159,
    "name": null
+  },
+  "https://www.mountainproject.com/area/106248731/white-lines-boulder": {
+   "lat": 39.32314,
+   "lng": -120.31192,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/107008218/right-wall": {
+   "lat": 32.98171,
+   "lng": -116.70576,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/109399695/shangri-la": {
+   "lat": 47.43112,
+   "lng": -121.61978,
+   "name": null
   }
  },
  "rejected": {
@@ -80515,6 +80530,84 @@
    "approx": false,
    "lat": 43.41305,
    "lng": -89.71168,
+   "addedOn": "2026-11-20",
+   "usedOn": []
+  },
+  {
+   "id": "106248778",
+   "photoUrl": "https://www.mountainproject.com/photo/106248778/lower-moves-on-wl",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/106248778_medium_1494091384.jpg?cache=1791398343",
+   "title": "Lower moves on WL",
+   "breadcrumb": "California > Lake Tahoe > I-80 Corridor > Donnertruckee Bouldering > Donner Pass > White Lines Boulder > White Lines ( V8 7B )",
+   "coordArea": "White Lines Boulder",
+   "approx": false,
+   "lat": 39.32314,
+   "lng": -120.31192,
+   "addedOn": "2026-11-20",
+   "usedOn": []
+  },
+  {
+   "id": "107015909",
+   "photoUrl": "https://www.mountainproject.com/photo/107015909/first-pitch-belay-on-crazy-horse-sharma-linking-into-the-crux-pitch-on-soy-chang",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/107015909_medium_1494159108.jpg?cache=1759172425",
+   "title": "First pitch belay on Crazy Horse.  Sharma linking into the crux pitch on Soy Chango, scoping the steeps!  Credit Adam Kimmerly",
+   "breadcrumb": "California > San Diego County > S San Diego County > Eagle Peak > Right Wall > Soy Chango ( 5.11b/c 6c+ 23 VIII- 24 E4 6a )",
+   "coordArea": "Right Wall",
+   "approx": false,
+   "lat": 32.98171,
+   "lng": -116.70576,
+   "addedOn": "2026-11-20",
+   "usedOn": []
+  },
+  {
+   "id": "109737592",
+   "photoUrl": "https://www.mountainproject.com/photo/109737592/crack",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/109737592_medium_1494361296.jpg?cache=1709429344",
+   "title": "Crack",
+   "breadcrumb": "N Carolina > Southern Mountains Region > Cedar Rock > Cedar Rock - North > Cut In The Rug ( 5.11a/b 6c 23 VIII- 23 E3 5c )",
+   "coordArea": "Cedar Rock - North",
+   "approx": false,
+   "lat": 35.2599,
+   "lng": -82.80602,
+   "addedOn": "2026-11-20",
+   "usedOn": []
+  },
+  {
+   "id": "111581602",
+   "photoUrl": "https://www.mountainproject.com/photo/111581602/ironman-traverse",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/111581602_medium_1494295864.jpg?cache=1760564244",
+   "title": "Ironman Traverse",
+   "breadcrumb": "California > Eastern Sierra > Bishop Area > Buttermilk Country > Buttermilks Main > Iron Man Area > Iron Man Boulder > Iron Man Traverse ( V4 6B )",
+   "coordArea": "Iron Man Boulder",
+   "approx": false,
+   "lat": 37.33001,
+   "lng": -118.57811,
+   "addedOn": "2026-11-20",
+   "usedOn": []
+  },
+  {
+   "id": "114478714",
+   "photoUrl": "https://www.mountainproject.com/photo/114478714/wade-morris-and-i-shouldered-40lb-training-packs-and-jumped-on-the-blitzen-ridge",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/114478714_medium_1528913240.jpg?cache=1794846037",
+   "title": "Wade Morris and I shouldered 40lb+ training packs and jumped on the Blitzen Ridge in the winter of 2017.  It proved to be a very productive, and full-on AK training mission.",
+   "breadcrumb": "Colorado > Alpine Rock > RMNP - Rock > Ypsilon Mountain > Blitzen Ridge ( 5.4 4a 12 IV 10 VD 3c )",
+   "coordArea": "Ypsilon Mountain",
+   "approx": false,
+   "lat": 40.4569,
+   "lng": -105.681,
+   "addedOn": "2026-11-20",
+   "usedOn": []
+  },
+  {
+   "id": "121079764",
+   "photoUrl": "https://www.mountainproject.com/photo/121079764/trevor-below-the-blade",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/121079764_medium_1627453961.jpg?cache=1787417884",
+   "title": "Trevor below the blade",
+   "breadcrumb": "Washington > Central West Cascades Seattle > N Bend & Vicinity > Exit 38 > Far Side > Shangri-La Area > (b) Shangri-La > Blade Runner ( 5.12c 7b+ 27 IX- 27 E6 6b )",
+   "coordArea": "(b) Shangri-La",
+   "approx": false,
+   "lat": 47.43112,
+   "lng": -121.61978,
    "addedOn": "2026-11-20",
    "usedOn": []
   }
