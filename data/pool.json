@@ -17740,6 +17740,11 @@
    "lat": 43.80268,
    "lng": -71.84233,
    "name": null
+  },
+  "https://www.mountainproject.com/area/105716865/parriot-mesa": {
+   "lat": 38.6727,
+   "lng": -109.40484,
+   "name": null
   }
  },
  "rejected": {
@@ -80688,6 +80693,84 @@
    "approx": false,
    "lat": 43.80268,
    "lng": -71.84233,
+   "addedOn": "2026-11-20",
+   "usedOn": []
+  },
+  {
+   "id": "106289193",
+   "photoUrl": "https://www.mountainproject.com/photo/106289193/post-burn-with-nose-gobie",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/106289193_medium_1494094763.jpg?cache=1790983122",
+   "title": "Post burn, with nose gobie",
+   "breadcrumb": "Utah > Southeast Utah > San Juan County > Indian Creek > Cat Wall > Incredible Butt Crack ( 5.12- 7a+ 25 VIII+ 25 E5 6a )",
+   "coordArea": "Cat Wall",
+   "approx": false,
+   "lat": 38.09105,
+   "lng": -109.56274,
+   "addedOn": "2026-11-20",
+   "usedOn": []
+  },
+  {
+   "id": "106493755",
+   "photoUrl": "https://www.mountainproject.com/photo/106493755/mark-pulling-roof-on-license-to-thrill-511c",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/106493755_medium_1494114047.jpg?cache=1786052930",
+   "title": "Mark pulling roof on License to Thrill 5.11c",
+   "breadcrumb": "Utah > Wasatch Range > Southern Wasatch > American Fork Canyon > Membrane > License To Thrill ( 5.11c 6c+ 24 VIII- 24 E4 6a )",
+   "coordArea": "Membrane",
+   "approx": false,
+   "lat": 40.44666,
+   "lng": -111.68668,
+   "addedOn": "2026-11-20",
+   "usedOn": []
+  },
+  {
+   "id": "106747620",
+   "photoUrl": "https://www.mountainproject.com/photo/106747620/pulling-over-the-mummy-roof-on-the-yellow-wall",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/106747620_medium_1494137521.jpg?cache=1727801127",
+   "title": "Pulling over the mummy roof on The Yellow Wall",
+   "breadcrumb": "New York > Gunks > Trapps > The Yellow Wall And The Seasons > Yellow Wall ( 5.11c 6c+ 24 VIII- 24 E4 6a PG13)",
+   "coordArea": "The Yellow Wall And The Seasons",
+   "approx": false,
+   "lat": 41.74756,
+   "lng": -74.17576,
+   "addedOn": "2026-11-20",
+   "usedOn": []
+  },
+  {
+   "id": "106771379",
+   "photoUrl": "https://www.mountainproject.com/photo/106771379/swinging-at-the-sky-strike-three-its-out-and-youre-safe-thanks-to-sam-and-ascabo",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/106771379_medium_1494139409.jpg?cache=1773712558",
+   "title": "Swinging at the sky, strike three, it's out.. and you're safe!  Thanks to Sam (and ASCA)bolting an anchor on top and placing about 8 new bolts on the ladder.",
+   "breadcrumb": "Utah > Southeast Utah > Grand County > Castle Valley > Parriot Mesa > Longbow Chimney ( 5.8 5b 16 VI- 15 HVS 4c A1)",
+   "coordArea": "Parriot Mesa",
+   "approx": false,
+   "lat": 38.6727,
+   "lng": -109.40484,
+   "addedOn": "2026-11-20",
+   "usedOn": []
+  },
+  {
+   "id": "107832147",
+   "photoUrl": "https://www.mountainproject.com/photo/107832147/katie-on-fat-raccoon",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/107832147_medium_1494214274.jpg?cache=1739921559",
+   "title": "Katie on Fat Raccoon.",
+   "breadcrumb": "Wisconsin > Baraboo Range > Devil's Lake > Devils Lake Bouldering > W Bluff > W Bluff North > West Bluff North Lower Access > 2. Fat Raccoon > Fat Racoon > Fat Raccoon ( V8 7B )",
+   "coordArea": "Fat Racoon",
+   "approx": false,
+   "lat": 43.42772,
+   "lng": -89.73583,
+   "addedOn": "2026-11-20",
+   "usedOn": []
+  },
+  {
+   "id": "116676368",
+   "photoUrl": "https://www.mountainproject.com/photo/116676368/fox-at-riverside-quarry-this-one-waited-until-climbing-commenced-then-stole-the-",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/116676368_medium_1554072968.jpg?cache=1708681581",
+   "title": "Fox at Riverside Quarry. This one waited until climbing commenced, then stole the belayer's lunch.",
+   "breadcrumb": "California > Inland Empire > Riverside Area > Riverside Quarry",
+   "coordArea": "Riverside Quarry",
+   "approx": false,
+   "lat": 34.0169,
+   "lng": -117.41657,
    "addedOn": "2026-11-20",
    "usedOn": []
   }
