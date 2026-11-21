@@ -18470,6 +18470,16 @@
    "lat": 37.71815,
    "lng": -119.55817,
    "name": null
+  },
+  "https://www.mountainproject.com/area/106204432/rattletale-wall": {
+   "lat": 47.8243,
+   "lng": -121.5613,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/112173092/northern-section": {
+   "lat": 48.20207,
+   "lng": -121.64222,
+   "name": null
   }
  },
  "rejected": {
@@ -18834,7 +18844,8 @@
   "106561888": "filtered: ice, mixed, or snow route (grade or area)",
   "110633571": "filtered: ice, mixed, or snow route (grade or area)",
   "113469255": "filtered: ice, mixed, or snow route (grade or area)",
-  "106257055": "filtered: ice or snow (caption)"
+  "106257055": "filtered: ice or snow (caption)",
+  "105905720": "filtered: looks like a map, topo, or drawing (caption)"
  },
  "photos": [
   {
@@ -84343,6 +84354,84 @@
    "approx": false,
    "lat": 38.8338,
    "lng": -79.3663,
+   "addedOn": "2026-11-21",
+   "usedOn": []
+  },
+  {
+   "id": "106722721",
+   "photoUrl": "https://www.mountainproject.com/photo/106722721/looking-out-from-inside-the-cave",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/106722721_medium_1494135258.jpg?cache=1743608052",
+   "title": "Looking out from inside the cave",
+   "breadcrumb": "New Mexico > Jemez Area > Jemez Cave Aka Crystal Cave Closed",
+   "coordArea": "Jemez Cave Aka Crystal Cave Closed",
+   "approx": false,
+   "lat": 35.79149,
+   "lng": -106.68699,
+   "addedOn": "2026-11-21",
+   "usedOn": []
+  },
+  {
+   "id": "106866268",
+   "photoUrl": "https://www.mountainproject.com/photo/106866268/geir-leading-p3-of-ecr",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/106866268_medium_1494146877.jpg?cache=1722743053",
+   "title": "Geir leading P3 of ECR",
+   "breadcrumb": "California > Tahquitz Suicide Rocks > Tahquitz Rock > (g) W Face > West Face Right Side > El Camino Real ( 5.10a 6a 18 VI+ 18 E1 5a )",
+   "coordArea": "West Face Right Side",
+   "approx": false,
+   "lat": 33.75985,
+   "lng": -116.68542,
+   "addedOn": "2026-11-21",
+   "usedOn": []
+  },
+  {
+   "id": "108071392",
+   "photoUrl": "https://www.mountainproject.com/photo/108071392/casaval-ridge",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/108071392_medium_1494261126.jpg?cache=1789059950",
+   "title": "Casaval Ridge",
+   "breadcrumb": "California > Northeast California > Mt Shasta Area > Mt Shasta",
+   "coordArea": "Mt Shasta",
+   "approx": false,
+   "lat": 41.4092,
+   "lng": -122.1949,
+   "addedOn": "2026-11-21",
+   "usedOn": []
+  },
+  {
+   "id": "112046059",
+   "photoUrl": "https://www.mountainproject.com/photo/112046059/photo-by-adam-nawrot",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/112046059_medium_1494318280.jpg?cache=1762960057",
+   "title": "Photo by Adam Nawrot",
+   "breadcrumb": "Washington > Central West Cascades Seattle > Skykomish Valley > Index > Lookout Point Area > Rattletale Wall > Orangutan ( 5.12a 7a+ 25 VIII+ 25 E5 6a )",
+   "coordArea": "Rattletale Wall",
+   "approx": false,
+   "lat": 47.8243,
+   "lng": -121.5613,
+   "addedOn": "2026-11-21",
+   "usedOn": []
+  },
+  {
+   "id": "115424610",
+   "photoUrl": "https://www.mountainproject.com/photo/115424610/steven-on-the-bivy-ledge-at-p11-fits-two-comfortably-maybe-3-4-in-a-pinch",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/115424610_medium_1539616450.jpg?cache=1715400107",
+   "title": "Steven on the bivy ledge at P11. Fits two comfortably, maybe 3-4 in a pinch.",
+   "breadcrumb": "Washington > Northwest Region > Darrington And Mountain Loop Hwy > Darrington > Squire Creek Wall > Northern Section > Slab Daddy ( 5.10+ 6b+ 21 VII+ 20 E3 5b A0)",
+   "coordArea": "Northern Section",
+   "approx": false,
+   "lat": 48.20207,
+   "lng": -121.64222,
+   "addedOn": "2026-11-21",
+   "usedOn": []
+  },
+  {
+   "id": "122830701",
+   "photoUrl": "https://www.mountainproject.com/photo/122830701/nick-styling-the-p4-crux",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/122830701_medium_1659402162.jpg?cache=1789395037",
+   "title": "Nick styling the P4 crux",
+   "breadcrumb": "California > Eastern Sierra > Lee Vining Canyon Tioga Road > Dana Plateau > Third Pillar > High Gravity ( 5.11d 7a 24 VIII 25 E5 6a )",
+   "coordArea": "Third Pillar",
+   "approx": false,
+   "lat": 37.92272,
+   "lng": -119.21347,
    "addedOn": "2026-11-21",
    "usedOn": []
   }
