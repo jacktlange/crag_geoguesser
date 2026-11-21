@@ -18450,6 +18450,16 @@
    "lat": 36.33997,
    "lng": -80.48255,
    "name": null
+  },
+  "https://www.mountainproject.com/area/105745346/the-gym": {
+   "lat": 38.6329,
+   "lng": -105.2165,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/112820973/the-wasatch-resort": {
+   "lat": 40.56959,
+   "lng": -111.76613,
+   "name": null
   }
  },
  "rejected": {
@@ -84169,6 +84179,84 @@
    "approx": false,
    "lat": 36.33997,
    "lng": -80.48255,
+   "addedOn": "2026-11-21",
+   "usedOn": []
+  },
+  {
+   "id": "106007440",
+   "photoUrl": "https://www.mountainproject.com/photo/106007440/max-sewing-up-the-last-traverse-pitch-to-table-ledge",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/106007440_medium_1558390420.jpg?cache=1778299513",
+   "title": "Max sewing up the last traverse pitch to Table Ledge",
+   "breadcrumb": "Colorado > Alpine Rock > RMNP - Rock > Long's Peak > Diamond > Casual Route ( 5.10a 6a 18 VI+ 18 E1 5a )",
+   "coordArea": "Diamond",
+   "approx": false,
+   "lat": 40.25617,
+   "lng": -105.61384,
+   "addedOn": "2026-11-21",
+   "usedOn": []
+  },
+  {
+   "id": "107803224",
+   "photoUrl": "https://www.mountainproject.com/photo/107803224/tyler-midway-up-dizzi-lizzi",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/107803224_medium_1494212297.jpg?cache=1788231541",
+   "title": "Tyler midway up Dizzi Lizzi.",
+   "breadcrumb": "Colorado > Canon City > Shelf Rd > Gym > Dizzi Lizzi ( 5.10a 6a 18 VI+ 18 E1 5a )",
+   "coordArea": "Gym",
+   "approx": false,
+   "lat": 38.6329,
+   "lng": -105.2165,
+   "addedOn": "2026-11-21",
+   "usedOn": []
+  },
+  {
+   "id": "114544648",
+   "photoUrl": "https://www.mountainproject.com/photo/114544648/the-pitch-3-traverse",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/114544648_medium_1530546766.jpg?cache=1768854979",
+   "title": "the pitch 3 traverse",
+   "breadcrumb": "Oregon > Central Oregon > Smith Rock > (u) Red Wall > Dirty Pinkos ( 5.9+ 5c 17 VI 17 E1 5a )",
+   "coordArea": "(u) Red Wall",
+   "approx": false,
+   "lat": 44.3696,
+   "lng": -121.13916,
+   "addedOn": "2026-11-21",
+   "usedOn": []
+  },
+  {
+   "id": "119036223",
+   "photoUrl": "https://www.mountainproject.com/photo/119036223/routes-on-the-sunshine-wall-near-end-route-names-start-at-1-on-the-far-left-side",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/119036223_medium_1592126540.jpg?cache=1745853590",
+   "title": "Routes on the Sunshine Wall > Near End <br>  <br> Route names start at #1 on the far left side (Midsummer Night's Dream) and progress right across the crag to finish at #23 (Ride 'em Cowboy)",
+   "breadcrumb": "Washington > Central Region > Frenchman Coulee Vantage > Echo Basin > Sunshine Wall > Near End Aka Twin Cracks Area",
+   "coordArea": "Near End Aka Twin Cracks Area",
+   "approx": false,
+   "lat": 47.02288,
+   "lng": -119.97333,
+   "addedOn": "2026-11-21",
+   "usedOn": []
+  },
+  {
+   "id": "119420455",
+   "photoUrl": "https://www.mountainproject.com/photo/119420455/gopro-shot-of-wills-face-from-above",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/119420455_medium_1598023939.jpg?cache=1659541026",
+   "title": "Gopro Shot of Will's Face from above",
+   "breadcrumb": "Utah > Wasatch Range > Central Wasatch > Little Cottonwood Canyon > Boulders Little Cottonwood > Wasatch Resort > Will's Face (Stand St… ( V6 7A )",
+   "coordArea": "Wasatch Resort",
+   "approx": false,
+   "lat": 40.56959,
+   "lng": -111.76613,
+   "addedOn": "2026-11-21",
+   "usedOn": []
+  },
+  {
+   "id": "120361791",
+   "photoUrl": "https://www.mountainproject.com/photo/120361791/summit-sunset-of-jubilant-song-featuring-roof-surmounting-ali",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/120361791_medium_1615150940.jpg?cache=1743436460",
+   "title": "Summit sunset of Jubilant Song featuring roof surmounting Ali",
+   "breadcrumb": "Nevada > Southern Nevada > Red Rocks > Windy Peak > S Face > Jubilant Song ( 5.8 5b 16 VI- 15 HVS 4c )",
+   "coordArea": "S Face",
+   "approx": false,
+   "lat": 36.0192,
+   "lng": -115.47011,
    "addedOn": "2026-11-21",
    "usedOn": []
   }
