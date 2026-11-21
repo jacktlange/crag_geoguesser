@@ -18075,6 +18075,31 @@
    "lat": 38.04684,
    "lng": -81.04953,
    "name": null
+  },
+  "https://www.mountainproject.com/area/105806951/grand-wall-base-area": {
+   "lat": 49.6827,
+   "lng": -123.1482,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/106753366/gore-mountain-range": {
+   "lat": 39.69348,
+   "lng": -106.27282,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/107020230/victory-wall": {
+   "lat": 35.33979,
+   "lng": -82.89511,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/105801745/mesa-verde-wall": {
+   "lat": 44.36866,
+   "lng": -121.14442,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/105744705/little-eiger": {
+   "lat": 39.7432,
+   "lng": -105.2991,
+   "name": null
   }
  },
  "rejected": {
@@ -82406,6 +82431,84 @@
    "approx": false,
    "lat": 38.04684,
    "lng": -81.04953,
+   "addedOn": "2026-11-20",
+   "usedOn": []
+  },
+  {
+   "id": "106114988",
+   "photoUrl": "https://www.mountainproject.com/photo/106114988/me-on-the-first-pitch",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/106114988_medium_1558650004.jpg?cache=1758658030",
+   "title": "Me on the first pitch!",
+   "breadcrumb": "International > N America > Canada > British Columbia > Squamish > Stawamus Chief > Grand Wall Base Area > Exasperator ( 5.10c 6b 20 VII 20 E2 5b )",
+   "coordArea": "Grand Wall Base Area",
+   "approx": false,
+   "lat": 49.6827,
+   "lng": -123.1482,
+   "addedOn": "2026-11-20",
+   "usedOn": []
+  },
+  {
+   "id": "106180936",
+   "photoUrl": "https://www.mountainproject.com/photo/106180936/tahquitz-rock-overview-idyllwild",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/106180936_medium_1494085925.jpg?cache=1750048231",
+   "title": "Tahquitz Rock overview, Idyllwild",
+   "breadcrumb": "California > Tahquitz Suicide Rocks > Tahquitz Rock",
+   "coordArea": "Tahquitz Rock",
+   "approx": false,
+   "lat": 33.76025,
+   "lng": -116.68322,
+   "addedOn": "2026-11-20",
+   "usedOn": []
+  },
+  {
+   "id": "107389363",
+   "photoUrl": "https://www.mountainproject.com/photo/107389363/gore-range-at-sunset",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/107389363_medium_1494185857.jpg?cache=1701317209",
+   "title": "Gore Range at sunset.",
+   "breadcrumb": "Colorado > Alpine Rock > Gore Mtn Range",
+   "coordArea": "Gore Mtn Range",
+   "approx": false,
+   "lat": 39.69348,
+   "lng": -106.27282,
+   "addedOn": "2026-11-20",
+   "usedOn": []
+  },
+  {
+   "id": "112366490",
+   "photoUrl": "https://www.mountainproject.com/photo/112366490/victory-wall-had-to-tree-solo-to-get-this-shot-red-bolt-recently-replaced",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/112366490_medium_1498737875_topo.jpg?cache=1755481620",
+   "title": "victory wall <br> had to tree solo to get this shot <br> RED BOLT recently replaced",
+   "breadcrumb": "N Carolina > Southern Mountains Region > Victory Wall",
+   "coordArea": "Victory Wall",
+   "approx": false,
+   "lat": 35.33979,
+   "lng": -82.89511,
+   "addedOn": "2026-11-20",
+   "usedOn": []
+  },
+  {
+   "id": "113719664",
+   "photoUrl": "https://www.mountainproject.com/photo/113719664/sarah-following-up-syz-on-a-gorgeous-smith-day",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/113719664_medium_1508286113.jpg?cache=1794353556",
+   "title": "Sarah following up SYZ on a gorgeous Smith day.",
+   "breadcrumb": "Oregon > Central Oregon > Smith Rock > Mesa Verde Wall > Screaming Yellow Zonkers ( 5.10b 6a+ 19 VII- 19 E2 5b )",
+   "coordArea": "Mesa Verde Wall",
+   "approx": false,
+   "lat": 44.36866,
+   "lng": -121.14442,
+   "addedOn": "2026-11-20",
+   "usedOn": []
+  },
+  {
+   "id": "121231954",
+   "photoUrl": "https://www.mountainproject.com/photo/121231954/bryce-nearing-the-top-of-conehead",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/121231954_medium_1630385394.jpg?cache=1713968055",
+   "title": "Bryce nearing the top of Conehead.",
+   "breadcrumb": "Colorado > Golden > Clear Creek Canyon > Little Eiger > Conehead ( 5.11b 6c 23 VIII- 23 E3 5c )",
+   "coordArea": "Little Eiger",
+   "approx": false,
+   "lat": 39.7432,
+   "lng": -105.2991,
    "addedOn": "2026-11-20",
    "usedOn": []
   }
