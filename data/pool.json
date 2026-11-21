@@ -18460,6 +18460,16 @@
    "lat": 40.56959,
    "lng": -111.76613,
    "name": null
+  },
+  "https://www.mountainproject.com/area/105827546/the-citadel": {
+   "lat": 42.74087,
+   "lng": -108.83689,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/115330169/illilouette-canyon": {
+   "lat": 37.71815,
+   "lng": -119.55817,
+   "name": null
   }
  },
  "rejected": {
@@ -18823,7 +18833,8 @@
   "105976284": "filtered: ice, mixed, or snow route (grade or area)",
   "106561888": "filtered: ice, mixed, or snow route (grade or area)",
   "110633571": "filtered: ice, mixed, or snow route (grade or area)",
-  "113469255": "filtered: ice, mixed, or snow route (grade or area)"
+  "113469255": "filtered: ice, mixed, or snow route (grade or area)",
+  "106257055": "filtered: ice or snow (caption)"
  },
  "photos": [
   {
@@ -53244,7 +53255,9 @@
    "lat": 41.6873,
    "lng": -72.8345,
    "addedOn": "2026-11-10",
-   "usedOn": []
+   "usedOn": [
+    "2026-11-21"
+   ]
   },
   {
    "id": "204206303",
@@ -58963,7 +58976,9 @@
    "lat": 37.38572,
    "lng": -118.67932,
    "addedOn": "2026-11-12",
-   "usedOn": []
+   "usedOn": [
+    "2026-11-21"
+   ]
   },
   {
    "id": "109971118",
@@ -59158,7 +59173,9 @@
    "lat": 34.12537,
    "lng": -118.92629,
    "addedOn": "2026-11-12",
-   "usedOn": []
+   "usedOn": [
+    "2026-11-21"
+   ]
   },
   {
    "id": "113695596",
@@ -74482,7 +74499,9 @@
    "lat": 44.00481,
    "lng": -71.23707,
    "addedOn": "2026-11-18",
-   "usedOn": []
+   "usedOn": [
+    "2026-11-21"
+   ]
   },
   {
    "id": "106591588",
@@ -83387,7 +83406,9 @@
    "lat": 61.82171,
    "lng": -149.24834,
    "addedOn": "2026-11-21",
-   "usedOn": []
+   "usedOn": [
+    "2026-11-21"
+   ]
   },
   {
    "id": "204267540",
@@ -84257,6 +84278,71 @@
    "approx": false,
    "lat": 36.0192,
    "lng": -115.47011,
+   "addedOn": "2026-11-21",
+   "usedOn": []
+  },
+  {
+   "id": "106579999",
+   "photoUrl": "https://www.mountainproject.com/photo/106579999/sunrise-above-the-sea-of-clouds-eldorado-peak-north-cascades-np",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/106579999_medium_1494122301.jpg?cache=1695940458",
+   "title": "Sunrise above the sea of clouds, Eldorado Peak, North Cascades NP",
+   "breadcrumb": "Washington > Northwest Region > Hwy 20 And North Cascades National Park > N Cascades",
+   "coordArea": "N Cascades",
+   "approx": false,
+   "lat": 48.61952,
+   "lng": -121.15124,
+   "addedOn": "2026-11-21",
+   "usedOn": []
+  },
+  {
+   "id": "111586284",
+   "photoUrl": "https://www.mountainproject.com/photo/111586284/viviana-rose-clipping-after-the-crux-a-crux-one-of-the-cruxes",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/111586284_medium_1494295978.jpg?cache=1783469714",
+   "title": "Viviana rose clipping after the crux. A crux? One of the cruxes.",
+   "breadcrumb": "Wyoming > Lander Area > Sinks Canyon > Citadel > Citadel of Hope ( 5.12b/c 7b+ 27 IX- 27 E6 6b )",
+   "coordArea": "Citadel",
+   "approx": false,
+   "lat": 42.74087,
+   "lng": -108.83689,
+   "addedOn": "2026-11-21",
+   "usedOn": []
+  },
+  {
+   "id": "113639275",
+   "photoUrl": "https://www.mountainproject.com/photo/113639275/entering-the-difficult-section-of-the-route-only-about-20-or-30-feet-but-man-it-",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/113639275_medium_1506610401.jpg?cache=1795117800",
+   "title": "Entering the difficult section of the route, only about 20 or 30 feet, but man it packs a punch!",
+   "breadcrumb": "Wyoming > Devils Tower > W Face > Billie Bear Cranks th… ( 5.12b/c 7b+ 27 IX- 27 E6 6b )",
+   "coordArea": "W Face",
+   "approx": false,
+   "lat": 44.59062,
+   "lng": -104.71615,
+   "addedOn": "2026-11-21",
+   "usedOn": []
+  },
+  {
+   "id": "115331945",
+   "photoUrl": "https://www.mountainproject.com/photo/115331945/a-unique-valley-view",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/115331945_medium_1537301519.jpg?cache=1793838457",
+   "title": "A unique valley view",
+   "breadcrumb": "California > Yosemite NP > Yosemite Valley > Valley S Side > H. Illilouette Canyon",
+   "coordArea": "H. Illilouette Canyon",
+   "approx": false,
+   "lat": 37.71815,
+   "lng": -119.55817,
+   "addedOn": "2026-11-21",
+   "usedOn": []
+  },
+  {
+   "id": "117743681",
+   "photoUrl": "https://www.mountainproject.com/photo/117743681/flyin-lion-mid-crux",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/117743681_medium_1568564285.jpg?cache=1778991751",
+   "title": "Flyin' Lion mid crux",
+   "breadcrumb": "W Virginia > Seneca Rocks > Cave > Flyin' lion ( 5.13d 8b 31 X 32 E8 7a )",
+   "coordArea": "Cave",
+   "approx": false,
+   "lat": 38.8338,
+   "lng": -79.3663,
    "addedOn": "2026-11-21",
    "usedOn": []
   }
