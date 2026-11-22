@@ -19155,6 +19155,21 @@
    "lat": 8.00848,
    "lng": 98.83708,
    "name": null
+  },
+  "https://www.mountainproject.com/area/105867655/long-wall": {
+   "lat": 37.8446,
+   "lng": -83.6686,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/106324291/south-peak": {
+   "lat": 48.5093,
+   "lng": -120.66,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/105739395/division-wall": {
+   "lat": 40.4503,
+   "lng": -111.668,
+   "name": null
   }
  },
  "rejected": {
@@ -19536,7 +19551,8 @@
   "107231706": "filtered: looks like a map, topo, or drawing (caption)",
   "204272290": "filtered: ice, mixed, or snow route (grade or area)",
   "120289417": "filtered: ice or snow (caption)",
-  "123043606": "filtered: ice, mixed, or snow route (grade or area)"
+  "123043606": "filtered: ice, mixed, or snow route (grade or area)",
+  "105837011": "filtered: ice or snow (caption)"
  },
  "photos": [
   {
@@ -88045,6 +88061,84 @@
    "approx": false,
    "lat": 38.651,
    "lng": -109.3678,
+   "addedOn": "2026-11-22",
+   "usedOn": []
+  },
+  {
+   "id": "105974587",
+   "photoUrl": "https://www.mountainproject.com/photo/105974587/nearing-the-anchors",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/105974587_medium_1558385646.jpg?cache=1665786245",
+   "title": "nearing the anchors",
+   "breadcrumb": "Kentucky > Red River Gorge > Northern Gorge > Long Wall > Rock Wars ( 5.10a 6a 18 VI+ 18 E1 5a )",
+   "coordArea": "Long Wall",
+   "approx": false,
+   "lat": 37.8446,
+   "lng": -83.6686,
+   "addedOn": "2026-11-22",
+   "usedOn": []
+  },
+  {
+   "id": "106325823",
+   "photoUrl": "https://www.mountainproject.com/photo/106325823/crossing-the-cannonhole",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/106325823_medium_1494097916.jpg?cache=1754492112",
+   "title": "Crossing the cannonhole.",
+   "breadcrumb": "Washington > Northwest Region > Darrington And Mountain Loop Hwy > Glacier Peak Wilderness > Gunsight Range > S Peak > S Ridge ( 5.8 5b 16 VI- 15 HVS 4c )",
+   "coordArea": "S Peak",
+   "approx": false,
+   "lat": 48.5093,
+   "lng": -120.66,
+   "addedOn": "2026-11-22",
+   "usedOn": []
+  },
+  {
+   "id": "106748345",
+   "photoUrl": "https://www.mountainproject.com/photo/106748345/division-wall-west-9-106281936-512a-10-109099165-512b-11-105739958-512ab-12-1057",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/106748345_medium_1494137559.jpg?cache=1780780100",
+   "title": "Division Wall West <br> 9. <a href='https://www.mountainproject.com/route/106281936/shark-club'>Shark Club</a> 5.12a <br> 10. <a href='https://www.mountainproject.com/route/109099165/secret-weapon'>Secret Weapon</a> 5.12b <br> 11. <a href='https://www.mountainproject.com/route/105739958/isotoner-moaner'>Isotoner Moaner</a> 5.12a/b <br> 12. <a href='https://www.mountainproject.com/route/105741959/rush-hour'>Rush Hour</a> 5.11b <br> 13. <a href='https://www.mountainproject.com/route/105739961/remote-control'>Remote  Control</a> 5.11a <br> 14. <a href='https://www.mountainproject.com/route/106267817/quicklime-girl'>Quicklime Girl</a> 5.11a <br> 15. <a href='https://www.mountainproject.com/route/105739964/the-atheist'>The Atheist</a> 5.11b <br> 16. <a href='https://www.mountainproject.com/route/105984801/39'>39</a> 5.11b <br> 17. <a href='https://www.mountainproject.com/route/106386712/running-woman'>Running Woman</a> 5.11a <br> 18. <a href='https://www.mountainproject.com/route/105741257/struggling-man'>Struggling Man</a> 5.12a <br> 19. <a href='https://www.mountainproject.com/route/105741254/division'>Division</a> 5.11d <br> 20. <a href='https://www.mountainproject.com/route/105971842/les-is-more'>Les is More</a> 5.10a <br> 21. <a href='https://www.mountainproject.com/route/106060445/pocket-change'>Pocket Change</a> 5.11a <br> 22. <a href='https://www.mountainproject.com/route/106056195/total-recall'>Total Recall</a> 5.11d <br> 23. <a href='https://www.mountainproject.com/route/106283155/blurred-vision'>Blurred Vision</a> 5.11b <br> 24. <a href='https://www.mountainproject.com/route/106019299/baghdad'>Baghdad</a> 5.11b <br> 25. <a href='https://www.mountainproject.com/route/106060429/nowhere-to-go'>Nowhere to Go</a> 5.11c",
+   "breadcrumb": "Utah > Wasatch Range > Southern Wasatch > American Fork Canyon > Division Wall",
+   "coordArea": "Division Wall",
+   "approx": false,
+   "lat": 40.4503,
+   "lng": -111.668,
+   "addedOn": "2026-11-22",
+   "usedOn": []
+  },
+  {
+   "id": "112875426",
+   "photoUrl": "https://www.mountainproject.com/photo/112875426/morning-on-sw-corner",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/112875426_medium_1494319707.jpg?cache=1792796175",
+   "title": "morning on SW Corner",
+   "breadcrumb": "California > Joshua Tree NP > Central Joshua Tree > Sheep Pass Area > Ryan Campground > Headstone Rock > SW Corner ( 5.6 4c 14 V 12 S 4b )",
+   "coordArea": "Headstone Rock",
+   "approx": false,
+   "lat": 33.98437,
+   "lng": -116.15237,
+   "addedOn": "2026-11-22",
+   "usedOn": []
+  },
+  {
+   "id": "124089528",
+   "photoUrl": "https://www.mountainproject.com/photo/124089528/walking-the-line-slow-is-smooth-smooth-is-fast",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/124089528_medium_1682403719.jpg?cache=1786088537",
+   "title": "Walking the Line, Slow is Smooth, Smooth is Fast!",
+   "breadcrumb": "Colorado > San Luis Valley > Penitente Canyon > Penitente Inner Canyon > Los Hermanos de la We… ( 5.11c 6c+ 24 VIII- 24 E4 6a )",
+   "coordArea": "Penitente Inner Canyon",
+   "approx": false,
+   "lat": 37.84519,
+   "lng": -106.28863,
+   "addedOn": "2026-11-22",
+   "usedOn": []
+  },
+  {
+   "id": "127213609",
+   "photoUrl": "https://www.mountainproject.com/photo/127213609/elise-buser-cruising-through-her-send-go",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/127213609_medium_1730221861.jpg?cache=1786040455",
+   "title": "Elise Buser cruising through her send go!",
+   "breadcrumb": "Utah > Wasatch Range > Southern Wasatch > American Fork Canyon > Hell Area > El Diablo Wall > Malvado ( 5.13a 7c+ 29 IX+ 29 E6 6c )",
+   "coordArea": "El Diablo Wall",
+   "approx": false,
+   "lat": 40.44645,
+   "lng": -111.69372,
    "addedOn": "2026-11-22",
    "usedOn": []
   }
