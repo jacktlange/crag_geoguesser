@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-22T07:13:40+00:00",
+ "generated": "2026-11-22T14:29:13+00:00",
  "photos": [
   {
    "id": "105787726",
@@ -495,6 +495,17 @@
    "approx": false,
    "lat": 43.84016,
    "lng": -103.53587
+  },
+  {
+   "id": "106009337",
+   "photoUrl": "https://www.mountainproject.com/photo/106009337/plaque-in-memory-of-kenny-cook-placed-near-the-summit-at-the-end-of-the-harding-",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/106009337_medium_1558390693.jpg?cache=1781166573",
+   "title": "Plaque in memory of Kenny Cook placed near the summit, at the end of the Harding Route. Does anyone know who he was and what happened?",
+   "breadcrumb": "California > High Sierra > 14 Whitney Surrounding Peaks > Keeler Needle > Harding Route (aka E… ( 5.10+ 6b+ 21 VII+ 20 E3 5b )",
+   "coordArea": "Keeler Needle",
+   "approx": false,
+   "lat": 36.5755,
+   "lng": -118.2916
   },
   {
    "id": "106012834",
@@ -2343,6 +2354,17 @@
    "approx": false,
    "lat": 37.74358,
    "lng": -119.58098
+  },
+  {
+   "id": "106593625",
+   "photoUrl": "https://www.mountainproject.com/photo/106593625/many-years-springtime-brings-an-extraordinary-wildflower-display-to-the-santa-mo",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/106593625_medium_1494123462.jpg?cache=1783214170",
+   "title": "Many years, springtime brings an extraordinary wildflower display to the Santa Monica Mountains. <br>  <br> Yellow Mariposa Lily (Calochortus clavatus)",
+   "breadcrumb": "California > Los Angeles Basin > Santa Monica Mountains",
+   "coordArea": "Santa Monica Mountains",
+   "approx": false,
+   "lat": 34.08303,
+   "lng": -118.78588
   },
   {
    "id": "106596158",
@@ -4336,6 +4358,17 @@
    "lng": -105.223
   },
   {
+   "id": "107924688",
+   "photoUrl": "https://www.mountainproject.com/photo/107924688/best-granite-in-the-platte-is-on-an-unknown-dome-and-i-would-know-trust-me-actua",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/107924688_medium_1494251042.jpg?cache=1701317821",
+   "title": "Best granite in the Platte is on an unknown dome, and I would know, trust me. Actual knob climbing on bullet granite. Two routes on it so far. Room for many many others. Go find it!",
+   "breadcrumb": "Colorado > S Platte",
+   "coordArea": "S Platte",
+   "approx": false,
+   "lat": 39.4171,
+   "lng": -105.469
+  },
+  {
    "id": "107928982",
    "photoUrl": "https://www.mountainproject.com/photo/107928982/you-pull-over-the-boulder-and-the-incredible-view-of-the-pinnacle-is-right-ahead",
    "imageUrl": "https://mountainproject.com/assets/photos/climb/107928982_medium_1494251308.jpg?cache=1701317825",
@@ -4352,6 +4385,17 @@
    "imageUrl": "https://mountainproject.com/assets/photos/climb/107960481_medium_1494253713.jpg?cache=1719008811",
    "title": "Rusty on lead",
    "breadcrumb": "Connecticut > Central Valley > Ragged Mountain > Main Cliff > YMC Route ( 5.9 5c 17 VI 17 HVS 5a )",
+   "coordArea": "Main Cliff",
+   "approx": false,
+   "lat": 41.6175,
+   "lng": -72.82342
+  },
+  {
+   "id": "107960517",
+   "photoUrl": "https://www.mountainproject.com/photo/107960517/the-route",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/107960517_medium_1494253717.jpg?cache=1701317867",
+   "title": "The route",
+   "breadcrumb": "Connecticut > Central Valley > Ragged Mountain > Main Cliff > Subline ( 5.11a 6c 22 VII+ 22 E3 5c )",
    "coordArea": "Main Cliff",
    "approx": false,
    "lat": 41.6175,
@@ -11552,6 +11596,17 @@
    "lng": -85.19217
   },
   {
+   "id": "125164124",
+   "photoUrl": "https://www.mountainproject.com/photo/125164124/alex-brown-entering-the-steepness-on-after-school-special",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/125164124_medium_1697806795.jpg?cache=1697806836",
+   "title": "Alex Brown entering the steepness on After School Special",
+   "breadcrumb": "Arkansas > Northwest Arkansas Nwa Region > Fitzgerald Mountain > Fitzgerald S Area > 1. Schoolhouse > After School Special ( 5.10a 6a 18 VI+ 18 E1 5a )",
+   "coordArea": "1. Schoolhouse",
+   "approx": false,
+   "lat": 36.20325,
+   "lng": -94.10297
+  },
+  {
    "id": "125187033",
    "photoUrl": "https://www.mountainproject.com/photo/125187033/pic-from-bottom-of-toprope-set-up",
    "imageUrl": "https://mountainproject.com/assets/photos/climb/125187033_medium_1698025259.jpg?cache=1786081461",
@@ -11748,6 +11803,17 @@
    "approx": false,
    "lat": 42.61633,
    "lng": -91.55842
+  },
+  {
+   "id": "125499490",
+   "photoUrl": "https://www.mountainproject.com/photo/125499490/looking-up-at-the-crux-pitch-from-the-belay",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/125499490_medium_1703118844.jpg?cache=1703174332",
+   "title": "looking up at the crux pitch from the belay",
+   "breadcrumb": "Nevada > Southern Nevada > Red Rocks > Juniper Canyon > Cloud Tower",
+   "coordArea": "Cloud Tower",
+   "approx": false,
+   "lat": 36.11237,
+   "lng": -115.48908
   },
   {
    "id": "125515284",

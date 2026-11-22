@@ -19145,6 +19145,16 @@
    "lat": 37.94275,
    "lng": -119.22734,
    "name": null
+  },
+  "https://www.mountainproject.com/area/105714246/cathedral-spires": {
+   "lat": 43.8487,
+   "lng": -103.5333,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/105901704/wees-present": {
+   "lat": 8.00848,
+   "lng": 98.83708,
+   "name": null
   }
  },
  "rejected": {
@@ -19525,7 +19535,8 @@
   "201702471": "filtered: looks like a map, topo, or drawing (caption)",
   "107231706": "filtered: looks like a map, topo, or drawing (caption)",
   "204272290": "filtered: ice, mixed, or snow route (grade or area)",
-  "120289417": "filtered: ice or snow (caption)"
+  "120289417": "filtered: ice or snow (caption)",
+  "123043606": "filtered: ice, mixed, or snow route (grade or area)"
  },
  "photos": [
   {
@@ -27454,7 +27465,9 @@
    "lat": 41.6175,
    "lng": -72.82342,
    "addedOn": "2026-11-03",
-   "usedOn": []
+   "usedOn": [
+    "2026-11-22"
+   ]
   },
   {
    "id": "107019627",
@@ -44865,7 +44878,9 @@
    "lat": 36.20325,
    "lng": -94.10297,
    "addedOn": "2026-11-08",
-   "usedOn": []
+   "usedOn": [
+    "2026-11-22"
+   ]
   },
   {
    "id": "107517410",
@@ -61755,7 +61770,9 @@
    "lat": 34.08303,
    "lng": -118.78588,
    "addedOn": "2026-11-13",
-   "usedOn": []
+   "usedOn": [
+    "2026-11-22"
+   ]
   },
   {
    "id": "106845173",
@@ -68868,7 +68885,9 @@
    "lat": 39.4171,
    "lng": -105.469,
    "addedOn": "2026-11-15",
-   "usedOn": []
+   "usedOn": [
+    "2026-11-22"
+   ]
   },
   {
    "id": "202824611",
@@ -78910,7 +78929,9 @@
    "lat": 36.11237,
    "lng": -115.48908,
    "addedOn": "2026-11-19",
-   "usedOn": []
+   "usedOn": [
+    "2026-11-22"
+   ]
   },
   {
    "id": "115430410",
@@ -87946,6 +87967,84 @@
    "approx": false,
    "lat": 37.94275,
    "lng": -119.22734,
+   "addedOn": "2026-11-22",
+   "usedOn": []
+  },
+  {
+   "id": "105809750",
+   "photoUrl": "https://www.mountainproject.com/photo/105809750/sam-mackey-moves-through-thin-moves-over-thin-protection",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/105809750_medium_1557858539.jpg?cache=1770853321",
+   "title": "Sam Mackey moves through thin moves over thin protection.",
+   "breadcrumb": "Oregon > Central Oregon > Smith Rock > (z) Lower Gorge > W Side > (3) Catwalk Cliff > Southern Cross ( 5.11a 6c 22 VII+ 22 E3 5c )",
+   "coordArea": "(3) Catwalk Cliff",
+   "approx": false,
+   "lat": 44.36733,
+   "lng": -121.13065,
+   "addedOn": "2026-11-22",
+   "usedOn": []
+  },
+  {
+   "id": "106208777",
+   "photoUrl": "https://www.mountainproject.com/photo/106208777/spires",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/106208777_medium_1494088166.jpg?cache=1772384984",
+   "title": "Spires <br>",
+   "breadcrumb": "S Dakota > Custer SP > Cathedral Spires",
+   "coordArea": "Cathedral Spires",
+   "approx": false,
+   "lat": 43.8487,
+   "lng": -103.5333,
+   "addedOn": "2026-11-22",
+   "usedOn": []
+  },
+  {
+   "id": "107044718",
+   "photoUrl": "https://www.mountainproject.com/photo/107044718/anja-at-the-top-by-ram-sripracha",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/107044718_medium_1494161605.jpg?cache=1790864773",
+   "title": "Anja at the top.  By Ram Sripracha.",
+   "breadcrumb": "International > Asia > Thailand > South Islands Beaches > Laem Phra Nang Railay Tonsai > Railay West > Wee's Present > Hello Christine ( 5.10b 6a+ 19 VII- 19 E2 5b )",
+   "coordArea": "Wee's Present",
+   "approx": false,
+   "lat": 8.00848,
+   "lng": 98.83708,
+   "addedOn": "2026-11-22",
+   "usedOn": []
+  },
+  {
+   "id": "107209058",
+   "photoUrl": "https://www.mountainproject.com/photo/107209058/temple-crag-and-evening-light",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/107209058_medium_1494173427.jpg?cache=1701316991",
+   "title": "Temple Crag and evening light",
+   "breadcrumb": "California > High Sierra > 09 Palisades Surrounding Peaks > Temple Crag",
+   "coordArea": "Temple Crag",
+   "approx": false,
+   "lat": 37.1096,
+   "lng": -118.491,
+   "addedOn": "2026-11-22",
+   "usedOn": []
+  },
+  {
+   "id": "107824387",
+   "photoUrl": "https://www.mountainproject.com/photo/107824387/stately-pleasure-dome-on-an-october-afternoon",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/107824387_medium_1494213756.jpg?cache=1780944006",
+   "title": "Stately Pleasure Dome on an October afternoon.",
+   "breadcrumb": "California > Yosemite NP > Tuolumne Meadows > Stately Pleasure Dome",
+   "coordArea": "Stately Pleasure Dome",
+   "approx": false,
+   "lat": 37.83546,
+   "lng": -119.4577,
+   "addedOn": "2026-11-22",
+   "usedOn": []
+  },
+  {
+   "id": "116123768",
+   "photoUrl": "https://www.mountainproject.com/photo/116123768/some-folks-had-a-high-line-set-up-between-castleton-and-the-rectory",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/116123768_medium_1542910034.jpg?cache=1773712523",
+   "title": "Some folks had a high line set up between Castleton and the Rectory.",
+   "breadcrumb": "Utah > Southeast Utah > Grand County > Castle Valley > Castleton Tower > N Chimney ( 5.9 5c 17 VI 17 HVS 5a )",
+   "coordArea": "Castleton Tower",
+   "approx": false,
+   "lat": 38.651,
+   "lng": -109.3678,
    "addedOn": "2026-11-22",
    "usedOn": []
   }
