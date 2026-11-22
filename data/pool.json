@@ -19120,6 +19120,31 @@
    "lat": 48.78732,
    "lng": -115.29611,
    "name": null
+  },
+  "https://www.mountainproject.com/area/105926869/keeler-needle": {
+   "lat": 36.5755,
+   "lng": -118.2916,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/105744823/the-bookmark": {
+   "lat": 40.40613,
+   "lng": -105.53571,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/107271103/the-northeastern-crags": {
+   "lat": 44.03984,
+   "lng": -71.39582,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/112154751/john-wayne-boulder": {
+   "lat": 46.10209,
+   "lng": -114.27136,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/110714348/quaking-aspen-wall": {
+   "lat": 37.94275,
+   "lng": -119.22734,
+   "name": null
   }
  },
  "rejected": {
@@ -19499,7 +19524,8 @@
   "106148554": "filtered: ice or snow (caption)",
   "201702471": "filtered: looks like a map, topo, or drawing (caption)",
   "107231706": "filtered: looks like a map, topo, or drawing (caption)",
-  "204272290": "filtered: ice, mixed, or snow route (grade or area)"
+  "204272290": "filtered: ice, mixed, or snow route (grade or area)",
+  "120289417": "filtered: ice or snow (caption)"
  },
  "photos": [
   {
@@ -87842,6 +87868,84 @@
    "approx": false,
    "lat": 42.07014,
    "lng": -73.06759,
+   "addedOn": "2026-11-22",
+   "usedOn": []
+  },
+  {
+   "id": "106009337",
+   "photoUrl": "https://www.mountainproject.com/photo/106009337/plaque-in-memory-of-kenny-cook-placed-near-the-summit-at-the-end-of-the-harding-",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/106009337_medium_1558390693.jpg?cache=1781166573",
+   "title": "Plaque in memory of Kenny Cook placed near the summit, at the end of the Harding Route. Does anyone know who he was and what happened?",
+   "breadcrumb": "California > High Sierra > 14 Whitney Surrounding Peaks > Keeler Needle > Harding Route (aka E… ( 5.10+ 6b+ 21 VII+ 20 E3 5b )",
+   "coordArea": "Keeler Needle",
+   "approx": false,
+   "lat": 36.5755,
+   "lng": -118.2916,
+   "addedOn": "2026-11-22",
+   "usedOn": []
+  },
+  {
+   "id": "106055260",
+   "photoUrl": "https://www.mountainproject.com/photo/106055260/pennie-schwalm-jams-up-the-second-pitch",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/106055260_medium_1558468629.jpg?cache=1787806246",
+   "title": "Pennie Schwalm jams up the second pitch.",
+   "breadcrumb": "Colorado > Estes Park Valley > Lumpy Ridge > Bookmark > 37th Cog in Melvin's… ( 5.8 5b 16 VI- 15 HVS 4c )",
+   "coordArea": "Bookmark",
+   "approx": false,
+   "lat": 40.40613,
+   "lng": -105.53571,
+   "addedOn": "2026-11-22",
+   "usedOn": []
+  },
+  {
+   "id": "107106698",
+   "photoUrl": "https://www.mountainproject.com/photo/107106698/sf-aiding-the-a3-roof-on-wings-of-wallenda-with-dw-belaying-41711",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/107106698_medium_1494166362.jpg?cache=1773702611",
+   "title": "SF aiding the A3 roof on Wings of Wallenda with DW belaying 4/17/11",
+   "breadcrumb": "Georgia > N E Georgia Region > Tallulah Gorge > Main Wall > Wings of Wallenda ( 5.10 6b 20 VII- 19 E2 5b )",
+   "coordArea": "Main Wall",
+   "approx": false,
+   "lat": 34.73817,
+   "lng": -83.38763,
+   "addedOn": "2026-11-22",
+   "usedOn": []
+  },
+  {
+   "id": "109311680",
+   "photoUrl": "https://www.mountainproject.com/photo/109311680/climbing-the-incredible-beanstalk-crack",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/109311680_medium_1494346239.jpg?cache=1701318591",
+   "title": "Climbing the incredible Beanstalk crack",
+   "breadcrumb": "New Hampshire > Wm Kancamagus Central > Greens Cliff > Northeastern Crags > Beanstalk Crack ( 5.9+ 5c 17 VI 17 E1 5a )",
+   "coordArea": "Northeastern Crags",
+   "approx": false,
+   "lat": 44.03984,
+   "lng": -71.39582,
+   "addedOn": "2026-11-22",
+   "usedOn": []
+  },
+  {
+   "id": "113774851",
+   "photoUrl": "https://www.mountainproject.com/photo/113774851/the-duke",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/113774851_medium_1509497946.jpg?cache=1785880546",
+   "title": "The Duke.",
+   "breadcrumb": "Montana > Northwest Region > Missoula Area > Lost Horse > Clearcut Boulders > John Wayne Boulder > Duke ( V4 6B )",
+   "coordArea": "John Wayne Boulder",
+   "approx": false,
+   "lat": 46.10209,
+   "lng": -114.27136,
+   "addedOn": "2026-11-22",
+   "usedOn": []
+  },
+  {
+   "id": "123056163",
+   "photoUrl": "https://www.mountainproject.com/photo/123056163/upper-roof-section",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/123056163_medium_1663127495.jpg?cache=1793843019",
+   "title": "Upper roof section.",
+   "breadcrumb": "California > Eastern Sierra > Lee Vining Canyon Tioga Road > Tioga Cliff Area Aka Private Property > Quaking Aspen Wall > Double Cream, Double… ( 5.11c 6c+ 24 VIII- 24 E4 6a )",
+   "coordArea": "Quaking Aspen Wall",
+   "approx": false,
+   "lat": 37.94275,
+   "lng": -119.22734,
    "addedOn": "2026-11-22",
    "usedOn": []
   }
