@@ -18775,6 +18775,31 @@
    "lat": 34.52858,
    "lng": -83.37667,
    "name": null
+  },
+  "https://www.mountainproject.com/area/105745133/sharkstooth": {
+   "lat": 40.2808,
+   "lng": -105.674,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/109797664/boy-scout-cave": {
+   "lat": 37.11549,
+   "lng": -113.57761,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/106355551/streetcar-boulder": {
+   "lat": 34.02758,
+   "lng": -116.14483,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/105895610/el-segundo-buttress": {
+   "lat": 36.59295,
+   "lng": -118.23459,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/122727462/main-peak": {
+   "lat": 48.83109,
+   "lng": -121.60294,
+   "name": null
   }
  },
  "rejected": {
@@ -19149,7 +19174,8 @@
   "114084144": "filtered: ice, mixed, or snow route (grade or area)",
   "107936408": "filtered: ice, mixed, or snow route (grade or area)",
   "203445203": "filtered: looks like a map, topo, or drawing (caption)",
-  "106247105": "filtered: ice or snow (caption)"
+  "106247105": "filtered: ice or snow (caption)",
+  "106663687": "filtered: ice, mixed, or snow route (grade or area)"
  },
  "photos": [
   {
@@ -86114,6 +86140,84 @@
    "approx": false,
    "lat": 37.72409,
    "lng": -119.71393,
+   "addedOn": "2026-11-21",
+   "usedOn": []
+  },
+  {
+   "id": "106437473",
+   "photoUrl": "https://www.mountainproject.com/photo/106437473/rick-leading-the-second-pitch",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/106437473_medium_1494108668.jpg?cache=1750524828",
+   "title": "Rick Leading the second pitch.",
+   "breadcrumb": "Colorado > Alpine Rock > RMNP - Rock > Sharkstooth > Northeast Ridge ( 5.6 4c 14 V 12 S 4b )",
+   "coordArea": "Sharkstooth",
+   "approx": false,
+   "lat": 40.2808,
+   "lng": -105.674,
+   "addedOn": "2026-11-21",
+   "usedOn": []
+  },
+  {
+   "id": "109797953",
+   "photoUrl": "https://www.mountainproject.com/photo/109797953/hyrum-moving-through-the-moves",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/109797953_medium_1494362663_topo.jpg?cache=1738693779",
+   "title": "Hyrum moving through the moves",
+   "breadcrumb": "Utah > Southwest Utah > Saint George > Pioneer Park > Boy Scout Cave > Punch Party ( V4 6B )",
+   "coordArea": "Boy Scout Cave",
+   "approx": false,
+   "lat": 37.11549,
+   "lng": -113.57761,
+   "addedOn": "2026-11-21",
+   "usedOn": []
+  },
+  {
+   "id": "112534802",
+   "photoUrl": "https://www.mountainproject.com/photo/112534802/dallas-milburn-sticking-the-dyno",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/112534802_medium_1494311038.jpg?cache=1773416647",
+   "title": "Dallas Milburn Sticking the Dyno",
+   "breadcrumb": "California > Joshua Tree NP > Joshua Tree Bouldering > Central Joshua Tree Bouldering > Barker Dam Bouldering > Gunsmoke Area > Streetcar Boulder > Streetcar Named Desire ( V6-7 7A+ )",
+   "coordArea": "Streetcar Boulder",
+   "approx": false,
+   "lat": 34.02758,
+   "lng": -116.14483,
+   "addedOn": "2026-11-21",
+   "usedOn": []
+  },
+  {
+   "id": "114390829",
+   "photoUrl": "https://www.mountainproject.com/photo/114390829/the-view-from-the-3rd-pitch",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/114390829_medium_1526921520.jpg?cache=1757122021",
+   "title": "The view from the 3rd pitch.",
+   "breadcrumb": "California > Eastern Sierra > Lone Pine Area > Whitney Portal > El Segundo Buttress > Beckey Route ( 5.9 5c 17 VI 17 HVS 5a )",
+   "coordArea": "El Segundo Buttress",
+   "approx": false,
+   "lat": 36.59295,
+   "lng": -118.23459,
+   "addedOn": "2026-11-21",
+   "usedOn": []
+  },
+  {
+   "id": "115436505",
+   "photoUrl": "https://www.mountainproject.com/photo/115436505/how-our-team-got-onto-the-ridge-from-the-description-of-the-route-it-seems-most-",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/115436505_medium_1539885400_topo.jpg?cache=1722038287",
+   "title": "How our team got onto the ridge. From the description of the route, it seems most teams gain the ridge lower down.",
+   "breadcrumb": "Washington > Northwest Region > Hwy 20 And North Cascades National Park > N Cascades > Mt Shuksan > Main Peak > Southeast Ridge (SE C… ( 5.3 3+ 10 III 9 VD 3a Mod. Snow)",
+   "coordArea": "Main Peak",
+   "approx": false,
+   "lat": 48.83109,
+   "lng": -121.60294,
+   "addedOn": "2026-11-21",
+   "usedOn": []
+  },
+  {
+   "id": "116672873",
+   "photoUrl": "https://www.mountainproject.com/photo/116672873/chris-baldwin-and-i-simulclimbing-the-upper-headwall-of-caps-nw-buttress",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/116672873_medium_1554005318.jpg?cache=1771391553",
+   "title": "Chris Baldwin and I simulclimbing the upper headwall of Cap's NW Buttress.",
+   "breadcrumb": "Colorado > Alpine Rock > Capitol Peak > Northwest Buttress ( 5.9 5c 17 VI 17 HVS 5a )",
+   "coordArea": "Capitol Peak",
+   "approx": false,
+   "lat": 39.1503,
+   "lng": -107.082,
    "addedOn": "2026-11-21",
    "usedOn": []
   }
