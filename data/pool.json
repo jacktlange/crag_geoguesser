@@ -19535,6 +19535,26 @@
    "lat": 36.09856,
    "lng": -81.80133,
    "name": null
+  },
+  "https://www.mountainproject.com/area/118254761/coastal-region": {
+   "lat": 45.47893,
+   "lng": -123.87002,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/105734324/lower-buttress": {
+   "lat": 38.8003,
+   "lng": -120.13695,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/107723014/stonehouse-pond": {
+   "lat": 43.1998,
+   "lng": -71.0964,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/120922076/summit-area-west": {
+   "lat": 33.00856,
+   "lng": -116.97276,
+   "name": null
   }
  },
  "rejected": {
@@ -19921,7 +19941,8 @@
   "107024334": "filtered: ice, mixed, or snow route (grade or area)",
   "120339974": "filtered: ice, mixed, or snow route (grade or area)",
   "123597582": "filtered: looks like a map, topo, or drawing (caption)",
-  "108559614": "filtered: ice, mixed, or snow route (grade or area)"
+  "108559614": "filtered: ice, mixed, or snow route (grade or area)",
+  "106001036": "filtered: ice, mixed, or snow route (grade or area)"
  },
  "photos": [
   {
@@ -89887,6 +89908,84 @@
    "lat": 36.09856,
    "lng": -81.80133,
    "addedOn": "2026-11-22",
+   "usedOn": []
+  },
+  {
+   "id": "105984598",
+   "photoUrl": "https://www.mountainproject.com/photo/105984598/matt-boulderin-at-viewpoint-cliffs",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/105984598_medium_1558387144.jpg?cache=1760654101",
+   "title": "Matt boulderin at Viewpoint Cliffs",
+   "breadcrumb": "Oregon > Coastal Region",
+   "coordArea": "Coastal Region",
+   "approx": false,
+   "lat": 45.47893,
+   "lng": -123.87002,
+   "addedOn": "2026-11-23",
+   "usedOn": []
+  },
+  {
+   "id": "106304446",
+   "photoUrl": "https://www.mountainproject.com/photo/106304446/photo-cred-g-neely",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/106304446_medium_1494096010.jpg?cache=1774965467",
+   "title": "photo cred: G. Neely",
+   "breadcrumb": "Utah > Southeast Utah > San Juan County > Indian Creek > Supercrack Buttress > Coyne Crack ( 5.11d 7a 24 VIII 25 E5 6a )",
+   "coordArea": "Supercrack Buttress",
+   "approx": false,
+   "lat": 38.03635,
+   "lng": -109.54551,
+   "addedOn": "2026-11-23",
+   "usedOn": []
+  },
+  {
+   "id": "106403796",
+   "photoUrl": "https://www.mountainproject.com/photo/106403796/mt-whitney-photo-by-blitzo",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/106403796_medium_1494105637.jpg?cache=1774740577",
+   "title": "Mt. Whitney. <br> Photo by Blitzo.",
+   "breadcrumb": "California > High Sierra",
+   "coordArea": "High Sierra",
+   "approx": false,
+   "lat": 37.27549,
+   "lng": -118.6765,
+   "addedOn": "2026-11-23",
+   "usedOn": []
+  },
+  {
+   "id": "108207714",
+   "photoUrl": "https://www.mountainproject.com/photo/108207714/bronwyn-burman-on-p1-of-sinbad-herbert",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/108207714_medium_1494269426.jpg?cache=1701318101",
+   "title": "Bronwyn Burman on P1 of Sinbad-Herbert",
+   "breadcrumb": "California > Lake Tahoe > Highway 50 Corridor > Lover's Leap > Lower Buttress > Sinbad-Herbert ( 5.10d 6b+ 21 VII+ 21 E3 5b )",
+   "coordArea": "Lower Buttress",
+   "approx": false,
+   "lat": 38.8003,
+   "lng": -120.13695,
+   "addedOn": "2026-11-23",
+   "usedOn": []
+  },
+  {
+   "id": "108771948",
+   "photoUrl": "https://www.mountainproject.com/photo/108771948/an-amazing-fall-morning-at-the-pond-mid-october-2013",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/108771948_medium_1494295703.jpg?cache=1736799259",
+   "title": "An amazing fall morning at the pond, mid-October 2013.",
+   "breadcrumb": "New Hampshire > Southeast Seacoast > Stonehouse Pond",
+   "coordArea": "Stonehouse Pond",
+   "approx": false,
+   "lat": 43.1998,
+   "lng": -71.0964,
+   "addedOn": "2026-11-23",
+   "usedOn": []
+  },
+  {
+   "id": "121935036",
+   "photoUrl": "https://www.mountainproject.com/photo/121935036/eric-erickson-on-the-test-tube-511-mt-woodson-photo-by-shawn-curtis-1981",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/121935036_medium_1643925747.jpg?cache=1779315118",
+   "title": "Eric Erickson on The Test Tube (5.11), Mt. Woodson <br>  <br> Photo by Shawn Curtis (1981)",
+   "breadcrumb": "California > San Diego County > N San Diego County > Mt Woodson > Summit Area > Summit Area West > Test Tube ( 5.11 6c+ 23 VIII- 23 E4 5c )",
+   "coordArea": "Summit Area West",
+   "approx": false,
+   "lat": 33.00856,
+   "lng": -116.97276,
+   "addedOn": "2026-11-23",
    "usedOn": []
   }
  ],
