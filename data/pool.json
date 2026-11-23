@@ -19505,6 +19505,36 @@
    "lat": 41.7565,
    "lng": -72.48043,
    "name": null
+  },
+  "https://www.mountainproject.com/area/120610853/bridgeport": {
+   "lat": 38.20895,
+   "lng": -119.32191,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/106520831/acopan-tepui-also-akopan-tepuy": {
+   "lat": 5.1566,
+   "lng": -62.0508,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/106515635/steel-bridge-boulders": {
+   "lat": 41.7368,
+   "lng": -74.194,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/106636917/picos-de-europa": {
+   "lat": 43.20188,
+   "lng": -4.85528,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/121960209/walrus-boulder": {
+   "lat": 43.12198,
+   "lng": -71.18716,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/106135673/upper-tier": {
+   "lat": 36.09856,
+   "lng": -81.80133,
+   "name": null
   }
  },
  "rejected": {
@@ -19890,7 +19920,8 @@
   "105837011": "filtered: ice or snow (caption)",
   "107024334": "filtered: ice, mixed, or snow route (grade or area)",
   "120339974": "filtered: ice, mixed, or snow route (grade or area)",
-  "123597582": "filtered: looks like a map, topo, or drawing (caption)"
+  "123597582": "filtered: looks like a map, topo, or drawing (caption)",
+  "108559614": "filtered: ice, mixed, or snow route (grade or area)"
  },
  "photos": [
   {
@@ -89777,6 +89808,84 @@
    "approx": false,
    "lat": 34.09192,
    "lng": -116.15242,
+   "addedOn": "2026-11-22",
+   "usedOn": []
+  },
+  {
+   "id": "105889878",
+   "photoUrl": "https://www.mountainproject.com/photo/105889878/twin-lakes-and-sawtooth-ridge-photo-by-blitzo",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/105889878_medium_1557938120.jpg?cache=1779812466",
+   "title": "Twin Lakes and Sawtooth Ridge. <br> Photo by Blitzo.",
+   "breadcrumb": "California > Eastern Sierra > Northern Area > Bridgeport",
+   "coordArea": "Bridgeport",
+   "approx": false,
+   "lat": 38.20895,
+   "lng": -119.32191,
+   "addedOn": "2026-11-22",
+   "usedOn": []
+  },
+  {
+   "id": "106520835",
+   "photoUrl": "https://www.mountainproject.com/photo/106520835/the-size-of-this-beauty-is-about-1000-feet-300-mts-to-the-first-level-ie-left-wa",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/106520835_medium_1494116698.jpg?cache=1795371914",
+   "title": "The size of this beauty is about 1000 feet (300 mts) to the first level (i.e. left wall or the horizontal line half way up on the right side)... then, the right side walls are twice as big... and they overhang for most of those second thousand feet. <br>",
+   "breadcrumb": "International > S America > Venezuela > Acopan Tepui Also Akopan Tepuy",
+   "coordArea": "Acopan Tepui Also Akopan Tepuy",
+   "approx": false,
+   "lat": 5.1566,
+   "lng": -62.0508,
+   "addedOn": "2026-11-22",
+   "usedOn": []
+  },
+  {
+   "id": "112037635",
+   "photoUrl": "https://www.mountainproject.com/photo/112037635/topping-out-with-heel",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/112037635_medium_1494317666.jpg?cache=1702071917",
+   "title": "Topping out with heel",
+   "breadcrumb": "New York > Gunks > Trapps Bouldering > Steel Bridge Boulders > Lorax ( V3+ 6A+ )",
+   "coordArea": "Steel Bridge Boulders",
+   "approx": false,
+   "lat": 41.7368,
+   "lng": -74.194,
+   "addedOn": "2026-11-22",
+   "usedOn": []
+  },
+  {
+   "id": "112570886",
+   "photoUrl": "https://www.mountainproject.com/photo/112570886/beautiful-twilight-from-the-top-of-the-tallest-peak-in-the-range-quottorrecerred",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/112570886_medium_1494313763.jpg?cache=1732128702",
+   "title": "Beautiful twilight from the top of the tallest peak in the range, &quot;Torrecerredo&quot; 8600 feet",
+   "breadcrumb": "International > Europe > Spain > Asturias > Picos de Europa",
+   "coordArea": "Picos de Europa",
+   "approx": false,
+   "lat": 43.20188,
+   "lng": -4.85528,
+   "addedOn": "2026-11-22",
+   "usedOn": []
+  },
+  {
+   "id": "118886735",
+   "photoUrl": "https://www.mountainproject.com/photo/118886735/alex-on-feeling-for-the-heavens-dec-19",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/118886735_medium_1589746387.jpg?cache=1795381549",
+   "title": "Alex on Feeling for the Heavens - Dec 19'",
+   "breadcrumb": "New Hampshire > Pawtuckaway > Devils Den Bouldering > Walrus Boulder > Feeling For The Heave… ( V4- 6B )",
+   "coordArea": "Walrus Boulder",
+   "approx": false,
+   "lat": 43.12198,
+   "lng": -71.18716,
+   "addedOn": "2026-11-22",
+   "usedOn": []
+  },
+  {
+   "id": "121756557",
+   "photoUrl": "https://www.mountainproject.com/photo/121756557/craig-mohr-opting-for-the-traverse-option-out-to-the-arete-on-edge-of-a-dream-ph",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/121756557_medium_1639018035.jpg?cache=1758374236",
+   "title": "Craig Mohr opting for the traverse option out to the arete on Edge of a Dream. Photo by Aaron Murray.",
+   "breadcrumb": "N Carolina > Northern Mountains Region > Ship Rock > Upper Tier > Edge of a Dream ( 5.7 5a 15 V+ 13 MVS 4b )",
+   "coordArea": "Upper Tier",
+   "approx": false,
+   "lat": 36.09856,
+   "lng": -81.80133,
    "addedOn": "2026-11-22",
    "usedOn": []
   }
