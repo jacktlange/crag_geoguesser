@@ -19890,6 +19890,26 @@
    "lat": 35.12928,
    "lng": -111.59745,
    "name": null
+  },
+  "https://www.mountainproject.com/area/109758390/north-dallas-40": {
+   "lat": 34.51342,
+   "lng": -118.40122,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/113505655/bob-johnson-boulder-1": {
+   "lat": 42.48497,
+   "lng": -70.98267,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/201845498/amphitheatre": {
+   "lat": 49.35794,
+   "lng": -124.73341,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/118786839/mount-heyburn": {
+   "lat": 44.10101,
+   "lng": -114.9762,
+   "name": null
   }
  },
  "rejected": {
@@ -91704,6 +91724,84 @@
    "approx": false,
    "lat": 35.12928,
    "lng": -111.59745,
+   "addedOn": "2026-11-23",
+   "usedOn": []
+  },
+  {
+   "id": "106705126",
+   "photoUrl": "https://www.mountainproject.com/photo/106705126/stuck",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/106705126_medium_1494133739.jpg?cache=1794938702",
+   "title": "Stuck...",
+   "breadcrumb": "Wisconsin > Baraboo Range > Devil's Lake > Devils Lake Bouldering > W Bluff > W Bluff Central > Jenga > Jenga ( V6 7A )",
+   "coordArea": "Jenga",
+   "approx": false,
+   "lat": 43.421,
+   "lng": -89.73774,
+   "addedOn": "2026-11-23",
+   "usedOn": []
+  },
+  {
+   "id": "111840394",
+   "photoUrl": "https://www.mountainproject.com/photo/111840394/parker-reed-cruxin-out",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/111840394_medium_1494307273.jpg?cache=1710381631",
+   "title": "Parker Reed cruxin' out.",
+   "breadcrumb": "W Virginia > The New River Gorge Region > New River Gorge Proper > Endless Wall > I Honeymooners Area > Quinsana Plus ( 5.13a 7c+ 29 IX+ 29 E6 6c )",
+   "coordArea": "I Honeymooners Area",
+   "approx": false,
+   "lat": 38.05426,
+   "lng": -81.05828,
+   "addedOn": "2026-11-23",
+   "usedOn": []
+  },
+  {
+   "id": "112862826",
+   "photoUrl": "https://www.mountainproject.com/photo/112862826/route-beta-north-dallas-40-yellow-58-buzz-worthy-red-510-buzz-kill-blue-510-debb",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/112862826_medium_1494319198_topo.jpg?cache=1702072422",
+   "title": "Route beta North Dallas 40 <br>  Yellow - 5.8 Buzz Worthy <br>  Red - 5.10 Buzz Kill <br>  Blue - 5.10 Debbie Does Dallas <br>",
+   "breadcrumb": "California > Los Angeles Basin > Angeles National Forest > Texas Canyon > N Dallas 40 > Debbie Does Dallas ( 5.10- 6a 18 VI+ 18 E1 5a )",
+   "coordArea": "N Dallas 40",
+   "approx": false,
+   "lat": 34.51342,
+   "lng": -118.40122,
+   "addedOn": "2026-11-23",
+   "usedOn": []
+  },
+  {
+   "id": "113592020",
+   "photoUrl": "https://www.mountainproject.com/photo/113592020/tesh-on-bear-grease",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/113592020_medium_1505612738.jpg?cache=1725385975",
+   "title": "Tesh on Bear Grease.",
+   "breadcrumb": "Massachusetts > N Shore > Lynn Woods > Stone Tower Area > Bob Johnson Crag > Bob Johnson Boulder 1 > Bear Grease ( V1 5 )",
+   "coordArea": "Bob Johnson Boulder 1",
+   "approx": false,
+   "lat": 42.48497,
+   "lng": -70.98267,
+   "addedOn": "2026-11-23",
+   "usedOn": []
+  },
+  {
+   "id": "123120584",
+   "photoUrl": "https://www.mountainproject.com/photo/123120584/plastic-jesus-pushers",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/123120584_medium_1664132648.jpg?cache=1760029343",
+   "title": "Plastic Jesus/ Pushers :)",
+   "breadcrumb": "International > N America > Canada > British Columbia > Vancouver Island > Horne Lake > Amphitheatre > Plastic Jesus ( 5.12b 7b 26 VIII+ 26 E5 6b )",
+   "coordArea": "Amphitheatre",
+   "approx": false,
+   "lat": 49.35794,
+   "lng": -124.73341,
+   "addedOn": "2026-11-23",
+   "usedOn": []
+  },
+  {
+   "id": "124962912",
+   "photoUrl": "https://www.mountainproject.com/photo/124962912/approach-to-the-saddle-take-the-climbers-trail-around-the-south-side-of-the-lake",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/124962912_medium_1695070003.jpg?cache=1786079610",
+   "title": "Approach to the saddle. Take the climbers trail around the south side of the lake (marked in photo). You'll get cliffed out if you attempt the north side (I know from experience haha)",
+   "breadcrumb": "Idaho > Central Idaho > Sawtooth Range > Mt Heyburn > Stur Chimney ( 5.5 4b 13 IV+ 11 MS 4a )",
+   "coordArea": "Mt Heyburn",
+   "approx": false,
+   "lat": 44.10101,
+   "lng": -114.9762,
    "addedOn": "2026-11-23",
    "usedOn": []
   }
