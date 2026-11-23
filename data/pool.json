@@ -19875,6 +19875,21 @@
    "lat": 44.37066,
    "lng": -72.85792,
    "name": null
+  },
+  "https://www.mountainproject.com/area/107008184/eagle-peak": {
+   "lat": 32.98227,
+   "lng": -116.70788,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/107316329/guye-peak": {
+   "lat": 47.442,
+   "lng": -121.411,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/105810908/swiss-tower": {
+   "lat": 35.12928,
+   "lng": -111.59745,
+   "name": null
   }
  },
  "rejected": {
@@ -25779,7 +25794,9 @@
    "lat": 39.51669,
    "lng": -105.39578,
    "addedOn": "2026-11-02",
-   "usedOn": []
+   "usedOn": [
+    "2026-11-23"
+   ]
   },
   {
    "id": "108448900",
@@ -49343,7 +49360,9 @@
    "lat": 34.36096,
    "lng": -111.45015,
    "addedOn": "2026-11-09",
-   "usedOn": []
+   "usedOn": [
+    "2026-11-23"
+   ]
   },
   {
    "id": "114340438",
@@ -57122,7 +57141,9 @@
    "lat": 40.14919,
    "lng": -79.46193,
    "addedOn": "2026-11-12",
-   "usedOn": []
+   "usedOn": [
+    "2026-11-23"
+   ]
   },
   {
    "id": "204216149",
@@ -73526,7 +73547,9 @@
    "lat": 32.93189,
    "lng": -107.2343,
    "addedOn": "2026-11-17",
-   "usedOn": []
+   "usedOn": [
+    "2026-11-23"
+   ]
   },
   {
    "id": "204248722",
@@ -85310,7 +85333,9 @@
    "lat": 40.57418,
    "lng": -111.77065,
    "addedOn": "2026-11-21",
-   "usedOn": []
+   "usedOn": [
+    "2026-11-23"
+   ]
   },
   {
    "id": "105954465",
@@ -91614,6 +91639,71 @@
    "approx": false,
    "lat": 44.37066,
    "lng": -72.85792,
+   "addedOn": "2026-11-23",
+   "usedOn": []
+  },
+  {
+   "id": "105891618",
+   "photoUrl": "https://www.mountainproject.com/photo/105891618/unknown-climber-following-p1-after-unclipping-the-first-bolt-the-leader-trailed-",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/105891618_medium_1557938314.jpg?cache=1779687304",
+   "title": "Unknown climber following P1 after unclipping the first bolt. The leader trailed a rope which is used to good effect protecting the second from taking a  big swing.",
+   "breadcrumb": "Colorado > Boulder > Eldorado Canyon SP > Redgarden Wall > Redgarden Tower Two > Rosy Crucifixion ( 5.10b 6a+ 19 VII- 19 E2 5b PG13)",
+   "coordArea": "Redgarden Tower Two",
+   "approx": false,
+   "lat": 39.9312,
+   "lng": -105.28518,
+   "addedOn": "2026-11-23",
+   "usedOn": []
+  },
+  {
+   "id": "106330943",
+   "photoUrl": "https://www.mountainproject.com/photo/106330943/dave-salisbury-under-the-west-overhang-of-the-maiden-photo-bob-horan-collection",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/106330943_medium_1494098436.jpg?cache=1777002216",
+   "title": "Dave Salisbury under the west overhang of the Maiden. Photo: Bob Horan collection.",
+   "breadcrumb": "Colorado > Boulder > Flatirons > South > Maiden > W Overhang ( 5.11b/c 6c+ 23 VIII- 24 E4 6a )",
+   "coordArea": "Maiden",
+   "approx": false,
+   "lat": 39.95002,
+   "lng": -105.28719,
+   "addedOn": "2026-11-23",
+   "usedOn": []
+  },
+  {
+   "id": "107015922",
+   "photoUrl": "https://www.mountainproject.com/photo/107015922/main-and-right-wall-of-eagle-peak-photo-credit-kevin-worrall",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/107015922_medium_1494159112.jpg?cache=1701316724",
+   "title": "main and right wall of Eagle Peak. Photo credit Kevin Worrall.",
+   "breadcrumb": "California > San Diego County > S San Diego County > Eagle Peak",
+   "coordArea": "Eagle Peak",
+   "approx": false,
+   "lat": 32.98227,
+   "lng": -116.70788,
+   "addedOn": "2026-11-23",
+   "usedOn": []
+  },
+  {
+   "id": "120238291",
+   "photoUrl": "https://www.mountainproject.com/photo/120238291/view-from-the-summit-looking-sw-towards-i-90-and-the-alpental-village",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/120238291_medium_1611767852.jpg?cache=1728493072",
+   "title": "View from the summit, looking SW towards I-90 and the Alpental Village.",
+   "breadcrumb": "Washington > Central West Cascades Seattle > Snoqualmie Pass Area > Guye Peak",
+   "coordArea": "Guye Peak",
+   "approx": false,
+   "lat": 47.442,
+   "lng": -121.411,
+   "addedOn": "2026-11-23",
+   "usedOn": []
+  },
+  {
+   "id": "127077053",
+   "photoUrl": "https://www.mountainproject.com/photo/127077053/james-q-martin-photo-upper-crux-purple-shark-92524-surgery-send-off-from-best-fr",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/127077053_medium_1728777100.jpg?cache=1786039328",
+   "title": "James Q Martin photo. Upper crux purple shark. 9/25/24. Surgery send-off, from best friends and climbing crew ever. Thank you NAZ!!!",
+   "breadcrumb": "Arizona > Northern Arizona > Flagstaff Area > The Pit Aka Le Petit Verdon > (F) Swiss Tower > Purple Shark ( 5.12a 7a+ 25 VIII+ 25 E5 6a )",
+   "coordArea": "(F) Swiss Tower",
+   "approx": false,
+   "lat": 35.12928,
+   "lng": -111.59745,
    "addedOn": "2026-11-23",
    "usedOn": []
   }
