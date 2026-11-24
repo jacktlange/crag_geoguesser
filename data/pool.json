@@ -20245,6 +20245,16 @@
    "lat": 39.60924,
    "lng": -105.91895,
    "name": null
+  },
+  "https://www.mountainproject.com/area/105745286/the-bishop": {
+   "lat": 39.4169,
+   "lng": -105.2703,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/110938086/white-dream": {
+   "lat": 35.70489,
+   "lng": -114.92834,
+   "name": null
   }
  },
  "rejected": {
@@ -93448,6 +93458,84 @@
    "approx": false,
    "lat": 39.60924,
    "lng": -105.91895,
+   "addedOn": "2026-11-23",
+   "usedOn": []
+  },
+  {
+   "id": "105957735",
+   "photoUrl": "https://www.mountainproject.com/photo/105957735/tony-bubb-starts-up-the-fingers-section-of-the-bishop-crack-on-the-bishop-format",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/105957735_medium_1558029915.jpg?cache=1701314930",
+   "title": "Tony Bubb starts up the fingers section of the 'Bishop Crack' on The Bishop formation in the South Platte. <br>  <br> Photo by Dave Stewart or maybe Mike Bannister, 2005.",
+   "breadcrumb": "Colorado > S Platte > Cathedral Spires Area > Bishop > Bishop Crack ( 5.12b 7b 26 VIII+ 26 E5 6b )",
+   "coordArea": "Bishop",
+   "approx": false,
+   "lat": 39.4169,
+   "lng": -105.2703,
+   "addedOn": "2026-11-23",
+   "usedOn": []
+  },
+  {
+   "id": "106006868",
+   "photoUrl": "https://www.mountainproject.com/photo/106006868/p7-summit-anchors-the-lame-anchor-fyi-this-was-already-scratched-into-the-rock-b",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/106006868_medium_1558390353.jpg?cache=1788278345",
+   "title": "P7 summit anchors: \"The Lame Anchor\" <br> (fyi, this was already scratched into the rock by methinks either TP or LD, i got a chuckle and re-scratched it...it isn't that permanent, but neither is that anchor block!!!)",
+   "breadcrumb": "Utah > Wasatch Range > Wasatch Alpine Areas > Mt Timpanogos > Lecherous Leanings ( 5.11+ 7a 24 VIII 24 E4 6a )",
+   "coordArea": "Mt Timpanogos",
+   "approx": false,
+   "lat": 40.52763,
+   "lng": -111.72408,
+   "addedOn": "2026-11-23",
+   "usedOn": []
+  },
+  {
+   "id": "107312324",
+   "photoUrl": "https://www.mountainproject.com/photo/107312324/hidden-valley",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/107312324_medium_1494180645.jpg?cache=1674073080",
+   "title": "Hidden Valley",
+   "breadcrumb": "California > Joshua Tree NP > Hidden Valley Area > Hidden Valley Campground",
+   "coordArea": "Hidden Valley Campground",
+   "approx": false,
+   "lat": 34.0162,
+   "lng": -116.1614,
+   "addedOn": "2026-11-23",
+   "usedOn": []
+  },
+  {
+   "id": "112264569",
+   "photoUrl": "https://www.mountainproject.com/photo/112264569/1-life-on-a-line-2-gracy-slick-roof-3-cryin39-on-the-corner-4-white-book-5-white",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/112264569_medium_1494329158.jpg?cache=1758838354",
+   "title": "1) Life on a Line <br> 2) Gracy Slick Roof <br> 3) Cryin&#39; on the Corner <br> 4) White Book <br> 5) White Dream Slab <br> 6) White Dream Slab Right <br> 7) Another Joe Herbst Route <br> 8) 5.9 boulder problem finish",
+   "breadcrumb": "Nevada > Southern Nevada > Eldorado Mountains > Keyhole Canyon > Western Fringe > White Dream",
+   "coordArea": "White Dream",
+   "approx": false,
+   "lat": 35.70489,
+   "lng": -114.92834,
+   "addedOn": "2026-11-23",
+   "usedOn": []
+  },
+  {
+   "id": "112383369",
+   "photoUrl": "https://www.mountainproject.com/photo/112383369/the-correct-beta-for-the-510-roof-pitch",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/112383369_medium_1494301702.jpg?cache=1721309794",
+   "title": "The correct beta for the 5.10 roof pitch",
+   "breadcrumb": "Wyoming > Grand Teton NP > Cascade Canyon > Guide's Wall ( 5.8 5b 16 VI- 15 HVS 4c )",
+   "coordArea": "Cascade Canyon",
+   "approx": false,
+   "lat": 43.76279,
+   "lng": -110.746,
+   "addedOn": "2026-11-23",
+   "usedOn": []
+  },
+  {
+   "id": "116806216",
+   "photoUrl": "https://www.mountainproject.com/photo/116806216/getting-stemmed-out-before-the-crux-to-find-a-piece-climber-logan-dop-photo-tyle",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/116806216_medium_1556572620.jpg?cache=1786765064",
+   "title": "Getting stemmed out before the crux to find a piece. <br>  <br> Climber: Logan Dop <br> Photo: Tyler Porter",
+   "breadcrumb": "Minnesota > Interstate Sp Taylors Falls > Minnesota Strip > Fallen Knight ( 5.9+ 5c 17 VI 17 E1 5a )",
+   "coordArea": "Minnesota Strip",
+   "approx": false,
+   "lat": 45.39843,
+   "lng": -92.6535,
    "addedOn": "2026-11-23",
    "usedOn": []
   }
