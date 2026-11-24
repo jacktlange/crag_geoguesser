@@ -30784,7 +30784,9 @@
    "lat": 36.10745,
    "lng": -118.48148,
    "addedOn": "2026-11-03",
-   "usedOn": []
+   "usedOn": [
+    "2026-11-24"
+   ]
   },
   {
    "id": "106338076",
@@ -46664,7 +46666,9 @@
    "lat": 34.95749,
    "lng": -82.79015,
    "addedOn": "2026-11-08",
-   "usedOn": []
+   "usedOn": [
+    "2026-11-24"
+   ]
   },
   {
    "id": "107606829",
@@ -47405,7 +47409,9 @@
    "lat": 42.5556,
    "lng": -72.44913,
    "addedOn": "2026-11-08",
-   "usedOn": []
+   "usedOn": [
+    "2026-11-24"
+   ]
   },
   {
    "id": "114620436",
@@ -59767,7 +59773,9 @@
    "lat": 64.73659,
    "lng": -150.73238,
    "addedOn": "2026-11-12",
-   "usedOn": []
+   "usedOn": [
+    "2026-11-24"
+   ]
   },
   {
    "id": "115389276",
@@ -64171,7 +64179,9 @@
    "lat": 45.07842,
    "lng": -122.11838,
    "addedOn": "2026-11-13",
-   "usedOn": []
+   "usedOn": [
+    "2026-11-24"
+   ]
   },
   {
    "id": "120426419",
@@ -95245,6 +95255,110 @@
    "approx": false,
    "lat": 37.92614,
    "lng": -120.46348,
+   "addedOn": "2026-11-24",
+   "usedOn": []
+  },
+  {
+   "id": "106668552",
+   "photoUrl": "https://www.mountainproject.com/photo/106668552/yosemite-derelicts-1975-errett-allen-mike-corbett-and-blitzo-photo-by-blitzo",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/106668552_medium_1494130426.jpg?cache=1792619500",
+   "title": "Yosemite derelicts 1975. Errett Allen, Mike Corbett and Blitzo. <br> Photo by Blitzo.",
+   "breadcrumb": "California > Yosemite NP > Yosemite Valley",
+   "coordArea": "Yosemite Valley",
+   "approx": false,
+   "lat": 37.72349,
+   "lng": -119.63452,
+   "addedOn": "2026-11-24",
+   "usedOn": []
+  },
+  {
+   "id": "107712671",
+   "photoUrl": "https://www.mountainproject.com/photo/107712671/mt-thor-thor-peak",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/107712671_medium_1494206593.jpg?cache=1786997541",
+   "title": "Mt Thor (Thor Peak)",
+   "breadcrumb": "International > N America > Canada > Nunavut > Baffin Island > Baffin Mountains > Mt Thor",
+   "coordArea": "Mt Thor",
+   "approx": false,
+   "lat": 66.5379,
+   "lng": -65.3084,
+   "addedOn": "2026-11-24",
+   "usedOn": []
+  },
+  {
+   "id": "108101634",
+   "photoUrl": "https://www.mountainproject.com/photo/108101634/the-descent-from-black-velvet-peak",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/108101634_medium_1494263038.jpg?cache=1701318008",
+   "title": "The Descent from Black Velvet Peak",
+   "breadcrumb": "Nevada > Southern Nevada > Red Rocks > Black Velvet Canyon > Black Velvet Wall > Epinephrine ( 5.9 5c 17 VI 17 HVS 5a )",
+   "coordArea": "Black Velvet Wall",
+   "approx": false,
+   "lat": 36.03518,
+   "lng": -115.46652,
+   "addedOn": "2026-11-24",
+   "usedOn": []
+  },
+  {
+   "id": "108481156",
+   "photoUrl": "https://www.mountainproject.com/photo/108481156/potash-petroglyphs",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/108481156_medium_1494285792.jpg?cache=1771743967",
+   "title": "Potash petroglyphs",
+   "breadcrumb": "Utah > Southeast Utah > Potash Rd",
+   "coordArea": "Potash Rd",
+   "approx": false,
+   "lat": 38.5751,
+   "lng": -109.5858,
+   "addedOn": "2026-11-24",
+   "usedOn": []
+  },
+  {
+   "id": "108773284",
+   "photoUrl": "https://www.mountainproject.com/photo/108773284/san-rafael-swell-from-the-wedge-overlook",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/108773284_medium_1494295751.jpg?cache=1758841843",
+   "title": "San Rafael Swell from the Wedge overlook",
+   "breadcrumb": "Utah > S Central Utah > San Rafael Swell",
+   "coordArea": "San Rafael Swell",
+   "approx": false,
+   "lat": 38.8525,
+   "lng": -110.701,
+   "addedOn": "2026-11-24",
+   "usedOn": []
+  },
+  {
+   "id": "117698952",
+   "photoUrl": "https://www.mountainproject.com/photo/117698952/ffa-of-merriam-peak-first-floatie-ascent",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/117698952_medium_1567698618.jpg?cache=1754585382",
+   "title": "FFA of Merriam Peak (First Floatie Ascent)",
+   "breadcrumb": "California > High Sierra > 07 Humphreys Basin Pine Creek Granite Park > Merriam Peak > Direct N Buttress ( 5.10b 6a+ 19 VII- 19 E2 5b )",
+   "coordArea": "Merriam Peak",
+   "approx": false,
+   "lat": 37.3088,
+   "lng": -118.7651,
+   "addedOn": "2026-11-24",
+   "usedOn": []
+  },
+  {
+   "id": "125169031",
+   "photoUrl": "https://www.mountainproject.com/photo/125169031/from-the-approach-trail",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/125169031_medium_1697861840.jpg?cache=1786081378",
+   "title": "From the approach trail",
+   "breadcrumb": "Utah > Southeast Utah > Grand County > River Rd > Take-Out Beach > Theater > An Overflow of Good ( 5.11b 6c 23 VIII- 23 E3 5c )",
+   "coordArea": "Theater",
+   "approx": false,
+   "lat": 38.66113,
+   "lng": -109.4994,
+   "addedOn": "2026-11-24",
+   "usedOn": []
+  },
+  {
+   "id": "202334353",
+   "photoUrl": "https://www.mountainproject.com/photo/202334353/moving-into-the-dihedral-on-the-fa-photo-chase-webb",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/202334353_medium_1768251498.jpg?cache=1785956871",
+   "title": "Moving into the dihedral on the FA. Photo: Chase Webb",
+   "breadcrumb": "Arkansas > North Central Arkansas > Sams Throne Surroundings > Candy Mountain > All Gas, No Brakes ( 5.10- 6a 18 VI+ 18 E1 5a )",
+   "coordArea": "Candy Mountain",
+   "approx": false,
+   "lat": 35.8447,
+   "lng": -93.0459,
    "addedOn": "2026-11-24",
    "usedOn": []
   }
