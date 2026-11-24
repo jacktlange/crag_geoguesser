@@ -20550,6 +20550,36 @@
    "lat": 33.68664,
    "lng": -111.80888,
    "name": null
+  },
+  "https://www.mountainproject.com/area/105927590/middle-palisade": {
+   "lat": 37.07,
+   "lng": -118.47,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/105732030/the-black-corridor": {
+   "lat": 36.15547,
+   "lng": -115.43613,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/105817365/big-pine-wall": {
+   "lat": 36.39277,
+   "lng": -106.19575,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/106382080/the-hunk": {
+   "lat": 37.32886,
+   "lng": -118.57512,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/111857983/main-escalante-channel": {
+   "lat": 37.33623,
+   "lng": -110.92598,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/105734132/ort-wall": {
+   "lat": 37.92614,
+   "lng": -120.46348,
+   "name": null
   }
  },
  "rejected": {
@@ -20962,7 +20992,8 @@
   "204289037": "filtered: ice, mixed, or snow route (grade or area)",
   "204289048": "filtered: ice, mixed, or snow route (grade or area)",
   "204289047": "filtered: ice, mixed, or snow route (grade or area)",
-  "204289043": "filtered: ice, mixed, or snow route (grade or area)"
+  "204289043": "filtered: ice, mixed, or snow route (grade or area)",
+  "110135689": "filtered: ice or snow (caption)"
  },
  "photos": [
   {
@@ -95136,6 +95167,84 @@
    "approx": false,
    "lat": 33.68664,
    "lng": -111.80888,
+   "addedOn": "2026-11-24",
+   "usedOn": []
+  },
+  {
+   "id": "105982847",
+   "photoUrl": "https://www.mountainproject.com/photo/105982847/just-when-you-think-youre-bad-ass-for-climbing-middle-pal-in-a-day-comes-peter-c",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/105982847_medium_1558386900.jpg?cache=1776037372",
+   "title": "Just when you think you're bad-ass for climbing MIddle Pal in a day comes Peter Croft's entry: \"From South Lake, Agazziz, Whinchell, Thunderbolt, Starlight, N. Pal, Polomonium, Sill, then big hike here. 5:20 p.m. Heading home.\"",
+   "breadcrumb": "California > High Sierra > 09 Palisades Surrounding Peaks > Middle Palisade",
+   "coordArea": "Middle Palisade",
+   "approx": false,
+   "lat": 37.07,
+   "lng": -118.47,
+   "addedOn": "2026-11-24",
+   "usedOn": []
+  },
+  {
+   "id": "106376787",
+   "photoUrl": "https://www.mountainproject.com/photo/106376787/climbers-in-the-black-corridor-5-frames-hdr",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/106376787_medium_1494102953.jpg?cache=1701315676",
+   "title": "Climbers in the Black Corridor, 5 frames HDR",
+   "breadcrumb": "Nevada > Southern Nevada > Red Rocks > Second Pullout Calico Ii > Black Corridor",
+   "coordArea": "Black Corridor",
+   "approx": false,
+   "lat": 36.15547,
+   "lng": -115.43613,
+   "addedOn": "2026-11-24",
+   "usedOn": []
+  },
+  {
+   "id": "108136341",
+   "photoUrl": "https://www.mountainproject.com/photo/108136341/cobble-wobble-action-may-2013",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/108136341_medium_1494265159.jpg?cache=1701318040",
+   "title": "Cobble Wobble action. May 2013.",
+   "breadcrumb": "New Mexico > El Rito > El Rito Sport Area > Big Pine Wall > Cobble Wobble ( 5.10c 6b 20 VII 20 E2 5b )",
+   "coordArea": "Big Pine Wall",
+   "approx": false,
+   "lat": 36.39277,
+   "lng": -106.19575,
+   "addedOn": "2026-11-24",
+   "usedOn": []
+  },
+  {
+   "id": "110397919",
+   "photoUrl": "https://www.mountainproject.com/photo/110397919/what-a-hunk",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/110397919_medium_1494349622.jpg?cache=1768869734",
+   "title": "What a Hunk!",
+   "breadcrumb": "California > Eastern Sierra > Bishop Area > Buttermilk Country > Buttermilks Main > Hunk > Hunk ( V2 5+ )",
+   "coordArea": "Hunk",
+   "approx": false,
+   "lat": 37.32886,
+   "lng": -118.57512,
+   "addedOn": "2026-11-24",
+   "usedOn": []
+  },
+  {
+   "id": "111874475",
+   "photoUrl": "https://www.mountainproject.com/photo/111874475/the-best-holds-are-bobbys-buns-hueco-wall-gangbang-photo-victoria-arling",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/111874475_medium_1494308998.jpg?cache=1758128763",
+   "title": "The best holds are Bobbys buns.. Hueco Wall gangbang. Photo: Victoria Arling",
+   "breadcrumb": "Utah > S Central Utah > Glen Canyon > Lake Powell > Escalante Arm > Main Escalante Channel > Hueco Wall ( 5.8 5b 16 VI- 15 HVS 4c )",
+   "coordArea": "Main Escalante Channel",
+   "approx": false,
+   "lat": 37.33623,
+   "lng": -110.92598,
+   "addedOn": "2026-11-24",
+   "usedOn": []
+  },
+  {
+   "id": "120052275",
+   "photoUrl": "https://www.mountainproject.com/photo/120052275/cowboy-up-58-2011",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/120052275_medium_1607578383.jpg?cache=1721359493",
+   "title": "Cowboy Up 5.8 2011",
+   "breadcrumb": "California > Sonora Pass Highway 108 > Table Mountain > Ort Wall > Cowboy Up ( 5.9 5c 17 VI 17 HVS 5a R)",
+   "coordArea": "Ort Wall",
+   "approx": false,
+   "lat": 37.92614,
+   "lng": -120.46348,
    "addedOn": "2026-11-24",
    "usedOn": []
   }
