@@ -21170,6 +21170,16 @@
    "lat": 34.9924,
    "lng": -111.7809,
    "name": null
+  },
+  "https://www.mountainproject.com/area/119524827/big-bear-city-area": {
+   "lat": 34.28454,
+   "lng": -116.87095,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/108198778/freaks-fright": {
+   "lat": 43.8475,
+   "lng": -103.533,
+   "name": null
   }
  },
  "rejected": {
@@ -98826,6 +98836,84 @@
    "approx": false,
    "lat": 34.9924,
    "lng": -111.7809,
+   "addedOn": "2026-11-25",
+   "usedOn": []
+  },
+  {
+   "id": "106377794",
+   "photoUrl": "https://www.mountainproject.com/photo/106377794/dicey",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/106377794_medium_1494103046.jpg?cache=1773712781",
+   "title": "Dicey!",
+   "breadcrumb": "Utah > Southeast Utah > Grand County > Fisher Towers > Titan > Sundevil Chimney ( 5.9 5c 17 VI 17 HVS 5a A3)",
+   "coordArea": "Titan",
+   "approx": false,
+   "lat": 38.71745,
+   "lng": -109.29955,
+   "addedOn": "2026-11-25",
+   "usedOn": []
+  },
+  {
+   "id": "107016480",
+   "photoUrl": "https://www.mountainproject.com/photo/107016480/dont-forget-to-absorb-the-landing",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/107016480_medium_1494159179.jpg?cache=1727134968",
+   "title": "Don't forget to absorb the landing!",
+   "breadcrumb": "Arizona > Northern Arizona > Sedona Area > Sedona > Cathedral Rock Area > Mace > Original Route ( 5.9+ 5c 17 VI 17 E1 5a )",
+   "coordArea": "Mace",
+   "approx": false,
+   "lat": 34.81836,
+   "lng": -111.7913,
+   "addedOn": "2026-11-25",
+   "usedOn": []
+  },
+  {
+   "id": "107289202",
+   "photoUrl": "https://www.mountainproject.com/photo/107289202/north-shore-arete",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/107289202_medium_1494179053.jpg?cache=1756914287",
+   "title": "North Shore Arete",
+   "breadcrumb": "California > San Bernardino Mountains > Big Bear Lake Area > Big Bear North > Big Bear City Area",
+   "coordArea": "Big Bear City Area",
+   "approx": false,
+   "lat": 34.28454,
+   "lng": -116.87095,
+   "addedOn": "2026-11-25",
+   "usedOn": []
+  },
+  {
+   "id": "112203645",
+   "photoUrl": "https://www.mountainproject.com/photo/112203645/freak39s-fright-9302016-photo-ellen-brodrick",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/112203645_medium_1494326470.jpg?cache=1722963564",
+   "title": "Freak&#39;s Fright. 9/30/2016. Photo: Ellen Brodrick",
+   "breadcrumb": "S Dakota > Custer SP > Cathedral Spires > Freak's Fright > Freak's Fright ( 5.10 6b 20 VII- 19 E2 5b )",
+   "coordArea": "Freak's Fright",
+   "approx": false,
+   "lat": 43.8475,
+   "lng": -103.533,
+   "addedOn": "2026-11-25",
+   "usedOn": []
+  },
+  {
+   "id": "112551078",
+   "photoUrl": "https://www.mountainproject.com/photo/112551078/nate-layton-working-his-way-up-hand-jive",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/112551078_medium_1494312329.jpg?cache=1778849116",
+   "title": "Nate Layton working his way up Hand Jive.",
+   "breadcrumb": "Utah > Wasatch Range > Central Wasatch > Little Cottonwood Canyon > Crescent Crack Buttress > Hand Jive ( 5.9 5c 17 VI 17 HVS 5a )",
+   "coordArea": "Crescent Crack Buttress",
+   "approx": false,
+   "lat": 40.5733,
+   "lng": -111.771,
+   "addedOn": "2026-11-25",
+   "usedOn": []
+  },
+  {
+   "id": "114778293",
+   "photoUrl": "https://www.mountainproject.com/photo/114778293/wild-stemming-over-the-lip-mat-stein-july-1981",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/114778293_medium_1532553272.jpg?cache=1781031670",
+   "title": "Wild stemming over the lip! Mat Stein, July 1981.",
+   "breadcrumb": "California > Yosemite NP > Tuolumne Meadows > Medlicott Dome > W Face, Left > Wailing Wall ( 5.11d 7a 24 VIII 25 E5 6a )",
+   "coordArea": "W Face, Left",
+   "approx": false,
+   "lat": 37.86017,
+   "lng": -119.42856,
    "addedOn": "2026-11-25",
    "usedOn": []
   }
