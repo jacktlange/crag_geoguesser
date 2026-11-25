@@ -20820,6 +20820,16 @@
    "lat": 42.74191,
    "lng": -108.83072,
    "name": null
+  },
+  "https://www.mountainproject.com/area/105739407/the-dead-snag": {
+   "lat": 40.62082,
+   "lng": -111.74466,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/202533896/brevent-east": {
+   "lat": 45.96844,
+   "lng": 6.87318,
+   "name": null
   }
  },
  "rejected": {
@@ -96902,6 +96912,84 @@
    "approx": false,
    "lat": 42.74191,
    "lng": -108.83072,
+   "addedOn": "2026-11-24",
+   "usedOn": []
+  },
+  {
+   "id": "105836057",
+   "photoUrl": "https://www.mountainproject.com/photo/105836057/along-the-trail62406",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/105836057_medium_1557861726.jpg?cache=1725395220",
+   "title": "Along the trail...6/24/06",
+   "breadcrumb": "Colorado > Alpine Rock > Indian Peaks > Arapaho Peaks",
+   "coordArea": "Arapaho Peaks",
+   "approx": false,
+   "lat": 40.0267,
+   "lng": -105.649,
+   "addedOn": "2026-11-24",
+   "usedOn": []
+  },
+  {
+   "id": "106530428",
+   "photoUrl": "https://www.mountainproject.com/photo/106530428/ridge-north-to-lone-eagle-from-the-first-notch-see-my-comment-for-route-descript",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/106530428_medium_1494117563.jpg?cache=1701315930",
+   "title": "Ridge north to Lone Eagle, from the first notch.  See my comment for route description.",
+   "breadcrumb": "Colorado > Alpine Rock > Indian Peaks > Lone Eagle Peak > Solo Flight ( 4th 1 2 I 2 M 1b )",
+   "coordArea": "Lone Eagle Peak",
+   "approx": false,
+   "lat": 40.0714,
+   "lng": -105.66,
+   "addedOn": "2026-11-24",
+   "usedOn": []
+  },
+  {
+   "id": "106891257",
+   "photoUrl": "https://www.mountainproject.com/photo/106891257/watch-for-rocks",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/106891257_medium_1494148837.jpg?cache=1758049526",
+   "title": "Watch for rocks :)",
+   "breadcrumb": "Utah > Wasatch Range > Central Wasatch > Big Cottonwood Canyon > Dead Snag > Steorts' Ridge ( 5.6 4c 14 V 12 S 4b )",
+   "coordArea": "Dead Snag",
+   "approx": false,
+   "lat": 40.62082,
+   "lng": -111.74466,
+   "addedOn": "2026-11-24",
+   "usedOn": []
+  },
+  {
+   "id": "111258798",
+   "photoUrl": "https://www.mountainproject.com/photo/111258798/just-a-cool-shot-of-reefer-madness",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/111258798_medium_1494345985.jpg?cache=1717785098",
+   "title": "Just a cool shot of Reefer Madness.",
+   "breadcrumb": "Colorado > Golden > Clear Creek Canyon > Wall of the '90s > Reefer Madness ( 5.11a 6c 22 VII+ 22 E3 5c )",
+   "coordArea": "Wall of the '90s",
+   "approx": false,
+   "lat": 39.7388,
+   "lng": -105.3222,
+   "addedOn": "2026-11-24",
+   "usedOn": []
+  },
+  {
+   "id": "114582784",
+   "photoUrl": "https://www.mountainproject.com/photo/114582784/photo-matt-anzur",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/114582784_medium_1531372768.jpg?cache=1772736843",
+   "title": "Photo: Matt Anzur",
+   "breadcrumb": "International > Asia > Thailand > South Islands Beaches > Laem Phra Nang Railay Tonsai > Tonsai Bay > Tonsai Beach Freedom Bar Area > Tonsai Roof Tidal Wave Area > Tantrum ( 5.13c 8a+ 30 X- 31 E7 7a )",
+   "coordArea": "Tonsai Roof Tidal Wave Area",
+   "approx": false,
+   "lat": 8.0171,
+   "lng": 98.8341,
+   "addedOn": "2026-11-24",
+   "usedOn": []
+  },
+  {
+   "id": "117690961",
+   "photoUrl": "https://www.mountainproject.com/photo/117690961/top-of-pitch-5",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/117690961_medium_1567532704.jpg?cache=1772644224",
+   "title": "Top of pitch 5(?)",
+   "breadcrumb": "International > Europe > France > 04 Northern Alps > Chamonix Mont Blanc > Aiguilles Rouges > Le Brévent > Brévent East > La Somone ( 5.8- 5b 16 VI- 14 VS 4c )",
+   "coordArea": "Brévent East",
+   "approx": false,
+   "lat": 45.96844,
+   "lng": 6.87318,
    "addedOn": "2026-11-24",
    "usedOn": []
   }
