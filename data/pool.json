@@ -21150,6 +21150,26 @@
    "lat": 34.83791,
    "lng": -111.73353,
    "name": null
+  },
+  "https://www.mountainproject.com/area/106619842/blodgett-canyon": {
+   "lat": 46.27699,
+   "lng": -114.35719,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/108359452/the-washout": {
+   "lat": 47.55425,
+   "lng": -120.76665,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/105944312/devils-den": {
+   "lat": 43.12241,
+   "lng": -71.1867,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/126558563/right-side": {
+   "lat": 34.9924,
+   "lng": -111.7809,
+   "name": null
   }
  },
  "rejected": {
@@ -24813,7 +24833,9 @@
    "lat": 40.2037,
    "lng": -105.3111,
    "addedOn": "2026-10-31",
-   "usedOn": []
+   "usedOn": [
+    "2026-11-25"
+   ]
   },
   {
    "id": "105826665",
@@ -80461,7 +80483,9 @@
    "lat": 44.07828,
    "lng": -103.42512,
    "addedOn": "2026-11-19",
-   "usedOn": []
+   "usedOn": [
+    "2026-11-25"
+   ]
   },
   {
    "id": "113541303",
@@ -80578,7 +80602,9 @@
    "lat": 33.45235,
    "lng": -111.45936,
    "addedOn": "2026-11-19",
-   "usedOn": []
+   "usedOn": [
+    "2026-11-25"
+   ]
   },
   {
    "id": "124348568",
@@ -91210,7 +91236,7 @@
   {
    "id": "204277500",
    "photoUrl": "https://www.mountainproject.com/photo/204277500/ron-nance",
-   "imageUrl": "https://mountainproject.com/assets/photos/climb/204277500_medium_1795370472.jpg?cache=1795370476",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/204277500_medium_1795370472.jpg?cache=1795386338",
    "title": "Ron Nance",
    "breadcrumb": "Tennessee > Deep Creek > Warm-Up Wall > Us & Them ( 5.11a 6c 22 VII+ 22 E3 5c )",
    "coordArea": "Warm-Up Wall",
@@ -91218,7 +91244,9 @@
    "lat": 35.29424,
    "lng": -85.19682,
    "addedOn": "2026-11-22",
-   "usedOn": []
+   "usedOn": [
+    "2026-11-25"
+   ]
   },
   {
    "id": "105862739",
@@ -93792,7 +93820,9 @@
    "lat": 36.05903,
    "lng": -112.14738,
    "addedOn": "2026-11-23",
-   "usedOn": []
+   "usedOn": [
+    "2026-11-25"
+   ]
   },
   {
    "id": "106870259",
@@ -98692,6 +98722,110 @@
    "approx": false,
    "lat": 34.83791,
    "lng": -111.73353,
+   "addedOn": "2026-11-25",
+   "usedOn": []
+  },
+  {
+   "id": "106220081",
+   "photoUrl": "https://www.mountainproject.com/photo/106220081/the-upper-half-of-the-crux-pitch",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/106220081_medium_1494089265.jpg?cache=1710268134",
+   "title": "The upper half of the crux pitch.",
+   "breadcrumb": "Colorado > Alpine Rock > RMNP - Rock > Glacier Gorge > Spearhead > All Two Obvious ( 5.12a 7a+ 25 VIII+ 25 E5 6a R)",
+   "coordArea": "Spearhead",
+   "approx": false,
+   "lat": 40.2567,
+   "lng": -105.63834,
+   "addedOn": "2026-11-25",
+   "usedOn": []
+  },
+  {
+   "id": "106642723",
+   "photoUrl": "https://www.mountainproject.com/photo/106642723/ian-on-equinox",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/106642723_medium_1494128118.jpg?cache=1774129675",
+   "title": "Ian on Equinox",
+   "breadcrumb": "California > Joshua Tree NP > Queen Valley Area > Geology Tour Road Closed Due To Road Damage > Geology Tour Road West > Jerrys Quarry And Lost Pencil Areas > Jerry's Quarry > Equinox ( 5.12c 7b+ 27 IX- 27 E6 6b )",
+   "coordArea": "Jerry's Quarry",
+   "approx": false,
+   "lat": 33.95435,
+   "lng": -116.09234,
+   "addedOn": "2026-11-25",
+   "usedOn": []
+  },
+  {
+   "id": "107088928",
+   "photoUrl": "https://www.mountainproject.com/photo/107088928/scanned-photo-of-russ-klune-leading-through-the-third-pitch-crux-mid-1980s",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/107088928_medium_1494165104.jpg?cache=1785950762",
+   "title": "Scanned photo of Russ Klune leading through the third pitch crux. Mid 1980's",
+   "breadcrumb": "New Hampshire > Cathedral Ledge > Prow Area > Prow ( 5.11d 7a 24 VIII 25 E5 6a )",
+   "coordArea": "Prow Area",
+   "approx": false,
+   "lat": 44.06298,
+   "lng": -71.1656,
+   "addedOn": "2026-11-25",
+   "usedOn": []
+  },
+  {
+   "id": "107295568",
+   "photoUrl": "https://www.mountainproject.com/photo/107295568/blodgett-canyon-mt",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/107295568_medium_1494179554.jpg?cache=1786583502",
+   "title": "Blodgett Canyon, MT",
+   "breadcrumb": "Montana > Northwest Region > Blodgett Canyon",
+   "coordArea": "Blodgett Canyon",
+   "approx": false,
+   "lat": 46.27699,
+   "lng": -114.35719,
+   "addedOn": "2026-11-25",
+   "usedOn": []
+  },
+  {
+   "id": "108412791",
+   "photoUrl": "https://www.mountainproject.com/photo/108412791/at-the-2nd-traverse-crux-10272013-photo-nate-erickson",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/108412791_medium_1494281801.jpg?cache=1763062047",
+   "title": "At the 2nd traverse crux. 10/27/2013. Photo: Nate Erickson.",
+   "breadcrumb": "S Dakota > Custer SP > Sylvan Lake > Outlets > Vertigo > Vertigo ( 5.11+ 7a 24 VIII 24 E4 6a PG13)",
+   "coordArea": "Vertigo",
+   "approx": false,
+   "lat": 43.8477,
+   "lng": -103.5668,
+   "addedOn": "2026-11-25",
+   "usedOn": []
+  },
+  {
+   "id": "113065453",
+   "photoUrl": "https://www.mountainproject.com/photo/113065453/dirty-dancing",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/113065453_medium_1496385730.jpg?cache=1715559026",
+   "title": "Dirty Dancing",
+   "breadcrumb": "Washington > Central East Cascades Wenatchee Leavenworth > Leavenworth > Icicle Creek > Bouldering In Icicle Creek > Washout > Dirty Dancing ( V4 6B )",
+   "coordArea": "Washout",
+   "approx": false,
+   "lat": 47.55425,
+   "lng": -120.76665,
+   "addedOn": "2026-11-25",
+   "usedOn": []
+  },
+  {
+   "id": "113878026",
+   "photoUrl": "https://www.mountainproject.com/photo/113878026/shawn-in-the-upper-part-of-the-crux-about-to-place-a-good-piece-after-running-it",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/113878026_medium_1511808947.jpg?cache=1702072748",
+   "title": "Shawn in the upper part of the crux, about to place a good piece after running it out on a micronut. The micronut's wire exploded later that day during a fall.",
+   "breadcrumb": "New Hampshire > Pawtuckaway > Devil's Den > Speckman's ( 5.12 7b+ 27 VIII+ 26 E6 6b R)",
+   "coordArea": "Devil's Den",
+   "approx": false,
+   "lat": 43.12241,
+   "lng": -71.1867,
+   "addedOn": "2026-11-25",
+   "usedOn": []
+  },
+  {
+   "id": "119174752",
+   "photoUrl": "https://www.mountainproject.com/photo/119174752/wilson-on-pitch-5-photo-will-butierez",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/119174752_medium_1594137486.jpg?cache=1764687744",
+   "title": "Wilson on Pitch 5  <br> Photo Will Butierez",
+   "breadcrumb": "Arizona > Northern Arizona > Oak Creek Canyon > Insomnia Canyon > Insomnia East > Right Side > Shenanigans ( 5.12+ 7c 28 IX 27 E6 6b )",
+   "coordArea": "Right Side",
+   "approx": false,
+   "lat": 34.9924,
+   "lng": -111.7809,
    "addedOn": "2026-11-25",
    "usedOn": []
   }
