@@ -21130,6 +21130,26 @@
    "lat": 44.27748,
    "lng": -121.25681,
    "name": null
+  },
+  "https://www.mountainproject.com/area/105738022/baboquivari-peak": {
+   "lat": 31.77131,
+   "lng": -111.59661,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/109957121/angel-wings": {
+   "lat": 36.57173,
+   "lng": -118.58449,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/105811163/right-gully": {
+   "lat": 40.00278,
+   "lng": -105.38856,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/124178825/life-line-area": {
+   "lat": 34.83791,
+   "lng": -111.73353,
+   "name": null
   }
  },
  "rejected": {
@@ -98594,6 +98614,84 @@
    "approx": false,
    "lat": 44.27748,
    "lng": -121.25681,
+   "addedOn": "2026-11-25",
+   "usedOn": []
+  },
+  {
+   "id": "105823217",
+   "photoUrl": "https://www.mountainproject.com/photo/105823217/high-e-looking-even-better-after-some-digital-photo-editing-from-original-by-mik",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/105823217_medium_1557860012.jpg?cache=1784350202",
+   "title": "High E looking even better after some digital photo editing.  From original by Mike fenice.",
+   "breadcrumb": "New York > Gunks > Trapps > i. High E > High Exposure ( 5.6 4c 14 V 12 S 4b )",
+   "coordArea": "i. High E",
+   "approx": false,
+   "lat": 41.74421,
+   "lng": -74.179,
+   "addedOn": "2026-11-25",
+   "usedOn": []
+  },
+  {
+   "id": "106365838",
+   "photoUrl": "https://www.mountainproject.com/photo/106365838/yeah-thats-sweet",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/106365838_medium_1494102119.jpg?cache=1753908266",
+   "title": "yeah thats sweet",
+   "breadcrumb": "Arizona > Southern Arizona > Baboquivari Peak",
+   "coordArea": "Baboquivari Peak",
+   "approx": false,
+   "lat": 31.77131,
+   "lng": -111.59661,
+   "addedOn": "2026-11-25",
+   "usedOn": []
+  },
+  {
+   "id": "110307821",
+   "photoUrl": "https://www.mountainproject.com/photo/110307821/angel-wings",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/110307821_medium_1494370578.jpg?cache=1718816849",
+   "title": "Angel Wings",
+   "breadcrumb": "California > Sequoia Kings Canyon Np > Hamilton Lakes And Valhalla > Angel Wings",
+   "coordArea": "Angel Wings",
+   "approx": false,
+   "lat": 36.57173,
+   "lng": -118.58449,
+   "addedOn": "2026-11-25",
+   "usedOn": []
+  },
+  {
+   "id": "113586795",
+   "photoUrl": "https://www.mountainproject.com/photo/113586795/a-view-looking-back-after-completing-the-most-technical-parts-of-the-route-i-als",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/113586795_medium_1505456532.jpg?cache=1766122968",
+   "title": "A view looking back after completing the most technical parts of the route. I also posted a video summary of doing this route on youtube.",
+   "breadcrumb": "Wyoming > Wind River Range > Cirque Of The Towers > Pingora > Cirque of the Towers… ( 5.8 5b 16 VI- 15 HVS 4c )",
+   "coordArea": "Pingora",
+   "approx": false,
+   "lat": 42.7789,
+   "lng": -109.226,
+   "addedOn": "2026-11-25",
+   "usedOn": []
+  },
+  {
+   "id": "119055171",
+   "photoUrl": "https://www.mountainproject.com/photo/119055171/first-colorado-512",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/119055171_medium_1592340704.jpg?cache=1726384909",
+   "title": "First Colorado 5.12!",
+   "breadcrumb": "Colorado > Boulder > Boulder Canyon > Blob Rock Area > Blob Rock > Right Gully > Jolt Cola ( 5.12a 7a+ 25 VIII+ 25 E5 6a )",
+   "coordArea": "Right Gully",
+   "approx": false,
+   "lat": 40.00278,
+   "lng": -105.38856,
+   "addedOn": "2026-11-25",
+   "usedOn": []
+  },
+  {
+   "id": "124180138",
+   "photoUrl": "https://www.mountainproject.com/photo/124180138/setting-up-for-the-offset-layback-photo-by-blake-mccord",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/124180138_medium_1683735767.jpg?cache=1786089379",
+   "title": "Setting up for the offset layback. Photo by Blake McCord",
+   "breadcrumb": "Arizona > Northern Arizona > Sedona Area > Sedona > Jim Bryant Canyon > Life Line Area > Life Line ( 5.13 8a 29 X- 30 E7 6c )",
+   "coordArea": "Life Line Area",
+   "approx": false,
+   "lat": 34.83791,
+   "lng": -111.73353,
    "addedOn": "2026-11-25",
    "usedOn": []
   }
