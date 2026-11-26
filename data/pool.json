@@ -21515,6 +21515,31 @@
    "lat": 38.32967,
    "lng": -119.92176,
    "name": null
+  },
+  "https://www.mountainproject.com/area/105734016/the-nut-tree-boulders": {
+   "lat": 38.38524,
+   "lng": -121.98691,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/105868061/bugaboos": {
+   "lat": 50.7491,
+   "lng": -116.78048,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/107694000/the-compound": {
+   "lat": 39.56805,
+   "lng": -111.68849,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/112414349/el-monstruo": {
+   "lat": -41.44888,
+   "lng": -72.11919,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/107015116/the-horn": {
+   "lat": 38.0013,
+   "lng": -110.7973,
+   "name": null
   }
  },
  "rejected": {
@@ -100552,6 +100577,84 @@
    "approx": false,
    "lat": 38.32967,
    "lng": -119.92176,
+   "addedOn": "2026-11-25",
+   "usedOn": []
+  },
+  {
+   "id": "105796092",
+   "photoUrl": "https://www.mountainproject.com/photo/105796092/dave-on-gimme-my-forty-sucka-hidden-boulder",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/105796092_medium_1557856698.jpg?cache=1754975512",
+   "title": "Dave on Gimme My Forty Sucka, Hidden Boulder",
+   "breadcrumb": "California > San Francisco Bay Area > Wine Countrynortheast Bay > Nut Tree Boulders",
+   "coordArea": "Nut Tree Boulders",
+   "approx": false,
+   "lat": 38.38524,
+   "lng": -121.98691,
+   "addedOn": "2026-11-25",
+   "usedOn": []
+  },
+  {
+   "id": "105869413",
+   "photoUrl": "https://www.mountainproject.com/photo/105869413/first-good-glimpse-of-the-bugaboos-on-the-drive-in",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/105869413_medium_1557935459.jpg?cache=1787603924",
+   "title": "First good glimpse of the Bugaboo's on the drive in.",
+   "breadcrumb": "International > N America > Canada > British Columbia > Columbia-Shushwap > Bugaboos",
+   "coordArea": "Bugaboos",
+   "approx": false,
+   "lat": 50.7491,
+   "lng": -116.78048,
+   "addedOn": "2026-11-25",
+   "usedOn": []
+  },
+  {
+   "id": "108013794",
+   "photoUrl": "https://www.mountainproject.com/photo/108013794/one-of-the-paynes-ford-watering-holes-on-the-takaka-river-very-refreshing-after-",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/108013794_medium_1494257262.jpg?cache=1783431664",
+   "title": "One of the Paynes Ford watering holes on the Takaka river. Very refreshing after a hard day of climbing. Also home to some fun deep water boulder problems",
+   "breadcrumb": "International > Oceania > New Zealand > S Island > Nelson-Tasman > Paynes Ford > First Watering Hole",
+   "coordArea": "First Watering Hole",
+   "approx": false,
+   "lat": -40.8387,
+   "lng": 172.80119,
+   "addedOn": "2026-11-25",
+   "usedOn": []
+  },
+  {
+   "id": "111901058",
+   "photoUrl": "https://www.mountainproject.com/photo/111901058/sticking-the-throw-at-the-roof-pc-brendan-nicholson",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/111901058_medium_1494310337.jpg?cache=1754191318",
+   "title": "Sticking the throw at the roof! PC: Brendan Nicholson",
+   "breadcrumb": "Utah > Central Utah > Maple Canyon > Maple Canyon Rd > Compound > Special Forces ( 5.13b 8a 29 IX+ 30 E7 6c )",
+   "coordArea": "Compound",
+   "approx": false,
+   "lat": 39.56805,
+   "lng": -111.68849,
+   "addedOn": "2026-11-25",
+   "usedOn": []
+  },
+  {
+   "id": "112568709",
+   "photoUrl": "https://www.mountainproject.com/photo/112568709/route-line",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/112568709_medium_1494313549.jpg?cache=1711148105",
+   "title": "route line",
+   "breadcrumb": "International > S America > Chile > Los Lagos Region X > Valle Cochamó > El Monstruo > La Presencia de mi Padre ( 5.10c 6b 20 VII 20 E2 5b Mod. Snow)",
+   "coordArea": "El Monstruo",
+   "approx": false,
+   "lat": -41.44888,
+   "lng": -72.11919,
+   "addedOn": "2026-11-25",
+   "usedOn": []
+  },
+  {
+   "id": "116634469",
+   "photoUrl": "https://www.mountainproject.com/photo/116634469/babsi-onsighting-the-12a-route-below-perfect-child-which-she-also-onsighted",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/116634469_medium_1553214185.jpg?cache=1762511705",
+   "title": "Babsi onsighting the 12a route below Perfect Child (which she also onsighted)",
+   "breadcrumb": "Utah > S Central Utah > Henry Mountains > Horn",
+   "coordArea": "Horn",
+   "approx": false,
+   "lat": 38.0013,
+   "lng": -110.7973,
    "addedOn": "2026-11-25",
    "usedOn": []
   }
