@@ -21855,6 +21855,26 @@
    "lat": 43.41269,
    "lng": -89.70663,
    "name": null
+  },
+  "https://www.mountainproject.com/area/105798291/lake-tahoe": {
+   "lat": 39.1089,
+   "lng": -120.23679,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/105865908/five-open-books": {
+   "lat": 37.7477,
+   "lng": -119.59695,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/105744906/independence-monument": {
+   "lat": 39.09581,
+   "lng": -108.7234,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/109485025/east-bluff-linkups": {
+   "lat": 43.41839,
+   "lng": -89.73098,
+   "name": null
   }
  },
  "rejected": {
@@ -102275,6 +102295,84 @@
    "approx": false,
    "lat": 43.41269,
    "lng": -89.70663,
+   "addedOn": "2026-11-26",
+   "usedOn": []
+  },
+  {
+   "id": "105973183",
+   "photoUrl": "https://www.mountainproject.com/photo/105973183/foothill-sunset-photo-by-blitzo",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/105973183_medium_1558385479.jpg?cache=1725477965",
+   "title": "Foothill Sunset. <br> Photo by Blitzo.",
+   "breadcrumb": "California > Lake Tahoe",
+   "coordArea": "Lake Tahoe",
+   "approx": false,
+   "lat": 39.1089,
+   "lng": -120.23679,
+   "addedOn": "2026-11-26",
+   "usedOn": []
+  },
+  {
+   "id": "106177792",
+   "photoUrl": "https://www.mountainproject.com/photo/106177792/the-candy-mtn-express-aka-dumb-and-dumber-part-3",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/106177792_medium_1494085727.jpg?cache=1781203077",
+   "title": "The Candy Mtn Express aka Dumb and Dumber part 3.",
+   "breadcrumb": "Colorado > S Platte > Big Rock Candy Mountain",
+   "coordArea": "Big Rock Candy Mountain",
+   "approx": false,
+   "lat": 39.1314,
+   "lng": -105.32229,
+   "addedOn": "2026-11-26",
+   "usedOn": []
+  },
+  {
+   "id": "118126045",
+   "photoUrl": "https://www.mountainproject.com/photo/118126045/tried-to-add-a-different-perspective-on-the-area-and-add-all-the-lines-i-could-r",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/118126045_medium_1575669306.jpg?cache=1744470096",
+   "title": "Tried to add a different perspective on the area and add all the lines I could reliably find.  Actual belays are best guesses and the photo is meant to give an overview.",
+   "breadcrumb": "California > Yosemite NP > Yosemite Valley > Valley N Side > Yosemite Falls Area > Five Open Books",
+   "coordArea": "Five Open Books",
+   "approx": false,
+   "lat": 37.7477,
+   "lng": -119.59695,
+   "addedOn": "2026-11-26",
+   "usedOn": []
+  },
+  {
+   "id": "118661235",
+   "photoUrl": "https://www.mountainproject.com/photo/118661235/some-sort-of-shelf-fungus-quinine-conk-or-artists-conk-near-lookout-point",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/118661235_medium_1584407954.jpg?cache=1788655856",
+   "title": "Some sort of shelf fungus (Quinine Conk or Artist's Conk) near Lookout Point.",
+   "breadcrumb": "Washington > Central West Cascades Seattle > Skykomish Valley > Index > Lookout Point Area",
+   "coordArea": "Lookout Point Area",
+   "approx": false,
+   "lat": 47.82505,
+   "lng": -121.55857,
+   "addedOn": "2026-11-26",
+   "usedOn": []
+  },
+  {
+   "id": "121365753",
+   "photoUrl": "https://www.mountainproject.com/photo/121365753/with-nancy-on-the-summit",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/121365753_medium_1632690661.jpg?cache=1660758792",
+   "title": "With Nancy on the summit.",
+   "breadcrumb": "Colorado > Grand Junction Area > Colorado National Monument > Independence Monument > Otto's Route ( 5.8+ 5b 16 VI- 15 HVS 4c )",
+   "coordArea": "Independence Monument",
+   "approx": false,
+   "lat": 39.09581,
+   "lng": -108.7234,
+   "addedOn": "2026-11-26",
+   "usedOn": []
+  },
+  {
+   "id": "122678036",
+   "photoUrl": "https://www.mountainproject.com/photo/122678036/alex-beld-balanced-rock-ridge",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/122678036_medium_1656951149.jpg?cache=1779138608",
+   "title": "Alex Beld | Balanced Rock Ridge",
+   "breadcrumb": "Wisconsin > Baraboo Range > Devil's Lake > Linkups Contrivances Oddities And Triflings > E Bluff Linkups > Balanced Rock Ridge ( 5.4 4a 12 IV 10 VD 3c PG13)",
+   "coordArea": "E Bluff Linkups",
+   "approx": false,
+   "lat": 43.41839,
+   "lng": -89.73098,
    "addedOn": "2026-11-26",
    "usedOn": []
   }
