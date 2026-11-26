@@ -21875,6 +21875,11 @@
    "lat": 43.41839,
    "lng": -89.73098,
    "name": null
+  },
+  "https://www.mountainproject.com/area/105744567/cob-rock": {
+   "lat": 40.0005,
+   "lng": -105.3895,
+   "name": null
   }
  },
  "rejected": {
@@ -22303,7 +22308,8 @@
   "106066470": "filtered: ice or snow (caption)",
   "110414192": "filtered: ice, mixed, or snow route (grade or area)",
   "1205320": "filtered: ice, mixed, or snow route (grade or area)",
-  "200523896": "filtered: ice, mixed, or snow route (grade or area)"
+  "200523896": "filtered: ice, mixed, or snow route (grade or area)",
+  "120234531": "filtered: ice, mixed, or snow route (grade or area)"
  },
  "photos": [
   {
@@ -25065,7 +25071,9 @@
    "lat": 39.76918,
    "lng": -105.21933,
    "addedOn": "2026-10-31",
-   "usedOn": []
+   "usedOn": [
+    "2026-11-26"
+   ]
   },
   {
    "id": "106087898",
@@ -46055,7 +46063,9 @@
    "lat": 35.96367,
    "lng": -81.11972,
    "addedOn": "2026-11-07",
-   "usedOn": []
+   "usedOn": [
+    "2026-11-26"
+   ]
   },
   {
    "id": "119518352",
@@ -67313,7 +67323,9 @@
    "lat": 35.89646,
    "lng": -93.28453,
    "addedOn": "2026-11-14",
-   "usedOn": []
+   "usedOn": [
+    "2026-11-26"
+   ]
   },
   {
    "id": "106064446",
@@ -75264,7 +75276,9 @@
    "lat": 37.6604,
    "lng": -119.174,
    "addedOn": "2026-11-17",
-   "usedOn": []
+   "usedOn": [
+    "2026-11-26"
+   ]
   },
   {
    "id": "204248532",
@@ -91242,7 +91256,9 @@
    "lat": 37.56908,
    "lng": -89.19067,
    "addedOn": "2026-11-22",
-   "usedOn": []
+   "usedOn": [
+    "2026-11-26"
+   ]
   },
   {
    "id": "108095091",
@@ -102373,6 +102389,97 @@
    "approx": false,
    "lat": 43.41839,
    "lng": -89.73098,
+   "addedOn": "2026-11-26",
+   "usedOn": []
+  },
+  {
+   "id": "106018117",
+   "photoUrl": "https://www.mountainproject.com/photo/106018117/old-times-on-the-front-porch-l-to-r-paul-davidson-steve-grossman-jim-donini-larr",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/106018117_medium_1558391869.jpg?cache=1738035844",
+   "title": "Old times on the Front Porch (L to R) Paul Davidson, Steve Grossman, Jim Donini, Larry Coats, Gordon Douglass, Susie Walkup, Philipo Condrey (circa 1978)",
+   "breadcrumb": "Arizona > Central Arizona > *Prescott Area > Granite Mountain > Middle Section",
+   "coordArea": "Middle Section",
+   "approx": false,
+   "lat": 34.62908,
+   "lng": -112.56665,
+   "addedOn": "2026-11-26",
+   "usedOn": []
+  },
+  {
+   "id": "106317040",
+   "photoUrl": "https://www.mountainproject.com/photo/106317040/view-from-the-base-of-2nd-meat-wall",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/106317040_medium_1494097051.jpg?cache=1774058596",
+   "title": "View from the base of 2nd Meat Wall",
+   "breadcrumb": "Utah > Southeast Utah > San Juan County > Indian Creek > 2nd Meat Wall",
+   "coordArea": "2nd Meat Wall",
+   "approx": false,
+   "lat": 38.1302,
+   "lng": -109.5862,
+   "addedOn": "2026-11-26",
+   "usedOn": []
+  },
+  {
+   "id": "109409018",
+   "photoUrl": "https://www.mountainproject.com/photo/109409018/view-from-the-summit",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/109409018_medium_1494349326.jpg?cache=1701318621",
+   "title": "View from the summit.",
+   "breadcrumb": "Washington > Central West Cascades Seattle > Skykomish Valley > Index > Lookout Point Area > Private Idaho > Senior Citizens in Space ( 5.7+ 5a 15 V+ 13 MVS 4b )",
+   "coordArea": "Private Idaho",
+   "approx": false,
+   "lat": 47.825,
+   "lng": -121.55807,
+   "addedOn": "2026-11-26",
+   "usedOn": []
+  },
+  {
+   "id": "116097942",
+   "photoUrl": "https://www.mountainproject.com/photo/116097942/crossing-the-delaware",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/116097942_medium_1542264879.jpg?cache=1762365144",
+   "title": "Crossing the Delaware",
+   "breadcrumb": "Washington > Central Region > Frenchman Coulee Vantage > Echo Basin > Sunshine Wall > (c) King Pins > Crossing the Delaware… ( 5.11b/c 6c+ 23 VIII- 24 E4 6a )",
+   "coordArea": "(c) King Pins",
+   "approx": false,
+   "lat": 47.0231,
+   "lng": -119.97494,
+   "addedOn": "2026-11-26",
+   "usedOn": []
+  },
+  {
+   "id": "118321225",
+   "photoUrl": "https://www.mountainproject.com/photo/118321225/numb-fingers-and-windy-conditions-photo-by-luke-negley",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/118321225_medium_1581104024.jpg?cache=1765472310",
+   "title": "Numb fingers and windy conditions. <br>  <br> Photo by Luke Negley.",
+   "breadcrumb": "Colorado > Boulder > Eldorado Canyon SP > Rincon > Rincon L Of Center Route > Must'a Been High ( 5.13c 8a+ 30 X- 31 E7 7a R)",
+   "coordArea": "Rincon L Of Center Route",
+   "approx": false,
+   "lat": 39.93435,
+   "lng": -105.28993,
+   "addedOn": "2026-11-26",
+   "usedOn": []
+  },
+  {
+   "id": "201193081",
+   "photoUrl": "https://www.mountainproject.com/photo/201193081/the-q-on-sap-photo-by-yuval-b",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/201193081_medium_1750529962.jpg?cache=1785993059",
+   "title": "The Q on SAP! (photo by Yuval B)",
+   "breadcrumb": "Washington > Central West Cascades Seattle > Skykomish Valley > Index > Inner Walls > W Side > Toxic Tang Area > SAP! Right Between th… ( 5.7 5a 15 V+ 13 MVS 4b )",
+   "coordArea": "Toxic Tang Area",
+   "approx": false,
+   "lat": 47.81897,
+   "lng": -121.57568,
+   "addedOn": "2026-11-26",
+   "usedOn": []
+  },
+  {
+   "id": "201927636",
+   "photoUrl": "https://www.mountainproject.com/photo/201927636/cruising-the-top",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/201927636_medium_1760971007.jpg?cache=1785971503",
+   "title": "Cruising the top.",
+   "breadcrumb": "Colorado > Boulder > Boulder Canyon > Cob Rock > Indistinction ( 5.8- 5b 16 VI- 14 VS 4c )",
+   "coordArea": "Cob Rock",
+   "approx": false,
+   "lat": 40.0005,
+   "lng": -105.3895,
    "addedOn": "2026-11-26",
    "usedOn": []
   }
