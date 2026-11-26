@@ -22250,6 +22250,16 @@
    "lat": 42.60658,
    "lng": -70.63258,
    "name": null
+  },
+  "https://www.mountainproject.com/area/105804517/gangsta-ledge": {
+   "lat": 41.2226,
+   "lng": -111.92461,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/108568655/cell-blocks": {
+   "lat": 32.33339,
+   "lng": -110.72478,
+   "name": null
   }
  },
  "rejected": {
@@ -22679,7 +22689,8 @@
   "110414192": "filtered: ice, mixed, or snow route (grade or area)",
   "1205320": "filtered: ice, mixed, or snow route (grade or area)",
   "200523896": "filtered: ice, mixed, or snow route (grade or area)",
-  "120234531": "filtered: ice, mixed, or snow route (grade or area)"
+  "120234531": "filtered: ice, mixed, or snow route (grade or area)",
+  "105905808": "filtered: ice, mixed, or snow route (grade or area)"
  },
  "photos": [
   {
@@ -104150,6 +104161,84 @@
    "approx": false,
    "lat": 34.86786,
    "lng": -111.76197,
+   "addedOn": "2026-11-26",
+   "usedOn": []
+  },
+  {
+   "id": "1206638",
+   "photoUrl": "https://www.mountainproject.com/photo/1206638/jason-seeley-demonstrating-a-mantle",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/1206638_medium_1557849812.jpg?cache=1761059437",
+   "title": "Jason Seeley demonstrating a mantle.",
+   "breadcrumb": "Colorado > San Luis Valley > Penitente Canyon > Penitente Entrance Area > Mr. Breeze ( 5.2 3 8 II 8 D 2c )",
+   "coordArea": "Penitente Entrance Area",
+   "approx": false,
+   "lat": 37.84401,
+   "lng": -106.28755,
+   "addedOn": "2026-11-26",
+   "usedOn": []
+  },
+  {
+   "id": "106802528",
+   "photoUrl": "https://www.mountainproject.com/photo/106802528/quartzite-o-town-air-ryan-waterfall-pulling-on-teardrops",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/106802528_medium_1494141945.jpg?cache=1710856974",
+   "title": "Quartzite, O-Town, air... Ryan Waterfall pulling on Teardrops",
+   "breadcrumb": "Utah > Wasatch Range > Northern Wasatch > Ogden > Schoolroom > Asbury Park > Gangsta' Ledge > Teardrops on the City ( 5.11b 6c 23 VIII- 23 E3 5c )",
+   "coordArea": "Gangsta' Ledge",
+   "approx": false,
+   "lat": 41.2226,
+   "lng": -111.92461,
+   "addedOn": "2026-11-26",
+   "usedOn": []
+  },
+  {
+   "id": "107073813",
+   "photoUrl": "https://www.mountainproject.com/photo/107073813/53-traverse-to-the-last-belay-station",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/107073813_medium_1494163816.jpg?cache=1788296129",
+   "title": "5.3 traverse to the last belay station",
+   "breadcrumb": "Nevada > Southern Nevada > Red Rocks > Pine Creek Canyon > Mescalito > Southeast Buttress > Cat in the Hat ( 5.6 4c 14 V 12 S 4b )",
+   "coordArea": "Southeast Buttress",
+   "approx": false,
+   "lat": 36.12178,
+   "lng": -115.49277,
+   "addedOn": "2026-11-26",
+   "usedOn": []
+  },
+  {
+   "id": "108807232",
+   "photoUrl": "https://www.mountainproject.com/photo/108807232/the-cell-block-sector-l-to-r-8-6-9",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/108807232_medium_1494296842_topo.jpg?cache=1701318432",
+   "title": "The Cell Block Sector. L to R: 8, 6, 9.",
+   "breadcrumb": "Arizona > Southern Arizona > Mount Lemmon Santa Catalina Mountains > Mount Lemmon Catalina Highway > 1 - Lower Highway > Prison Camp Gordon Hirabayashi Area > Cell Blocks",
+   "coordArea": "Cell Blocks",
+   "approx": false,
+   "lat": 32.33339,
+   "lng": -110.72478,
+   "addedOn": "2026-11-26",
+   "usedOn": []
+  },
+  {
+   "id": "118987583",
+   "photoUrl": "https://www.mountainproject.com/photo/118987583/dave-sessions-and-scott-burk-on-electric-africa-july-1999",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/118987583_medium_1591377129.jpg?cache=1767981338",
+   "title": "Dave Sessions and Scott Burk on Electric Africa.  (July 1999)",
+   "breadcrumb": "California > Yosemite NP > Tuolumne Meadows > Pywiack Dome > Electric Africa ( 5.12c 7b+ 27 IX- 27 E6 6b R)",
+   "coordArea": "Pywiack Dome",
+   "approx": false,
+   "lat": 37.8453,
+   "lng": -119.444,
+   "addedOn": "2026-11-26",
+   "usedOn": []
+  },
+  {
+   "id": "122387646",
+   "photoUrl": "https://www.mountainproject.com/photo/122387646/the-lead-bolts-have-been-rebolted-hole-for-hole-a-comparison-of-the-old-and-new-",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/122387646_medium_1652450554.jpg?cache=1790272999",
+   "title": "The lead bolts have been rebolted hole for hole. A comparison of the old and new bolts. <br>  <br> Thanks to the BCC and ASCA.",
+   "breadcrumb": "Colorado > Estes Park Valley > Co Hwy 7 Tributaries > Jurassic Park Lily Lake > Fin > Andrology ( 5.12b 7b 26 VIII+ 26 E5 6b )",
+   "coordArea": "Fin",
+   "approx": false,
+   "lat": 40.3127,
+   "lng": -105.5411,
    "addedOn": "2026-11-26",
    "usedOn": []
   }
