@@ -22850,6 +22850,16 @@
    "lat": 34.09679,
    "lng": -116.95637,
    "name": null
+  },
+  "https://www.mountainproject.com/area/106804113/pixari": {
+   "lat": 39.71318,
+   "lng": 21.6222,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/107767905/e-crags-dbc-canyon": {
+   "lat": 38.89726,
+   "lng": -110.45594,
+   "name": null
   }
  },
  "rejected": {
@@ -23298,7 +23308,9 @@
   "105868489": "filtered: ice, mixed, or snow route (grade or area)",
   "118319353": "filtered: ice or snow (caption)",
   "108485949": "filtered: ice, mixed, or snow route (grade or area)",
-  "114222405": "filtered: looks like a map, topo, or drawing (caption)"
+  "114222405": "filtered: looks like a map, topo, or drawing (caption)",
+  "106546873": "filtered: looks like a map, topo, or drawing (caption)",
+  "112888287": "filtered: looks like a map, topo, or drawing (caption)"
  },
  "photos": [
   {
@@ -107704,6 +107716,71 @@
    "approx": false,
    "lat": 40.47777,
    "lng": -74.70332,
+   "addedOn": "2026-11-27",
+   "usedOn": []
+  },
+  {
+   "id": "105883819",
+   "photoUrl": "https://www.mountainproject.com/photo/105883819/summit-photo-june-1970",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/105883819_medium_1557937258.jpg?cache=1782317249",
+   "title": "Summit photo, June 1970.",
+   "breadcrumb": "Wyoming > Devils Tower",
+   "coordArea": "Devils Tower",
+   "approx": false,
+   "lat": 44.59048,
+   "lng": -104.71507,
+   "addedOn": "2026-11-27",
+   "usedOn": []
+  },
+  {
+   "id": "106657813",
+   "photoUrl": "https://www.mountainproject.com/photo/106657813/a-very-famous-vedauwoo-hardman-climbing-finally",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/106657813_medium_1494129482.jpg?cache=1668108260",
+   "title": "A very famous Vedauwoo hardman climbing Finally.",
+   "breadcrumb": "Wyoming > Laramie Area > Vedauwoo > Nautilus > Finally ( 5.9 5c 17 VI 17 HVS 5a )",
+   "coordArea": "Nautilus",
+   "approx": false,
+   "lat": 41.15478,
+   "lng": -105.37467,
+   "addedOn": "2026-11-27",
+   "usedOn": []
+  },
+  {
+   "id": "106804246",
+   "photoUrl": "https://www.mountainproject.com/photo/106804246/john-following-the-2nd-pitch-of-guts-nachtle",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/106804246_medium_1494142101.jpg?cache=1733167288",
+   "title": "John following the 2nd pitch of Gut's Nachtle.",
+   "breadcrumb": "International > Europe > Greece > Meteora > Pixari > Gut's Nachtle ( 5.10d 6b+ 21 VII+ 21 E3 5b )",
+   "coordArea": "Pixari",
+   "approx": false,
+   "lat": 39.71318,
+   "lng": 21.6222,
+   "addedOn": "2026-11-27",
+   "usedOn": []
+  },
+  {
+   "id": "117556501",
+   "photoUrl": "https://www.mountainproject.com/photo/117556501/looking-for-the-next-hold-just-after-the-crux-on-rainy-day-woman",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/117556501_medium_1565113909.jpg?cache=1791295773",
+   "title": "Looking for the next hold just after the crux on Rainy Day Woman",
+   "breadcrumb": "Washington > Central West Cascades Seattle > N Bend & Vicinity > Exit 32; Little Si > World Wall Group > World Wall > Rainy Day Women ( 5.12a 7a+ 25 VIII+ 25 E5 6a )",
+   "coordArea": "World Wall",
+   "approx": false,
+   "lat": 47.49795,
+   "lng": -121.75489,
+   "addedOn": "2026-11-27",
+   "usedOn": []
+  },
+  {
+   "id": "118931130",
+   "photoUrl": "https://www.mountainproject.com/photo/118931130/top-of-p4-gettin-views",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/118931130_medium_1590459520.jpg?cache=1749601552",
+   "title": "Top of P4, gettin' views.",
+   "breadcrumb": "Utah > S Central Utah > San Rafael Swell > San Rafael Swell South > Eastern Reef Area Aka The Sandstone Alps > E Crags Dbc Canyon > Death by Chocolate ( 5.8 5b 16 VI- 15 HVS 4c )",
+   "coordArea": "E Crags Dbc Canyon",
+   "approx": false,
+   "lat": 38.89726,
+   "lng": -110.45594,
    "addedOn": "2026-11-27",
    "usedOn": []
   }
