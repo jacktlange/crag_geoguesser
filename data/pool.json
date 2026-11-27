@@ -22560,6 +22560,21 @@
    "lat": 34.70234,
    "lng": -98.73773,
    "name": null
+  },
+  "https://www.mountainproject.com/area/106041700/pigpen-boulder": {
+   "lat": 34.0153,
+   "lng": -116.15811,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/108154533/inspiration-peak": {
+   "lat": 48.77118,
+   "lng": -121.28845,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/114140813/the-distillery": {
+   "lat": 39.65238,
+   "lng": -107.52666,
+   "name": null
   }
  },
  "rejected": {
@@ -23000,7 +23015,9 @@
   "106853251": "filtered: looks like a map, topo, or drawing (caption)",
   "123186598": "filtered: ice, mixed, or snow route (grade or area)",
   "118695654": "filtered: ice, mixed, or snow route (grade or area)",
-  "204308340": "filtered: looks like a map, topo, or drawing (caption)"
+  "204308340": "filtered: looks like a map, topo, or drawing (caption)",
+  "106457914": "filtered: ice, mixed, or snow route (grade or area)",
+  "116362901": "filtered: ice, mixed, or snow route (grade or area)"
  },
  "photos": [
   {
@@ -105927,6 +105944,84 @@
    "approx": false,
    "lat": 44.06857,
    "lng": -114.97445,
+   "addedOn": "2026-11-27",
+   "usedOn": []
+  },
+  {
+   "id": "105972345",
+   "photoUrl": "https://www.mountainproject.com/photo/105972345/pigpen-right-after-this-picture-was-taken-i-tried-it-sans-pad-a-mistake-i-did-fi",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/105972345_medium_1558385395.jpg?cache=1729789122",
+   "title": "Pigpen, right after this picture was taken, I tried it sans pad, a mistake! I did finally get the send, serious line, wish I had tape...",
+   "breadcrumb": "California > Joshua Tree NP > Joshua Tree Bouldering > Hidden Valley Area Bouldering > Hidden Valley Campground Bouldering > Manxasteroid Belt Circuit > Manx Boulders Circuit > Pigpen Boulder > Pigpen ( V4 6B )",
+   "coordArea": "Pigpen Boulder",
+   "approx": false,
+   "lat": 34.0153,
+   "lng": -116.15811,
+   "addedOn": "2026-11-27",
+   "usedOn": []
+  },
+  {
+   "id": "109035720",
+   "photoUrl": "https://www.mountainproject.com/photo/109035720/west-ridge-1980s-ascent",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/109035720_medium_1494337034.jpg?cache=1787111178",
+   "title": "West Ridge, 1980s ascent",
+   "breadcrumb": "Washington > Northwest Region > Hwy 20 And North Cascades National Park > N Cascades > Cascade River Drainage Eldorado Forbidden Johannesburg Sahale Torment Etc > Boston Basin Peaks Forbidden Johannesburg Etc > Forbidden Peak > W Ridge ( 5.6 4c 14 V 12 S 4b Mod. Snow)",
+   "coordArea": "Forbidden Peak",
+   "approx": false,
+   "lat": 48.51169,
+   "lng": -121.05894,
+   "addedOn": "2026-11-27",
+   "usedOn": []
+  },
+  {
+   "id": "119413597",
+   "photoUrl": "https://www.mountainproject.com/photo/119413597/crux-pitch-east-ridge-of-inspiration-peak",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/119413597_medium_1597884899.jpg?cache=1754938245",
+   "title": "Crux pitch East ridge of Inspiration Peak",
+   "breadcrumb": "Washington > Northwest Region > Hwy 20 And North Cascades National Park > N Cascades > Picket Range > Southern Pickets > Inspiration Peak > E Ridge ( 5.9 5c 17 VI 17 HVS 5a )",
+   "coordArea": "Inspiration Peak",
+   "approx": false,
+   "lat": 48.77118,
+   "lng": -121.28845,
+   "addedOn": "2026-11-27",
+   "usedOn": []
+  },
+  {
+   "id": "119476564",
+   "photoUrl": "https://www.mountainproject.com/photo/119476564/i-was-a-lil-slow-in-pulling-the-rope-as-kimmie-arrives-at-the-2nd-anchor",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/119476564_medium_1598891626.jpg?cache=1788277337",
+   "title": "i was a lil slow in pulling the rope as Kimmie arrives at the 2nd anchor",
+   "breadcrumb": "California > Yosemite NP > Tuolumne Meadows > Lamb Dome > W Face of the Lamb > On the Lamb ( 5.9 5c 17 VI 17 HVS 5a )",
+   "coordArea": "W Face of the Lamb",
+   "approx": false,
+   "lat": 37.86932,
+   "lng": -119.42588,
+   "addedOn": "2026-11-27",
+   "usedOn": []
+  },
+  {
+   "id": "120692304",
+   "photoUrl": "https://www.mountainproject.com/photo/120692304/taken-from-el-cap-meadow-on-5921",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/120692304_medium_1620757673.jpg?cache=1782154339",
+   "title": "Taken from El Cap Meadow on 5/9/21",
+   "breadcrumb": "California > Yosemite NP > Yosemite Valley > Valley S Side > P. Cathedral Area > Middle Cathedral Rock > E Buttress ( 5.10c 6b 20 VII 20 E2 5b A0)",
+   "coordArea": "Middle Cathedral Rock",
+   "approx": false,
+   "lat": 37.7165,
+   "lng": -119.6363,
+   "addedOn": "2026-11-27",
+   "usedOn": []
+  },
+  {
+   "id": "121436353",
+   "photoUrl": "https://www.mountainproject.com/photo/121436353/bullet-featured-stone-and-excellent-climbing-all-throughout-the-distillery",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/121436353_medium_1633834047.jpg?cache=1763857985",
+   "title": "Bullet featured stone and excellent climbing all throughout the Distillery.",
+   "breadcrumb": "Colorado > New Castle > E Elk Creek > Distillery > Sangria ( 5.12a 7a+ 25 VIII+ 25 E5 6a )",
+   "coordArea": "Distillery",
+   "approx": false,
+   "lat": 39.65238,
+   "lng": -107.52666,
    "addedOn": "2026-11-27",
    "usedOn": []
   }
