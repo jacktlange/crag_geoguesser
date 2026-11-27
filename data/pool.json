@@ -22260,6 +22260,21 @@
    "lat": 32.33339,
    "lng": -110.72478,
    "name": null
+  },
+  "https://www.mountainproject.com/area/106239032/cap-rock-area": {
+   "lat": 33.98984,
+   "lng": -116.16349,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/105922165/royal-columns": {
+   "lat": 46.72509,
+   "lng": -120.80937,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/114014071/weigh-station-area": {
+   "lat": 39.72085,
+   "lng": -110.86524,
+   "name": null
   }
  },
  "rejected": {
@@ -22690,7 +22705,8 @@
   "1205320": "filtered: ice, mixed, or snow route (grade or area)",
   "200523896": "filtered: ice, mixed, or snow route (grade or area)",
   "120234531": "filtered: ice, mixed, or snow route (grade or area)",
-  "105905808": "filtered: ice, mixed, or snow route (grade or area)"
+  "105905808": "filtered: ice, mixed, or snow route (grade or area)",
+  "106076921": "filtered: ice, mixed, or snow route (grade or area)"
  },
  "photos": [
   {
@@ -104239,6 +104255,84 @@
    "approx": false,
    "lat": 40.3127,
    "lng": -105.5411,
+   "addedOn": "2026-11-26",
+   "usedOn": []
+  },
+  {
+   "id": "106126407",
+   "photoUrl": "https://www.mountainproject.com/photo/106126407/kneebarring-to-end-the-boulder-problem-start-here-the-pumpy-climbing-begins-with",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/106126407_medium_1558651673.jpg?cache=1751128300",
+   "title": "Kneebarring to end the boulder problem start.  Here the pumpy climbing begins with one good rest in the middle. <br>  <br> I haven't really seen anyone else get on this, so I'm not sure if this is the normal beta, but it worked perfectly.",
+   "breadcrumb": "Massachusetts > Central, MA > Crow Hill And Leominster Area > Crow Hill > Fishermans Wall > Cro-Magnon ( 5.10b/c 6b 20 VII 20 E2 5b )",
+   "coordArea": "Fishermans Wall",
+   "approx": false,
+   "lat": 42.51922,
+   "lng": -71.85935,
+   "addedOn": "2026-11-26",
+   "usedOn": []
+  },
+  {
+   "id": "106133375",
+   "photoUrl": "https://www.mountainproject.com/photo/106133375/kyle-hoyer-hooking-on-the-ruckus",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/106133375_medium_1558652903.jpg?cache=1721151410",
+   "title": "Kyle Hoyer hooking on The Ruckus",
+   "breadcrumb": "California > Eastern Sierra > Bishop Area > Buttermilk Country > Get Carter Boulder > Ruckus (aka Seven Spa… ( V6 7A )",
+   "coordArea": "Get Carter Boulder",
+   "approx": false,
+   "lat": 37.3388,
+   "lng": -118.5776,
+   "addedOn": "2026-11-26",
+   "usedOn": []
+  },
+  {
+   "id": "107691558",
+   "photoUrl": "https://www.mountainproject.com/photo/107691558/tj-sanford-on-yellow-arete",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/107691558_medium_1494205228.jpg?cache=1773704253",
+   "title": "TJ Sanford on Yellow Arete",
+   "breadcrumb": "Georgia > Greater Atlanta Area > Boat Rock > Yellow Wall Area > Yellow Wall Arete ( V4 6B )",
+   "coordArea": "Yellow Wall Area",
+   "approx": false,
+   "lat": 33.71879,
+   "lng": -84.56434,
+   "addedOn": "2026-11-26",
+   "usedOn": []
+  },
+  {
+   "id": "107935796",
+   "photoUrl": "https://www.mountainproject.com/photo/107935796/cap-rock-joshua-tree-np",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/107935796_medium_1494251762.jpg?cache=1789785253",
+   "title": "Cap Rock, Joshua Tree NP",
+   "breadcrumb": "California > Joshua Tree NP > Central Joshua Tree > Sheep Pass Area > Cap Rock Area",
+   "coordArea": "Cap Rock Area",
+   "approx": false,
+   "lat": 33.98984,
+   "lng": -116.16349,
+   "addedOn": "2026-11-26",
+   "usedOn": []
+  },
+  {
+   "id": "111152848",
+   "photoUrl": "https://www.mountainproject.com/photo/111152848/leaving-the-royal-columns-after-a-great-day-at-tieton",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/111152848_medium_1494341469.jpg?cache=1701319098",
+   "title": "Leaving the Royal Columns after a great day at Tieton",
+   "breadcrumb": "Washington > South Central Yakima > Tieton River > Royal Columns",
+   "coordArea": "Royal Columns",
+   "approx": false,
+   "lat": 46.72509,
+   "lng": -120.80937,
+   "addedOn": "2026-11-26",
+   "usedOn": []
+  },
+  {
+   "id": "114014303",
+   "photoUrl": "https://www.mountainproject.com/photo/114014303/emilee-on-top",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/114014303_medium_1516074964.jpg?cache=1745933704",
+   "title": "Emilee on top.",
+   "breadcrumb": "Utah > Central Utah > Price Canyon > Weigh Station Area > Scale Tower ( 5.9 5c 17 VI 17 HVS 5a )",
+   "coordArea": "Weigh Station Area",
+   "approx": false,
+   "lat": 39.72085,
+   "lng": -110.86524,
    "addedOn": "2026-11-26",
    "usedOn": []
   }
