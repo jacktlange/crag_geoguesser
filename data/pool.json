@@ -22575,6 +22575,16 @@
    "lat": 39.65238,
    "lng": -107.52666,
    "name": null
+  },
+  "https://www.mountainproject.com/area/105929413/pawtuckaway": {
+   "lat": 43.08391,
+   "lng": -71.17542,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/109488070/city-of-gold": {
+   "lat": 44.12988,
+   "lng": -107.23105,
+   "name": null
   }
  },
  "rejected": {
@@ -23017,7 +23027,8 @@
   "118695654": "filtered: ice, mixed, or snow route (grade or area)",
   "204308340": "filtered: looks like a map, topo, or drawing (caption)",
   "106457914": "filtered: ice, mixed, or snow route (grade or area)",
-  "116362901": "filtered: ice, mixed, or snow route (grade or area)"
+  "116362901": "filtered: ice, mixed, or snow route (grade or area)",
+  "111718434": "filtered: ice, mixed, or snow route (grade or area)"
  },
  "photos": [
   {
@@ -25585,7 +25596,7 @@
   {
    "id": "107333650",
    "photoUrl": "https://www.mountainproject.com/photo/107333650/65279brian-mosbaugh-photo",
-   "imageUrl": "https://mountainproject.com/assets/photos/climb/107333650_medium_1494182276.jpg?cache=1778758972",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/107333650_medium_1494182276.jpg?cache=1795140418",
    "title": "&#65279;Brian Mosbaugh photo",
    "breadcrumb": "Oregon > Central Oregon > Smith Rock > (s) Monkey Face > Backbone ( 5.13a 7c+ 29 IX+ 29 E6 6c )",
    "coordArea": "(s) Monkey Face",
@@ -25593,7 +25604,9 @@
    "lat": 44.37053,
    "lng": -121.14363,
    "addedOn": "2026-10-31",
-   "usedOn": []
+   "usedOn": [
+    "2026-11-27"
+   ]
   },
   {
    "id": "108491099",
@@ -51791,7 +51804,9 @@
    "lat": 36.59552,
    "lng": -118.1086,
    "addedOn": "2026-11-09",
-   "usedOn": []
+   "usedOn": [
+    "2026-11-27"
+   ]
   },
   {
    "id": "109326528",
@@ -64062,7 +64077,9 @@
    "lat": 45.12802,
    "lng": -116.73578,
    "addedOn": "2026-11-13",
-   "usedOn": []
+   "usedOn": [
+    "2026-11-27"
+   ]
   },
   {
    "id": "200228010",
@@ -72364,7 +72381,9 @@
    "lat": 58.31618,
    "lng": -134.50946,
    "addedOn": "2026-11-15",
-   "usedOn": []
+   "usedOn": [
+    "2026-11-27"
+   ]
   },
   {
    "id": "117618696",
@@ -79526,7 +79545,9 @@
    "lat": 43.80319,
    "lng": -71.83478,
    "addedOn": "2026-11-18",
-   "usedOn": []
+   "usedOn": [
+    "2026-11-27"
+   ]
   },
   {
    "id": "108334618",
@@ -106022,6 +106043,97 @@
    "approx": false,
    "lat": 39.65238,
    "lng": -107.52666,
+   "addedOn": "2026-11-27",
+   "usedOn": []
+  },
+  {
+   "id": "105834116",
+   "photoUrl": "https://www.mountainproject.com/photo/105834116/looking-up-the-chimney-from-the-intermediate-belay-as-matt-leads",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/105834116_medium_1557861476.jpg?cache=1773712557",
+   "title": "Looking up the chimney from the intermediate belay, as Matt leads",
+   "breadcrumb": "Utah > Southeast Utah > Grand County > Castle Valley > Parriot Mesa > Longbow Chimney ( 5.8 5b 16 VI- 15 HVS 4c A1)",
+   "coordArea": "Parriot Mesa",
+   "approx": false,
+   "lat": 38.6727,
+   "lng": -109.40484,
+   "addedOn": "2026-11-27",
+   "usedOn": []
+  },
+  {
+   "id": "105929421",
+   "photoUrl": "https://www.mountainproject.com/photo/105929421/an-unknown-climber-on-hobbit-hole-v3",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/105929421_medium_1557950712.jpg?cache=1755563103",
+   "title": "An unknown climber on Hobbit Hole V3...",
+   "breadcrumb": "New Hampshire > Pawtuckaway",
+   "coordArea": "Pawtuckaway",
+   "approx": false,
+   "lat": 43.08391,
+   "lng": -71.17542,
+   "addedOn": "2026-11-27",
+   "usedOn": []
+  },
+  {
+   "id": "107033338",
+   "photoUrl": "https://www.mountainproject.com/photo/107033338/chris-nelson-on-an-early-attempt-of-chasm-view-black-canyon",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/107033338_medium_1494160685.jpg?cache=1795707843",
+   "title": "Chris Nelson, on an early attempt of Chasm View, Black Canyon.",
+   "breadcrumb": "Colorado > Gunnison > Black Canyon Of The Gunnison",
+   "coordArea": "Black Canyon Of The Gunnison",
+   "approx": false,
+   "lat": 38.57701,
+   "lng": -107.73207,
+   "addedOn": "2026-11-27",
+   "usedOn": []
+  },
+  {
+   "id": "108599946",
+   "photoUrl": "https://www.mountainproject.com/photo/108599946/dan-montague-on-running-man-january-10th-2014",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/108599946_medium_1494290187.jpg?cache=1731770589",
+   "title": "Dan Montague on Running Man - January 10th, 2014.",
+   "breadcrumb": "Nevada > Southern Nevada > Red Rocks > Sandstone Quarry > Calico Hills Trail > Running Man Wall > Running Man ( 5.11c 6c+ 24 VIII- 24 E4 6a )",
+   "coordArea": "Running Man Wall",
+   "approx": false,
+   "lat": 36.16016,
+   "lng": -115.4423,
+   "addedOn": "2026-11-27",
+   "usedOn": []
+  },
+  {
+   "id": "109488074",
+   "photoUrl": "https://www.mountainproject.com/photo/109488074/here-is-the-sweet-old-dodge-left-in-the-meadow-this-is-about-15-20-minutes-into-",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/109488074_medium_1494351703.jpg?cache=1765372603",
+   "title": "Here is the sweet old Dodge left in the meadow.  This is about 15-20 minutes into the hike.",
+   "breadcrumb": "Wyoming > Ten Sleep Canyon > City of Gold",
+   "coordArea": "City of Gold",
+   "approx": false,
+   "lat": 44.12988,
+   "lng": -107.23105,
+   "addedOn": "2026-11-27",
+   "usedOn": []
+  },
+  {
+   "id": "112209749",
+   "photoUrl": "https://www.mountainproject.com/photo/112209749/one-of-my-better-photos-to-date",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/112209749_medium_1494326969.jpg?cache=1793368951",
+   "title": "One of my better photos to date",
+   "breadcrumb": "Nevada > Southern Nevada > Red Rock Boulders > Calico Basin Boulders > Kraft Boulders > E Cluster > Monkey Bar Boulder > Monkey Bar Right ( V6 7A )",
+   "coordArea": "Monkey Bar Boulder",
+   "approx": false,
+   "lat": 36.16154,
+   "lng": -115.41099,
+   "addedOn": "2026-11-27",
+   "usedOn": []
+  },
+  {
+   "id": "117496405",
+   "photoUrl": "https://www.mountainproject.com/photo/117496405/overlay-of-the-traverse-with-timestamps-representing-our-times",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/117496405_medium_1564168367.jpg?cache=1768316189",
+   "title": "Overlay of the Traverse, with timestamps representing our times.",
+   "breadcrumb": "Wyoming > Wind River Range > Cirque Of The Towers > Pingora > Cirque of the Towers… ( 5.8 5b 16 VI- 15 HVS 4c )",
+   "coordArea": "Pingora",
+   "approx": false,
+   "lat": 42.7789,
+   "lng": -109.226,
    "addedOn": "2026-11-27",
    "usedOn": []
   }
