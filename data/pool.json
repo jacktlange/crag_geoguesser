@@ -22860,6 +22860,26 @@
    "lat": 38.89726,
    "lng": -110.45594,
    "name": null
+  },
+  "https://www.mountainproject.com/area/105996601/mt-stuart": {
+   "lat": 47.4773,
+   "lng": -120.9022,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/109540951/prisoner-of-your-hairdo-gully": {
+   "lat": 38.57939,
+   "lng": -107.70252,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/120299444/perris-area": {
+   "lat": 33.8651,
+   "lng": -117.20085,
+   "name": null
+  },
+  "https://www.mountainproject.com/area/106224316/dark-side-dome": {
+   "lat": 37.88397,
+   "lng": -119.43086,
+   "name": null
   }
  },
  "rejected": {
@@ -107782,6 +107802,84 @@
    "lat": 38.89726,
    "lng": -110.45594,
    "addedOn": "2026-11-27",
+   "usedOn": []
+  },
+  {
+   "id": "106245824",
+   "photoUrl": "https://www.mountainproject.com/photo/106245824/this-shows-the-approach-and-start",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/106245824_medium_1494091204.jpg?cache=1787980777",
+   "title": "This shows the approach and start.",
+   "breadcrumb": "Washington > Central East Cascades Wenatchee Leavenworth > Stuart Enchantments > Mt Stuart > Direct N Ridge ( 5.9+ 5c 17 VI 17 E1 5a )",
+   "coordArea": "Mt Stuart",
+   "approx": false,
+   "lat": 47.4773,
+   "lng": -120.9022,
+   "addedOn": "2026-11-28",
+   "usedOn": []
+  },
+  {
+   "id": "106767249",
+   "photoUrl": "https://www.mountainproject.com/photo/106767249/pitch-4-of-atlantis",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/106767249_medium_1494139001.jpg?cache=1751038048",
+   "title": "Pitch 4 of Atlantis.",
+   "breadcrumb": "Colorado > Gunnison > Black Canyon Of The Gunnison > N Rim Routes > Prisoner Of Your Hairdo Gully > Atlantis ( 5.11 6c+ 23 VIII- 23 E4 5c PG13)",
+   "coordArea": "Prisoner Of Your Hairdo Gully",
+   "approx": false,
+   "lat": 38.57939,
+   "lng": -107.70252,
+   "addedOn": "2026-11-28",
+   "usedOn": []
+  },
+  {
+   "id": "106903314",
+   "photoUrl": "https://www.mountainproject.com/photo/106903314/looking-forward-to-perfect-northwest-corn-on-the-fuhrer-finger-photo-by-darrell-",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/106903314_medium_1494149908.jpg?cache=1776254209",
+   "title": "Looking forward to perfect northwest corn on the Fuhrer Finger. Photo By Darrell Finlayson",
+   "breadcrumb": "Washington > South-W & Tacoma > Southwest Cascades > Mt Rainier NP > Mt Rainier > Fuhrer Finger (Mod. Snow)",
+   "coordArea": "Mt Rainier",
+   "approx": false,
+   "lat": 46.8529,
+   "lng": -121.76047,
+   "addedOn": "2026-11-28",
+   "usedOn": []
+  },
+  {
+   "id": "107457682",
+   "photoUrl": "https://www.mountainproject.com/photo/107457682/high-above-it-all-juniper-flats",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/107457682_medium_1494190537.jpg?cache=1633091618",
+   "title": "High above it all, Juniper Flats",
+   "breadcrumb": "California > Inland Empire > Perris Area",
+   "coordArea": "Perris Area",
+   "approx": false,
+   "lat": 33.8651,
+   "lng": -117.20085,
+   "addedOn": "2026-11-28",
+   "usedOn": []
+  },
+  {
+   "id": "107520229",
+   "photoUrl": "https://www.mountainproject.com/photo/107520229/sign-on-top-of-first-pitch-circa-1987",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/107520229_medium_1494194895.jpg?cache=1701317374",
+   "title": "Sign on top of first pitch Circa 1987.",
+   "breadcrumb": "Nevada > Southern Nevada > Red Rocks > Black Velvet Canyon > Black Velvet Wall > Dream of Wild Turkeys ( 5.10a 6a 18 VI+ 18 E1 5a )",
+   "coordArea": "Black Velvet Wall",
+   "approx": false,
+   "lat": 36.03518,
+   "lng": -115.46652,
+   "addedOn": "2026-11-28",
+   "usedOn": []
+  },
+  {
+   "id": "119431766",
+   "photoUrl": "https://www.mountainproject.com/photo/119431766/the-gazelle-warming-up-to-the-dark-side",
+   "imageUrl": "https://mountainproject.com/assets/photos/climb/119431766_medium_1598202744.jpg?cache=1605764966",
+   "title": "the gazelle warming up to the dark side",
+   "breadcrumb": "California > Yosemite NP > Tuolumne Meadows > DAFF Area > Dark Side Dome > Dark Side of the Force ( 5.7 5a 15 V+ 13 MVS 4b )",
+   "coordArea": "Dark Side Dome",
+   "approx": false,
+   "lat": 37.88397,
+   "lng": -119.43086,
+   "addedOn": "2026-11-28",
    "usedOn": []
   }
  ],
